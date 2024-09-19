@@ -1,21 +1,6 @@
-import json
-from typing import List
-from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate, ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
-from langchain.schema.runnable import RunnablePassthrough, RunnableParallel
 from langchain_core.messages import SystemMessage
-
-from config import OPENAI_API_KEY, LLM_MODEL, LLM_TEMPERATURE
-from models import MethodOutput, AbstractThemes, AbstractSummary
-from parsers import method_parser, abstract_sentence_parser, summary_parser
-
-# Initialize LLM
-llm = ChatOpenAI(
-    model=LLM_MODEL,
-    openai_api_key=OPENAI_API_KEY,
-    streaming=True,
-    temperature=LLM_TEMPERATURE,
-)
+from parsers import method_parser, abstract_sentence_parser
 
 # System prompts
 system_prompt = SystemMessage(
@@ -292,63 +277,3 @@ chat_prompt = ChatPromptTemplate.from_messages([
     system_message_prompt,
     human_message_prompt
 ])
-
-# Chains
-method_chain = method_extraction_prompt | llm | method_parser
-abstract_chain = abstract_analysis_prompt | llm | abstract_sentence_parser
-
-def json_print_to_file(name, data):
-    with open(f"{name}.json", "w") as f:
-        json.dump(data, f, indent=4)
-
-def create_summary_chain(json_structure, method_json_format, setence_analysis_json_example, i):
-    return (
-        RunnableParallel(
-            {
-                "method_json_output": method_chain,
-                "abstract_chain_output": abstract_chain,
-                "abstract": RunnablePassthrough.assign(abstract=lambda x: x["abstract"]),
-                "json_structure": RunnablePassthrough.assign(json_structure=lambda x: json_structure),
-                "method_json_format": RunnablePassthrough.assign(method_json_format=lambda x: method_json_format),
-                "setence_analysis_json_example": RunnablePassthrough.assign(setence_analysis_json_example=lambda x: setence_analysis_json_example)
-            }
-        )
-        | RunnablePassthrough.assign(
-            abstract_summary_system_prompt=lambda x: abstract_summary_system_template.format(
-                method_json_output=json.dumps(x["method_json_output"], indent=4),
-                abstract_chain_output=json.dumps(x["abstract_chain_output"], indent=4),
-                setence_analysis_json_example=setence_analysis_json_example,
-                method_json_format=method_json_format,
-                json_structure=json_structure
-            ),
-        )
-        | RunnablePassthrough.assign(
-            method_json_output=lambda x: (json_print_to_file(f"method_json_output_{i}", x["method_json_output"]), x["method_json_output"])[1],
-            abstract_chain_output=lambda x: (json_print_to_file(f"abstract_chain_output_{i}", x["abstract_chain_output"]), x["abstract_chain_output"])[1]
-        )
-        | chat_prompt
-        | llm
-        | summary_parser
-    )
-
-
-def process_abstracts(abstracts: List[str], json_structure: str, method_json_format: str, setence_analysis_json_example: str):
-    
-    for i, abstract in enumerate(abstracts):
-        try:
-            summary_chain = create_summary_chain(json_structure, method_json_format, setence_analysis_json_example, i)
-            summary_chain_output = summary_chain.invoke({
-                "abstract": abstract,
-                "system_prompt": system_prompt.content,
-                "abstract_analysis_system_prompt": abstract_analysis_system_prompt.content,
-                "setence_analysis_json_example": setence_analysis_json_example,
-                "method_json_format": method_json_format,
-                "json_structure": json_structure
-            })
-            print(json.dumps(summary_chain_output, indent=4))
-            
-            json_print_to_file(f"summary_chain_output_{i}", summary_chain_output)
-        except Exception as e:
-            print(f"Error: {type(e).__name__}: {str(e)}")
-            import traceback
-            traceback.print_exc()
