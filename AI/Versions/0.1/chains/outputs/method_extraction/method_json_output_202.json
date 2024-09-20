@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "Shannon index",
+        "multivariate permutational ANOVA",
+        "beta diversity partitioning",
+        "null models"
+    ],
+    "Shannon index": {
+        "reasoning": "The Shannon index is a specific method used to quantify the diversity of species in a community, which is crucial for assessing insect resistance and resilience after disturbances.",
+        "passages": [
+            "We used the Shannon index and multivariate permutational ANOVA to study insect resistance and resilience"
+        ],
+        "confidence_score": 0.9
+    },
+    "multivariate permutational ANOVA": {
+        "reasoning": "Multivariate permutational ANOVA is a statistical method used to analyze the differences in community composition across multiple variables, making it a key analytical method in this study.",
+        "passages": [
+            "We used the Shannon index and multivariate permutational ANOVA to study insect resistance and resilience"
+        ],
+        "confidence_score": 0.9
+    },
+    "beta diversity partitioning": {
+        "reasoning": "Beta diversity partitioning is a method used to evaluate the importance of species replacement in community composition, which is essential for understanding changes after the cyclone.",
+        "passages": [
+            "beta diversity partitioning to evaluate the importance of species replacement"
+        ],
+        "confidence_score": 0.85
+    },
+    "null models": {
+        "reasoning": "Null models are used as a methodological approach to disentangle the roles of different assembly processes, providing a framework for understanding community dynamics over time.",
+        "passages": [
+            "and null models to disentangle the relative roles of different assembly processes over time after the tropical cyclone"
+        ],
+        "confidence_score": 0.88
+    }
+}

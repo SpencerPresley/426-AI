@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "qualitative embedded case study",
+        "analysis of fieldnotes",
+        "reflective interviews",
+        "collective process of noticing",
+        "managed nonmanagement"
+    ],
+    "qualitative embedded case study": {
+        "reasoning": "The qualitative embedded case study is the overarching methodological framework used to explore students' experiences, providing a structured approach to data collection and analysis.",
+        "passages": [
+            "this qualitative embedded case study explores how students experience alienation and intimacy in the work of writing for an English language arts class"
+        ],
+        "confidence_score": 0.95
+    },
+    "analysis of fieldnotes": {
+        "reasoning": "Analysis of fieldnotes refers to the specific method employed to interpret observational data, which is crucial for understanding the context and dynamics of the classroom environment.",
+        "passages": [
+            "Analysis of fieldnotes from 30 observations"
+        ],
+        "confidence_score": 0.9
+    },
+    "reflective interviews": {
+        "reasoning": "Reflective interviews are a method used to gather in-depth insights from participants, providing qualitative data that complements the observational findings.",
+        "passages": [
+            "reflective interviews with focal students and the teacher"
+        ],
+        "confidence_score": 0.85
+    },
+    "collective process of noticing": {
+        "reasoning": "The collective process of noticing is a specific practice identified in the study that facilitates knowledge building about writing, indicating a methodological approach to fostering intimacy in learning.",
+        "passages": [
+            "knowledge about writing built through a collective process of noticing"
+        ],
+        "confidence_score": 0.8
+    },
+    "managed nonmanagement": {
+        "reasoning": "Managed nonmanagement is a specific practice characterized by calculated flexibility in rules and expectations, representing a method of structuring the learning environment to enhance intimacy.",
+        "passages": [
+            "open-ended work time characterized by 'managed nonmanagement' (Tsing, 2015, p. 176)"
+        ],
+        "confidence_score": 0.75
+    }
+}

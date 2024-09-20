@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "logistic regression",
+        "stratified analysis"
+    ],
+    "logistic regression": {
+        "reasoning": "Logistic regression is a statistical method used to examine the associations between independent variables (experiences of minority stress) and a binary dependent variable (access to primary care services). This method is essential for understanding the impact of minority stress on healthcare access.",
+        "passages": [
+            "A series of logistic regressions examined associations among multiple experiences of minority stress and access to primary care services."
+        ],
+        "confidence_score": 0.95
+    },
+    "stratified analysis": {
+        "reasoning": "Stratified analysis involves breaking down the data by specific subgroups (in this case, age cohorts) to explore how relationships differ across these groups. This method provides a nuanced understanding of the data by examining variations in the association between minority stress and healthcare access among different age cohorts.",
+        "passages": [
+            "Analyses, stratified by age cohort, examined associations between experiences of minority stress and access to primary care services."
+        ],
+        "confidence_score": 0.9
+    }
+}

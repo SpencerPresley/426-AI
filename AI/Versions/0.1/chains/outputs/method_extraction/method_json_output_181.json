@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "direct behavioral and GPS information collection",
+        "2-min instantaneous focal animal sampling technique",
+        "route segment analysis",
+        "direction change point identification"
+    ],
+    "direct behavioral and GPS information collection": {
+        "reasoning": "This method refers to the specific process used to gather data on marmoset navigation through direct observation and GPS tracking, which is essential for the study's findings.",
+        "passages": [
+            "We collected 497 h of direct behavioral and GPS information on a group of marmosets"
+        ],
+        "confidence_score": 0.95
+    },
+    "2-min instantaneous focal animal sampling technique": {
+        "reasoning": "This is a specific technique used to observe and record the behavior of animals at set intervals, providing a structured approach to data collection.",
+        "passages": [
+            "using a 2-min instantaneous focal animal sampling technique"
+        ],
+        "confidence_score": 0.9
+    },
+    "route segment analysis": {
+        "reasoning": "This method involves analyzing the patterns of route reuse among marmosets, which is central to understanding their navigation strategies.",
+        "passages": [
+            "We found that our study group reused not only long-route segments (mean of 1007 m) but entire daily routes"
+        ],
+        "confidence_score": 0.85
+    },
+    "direction change point identification": {
+        "reasoning": "This method refers to the identification of specific points where the marmosets changed direction, which helps in understanding their navigation behavior and environmental influences.",
+        "passages": [
+            "We also identified a total of 56 clustered direction change points indicating that the group modified their direction of travel."
+        ],
+        "confidence_score": 0.8
+    }
+}

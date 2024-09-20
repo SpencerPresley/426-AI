@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "Zoom video conferencing",
+        "Interpretative Phenomenological Analysis"
+    ],
+    "Zoom video conferencing": {
+        "reasoning": "Zoom video conferencing is the specific platform used for conducting interviews with participants, representing a methodological choice for data collection.",
+        "passages": [
+            "Nineteen LGBTQ + people ages 20 to 76 (M = 47.20; SD = 17.66) living across the USA were interviewed via Zoom video conferencing software between October and early December 2020."
+        ],
+        "confidence_score": 0.95
+    },
+    "Interpretative Phenomenological Analysis": {
+        "reasoning": "Interpretative Phenomenological Analysis is the method used to analyze the interview data, providing a structured approach to understanding participants' experiences.",
+        "passages": [
+            "Interviews were coded using Interpretative Phenomenological Analysis (Smith & Osborn, 2003)."
+        ],
+        "confidence_score": 0.9
+    }
+}

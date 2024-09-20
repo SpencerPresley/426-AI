@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "four studies",
+        "exploratory analyses"
+    ],
+    "four studies": {
+        "reasoning": "The term 'four studies' indicates a specific methodological approach where multiple research studies were conducted to investigate the phenomenon of consensus bias regarding climate change beliefs.",
+        "passages": [
+            "Across four studies, we found that people who believe climate change is happening (the majority) underestimate the percentage of other people who hold their view"
+        ],
+        "confidence_score": 0.9
+    },
+    "exploratory analyses": {
+        "reasoning": "Exploratory analyses refer to the method used to investigate the relationship between certainty of climate change beliefs and estimates of agreement, suggesting a systematic approach to data examination.",
+        "passages": [
+            "exploratory analyses suggest that greater certainty of climate change happening is associated with a greater subjective knowledge and frequency of thinking and hearing about climate change"
+        ],
+        "confidence_score": 0.85
+    }
+}

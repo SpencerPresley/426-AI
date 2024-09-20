@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "comparative analysis",
+        "impulse response analysis"
+    ],
+    "comparative analysis": {
+        "reasoning": "Comparative analysis refers to the method of comparing the macroeconomic effects of foreign direct investment from Japan with foreign portfolio investment from China, which is a specific approach to understanding differences and similarities in economic impacts.",
+        "passages": [
+            "This paper compares the US long-run macroeconomic effects of foreign direct investment from Japan (1970-1990) with foreign portfolio investment from China (2000-2018)"
+        ],
+        "confidence_score": 0.9
+    },
+    "impulse response analysis": {
+        "reasoning": "Impulse response analysis is a method used to assess the dynamic effects of a shock to one variable on other variables over time, which is indicated by the mention of impulse responses exhibiting supportive evidence.",
+        "passages": [
+            "The US inflation and unemployment impulse responses exhibit the pertinent supportive evidence."
+        ],
+        "confidence_score": 0.85
+    }
+}

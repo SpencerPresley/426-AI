@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "remotely sensed imagery analysis",
+        "predictive modeling"
+    ],
+    "remotely sensed imagery analysis": {
+        "reasoning": "Remotely sensed imagery analysis is a specific method used to assess land cover changes over time, providing a systematic approach to analyzing environmental data.",
+        "passages": [
+            "to assess land cover changes over the past 30 years, we analyzed a time series of remotely sensed imagery"
+        ],
+        "confidence_score": 0.95
+    },
+    "predictive modeling": {
+        "reasoning": "Predictive modeling is a methodological approach used to forecast future changes in land cover, representing a structured technique for anticipating outcomes based on current data.",
+        "passages": [
+            "we also developed a predictive model to forecast future changes in land cover by 2034"
+        ],
+        "confidence_score": 0.9
+    }
+}

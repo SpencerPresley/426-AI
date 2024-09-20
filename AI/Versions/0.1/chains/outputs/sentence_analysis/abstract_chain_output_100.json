@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "This article analyses Aravind Adiga's Booker prize-winning novel The White Tiger (2008) through the lens of justice: philosophical, legal, and literary.",
+            "meaning": "The article examines the novel 'The White Tiger' by Aravind Adiga, focusing on the concept of justice in its various forms.",
+            "reasoning": "The use of 'analyses' indicates a detailed examination, and 'through the lens of justice' suggests that the central theme of the analysis is the concept of justice as it appears in the novel.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "What is justice when its agent is subaltern - disprivileged by both caste and class - and delivers justice to himself?",
+            "meaning": "The sentence questions the nature of justice when it is enacted by someone from a marginalized background who seeks to achieve justice independently.",
+            "reasoning": "The term 'subaltern' refers to individuals who are socially, politically, and geographically outside of the hegemonic power structure, which is relevant to the themes of caste and class mentioned.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "I argue that the fictional representation of class, caste, poverty, and violence can be similar to the structuring and translations of justice.",
+            "meaning": "The author contends that the way class, caste, poverty, and violence are depicted in the novel reflects broader concepts of justice.",
+            "reasoning": "The phrase 'fictional representation' implies that the narrative elements of the novel can be analyzed in relation to justice, suggesting a correlation between social issues and justice.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "By writing his novel from the perspective of a subaltern character, Adiga joins the call by Dalit critics to reconfigure modernity from the interests of the oppressed and the marginalized.",
+            "meaning": "Adiga's choice to narrate the story from a marginalized viewpoint aligns with the demands of Dalit critics for a new understanding of modernity that prioritizes the experiences of the oppressed.",
+            "reasoning": "The reference to 'Dalit critics' suggests a specific literary and social movement advocating for the representation of marginalized voices.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In the process, there can be a rethinking of postcolonial literary criticism from within the postcolonial nation, rather than the established perspective of the postcolonial nation understanding its own colonial oppression.",
+            "meaning": "This suggests a shift in how postcolonial literary criticism is approached, advocating for an internal perspective that emphasizes the voices of the oppressed within postcolonial societies.",
+            "reasoning": "The contrast between 'within the postcolonial nation' and 'established perspective' indicates a critique of traditional narratives of colonial oppression.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "My essay provokes wider insights into the implications for justice and human rights as they are informed and represented by literary fiction, subaltern theory, and deconstructive theory.",
+            "meaning": "The essay aims to generate broader discussions about how justice and human rights are depicted and understood through literature and theoretical frameworks.",
+            "reasoning": "The word 'provokes' suggests that the author intends to stimulate thought and discussion on these topics.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "How can a writer conceive of and represent justice - literary justice - by working within and against philosophical and legal conceptions of justice?",
+            "meaning": "The author questions the methods writers can use to depict justice, particularly in relation to established philosophical and legal definitions.",
+            "reasoning": "The phrasing indicates a critical inquiry into the relationship between literature and established norms of justice.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The philosophers and theorists I invoke include Drucilla Cornell, Jacques Derrida, Wai Chee Dimock, Emmanuel Levinas, Gayatri Chakravarty Spivak, and Robert Young.",
+            "meaning": "The author references several influential philosophers and theorists whose ideas will be discussed or applied in the analysis.",
+            "reasoning": "The list of names suggests a scholarly grounding in established philosophical and theoretical frameworks relevant to the topic.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The abstract discusses the representation of justice in Aravind Adiga's novel 'The White Tiger', particularly through the perspective of marginalized characters, and explores the implications for literary criticism and human rights.",
+    "detailed_summary": "This research paper analyzes Aravind Adiga's novel 'The White Tiger', which won the Booker Prize in 2008, through the concept of justice encompassing philosophical, legal, and literary dimensions. It raises questions about the nature of justice when enacted by a subaltern individual who is marginalized by caste and class, and argues that the representation of social issues like class, caste, poverty, and violence in the novel reflects broader constructs of justice. The author emphasizes that Adiga's narrative perspective aligns with the calls from Dalit critics for a reconfiguration of modernity that focuses on the experiences of the oppressed. Additionally, the paper advocates for a rethinking of postcolonial literary criticism that centers on internal perspectives rather than traditional narratives of colonial oppression. The essay seeks to provoke discussions about the implications of justice and human rights as portrayed in literary fiction and through subaltern and deconstructive theories. It concludes by questioning how writers can represent justice while engaging with existing philosophical and legal frameworks, referencing several prominent theorists to support the analysis."
+}

@@ -1,0 +1,66 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "As fake information has become the norm on the internet, it is important to investigate how skepticism impacts an individual's attitude toward word-of-mouth (eWOM).",
+            "meaning": "The prevalence of misinformation online necessitates research into how skepticism influences people's views on electronic word-of-mouth.",
+            "reasoning": "The sentence establishes the context of the research, indicating a growing concern about misinformation and its effects on eWOM.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This study examines eWOM skepticism via three dimensions: suspicion of motivation, suspicion of truthfulness and suspicion of identity.",
+            "meaning": "The research focuses on three aspects of skepticism related to eWOM: why the information is shared, its truthfulness, and the identity of the source.",
+            "reasoning": "The sentence clearly outlines the specific areas of skepticism that the study will investigate.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "It investigates not only which of the three dimensions is more influential in eWOM situations but also the variations and relationships among these three.",
+            "meaning": "The study looks at which dimension of skepticism has the greatest impact on eWOM and how these dimensions interact with each other.",
+            "reasoning": "The sentence indicates a dual focus on influence and interrelation among the dimensions of skepticism.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Furthermore, this study evaluates how an individual's dispositional trust and perceptions regarding structural assurance can impact each dimension, which in turn affects the assessment of the eWOM messages' credibility.",
+            "meaning": "The research also considers how a person's inherent trust and views on safety measures influence their skepticism and the credibility of eWOM.",
+            "reasoning": "The sentence expands the scope of the study to include personal traits and perceptions that affect credibility evaluations.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Using an online scenario-based survey, data were collected via Amazon Mechanical Turk from 195 participants in the U.S.",
+            "meaning": "The study gathered data through an online survey targeting participants sourced from Amazon Mechanical Turk, involving 195 individuals from the United States.",
+            "reasoning": "This provides information about the research methodology and sample size.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "PLS and cluster analysis were used to analyze the data.",
+            "meaning": "The data analysis was conducted using Partial Least Squares (PLS) and cluster analysis techniques.",
+            "reasoning": "This sentence succinctly describes the analytical methods employed in the research.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The results reveal that the suspicion of identity play a major role in message credibility assessment and that people who are naturally less likely to trust others also hold higher suspicion of motivation and truthfulness.",
+            "meaning": "Findings indicate that concerns about the source's identity significantly influence how credible a message is perceived, and less trusting individuals are more skeptical about the motivations and truthfulness of messages.",
+            "reasoning": "This sentence summarizes key findings regarding the impact of identity suspicion and general trust levels on eWOM skepticism.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Further, structural assurance has significant negative effects on all three dimensions.",
+            "meaning": "The study finds that perceived safety measures negatively affect each of the three skepticism dimensions.",
+            "reasoning": "This sentence highlights an important finding regarding the role of structural assurance in shaping skepticism.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The findings highlight the importance of enhancing the protective measures on eWOM platforms and call for stricter regulations to prevent organizations from adopting deceptive eWOM propagandas.",
+            "meaning": "The results suggest that improving safety features on eWOM platforms and implementing stricter regulations are necessary to combat misinformation.",
+            "reasoning": "This sentence discusses the practical implications of the research findings and their relevance to eWOM practices.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This research contributes to the literature by exploring the impact of skepticism on eWOM message credibility assessment and helping to validate this newly created construct by considering eWOM skepticism as a formative construct.",
+            "meaning": "The study adds to existing knowledge by examining how skepticism affects the credibility of eWOM and supports the idea of eWOM skepticism as an important concept.",
+            "reasoning": "This sentence emphasizes the originality and significance of the research in the context of existing literature.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates the influence of skepticism on the credibility of electronic word-of-mouth (eWOM) messages, focusing on three dimensions of skepticism and their relationships, while considering individual traits and perceptions.",
+    "detailed_summary": "This study addresses the growing concern of misinformation on the internet by examining how skepticism affects individuals' attitudes toward electronic word-of-mouth (eWOM). It specifically analyzes eWOM skepticism through three dimensions: suspicion of motivation, suspicion of truthfulness, and suspicion of identity. The research aims to determine which dimension is most influential and how these dimensions relate to each other. Additionally, it evaluates the impact of individual traits, such as dispositional trust and perceptions of structural assurance, on these skepticism dimensions and their overall effect on the credibility assessment of eWOM messages. Data were collected using an online scenario-based survey from 195 participants in the U.S., and analyzed using Partial Least Squares (PLS) and cluster analysis. Findings indicate that suspicion of identity significantly affects message credibility, and individuals with lower trust are more skeptical about motivations and truthfulness. Structural assurance was found to negatively influence all skepticism dimensions. The study highlights the need for enhanced protective measures on eWOM platforms and calls for stricter regulations against deceptive eWOM practices. Overall, the research contributes to the literature by validating the concept of eWOM skepticism as a formative construct and its impact on message credibility assessment."
+}

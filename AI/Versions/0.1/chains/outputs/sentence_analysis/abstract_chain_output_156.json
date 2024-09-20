@@ -1,0 +1,30 @@
+{
+    "sentences": [
+        {
+            "sentence": "We show that greater shareholder coordination, as proxied by the geographic proximity between institutional investors, is positively related to corporate innovation outcomes.",
+            "meaning": "The research demonstrates that when institutional investors are geographically closer to each other, it tends to lead to better innovation results for corporations.",
+            "reasoning": "The phrase 'greater shareholder coordination' suggests that investors working together or being close can influence corporate performance positively, particularly in terms of innovation.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This relationship is driven by coordination among dedicated and independent institutions who have strong monitoring incentives and is more pronounced among firms with lower blockholder ownership and greater information asymmetry where there is greater benefit to monitoring.",
+            "meaning": "The positive impact of shareholder coordination on innovation is particularly strong when the investors are committed and independent, especially in companies with less concentrated ownership and more unequal information distribution.",
+            "reasoning": "The terms 'dedicated and independent institutions' imply that these investors are more likely to actively monitor management, and 'lower blockholder ownership' suggests a scenario where no single investor has significant control, hence the need for collective oversight.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "We propose that shareholder coordination promotes corporate innovation through a reduction in managerial agency problems.",
+            "meaning": "The authors suggest that better coordination among shareholders helps to alleviate issues arising from conflicts between managers and shareholders, thereby fostering innovation.",
+            "reasoning": "The term 'managerial agency problems' refers to the difficulties that arise when management\u2019s interests do not align with those of the shareholders, indicating that coordination can help align these interests.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Overall, our results are consistent with the notion that greater shareholder coordination enables diffuse shareholders to monitor managers more effectively and enhances corporate innovation.",
+            "meaning": "The findings of the study support the idea that when shareholders work together more closely, it allows them to oversee management better, which in turn boosts corporate innovation.",
+            "reasoning": "The phrase 'diffuse shareholders' refers to a situation where ownership is spread out among many investors, and the conclusion ties back to the earlier points about coordination and monitoring.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research highlights the positive impact of shareholder coordination on corporate innovation, emphasizing the importance of collective monitoring by institutional investors.",
+    "detailed_summary": "The research paper investigates the relationship between shareholder coordination and corporate innovation outcomes, finding that greater geographic proximity among institutional investors leads to improved innovation results. This effect is particularly strong among dedicated and independent institutions that have a vested interest in monitoring corporate management, especially in firms with lower blockholder ownership and higher information asymmetry. The authors argue that such coordination helps mitigate managerial agency problems, thereby enhancing innovation. Overall, the study concludes that effective monitoring by diffuse shareholders through increased coordination is crucial for fostering corporate innovation."
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "survey data analysis",
+        "socio-technical theory"
+    ],
+    "survey data analysis": {
+        "reasoning": "Survey data analysis refers to the method used to collect and analyze data from users of healthcare-based pages on Facebook, providing insights into the factors influencing value co-creation.",
+        "passages": [
+            "Analysis of survey data gathered from users of Top 10 healthcare-based pages on Facebook indicated that both social and technical factors are salient in the prediction of value co-creation in OHCs."
+        ],
+        "confidence_score": 0.9
+    },
+    "socio-technical theory": {
+        "reasoning": "Socio-technical theory is the theoretical framework applied in the study to identify and analyze the social and technical factors impacting healthcare users' intention to co-create value.",
+        "passages": [
+            "This study relies on the socio-technical theory to identify the social and technical factors that impact healthcare users' intention to co-create value."
+        ],
+        "confidence_score": 0.85
+    }
+}

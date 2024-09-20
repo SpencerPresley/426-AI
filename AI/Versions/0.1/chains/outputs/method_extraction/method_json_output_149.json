@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "taxonomy of sexual identities",
+        "content analysis procedures",
+        "coding of open-ended responses",
+        "chi-square tests",
+        "analysis of variance tests"
+    ],
+    "taxonomy of sexual identities": {
+        "reasoning": "The taxonomy of sexual identities represents a specific methodological framework proposed by the researchers to categorize the diverse sexual identities among adolescents, which is central to their study.",
+        "passages": [
+            "to propose a taxonomy of sexual identities among adolescents"
+        ],
+        "confidence_score": 0.9
+    },
+    "content analysis procedures": {
+        "reasoning": "Content analysis procedures detail the systematic method used to analyze qualitative data, specifically how the researchers interpreted the open-ended responses provided by participants.",
+        "passages": [
+            "Using the steps outlined in content analysis procedures"
+        ],
+        "confidence_score": 0.85
+    },
+    "coding of open-ended responses": {
+        "reasoning": "Coding of open-ended responses refers to the specific technique employed to categorize and interpret qualitative data from participants, which is a critical part of the analysis process.",
+        "passages": [
+            "two researchers independently coded the open-ended responses"
+        ],
+        "confidence_score": 0.9
+    },
+    "chi-square tests": {
+        "reasoning": "Chi-square tests are a statistical method used to determine differences in categorical data, which helps in analyzing the relationship between sexual identity and various sociodemographic characteristics.",
+        "passages": [
+            "differences in sexual identity among responses to the close-ended question, sociodemographic characteristics, and mental health outcomes using chi-square"
+        ],
+        "confidence_score": 0.95
+    },
+    "analysis of variance tests": {
+        "reasoning": "Analysis of variance tests are a statistical method used to compare means across different groups, which is essential for assessing differences in sexual identity based on various factors.",
+        "passages": [
+            "differences in sexual identity among responses to the close-ended question, sociodemographic characteristics, and mental health outcomes using... analysis of variance tests"
+        ],
+        "confidence_score": 0.95
+    }
+}

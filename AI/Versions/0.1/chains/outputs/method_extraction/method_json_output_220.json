@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "predation rate examination",
+        "locomotor behavior examination",
+        "benthic-oriented ambush foraging strategy"
+    ],
+    "predation rate examination": {
+        "reasoning": "Predation rate examination refers to the method used to assess how different light and turbidity levels affect the feeding behavior of juvenile flounders, making it an essential methodological process in the study.",
+        "passages": [
+            "Predation rates by juveniles (50-90 mm) were examined at 5 daytime light levels (6 x 10(11) to 2 x 10(14) quanta s(-1) cm(-2)) and in darkness and 4 turbidity levels (clear [<= 1], 11, 20, and 40 NTU) at an intermediate light level."
+        ],
+        "confidence_score": 0.95
+    },
+    "locomotor behavior examination": {
+        "reasoning": "Locomotor behavior examination describes the method used to observe and analyze the swimming patterns of the flounder species under varying turbidity levels, indicating a specific approach to data collection in the study.",
+        "passages": [
+            "Locomotor behavior was examined at the same turbidity levels."
+        ],
+        "confidence_score": 0.9
+    },
+    "benthic-oriented ambush foraging strategy": {
+        "reasoning": "The benthic-oriented ambush foraging strategy is identified as a specific behavioral approach used by the flounder species under high turbidity conditions, representing a methodological focus of the research.",
+        "passages": [
+            "It appears that both species primarily use a benthic-oriented ambush foraging strategy under high turbidity conditions."
+        ],
+        "confidence_score": 0.85
+    }
+}

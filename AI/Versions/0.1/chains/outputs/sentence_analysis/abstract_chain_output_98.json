@@ -1,0 +1,54 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Korean immigrant fathers were interviewed and the consensual qualitative research (CQR) method was employed to analyze the data.",
+            "meaning": "The study involved interviewing Korean immigrant fathers and used the CQR method for data analysis.",
+            "reasoning": "This sentence outlines the methodology of the research, indicating who the subjects were and the analytical approach taken.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Five domains (challenges, identity, values, relationship, and well-being) and seventeen categories emerged.",
+            "meaning": "The analysis revealed five main areas of focus and a total of seventeen specific categories related to the fathers' experiences.",
+            "reasoning": "The sentence summarizes the key findings of the research, highlighting the structure of the data collected.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Participants experienced implicit discrimination and cultural barriers.",
+            "meaning": "The fathers faced subtle forms of discrimination and obstacles related to their cultural background.",
+            "reasoning": "This identifies specific challenges that the fathers encountered, which are relevant to their immigrant experience.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "They identified themselves as Koreans and valued family's well-being as their priority.",
+            "meaning": "The fathers recognized their cultural identity and prioritized the well-being of their families.",
+            "reasoning": "This highlights the importance of cultural identity and familial values in the participants' lives.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "They made efforts to find meaning and satisfaction by supporting children to become independent adults.",
+            "meaning": "The fathers sought fulfillment by helping their children achieve independence.",
+            "reasoning": "This indicates a proactive approach to parenting and the desire for their children's success.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Participants were aware of their traditional parenting styles and the intergenerational cultural gap with their children.",
+            "meaning": "The fathers recognized their traditional methods of parenting and the differences in cultural values between themselves and their children.",
+            "reasoning": "This suggests a reflective understanding of their parenting in the context of changing cultural dynamics.",
+            "confidence_score": 0.87
+        },
+        {
+            "sentence": "As first-generation immigrants, Korean immigrant fathers reported a lack of genuine relationships with both Korean Americans and non-Korean Americans outside of their families.",
+            "meaning": "The fathers felt isolated and lacked deep connections with others in their community, regardless of cultural background.",
+            "reasoning": "This emphasizes the social challenges faced by immigrant fathers, highlighting their sense of isolation.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Although participants reported freedom from the pressure caused by interdependent Korean culture, they felt homesickness and emptiness without their own valued life goals.",
+            "meaning": "While the fathers appreciated some relief from cultural pressures, they also experienced feelings of longing for home and a lack of personal fulfillment.",
+            "reasoning": "This reflects the complex emotional landscape of immigrant life, balancing cultural freedom with personal loss.",
+            "confidence_score": 0.92
+        }
+    ],
+    "overall_theme": "The research explores the experiences of Korean immigrant fathers, focusing on their challenges, identity, and values, as well as their relationships and well-being.",
+    "detailed_summary": "This study investigates the experiences of Korean immigrant fathers through interviews and the consensual qualitative research (CQR) method. It identifies five key domains: challenges, identity, values, relationship, and well-being, resulting in seventeen categories that encapsulate their experiences. The fathers reported facing implicit discrimination and cultural barriers, while also emphasizing their identity as Koreans and prioritizing their family's well-being. They actively sought to support their children\u2019s independence, reflecting a desire for meaning in their roles as parents. The fathers acknowledged their traditional parenting styles and recognized the cultural gaps with their children. As first-generation immigrants, they expressed feelings of isolation, lacking genuine relationships with others outside their families. Despite feeling some relief from the pressures of their interdependent culture, they experienced homesickness and a sense of emptiness due to the absence of personal life goals."
+}

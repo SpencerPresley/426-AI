@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "purposive sampling",
+        "snowball sampling",
+        "in-depth semi-structured interviewing",
+        "inductive qualitative content analysis"
+    ],
+    "purposive sampling": {
+        "reasoning": "Purposive sampling is a method used to select participants based on specific characteristics, allowing for a focused recruitment of CAM providers treating BCSs.",
+        "passages": [
+            "Purposive and snowball sampling was conducted to recruit CAM providers (N = 15) treating BCSs from integrative medicine centers, educational institutions, private practices, and professional medical associations across the United States."
+        ],
+        "confidence_score": 0.9
+    },
+    "snowball sampling": {
+        "reasoning": "Snowball sampling is a method where existing study subjects recruit future subjects from among their acquaintances, which is particularly useful in reaching specialized populations like CAM providers.",
+        "passages": [
+            "Purposive and snowball sampling was conducted to recruit CAM providers (N = 15) treating BCSs from integrative medicine centers, educational institutions, private practices, and professional medical associations across the United States."
+        ],
+        "confidence_score": 0.85
+    },
+    "in-depth semi-structured interviewing": {
+        "reasoning": "In-depth semi-structured interviewing is a qualitative research method that allows for detailed exploration of participants' experiences and perspectives, making it suitable for understanding CAM providers' practices.",
+        "passages": [
+            "In-depth semi-structured interviewing (N = 252 single-spaced pages)"
+        ],
+        "confidence_score": 0.95
+    },
+    "inductive qualitative content analysis": {
+        "reasoning": "Inductive qualitative content analysis is a method for analyzing textual data to identify patterns and themes, which is essential for interpreting the qualitative data collected from interviews.",
+        "passages": [
+            "inductive qualitative content analysis reveal CAM therapeutic practices emphasize a diachronic form of mimetic self-reflexivity and a serendipitous form of mimetic intersubjectivity in BCS pain management"
+        ],
+        "confidence_score": 0.9
+    }
+}

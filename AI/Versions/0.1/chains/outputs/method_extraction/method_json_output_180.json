@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "literature review",
+        "hypothesis formation"
+    ],
+    "literature review": {
+        "reasoning": "A literature review is a systematic method of collecting and analyzing existing research to understand the current state of knowledge on a specific topic, which is explicitly mentioned as the goal of the paper.",
+        "passages": [
+            "The goal of this paper was to review the literature to date regarding possible links between SARS-CoV-2 infection and neuroimmune demyelinating diseases such as MS and its related disorders"
+        ],
+        "confidence_score": 0.95
+    },
+    "hypothesis formation": {
+        "reasoning": "Hypothesis formation refers to the process of proposing a potential explanation or prediction based on existing evidence, which is a key methodological step in the research outlined in the abstract.",
+        "passages": [
+            "with the aim of positing a hypothesis for disease exacerbation"
+        ],
+        "confidence_score": 0.9
+    }
+}

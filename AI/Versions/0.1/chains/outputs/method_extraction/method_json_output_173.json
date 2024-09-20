@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "household surveys",
+        "spatial geographic data analysis"
+    ],
+    "household surveys": {
+        "reasoning": "Household surveys are a specific method used to collect data from individuals regarding their income and poverty levels, which is essential for assessing the impact of the PES program.",
+        "passages": [
+            "Using household surveys and spatial geographic data"
+        ],
+        "confidence_score": 0.95
+    },
+    "spatial geographic data analysis": {
+        "reasoning": "Spatial geographic data analysis refers to the method of examining geographic characteristics and their relation to socioeconomic factors, which is crucial for understanding the local effects of the PES program.",
+        "passages": [
+            "Using household surveys and spatial geographic data, we are able to control for socioeconomic and geographic characteristics at the individual and census-tract level"
+        ],
+        "confidence_score": 0.9
+    }
+}

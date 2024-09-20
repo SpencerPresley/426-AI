@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "self-regulated learning microanalysis",
+        "self-regulated learning questionnaire",
+        "microanalytic protocol",
+        "strategic planning"
+    ],
+    "self-regulated learning microanalysis": {
+        "reasoning": "Self-regulated learning microanalysis is a specific method used to analyze participants' reported strategy use during reading, providing a detailed view of their self-regulation processes.",
+        "passages": [
+            "Participants' reported strategy use during reading, as measured by self-regulated learning microanalysis"
+        ],
+        "confidence_score": 0.95
+    },
+    "self-regulated learning questionnaire": {
+        "reasoning": "The self-regulated learning questionnaire is a method for assessing participants' self-regulation strategies, allowing for a quantitative measure of their learning processes.",
+        "passages": [
+            "scores on a self-regulated learning questionnaire"
+        ],
+        "confidence_score": 0.9
+    },
+    "microanalytic protocol": {
+        "reasoning": "The microanalytic protocol refers to the specific methodological framework used for self-monitoring, which is crucial for analyzing metacognitive processes during reading.",
+        "passages": [
+            "Self-monitoring on the microanalytic protocol was significantly related to a measure of metacognitive monitoring"
+        ],
+        "confidence_score": 0.85
+    },
+    "strategic planning": {
+        "reasoning": "Strategic planning is a method that refers to the approaches used by participants to organize their reading strategies, which directly predicts comprehension outcomes.",
+        "passages": [
+            "Strategic planning and strategy use during reading of the text also predicted comprehension"
+        ],
+        "confidence_score": 0.8
+    }
+}

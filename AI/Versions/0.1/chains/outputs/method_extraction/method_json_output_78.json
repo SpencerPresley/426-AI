@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "simulation results",
+        "efficiency threshold identification"
+    ],
+    "simulation results": {
+        "reasoning": "Simulation results refer to the method used to model and analyze the impact of state ownership on efficiency and equality, providing a quantitative approach to the research.",
+        "passages": [
+            "our simulation results suggest that the threshold is sensitive to capital shares in output of the both sectors"
+        ],
+        "confidence_score": 0.9
+    },
+    "efficiency threshold identification": {
+        "reasoning": "Identifying the efficiency threshold is a methodological process used to determine the point at which state capital share impacts the efficiency-equality relationship, making it a core analytical approach in the study.",
+        "passages": [
+            "we identify the efficiency threshold of state capital share that splits the efficiency-equality relationship between a tradeoff and nontradeoff"
+        ],
+        "confidence_score": 0.85
+    }
+}

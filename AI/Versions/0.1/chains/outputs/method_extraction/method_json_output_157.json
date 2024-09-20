@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "data set analysis"
+    ],
+    "data set analysis": {
+        "reasoning": "Data set analysis refers to the specific method used to explore and examine the regulatory variation across different states in the U.S. beer supply chains, indicating a systematic approach to analyzing collected data.",
+        "passages": [
+            "We use a unique data set to explore state-by-state regulatory variation in U.S. beer supply chains in 2020."
+        ],
+        "confidence_score": 0.9
+    }
+}

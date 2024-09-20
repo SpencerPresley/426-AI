@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "formal governance processes",
+        "informal governance processes",
+        "hypothesis testing"
+    ],
+    "formal governance processes": {
+        "reasoning": "Formal governance processes refer to structured methods used by platform firms to monitor and manage transactions, indicating a specific approach to governance in the study.",
+        "passages": [
+            "This paper examines certain formal (monitoring) and informal (procedural fairness) governance processes that platform firms can leverage to manage platform participants."
+        ],
+        "confidence_score": 0.85
+    },
+    "informal governance processes": {
+        "reasoning": "Informal governance processes involve less structured methods that focus on procedural fairness, representing a specific approach used by the platform firms in the research.",
+        "passages": [
+            "This paper examines certain formal (monitoring) and informal (procedural fairness) governance processes that platform firms can leverage to manage platform participants."
+        ],
+        "confidence_score": 0.85
+    },
+    "hypothesis testing": {
+        "reasoning": "Hypothesis testing is a methodological approach used to assess the impact of governance processes on seller performance, forming a key part of the research methodology.",
+        "passages": [
+            "We hypothesize the impact of these processes on sellers' performance vis-a-vis the platform's buyers."
+        ],
+        "confidence_score": 0.9
+    }
+}

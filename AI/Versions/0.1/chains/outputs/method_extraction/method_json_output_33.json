@@ -1,0 +1,37 @@
+{
+    "methods": [
+        "description of curve neighborhoods",
+        "Hecke product of Weyl group elements",
+        "k-strict partitions",
+        "BC-partitions"
+    ],
+    "description of curve neighborhoods": {
+        "reasoning": "The description of curve neighborhoods refers to the specific methodological approach used to analyze the structure of Schubert varieties within the odd symplectic Grassmannian, which is essential for the research.",
+        "passages": [
+            "A very limited description of curve neighborhoods of Schubert varieties in IG(k,2n + 1) was used by Mihalcea and the second named author to prove an (equivariant) quantum Chevalley rule.",
+            "we give a full description of the irreducible components of curve neighborhoods"
+        ],
+        "confidence_score": 0.9
+    },
+    "Hecke product of Weyl group elements": {
+        "reasoning": "The Hecke product of Weyl group elements is a specific mathematical technique used to describe the irreducible components of curve neighborhoods, indicating a clear methodological approach in the research.",
+        "passages": [
+            "in terms of the Hecke product of (appropriate) Weyl group elements"
+        ],
+        "confidence_score": 0.85
+    },
+    "k-strict partitions": {
+        "reasoning": "K-strict partitions are a specific combinatorial concept utilized in the analysis of the curve neighborhoods, representing a methodological element in the research.",
+        "passages": [
+            "k-strict partitions"
+        ],
+        "confidence_score": 0.8
+    },
+    "BC-partitions": {
+        "reasoning": "BC-partitions are another specific type of partition that is used in the study to describe the curve neighborhoods, indicating a methodological aspect of the research.",
+        "passages": [
+            "and BC-partitions. The latter set of partitions respect the Bruhat order with inclusions."
+        ],
+        "confidence_score": 0.8
+    }
+}

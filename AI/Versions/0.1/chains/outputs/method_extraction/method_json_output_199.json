@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "PROCESS Model 4",
+        "boot-strapped samples"
+    ],
+    "PROCESS Model 4": {
+        "reasoning": "PROCESS Model 4 is a specific statistical method used for testing mediation and moderation in research, indicating that it was employed to analyze the hypothesized relationships in the study.",
+        "passages": [
+            "we tested the hypothesized model using PROCESS Model 4 with 5000 boot-strapped samples and a 95% confidence interval"
+        ],
+        "confidence_score": 0.95
+    },
+    "boot-strapped samples": {
+        "reasoning": "Boot-strapped samples refer to a resampling technique used to estimate the sampling distribution of a statistic, which is crucial for the analysis and interpretation of the results in the study.",
+        "passages": [
+            "we tested the hypothesized model using PROCESS Model 4 with 5000 boot-strapped samples"
+        ],
+        "confidence_score": 0.9
+    }
+}

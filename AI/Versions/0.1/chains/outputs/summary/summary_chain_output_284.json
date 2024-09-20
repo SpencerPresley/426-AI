@@ -1,0 +1,8 @@
+{
+    "summary": "The research investigates the relationship between rising income inequality and increasing federal regulatory restrictions in the United States over recent decades. It highlights that while income disparity has grown, so have federal regulations, which may negatively impact income distribution. The study employs the Federal Regulation and State Enterprise (FRASE) index to assess regulatory restrictions across states, examining data from 50 states between 1997 and 2015. The findings suggest that a 10 percent rise in federal regulations correlates with a 0.5 percent increase in income inequality, as measured by the Gini coefficient. Additionally, the results indicate that this increase in inequality typically leads to a decline in state rankings based on their average Gini coefficient, illustrating the significant effects of regulatory policies on income inequality dynamics.",
+    "reasoning": "The summary captures the essence of the research by outlining the main focus on the correlation between federal regulations and income inequality. It reflects the context of the problem, the methodology used for analysis, and the key findings, all while avoiding specific methodological details. The reasoning behind the summary is based on the clear articulation of the relationship between the two main variables of the study and the implications of the research findings.",
+    "feedback": {
+        "methodologies_feedback": "The analysis is correct and sufficient, I have no feedback at this time.",
+        "abstract_sentence_analysis_feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "literature review",
+        "framework development",
+        "study analysis"
+    ],
+    "literature review": {
+        "reasoning": "A literature review is a systematic method used to gather and synthesize existing research on preschool scientific inquiry, which informs the development of new frameworks.",
+        "passages": [
+            "this study sought to review the literature on preschool scientific inquiry"
+        ],
+        "confidence_score": 0.9
+    },
+    "framework development": {
+        "reasoning": "Framework development refers to the methodological process of creating a structured approach for inquiry-based science exploration based on analyzed research findings.",
+        "passages": [
+            "the purpose of this paper is to develop a research-based framework for inquiry-based science exploration in preschool settings"
+        ],
+        "confidence_score": 0.95
+    },
+    "study analysis": {
+        "reasoning": "Study analysis involves examining multiple research studies to identify significant themes and strategies, which is a key methodological component of this research.",
+        "passages": [
+            "To create this framework, 15 studies were analyzed"
+        ],
+        "confidence_score": 0.85
+    }
+}

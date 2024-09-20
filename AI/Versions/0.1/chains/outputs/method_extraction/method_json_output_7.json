@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "content analysis",
+        "random sampling"
+    ],
+    "content analysis": {
+        "reasoning": "Content analysis is a specific method used to systematically evaluate the Facebook posts made by libraries, allowing for the identification of themes and patterns related to physical activity promotion.",
+        "passages": [
+            "Based on a content analysis of Facebook posts of a random sample of 118 libraries made during the Summer of 2022"
+        ],
+        "confidence_score": 0.9
+    },
+    "random sampling": {
+        "reasoning": "Random sampling is a method used to select a subset of libraries from the larger population, ensuring that the sample is representative and reduces bias in the findings.",
+        "passages": [
+            "a random sample of 118 libraries made during the Summer of 2022"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "managing social media resources",
+        "geolocated social media messages",
+        "combining data from multiple digital data sources"
+    ],
+    "managing social media resources": {
+        "reasoning": "Managing social media resources refers to the strategic approach taken by QSRs to leverage electronic word-of-mouth (eWOM) for competitive advantage, which is a specific methodology employed in the research.",
+        "passages": [
+            "A less used method by QSRs is managing social media resources, particularly electronic word-of-mouth (eWOM), to obtain competitive advantage."
+        ],
+        "confidence_score": 0.9
+    },
+    "geolocated social media messages": {
+        "reasoning": "Geolocated social media messages are specific instances of in-store engagement that involve location-based interactions with customers, representing a method for data collection and engagement analysis.",
+        "passages": [
+            "the effect of in-store engagement in the form of geolocated social media messages containing product-brand mentions in QSRs"
+        ],
+        "confidence_score": 0.85
+    },
+    "combining data from multiple digital data sources": {
+        "reasoning": "Combining data from multiple digital data sources is a methodological approach used to analyze the impact of social media on competitor visits, indicating a specific technique for data integration in the research.",
+        "passages": [
+            "by combining data from multiple digital data sources"
+        ],
+        "confidence_score": 0.88
+    }
+}

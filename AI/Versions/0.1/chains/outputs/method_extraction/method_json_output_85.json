@@ -1,0 +1,30 @@
+{
+    "methods": [
+        "acoustic structure comparison",
+        "within-pair communication song examination",
+        "variable distance analysis"
+    ],
+    "acoustic structure comparison": {
+        "reasoning": "Acoustic structure comparison is a method used to analyze and contrast the characteristics of female songs in different contexts, specifically focusing on the differences in acoustic variables.",
+        "passages": [
+            "we examined the female songs of eastern bluebirds sung during within-pair communication and compared the acoustic structure to female songs used in other contexts.",
+            "Within-pair communication songs differed significantly from other female songs that we measured by six of the eight acoustic variables we measured."
+        ],
+        "confidence_score": 0.9
+    },
+    "within-pair communication song examination": {
+        "reasoning": "This method involves examining the specific songs used by female eastern bluebirds during communication with their social mates, which is critical for understanding the function of these vocalizations.",
+        "passages": [
+            "we examined the female songs of eastern bluebirds sung during within-pair communication"
+        ],
+        "confidence_score": 0.85
+    },
+    "variable distance analysis": {
+        "reasoning": "Variable distance analysis refers to the method of studying how the song structure of female birds changes or remains constant when sung over different distances, which is an important aspect of the research.",
+        "passages": [
+            "Additionally, we examined the song structure of within-pair communication songs at variable distances between mates and between neighbour females.",
+            "Song structure did not vary over distance."
+        ],
+        "confidence_score": 0.8
+    }
+}

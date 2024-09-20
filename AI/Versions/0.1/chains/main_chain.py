@@ -33,15 +33,15 @@ def create_summary_chain(json_structure, method_json_format, setence_analysis_js
         )
         | chat_prompt
         | llm
-        | summary_parser
+        | summary_parser            
     )
 
 
-def process_abstracts(abstracts: List[str], json_structure: str, method_json_format: str, setence_analysis_json_example: str):
+def process_abstracts(abstracts: List[str], json_structure: str, method_json_format: str, setence_analysis_json_example: str, index: int):
     
     for i, abstract in enumerate(abstracts):
         try:
-            summary_chain = create_summary_chain(json_structure, method_json_format, setence_analysis_json_example, i)
+            summary_chain = create_summary_chain(json_structure, method_json_format, setence_analysis_json_example, i=index + i)
             summary_chain_output = summary_chain.invoke({
                 "abstract": abstract,
                 "system_prompt": system_prompt.content,
@@ -52,7 +52,7 @@ def process_abstracts(abstracts: List[str], json_structure: str, method_json_for
             })
             print(json.dumps(summary_chain_output, indent=4))
             
-            json_print_to_file(f"summary_chain_output_{i}", summary_chain_output)
+            json_print_to_file(f"summary_chain_output_{index + i}", summary_chain_output)
         except Exception as e:
             print(f"Error: {type(e).__name__}: {str(e)}")
             import traceback

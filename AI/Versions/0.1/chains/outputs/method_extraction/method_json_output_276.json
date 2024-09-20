@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "multifrequency bioelectrical impedance analysis",
+        "regression analyses",
+        "bivariate regression analysis",
+        "multiple stepwise regression analysis",
+        "cross-validation"
+    ],
+    "multifrequency bioelectrical impedance analysis": {
+        "reasoning": "Multifrequency bioelectrical impedance analysis (MF-BIA) is a specific method used for measuring body composition, particularly appendicular lean mass, across multiple frequencies, which is central to the study's validation efforts.",
+        "passages": [
+            "we aimed to validate muscle-specific frequency BIA equation for ALM using multifrequency BIA (MF-BIA) with DXA as the reference."
+        ],
+        "confidence_score": 0.95
+    },
+    "regression analyses": {
+        "reasoning": "Regression analyses are statistical methods employed to understand the relationship between variables and to develop equations for estimating appendicular lean mass based on bioimpedance measures.",
+        "passages": [
+            "Regression analyses were used to find limb-specific frequencies of bioimpedance, to develop the ALM equations and to conduct the internal cross-validation."
+        ],
+        "confidence_score": 0.9
+    },
+    "bivariate regression analysis": {
+        "reasoning": "Bivariate regression analysis is a specific statistical technique used to evaluate the relationship between two variables, which in this case is applied to assess the predictive power of the impedance index on ALM.",
+        "passages": [
+            "Using bivariate regression analysis, the 2 MHz impedance index explained R-2 = 91.5% of variability (P < 0.001) in ALM."
+        ],
+        "confidence_score": 0.85
+    },
+    "multiple stepwise regression analysis": {
+        "reasoning": "Multiple stepwise regression analysis is a method used to develop predictive models by selecting independent variables that contribute to the prediction of appendicular lean mass, indicating a systematic approach to model building.",
+        "passages": [
+            "Multiple stepwise regression analysis obtained in the development group had an adjusted R-2 of 9.28% (P < 0.001) and a SEE of 0.97 kg ALM."
+        ],
+        "confidence_score": 0.85
+    },
+    "cross-validation": {
+        "reasoning": "Cross-validation is a technique used to assess the reliability and generalizability of the predictive models developed, ensuring that the findings are robust across different samples.",
+        "passages": [
+            "The six published equations and the final equation of MF-BIA were externally cross-validated."
+        ],
+        "confidence_score": 0.8
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "faith-based self-management education program",
+        "8-week education program",
+        "utilization of spiritual components"
+    ],
+    "faith-based self-management education program": {
+        "reasoning": "This method refers to the specific educational intervention designed to improve self-care activities for hypertension management among African Americans. It highlights the structured approach taken to address the health issue.",
+        "passages": [
+            "determine if a faith-based self-management education program would improve self-care activities related to the management of hypertension among African American adults"
+        ],
+        "confidence_score": 0.9
+    },
+    "8-week education program": {
+        "reasoning": "This keyword indicates the duration and structure of the educational intervention, providing a clear timeframe for the method used in the study.",
+        "passages": [
+            "completed an 8-week education program focused on strategies for hypertension management"
+        ],
+        "confidence_score": 0.85
+    },
+    "utilization of spiritual components": {
+        "reasoning": "This method describes specific elements included in the education program, such as prayer, Scripture reading, and journaling, which were integral to the educational approach.",
+        "passages": [
+            "The education program was enhanced with the utilization of spiritual components of prayer, Scripture reading, and journaling"
+        ],
+        "confidence_score": 0.8
+    }
+}

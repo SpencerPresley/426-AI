@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "exploratory qualitative research design",
+        "interviewing"
+    ],
+    "exploratory qualitative research design": {
+        "reasoning": "Exploratory qualitative research design is a specific methodological approach used to investigate the perceptions of military officers regarding organizational grit, indicating how the research was structured.",
+        "passages": [
+            "this study used an exploratory, qualitative research design"
+        ],
+        "confidence_score": 0.9
+    },
+    "interviewing": {
+        "reasoning": "Interviewing is the specific technique employed to gather data from participants about their perceptions, making it a clear methodological process in the research.",
+        "passages": [
+            "by interviewing leaders' perceptions of what may be a culture of organizational grit"
+        ],
+        "confidence_score": 0.95
+    }
+}

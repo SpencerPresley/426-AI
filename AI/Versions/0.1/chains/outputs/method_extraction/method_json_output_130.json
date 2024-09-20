@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "noise treatments",
+        "natural calls",
+        "robotic frogs",
+        "multimodal signal and noise treatments"
+    ],
+    "noise treatments": {
+        "reasoning": "Noise treatments are the specific experimental conditions set up to test the effects of different types of noise (acoustic, visual, multimodal) on female responses, making it a clear methodological approach.",
+        "passages": [
+            "Noise treatments were partitioned into three categories: acoustic, visual, and multimodal."
+        ],
+        "confidence_score": 0.95
+    },
+    "natural calls": {
+        "reasoning": "Natural calls refer to the authentic mating signals used in the experiment, which are a specific method of providing acoustic noise for the study.",
+        "passages": [
+            "We used natural calls from conspecifics and heterospecifics for acoustic noise."
+        ],
+        "confidence_score": 0.9
+    },
+    "robotic frogs": {
+        "reasoning": "Robotic frogs were employed as a method to create visual signals and noise, serving as a specific experimental tool to manipulate visual inputs in the study.",
+        "passages": [
+            "Robotic frogs were employed as either visual signal components (synchronous vocal sac inflation with call) or visual noise (asynchronous vocal sac inflation with call)."
+        ],
+        "confidence_score": 0.92
+    },
+    "multimodal signal and noise treatments": {
+        "reasoning": "Multimodal signal and noise treatments represent a specific experimental setup that combines different sensory modalities to assess their impact on female mate choice, thus qualifying as a method.",
+        "passages": [
+            "during multimodal signal and noise treatments (robofrogs employed with background noise)"
+        ],
+        "confidence_score": 0.88
+    }
+}

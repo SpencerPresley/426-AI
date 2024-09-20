@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "puppets as tools",
+        "classroom discourse"
+    ],
+    "puppets as tools": {
+        "reasoning": "Using puppets as tools is a specific method employed to engage students in conversations about probability, representing a unique approach to facilitate learning.",
+        "passages": [
+            "We describe how we used puppets as tools to draw 9 to 10-year-old students into conversations about probability."
+        ],
+        "confidence_score": 0.9
+    },
+    "classroom discourse": {
+        "reasoning": "Classroom discourse refers to the method of interaction and communication within the classroom setting, which is critical for facilitating discussions around probabilistic arguments.",
+        "passages": [
+            "Puppets supported classroom discourse by putting forth probabilistic arguments for critique."
+        ],
+        "confidence_score": 0.85
+    }
+}

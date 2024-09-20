@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "performance examination",
+        "alpha generation analysis",
+        "investor sentiment analysis"
+    ],
+    "performance examination": {
+        "reasoning": "Performance examination refers to the method of evaluating the effectiveness of hedged mutual funds in delivering promised returns, which is a specific analytical process used in the research.",
+        "passages": [
+            "We examine the performance of these funds with a focus on the post-2009 period."
+        ],
+        "confidence_score": 0.9
+    },
+    "alpha generation analysis": {
+        "reasoning": "Alpha generation analysis involves assessing the abnormal performance of the funds before the crisis, which is a specific method of evaluating investment performance.",
+        "passages": [
+            "While they generated positive alphas before the crisis, we find that this abnormal performance vanishes in the post-2009 period."
+        ],
+        "confidence_score": 0.85
+    },
+    "investor sentiment analysis": {
+        "reasoning": "Investor sentiment analysis is the method used to investigate the relationship between fund flows and investor sentiment, providing insight into investor behavior and decision-making processes.",
+        "passages": [
+            "We show that flows to hedged mutual funds are negatively related to investor sentiment."
+        ],
+        "confidence_score": 0.8
+    }
+}

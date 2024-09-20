@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "open-ended responses coding",
+        "mediational analysis"
+    ],
+    "open-ended responses coding": {
+        "reasoning": "Open-ended responses coding refers to the method of analyzing qualitative data collected from participants' beliefs about undocumented immigrants by identifying themes related to agent and victim perspectives.",
+        "passages": [
+            "In Study 1 participants provided open-ended responses regarding their beliefs about undocumented immigrants, which were coded for agent and victim themes."
+        ],
+        "confidence_score": 0.9
+    },
+    "mediational analysis": {
+        "reasoning": "Mediational analysis is a method used to understand the processes through which certain variables (like disgust/anger and empathy-related emotions) influence the relationship between other variables (agent typecast beliefs and support for policies).",
+        "passages": [
+            "I expected the agent effect to be mediated through disgust and anger and the victim effect to be mediated through empathy-related emotions."
+        ],
+        "confidence_score": 0.85
+    }
+}

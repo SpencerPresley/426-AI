@@ -1,0 +1,8 @@
+{
+    "summary": "This research investigates the significance of online reviews across diverse business sectors, highlighting their pervasive influence on consumer behavior and the potential consequences of both positive and negative feedback. The authors explore the challenges posed by the anonymity of online reviews, which can lead to false advertising and slander. They delve into the reasons behind biases in online ratings and propose methods for measuring these biases. By analyzing location-aware tweets, the study assesses the accuracy of online ratings by comparing them to consumer sentiment expressed on platforms like Yelp. The findings reveal varying biases across different cities and types of restaurants, leading to discussions about the implications for management and policy in the realm of online reputation management.",
+    "reasoning": "The summary encapsulates the main ideas presented in the abstract without delving into specific methodologies. It captures the essence of the research, including the significance of online reviews, the issues of anonymity and bias, and the implications for businesses. The reasoning is based on a comprehensive understanding of the abstract's content and the overarching themes discussed by the authors.",
+    "feedback": {
+        "methodologies_feedback": "The analysis is correct and sufficient, I have no feedback at this time.",
+        "abstract_sentence_analysis_feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+    }
+}

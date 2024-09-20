@@ -1,0 +1,24 @@
+{
+    "sentences": [
+        {
+            "sentence": "Statewide initiatives to address registered nurse and nursing faculty shortages funded through a percentage of pooled hospital-based revenue are described and evaluated.",
+            "meaning": "The abstract discusses programs aimed at solving the shortages of registered nurses and nursing faculty, which are financed by a portion of hospital revenue.",
+            "reasoning": "The sentence clearly states the focus of the research on initiatives that target nursing shortages and mentions the funding source, indicating a systematic approach to the problem.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "From 2016-2020, $90 million was awarded to 24 nursing programs for 106 competitive institutional grants and 532 faculty to prepare for or advance in teaching roles.",
+            "meaning": "Between 2016 and 2020, a total of $90 million was distributed among 24 nursing programs through grants aimed at preparing or enhancing the qualifications of 532 faculty members.",
+            "reasoning": "The sentence provides specific financial figures and numbers of programs and faculty involved, indicating the scale and intent of the funding.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Outcomes included increasing doctoral degree conferrals by 73% and adding 162 full-time and 190 part-time faculty to the workforce.",
+            "meaning": "The results of the initiatives showed a 73% increase in doctoral degrees awarded and the hiring of 162 full-time and 190 part-time faculty members.",
+            "reasoning": "This sentence summarizes the positive impact of the initiatives on educational outcomes and workforce expansion, highlighting key statistics.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The abstract presents an evaluation of statewide initiatives aimed at addressing nursing shortages through significant funding, resulting in improved educational outcomes and increased faculty numbers.",
+    "detailed_summary": "The research paper evaluates statewide initiatives designed to tackle the shortages of registered nurses and nursing faculty, which were funded by a percentage of pooled hospital revenue. Over the period from 2016 to 2020, these initiatives allocated $90 million to 24 nursing programs, resulting in 106 competitive grants and the preparation or advancement of 532 faculty members for teaching roles. The outcomes of these initiatives were significant, with a 73% increase in the number of doctoral degrees conferred and the addition of 162 full-time and 190 part-time faculty to the nursing workforce, demonstrating the effectiveness of the funding in addressing the identified shortages."
+}

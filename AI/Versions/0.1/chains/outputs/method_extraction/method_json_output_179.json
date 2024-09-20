@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "developmental assets framework",
+        "ecological-transactional frameworks",
+        "conceptually- and empirically-based hypotheses"
+    ],
+    "developmental assets framework": {
+        "reasoning": "The developmental assets framework is a specific methodological approach used to analyze the factors that contribute to youth civic engagement, particularly in the context of community violence.",
+        "passages": [
+            "Using developmental assets and ecological-transactional frameworks, we review the emerging literature on civic engagement among youth exposed to community violence"
+        ],
+        "confidence_score": 0.85
+    },
+    "ecological-transactional frameworks": {
+        "reasoning": "The ecological-transactional frameworks provide a structured method for examining the interactions between youth experiences and their environments, which is essential for understanding civic engagement in the context of community violence.",
+        "passages": [
+            "Using developmental assets and ecological-transactional frameworks, we review the emerging literature on civic engagement among youth exposed to community violence"
+        ],
+        "confidence_score": 0.8
+    },
+    "conceptually- and empirically-based hypotheses": {
+        "reasoning": "The presentation of conceptually- and empirically-based hypotheses indicates a methodological approach aimed at investigating the relationships between community violence and civic engagement, suggesting a structured process for further research.",
+        "passages": [
+            "We present numerous conceptually- and empirically-based hypotheses to further examine the intersections between exposure to community violence and youth civic engagement"
+        ],
+        "confidence_score": 0.75
+    }
+}

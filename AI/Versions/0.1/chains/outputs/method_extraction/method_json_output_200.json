@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "qualitative methods",
+        "large-scale quantitative studies",
+        "online survey"
+    ],
+    "qualitative methods": {
+        "reasoning": "Qualitative methods refer to the research techniques used to gather non-numerical data, which in this context has been used to investigate student goals for laboratory coursework.",
+        "passages": [
+            "studies on student goals for laboratory coursework have primarily been conducted using qualitative methods"
+        ],
+        "confidence_score": 0.85
+    },
+    "large-scale quantitative studies": {
+        "reasoning": "Large-scale quantitative studies involve the collection and analysis of numerical data from a significant sample size, which has been used to investigate faculty goals in laboratory coursework.",
+        "passages": [
+            "the goals of faculty have been thoroughly investigated through both qualitative and large-scale quantitative studies"
+        ],
+        "confidence_score": 0.8
+    },
+    "online survey": {
+        "reasoning": "An online survey is a specific data collection tool designed to gather information from participants, which in this case was used to investigate students' goals in the laboratory.",
+        "passages": [
+            "we have designed a brief, online survey",
+            "The survey was used to investigate students' goals in the laboratory"
+        ],
+        "confidence_score": 0.9
+    }
+}

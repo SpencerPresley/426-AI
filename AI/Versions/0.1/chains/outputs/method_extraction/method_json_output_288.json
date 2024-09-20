@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "online survey",
+        "field theory"
+    ],
+    "online survey": {
+        "reasoning": "The online survey is a specific method used to collect data from mobile journalists, allowing for the gathering of insights regarding their perceptions and roles in journalism.",
+        "passages": [
+            "the present study conducted an online survey of mobile journalists (N = 39) from six countries representing four continents"
+        ],
+        "confidence_score": 0.95
+    },
+    "field theory": {
+        "reasoning": "Field theory is a theoretical framework employed in the study to analyze the influences on mobile journalism, making it a methodological approach to understanding the context of the research.",
+        "passages": [
+            "Using the lens of field theory"
+        ],
+        "confidence_score": 0.85
+    }
+}

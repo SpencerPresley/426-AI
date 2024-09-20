@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "literature review",
+        "hypothesis development",
+        "primary data",
+        "secondary data",
+        "macro and network supply chain risk management practices"
+    ],
+    "literature review": {
+        "reasoning": "A literature review is a method used to gather existing research and theoretical frameworks relevant to the study, forming the basis for the research question and hypothesis.",
+        "passages": [
+            "we conduct a literature review and develop the corresponding hypothesis"
+        ],
+        "confidence_score": 0.9
+    },
+    "hypothesis development": {
+        "reasoning": "Hypothesis development is a methodological step where researchers formulate testable predictions based on the literature review, guiding the research's empirical investigation.",
+        "passages": [
+            "we conduct a literature review and develop the corresponding hypothesis"
+        ],
+        "confidence_score": 0.85
+    },
+    "primary data": {
+        "reasoning": "Primary data refers to data collected directly by the researchers for the specific purpose of the study, indicating a specific method of data collection.",
+        "passages": [
+            "We test our hypothesis using both primary and secondary data"
+        ],
+        "confidence_score": 0.9
+    },
+    "secondary data": {
+        "reasoning": "Secondary data refers to data that has been previously collected and is used in the study to analyze and test the hypothesis, representing a method of data utilization.",
+        "passages": [
+            "We test our hypothesis using both primary and secondary data"
+        ],
+        "confidence_score": 0.9
+    },
+    "macro and network supply chain risk management practices": {
+        "reasoning": "These practices represent specific strategies employed by organizations to manage supply chain risks, indicating a methodological approach to improve decision-making and mitigate negative impacts.",
+        "passages": [
+            "organisations that adopt macro and network supply chain risk management practices are able to improve managerial decision making frame, and mitigate the negative impact of environmental uncertainty on firm financial performance"
+        ],
+        "confidence_score": 0.88
+    }
+}

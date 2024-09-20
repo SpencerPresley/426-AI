@@ -1,0 +1,31 @@
+{
+    "methods": [
+        "Toulmin's model of argumentation",
+        "Structure of the Observed Learning Outcome (SOLO) model",
+        "qualitative data analysis"
+    ],
+    "Toulmin's model of argumentation": {
+        "reasoning": "Toulmin's model of argumentation is a specific methodological framework used for analyzing qualitative data, particularly in understanding how students justify their interpretive arguments.",
+        "passages": [
+            "The method draws upon Toulmin's (1958, 2003) model of argumentation for the first stage of qualitative data analysis",
+            "Toulmin analyses help identify the justifications and expressions of uncertainty students provide in their interpretive arguments."
+        ],
+        "confidence_score": 0.95
+    },
+    "Structure of the Observed Learning Outcome (SOLO) model": {
+        "reasoning": "The SOLO model is a specific analytical framework used in the second stage of qualitative data analysis to characterize the quality of student arguments, making it a clear methodological approach.",
+        "passages": [
+            "the Structure of the Observed Learning Outcome (SOLO) (Biggs & Collis, 1991) model for the second stage",
+            "Subsequent analyses based on the multi-modal conceptualization of SOLO help characterize the quality of student arguments relative to one another."
+        ],
+        "confidence_score": 0.9
+    },
+    "qualitative data analysis": {
+        "reasoning": "Qualitative data analysis is a general term for the process used to analyze non-numeric data, which is the overarching method employed in the study to assess students' reasoning.",
+        "passages": [
+            "we describe a research method designed to do so.",
+            "the first stage of qualitative data analysis"
+        ],
+        "confidence_score": 0.85
+    }
+}

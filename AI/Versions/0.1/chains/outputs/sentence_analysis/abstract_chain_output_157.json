@@ -1,0 +1,30 @@
+{
+    "sentences": [
+        {
+            "sentence": "Although the influence of regulations on economic outcomes has been well documented, few studies have focused on the geography of regulatory burdens.",
+            "meaning": "The impact of regulations on the economy is widely recognized, but there is limited research on how these regulations differ geographically.",
+            "reasoning": "The sentence contrasts the established knowledge of regulations' economic effects with the lack of geographical analysis, suggesting a gap in research.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The regulations confronting any supply chain can vary dramatically across legislative jurisdictions, as U.S. policy is enforced by overlapping federal, state, and local governments.",
+            "meaning": "Regulatory requirements can differ significantly depending on the level of government, which includes federal, state, and local authorities.",
+            "reasoning": "This sentence explains the complexity of regulatory environments due to multiple layers of government, highlighting the variability in regulations across different areas.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We use a unique data set to explore state-by-state regulatory variation in U.S. beer supply chains in 2020.",
+            "meaning": "The authors utilize a specific dataset to analyze how regulations differ from state to state in the beer supply chain for the year 2020.",
+            "reasoning": "This sentence outlines the methodology of the research, indicating the focus on beer supply chains and the year of analysis.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We find that the state-level rules targeted at the beer supply chain vary between 1,177 and 25,399, with the average state implementing 10,212 formal regulatory restrictions.",
+            "meaning": "The study reveals a significant range in the number of regulatory restrictions affecting the beer supply chain, with an average of over 10,000 rules per state.",
+            "reasoning": "This sentence presents the key findings of the research, quantifying the regulatory landscape and emphasizing the variability among states.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates the geographical differences in regulatory burdens on U.S. beer supply chains, highlighting significant variations in state-level regulations.",
+    "detailed_summary": "This research paper examines the geographical aspect of regulatory burdens, specifically focusing on the beer supply chain in the United States. While the economic impact of regulations is well understood, the authors note a lack of studies addressing how these regulations differ across various regions. They highlight that U.S. regulations can vary significantly due to the overlapping authority of federal, state, and local governments. Utilizing a unique dataset, the study analyzes the state-by-state variation in regulatory rules for the beer supply chain in 2020. The findings indicate a wide range of regulations, with states facing between 1,177 and 25,399 formal restrictions, and an average of 10,212 restrictions per state. This underscores the complexity and variability of regulatory environments impacting the beer supply chain across the United States."
+}

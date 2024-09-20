@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "RegData 3.0",
+        "empirical investigation"
+    ],
+    "RegData 3.0": {
+        "reasoning": "RegData 3.0 is a specific dataset used for analyzing regulatory restrictions, making it a methodological tool in the research.",
+        "passages": [
+            "Using RegData 3.0, we find that a 10% increase in industry-specific regulatory restrictions is associated with a 0.5% reduction in the number of firms regardless of firm size"
+        ],
+        "confidence_score": 0.9
+    },
+    "empirical investigation": {
+        "reasoning": "Empirical investigation refers to the method of collecting and analyzing data to test the theory regarding regulatory growth's impact on businesses, thus representing a specific research approach.",
+        "passages": [
+            "We empirically investigate the theory that regulatory growth within an industry disproportionately burdens small businesses relative to their larger competitors."
+        ],
+        "confidence_score": 0.85
+    }
+}

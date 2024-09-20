@@ -1,0 +1,48 @@
+{
+    "sentences": [
+        {
+            "sentence": "This article studies the influence of enterprise core competence on IT application maturity (ITAM) from the perspectives of management institutional and process management capabilities.",
+            "meaning": "The article examines how a company's core strengths affect the maturity of its IT applications, focusing on management capabilities.",
+            "reasoning": "The phrase 'enterprise core competence' refers to the unique strengths of a business, while 'IT application maturity' relates to how developed and effective the IT systems are. The perspectives mentioned indicate the specific aspects being analyzed.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The roles of firm ownership and international organization of standard (ISO) certifications are also studied.",
+            "meaning": "The research also investigates how the type of company ownership and ISO certifications impact the findings.",
+            "reasoning": "This sentence indicates that the study is not limited to core competencies but also considers external factors like ownership structure and adherence to international standards.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Based on reliable and valid measurements of IT applications maturity, management institutional capability, and process management capability, the authors collect corresponding data from 123 companies in China.",
+            "meaning": "The authors collected data from 123 Chinese companies using validated measures for the concepts being studied.",
+            "reasoning": "The sentence outlines the methodology, emphasizing the reliability and validity of the measurements used in the study, which is crucial for the credibility of the research.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "They find a positive relationship between capabilities and ITAM.",
+            "meaning": "The study reveals that there is a beneficial connection between the management capabilities of firms and the maturity of their IT applications.",
+            "reasoning": "The term 'positive relationship' indicates that as management capabilities improve, so does the IT application maturity, suggesting a direct correlation.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Management institutional capability has a stronger relationship with ITAM in Chinese state-owned enterprises or public companies; while multinational companies or joint ventures witness a stronger relationship with process management capability.",
+            "meaning": "In state-owned or public companies, management institutional capability is more closely linked to ITAM, whereas in multinational firms, process management capability plays a more significant role.",
+            "reasoning": "This sentence differentiates the impact of management capabilities based on the type of company, indicating varying influences depending on ownership structure.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "ISO helps companies with low management institutional capability to improve ITAM.",
+            "meaning": "For companies lacking strong management institutional capabilities, ISO certification aids in enhancing their IT application maturity.",
+            "reasoning": "The use of 'helps' suggests that ISO certification serves as a supportive factor for companies that are weaker in management capabilities.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "However, for companies with higher management institutional capability, ISO mitigates the relationship and poses a shift of the importance to process management capability in improving ITAM.",
+            "meaning": "In firms with strong management capabilities, ISO certification reduces the positive impact on ITAM and emphasizes the need for process management capabilities instead.",
+            "reasoning": "The term 'mitigates' implies that ISO lessens the direct relationship, suggesting a more complex interaction where process management becomes more critical.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The abstract explores the interplay between enterprise core competencies, management capabilities, ownership types, and ISO certifications in determining the maturity of IT applications in Chinese companies.",
+    "detailed_summary": "This research article investigates how the core competencies of enterprises influence the maturity of IT applications (ITAM), specifically through management institutional and process management capabilities. It also examines the effects of firm ownership and ISO certifications. Data was collected from 123 companies in China using reliable metrics for ITAM and management capabilities. The findings indicate a positive correlation between management capabilities and ITAM. Notably, management institutional capability is more influential in state-owned enterprises, while process management capability is more significant in multinational firms. Additionally, ISO certification aids firms with lower management capabilities in enhancing ITAM, but for those with higher management capacities, ISO reduces its impact and shifts the focus towards process management for ITAM improvement."
+}

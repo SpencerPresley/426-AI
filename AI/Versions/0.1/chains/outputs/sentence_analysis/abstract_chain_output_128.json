@@ -1,0 +1,66 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Hurricane Isabel (2003) generated record flooding around Chesapeake Bay and caused extensive damage in rural Eastern Shore of Maryland and metropolitan cities like Baltimore.",
+            "meaning": "Hurricane Isabel in 2003 caused significant flooding and damage in Chesapeake Bay and surrounding areas.",
+            "reasoning": "The sentence provides context about the historical impact of Hurricane Isabel, highlighting its severity and the areas affected.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Regional atmosphere-ocean models are used to investigate the storm surge and coastal inundation that might be produced by a similar storm under the warmer ocean temperature and higher sea level projected for the future climate.",
+            "meaning": "The study uses models to predict potential storm surges and flooding from future storms in a changing climate.",
+            "reasoning": "This sentence outlines the methodology of the research, indicating that models are employed to assess future scenarios based on climate projections.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Warming causes the storm to intensify, with the minimum sea level pressure decreasing from 955 mb during Isabel to similar to 950 mb in 2050 and similar to 940 mb in 2100.",
+            "meaning": "Climate warming is expected to lead to stronger storms, indicated by lower sea level pressure values in the future.",
+            "reasoning": "The sentence connects climate change to storm intensity, providing specific pressure values to illustrate the change over time.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "The stronger storm and higher mean sea level amplify the peak water level by similar to 0.5 m in 2050 and similar to 1.2 m in 2100.",
+            "meaning": "Future storms, intensified by climate change, will result in higher peak water levels.",
+            "reasoning": "This sentence quantifies the expected increase in water levels due to the combined effects of stronger storms and rising sea levels.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "The total inundated area over Chesapeake Bay expands by 26% in 2050 and 47-62% in 2100.",
+            "meaning": "The area affected by flooding in Chesapeake Bay is projected to increase significantly by the mid and late 21st century.",
+            "reasoning": "The sentence provides specific percentages indicating the growth of inundated areas, emphasizing the impact of climate change.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Over the rural Dorchester County, the inundated area shows moderate expansion in the future climate but the average inundation depth is 30% higher in 2050 and 50-70% higher in 2100.",
+            "meaning": "Inundation in Dorchester County will increase in depth, though the area affected will not expand as dramatically as elsewhere.",
+            "reasoning": "This sentence contrasts area expansion with depth increase, indicating a nuanced impact of climate change on different regions.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "The number of houses flooded increases from 1420 during Hurricane Isabel to 1850/2190 in 2100 under the climate change scenario representative concentration pathway (RCP) 4.5/8.5.",
+            "meaning": "The projected number of flooded homes will rise significantly by 2100 due to climate change.",
+            "reasoning": "This sentence provides specific figures to illustrate the increase in flooding risk for residential areas as climate scenarios evolve.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "The inundated area in Baltimore is 2.2 km(2) during Hurricane Isabel, expands to 5.1 km(2) in 2050, and reaches 8.1/9.1 km(2) in 2100 under RCP 4.5/8.5.",
+            "meaning": "Baltimore's flood-prone area will grow considerably over the coming decades due to climate change.",
+            "reasoning": "The sentence provides specific measurements of inundated area over time, illustrating the increasing risk of flooding in Baltimore.",
+            "confidence_score": 0.91
+        },
+        {
+            "sentence": "The estimated flood damage to Baltimore increases from $29 million in 2003 to $98/100 million in 2050 and $150/162 million in 2100 under the median projection of RCP 4.5/8.5.",
+            "meaning": "Projected flood damage costs in Baltimore will rise dramatically due to climate change.",
+            "reasoning": "The sentence gives specific dollar amounts to highlight the increasing financial impact of flooding in Baltimore over time.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "These estimates are subjected to uncertainty due to different climate change scenarios and different climate model projections.",
+            "meaning": "The projections made in the study come with uncertainties based on varying climate models and scenarios.",
+            "reasoning": "This sentence acknowledges the limitations and variability in the predictions, emphasizing the complexity of climate modeling.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the potential impacts of climate change on storm intensity, flooding, and damage in the Chesapeake Bay area, using Hurricane Isabel as a historical reference point.",
+    "detailed_summary": "The abstract discusses the significant flooding and damage caused by Hurricane Isabel in 2003, particularly in Chesapeake Bay and surrounding areas. It describes the use of regional atmosphere-ocean models to predict the effects of future storms under climate change scenarios, focusing on warmer ocean temperatures and rising sea levels. The study finds that climate warming is likely to intensify storms, resulting in lower sea level pressures and higher peak water levels. It predicts that the inundated area in Chesapeake Bay will expand significantly by 2050 and 2100, with specific increases noted for rural Dorchester County and Baltimore. The number of houses at risk of flooding and the estimated flood damage in Baltimore are also projected to rise dramatically. The abstract concludes by noting that these estimates carry uncertainties due to varying climate models and scenarios."
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "conceptual framework",
+        "empirical event-based human mortality database",
+        "communication strategies"
+    ],
+    "conceptual framework": {
+        "reasoning": "The conceptual framework is a method because it outlines a structured approach for understanding and analyzing the environmental impact risks associated with climate change.",
+        "passages": [
+            "This paper examines three-level environmental impact risks associated with climate change on human mortality. It proposes a conceptual framework for developing an empirical event-based human mortality database related to climate change"
+        ],
+        "confidence_score": 0.85
+    },
+    "empirical event-based human mortality database": {
+        "reasoning": "The empirical event-based human mortality database is a method as it refers to the specific process of collecting and organizing data related to human mortality events caused by climate change.",
+        "passages": [
+            "It proposes a conceptual framework for developing an empirical event-based human mortality database related to climate change"
+        ],
+        "confidence_score": 0.9
+    },
+    "communication strategies": {
+        "reasoning": "Communication strategies represent a method because they involve specific approaches to disseminate information and enhance adaptation and resilience to climate change.",
+        "passages": [
+            "and communication strategies to enhance global environmental adaptation, resilience, and sustainability"
+        ],
+        "confidence_score": 0.8
+    }
+}

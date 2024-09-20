@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "cross-sectional design",
+        "standardized floor rise test",
+        "physical performance assessments",
+        "structured task circuit"
+    ],
+    "cross-sectional design": {
+        "reasoning": "Cross-sectional design refers to the specific research methodology used to analyze data from a population at a single point in time, allowing for the examination of relationships between variables.",
+        "passages": [
+            "A cross-sectional design was used."
+        ],
+        "confidence_score": 0.95
+    },
+    "standardized floor rise test": {
+        "reasoning": "The standardized floor rise test is a specific method employed to assess the ability of participants to rise from the floor, providing a clear procedure for measurement in the study.",
+        "passages": [
+            "Twenty community-dwelling older adults with PD performed a standardized floor rise test."
+        ],
+        "confidence_score": 0.9
+    },
+    "physical performance assessments": {
+        "reasoning": "Physical performance assessments are specific evaluations conducted to measure various aspects of physical capability in participants, which are crucial for the study's analysis.",
+        "passages": [
+            "performed... physical performance assessments in a structured task circuit."
+        ],
+        "confidence_score": 0.85
+    },
+    "structured task circuit": {
+        "reasoning": "Structured task circuit refers to the organized method of conducting assessments and tests in a controlled environment, facilitating systematic data collection.",
+        "passages": [
+            "performed... in a structured task circuit."
+        ],
+        "confidence_score": 0.8
+    }
+}

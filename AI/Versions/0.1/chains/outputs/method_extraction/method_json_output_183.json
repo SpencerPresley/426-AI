@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "collaboration with the theater department",
+        "standardized patients (SPs) interaction",
+        "independent study"
+    ],
+    "collaboration with the theater department": {
+        "reasoning": "This method refers to the process of partnering with another department to create a unique educational experience, which is a specific approach used in this research.",
+        "passages": [
+            "a plan was developed to collaborate with the theater department to offer undergraduate theater students an opportunity to practice acting skills"
+        ],
+        "confidence_score": 0.85
+    },
+    "standardized patients (SPs) interaction": {
+        "reasoning": "This method involves using trained individuals to simulate real patient interactions, which is a specific technique employed to enhance nursing students' learning.",
+        "passages": [
+            "These theater students, trained as standardized patients (SPs), engaged with senior nursing students enrolled in a psychiatric mental health nursing clinical course"
+        ],
+        "confidence_score": 0.9
+    },
+    "independent study": {
+        "reasoning": "This method refers to a specific educational approach where students learn independently while being assessed, which is part of the structured learning process in this study.",
+        "passages": [
+            "to offer undergraduate theater students an opportunity to practice acting skills while taking an independent study"
+        ],
+        "confidence_score": 0.8
+    }
+}

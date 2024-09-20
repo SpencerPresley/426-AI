@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "hypothesized serial mediation model",
+        "multiple theoretical frameworks"
+    ],
+    "hypothesized serial mediation model": {
+        "reasoning": "The hypothesized serial mediation model is a specific analytical approach used to understand the relationships between self-leadership, PsyCap, coping self-efficacy, and health-protective behaviors, making it a clear method of analysis in the study.",
+        "passages": [
+            "this paper develops and tests a hypothesized serial mediation model in which PsyCap and coping self-efficacy mediate the relationship between self-leadership and health-protective behaviors"
+        ],
+        "confidence_score": 0.9
+    },
+    "multiple theoretical frameworks": {
+        "reasoning": "The use of multiple theoretical frameworks indicates the methodological approach taken to underpin the study, providing a basis for the hypotheses and analysis.",
+        "passages": [
+            "Using multiple theoretical frameworks (social cognitive theory, psychological resources theory, and the health belief model)"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "generalised estimating equations"
+    ],
+    "generalised estimating equations": {
+        "reasoning": "Generalised estimating equations (GEE) is a statistical method used to analyze longitudinal data, accounting for the correlation between repeated measures. It is a specific technique employed to analyze the data collected from the 530 Korean manufacturing firms.",
+        "passages": [
+            "We attempt to answer this question using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations."
+        ],
+        "confidence_score": 0.95
+    }
+}

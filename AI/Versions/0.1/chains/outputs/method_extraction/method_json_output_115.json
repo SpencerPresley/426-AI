@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "interpretative phenomenological analysis",
+        "participant selection"
+    ],
+    "interpretative phenomenological analysis": {
+        "reasoning": "Interpretative phenomenological analysis (IPA) is a qualitative research method used to understand how individuals make sense of their experiences, particularly in relation to critical racialized incidents in this study.",
+        "passages": [
+            "This interpretative phenomenological analysis (IPA) inquiry examined critical racialized incidents students of Color experienced in the graduate classroom at a predominantly White academic institution."
+        ],
+        "confidence_score": 0.95
+    },
+    "participant selection": {
+        "reasoning": "Participant selection refers to the specific process of choosing individuals who experienced the phenomena under investigation, which is crucial for qualitative studies like this one.",
+        "passages": [
+            "Five African American. 4 Latinx, 4 Asian American, and 1 Biracial student participated in the study."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "methods": [
+        "growth rate examination",
+        "diel-cycling dissolved oxygen treatments",
+        "temperature impact analysis"
+    ],
+    "growth rate examination": {
+        "reasoning": "Growth rate examination refers to the specific method used to assess the growth of Fundulus heteroclitus under varying conditions, making it a key methodological focus of the research.",
+        "passages": [
+            "Growth rate of Fundulus heteroclitus was examined at 25 and 30 degrees C"
+        ],
+        "confidence_score": 0.95
+    },
+    "diel-cycling dissolved oxygen treatments": {
+        "reasoning": "Diel-cycling dissolved oxygen treatments are the specific experimental conditions applied to study their effects on fish growth, representing a defined methodological approach.",
+        "passages": [
+            "in nine treatments of diel-cycling dissolved oxygen (DO) and pH",
+            "Extreme diel-cycling DO (1-11 mg O2.L-1) negatively impacted growth"
+        ],
+        "confidence_score": 0.9
+    },
+    "temperature impact analysis": {
+        "reasoning": "Temperature impact analysis refers to the method of evaluating how different temperatures (25 and 30 degrees C) affect fish growth in conjunction with dissolved oxygen levels, forming a critical part of the research methodology.",
+        "passages": [
+            "at 25 and 30 degrees C",
+            "Diel-cycling DO interacts synergistically with temperature to impact growth"
+        ],
+        "confidence_score": 0.85
+    }
+}

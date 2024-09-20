@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "data analysis",
+        "draft lottery change analysis"
+    ],
+    "data analysis": {
+        "reasoning": "Data analysis refers to the systematic examination of data collected from the WNBA seasons (2000-2019) to draw conclusions about team performance and tanking behavior, making it a core methodological approach in the research.",
+        "passages": [
+            "Using data from the 2000-2019 seasons, results indicate that WNBA teams are more likely to lose after they have been eliminated from postseason playoffs"
+        ],
+        "confidence_score": 0.9
+    },
+    "draft lottery change analysis": {
+        "reasoning": "Draft lottery change analysis involves examining the effects of the 2015 changes in the draft lottery system on team behavior, specifically focusing on the phenomenon of tanking, which is a specific analytical approach used in the research.",
+        "passages": [
+            "Evidence of tanking is concentrated in seasons after the WNBA made a draft lottery change in 2015, which was intended to reduce tanking."
+        ],
+        "confidence_score": 0.85
+    }
+}

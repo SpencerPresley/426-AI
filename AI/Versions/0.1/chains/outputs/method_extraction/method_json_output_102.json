@@ -1,0 +1,60 @@
+{
+    "methods": [
+        "Harmonized China Health and Retirement Longitudinal Study",
+        "expenditure-to-income ratio",
+        "financial assets ratio",
+        "Center for Epidemiologic Studies Depression Scale (CES-D)",
+        "ordinary least squares (OLS) model",
+        "random effects model",
+        "fixed effects model"
+    ],
+    "Harmonized China Health and Retirement Longitudinal Study": {
+        "reasoning": "This is a specific longitudinal study used to collect data over two waves, which forms the basis for the research methodology.",
+        "passages": [
+            "This study used two waves (2015 and 2018) of the Harmonized China Health and Retirement Longitudinal Study."
+        ],
+        "confidence_score": 0.95
+    },
+    "expenditure-to-income ratio": {
+        "reasoning": "This ratio is a specific financial metric used to objectively measure financial well-being, making it a methodological focus of the study.",
+        "passages": [
+            "Two financial ratios: the expenditure-to-income ratio and the financial assets ratio, were used to measure the objective aspect of financial well-being."
+        ],
+        "confidence_score": 0.9
+    },
+    "financial assets ratio": {
+        "reasoning": "Similar to the expenditure-to-income ratio, this is another specific metric used to assess the objective aspect of financial well-being.",
+        "passages": [
+            "Two financial ratios: the expenditure-to-income ratio and the financial assets ratio, were used to measure the objective aspect of financial well-being."
+        ],
+        "confidence_score": 0.9
+    },
+    "Center for Epidemiologic Studies Depression Scale (CES-D)": {
+        "reasoning": "This is a standardized scale specifically used to measure depression symptoms, which is a key aspect of the research methodology.",
+        "passages": [
+            "Depression symptoms were measured using the Center for Epidemiologic Studies Depression Scale (CES-D) score."
+        ],
+        "confidence_score": 0.95
+    },
+    "ordinary least squares (OLS) model": {
+        "reasoning": "This is a specific statistical method used for analyzing the relationships between variables in the study, representing a core analytical approach.",
+        "passages": [
+            "Three analytical models, including an ordinary least squares (OLS) model, an OLS model controlling for lagged depression and a random effects model using panel data, were used to examine the relationships."
+        ],
+        "confidence_score": 0.9
+    },
+    "random effects model": {
+        "reasoning": "This is another specific statistical model employed to analyze panel data, making it a key method in the research.",
+        "passages": [
+            "Three analytical models, including an ordinary least squares (OLS) model, an OLS model controlling for lagged depression and a random effects model using panel data, were used to examine the relationships."
+        ],
+        "confidence_score": 0.9
+    },
+    "fixed effects model": {
+        "reasoning": "This refers to a specific analytical approach used to assess the significance of variables over time, which is critical for understanding the data in the study.",
+        "passages": [
+            "The robustness check using the fixed effects model showed no significance of the two ratios."
+        ],
+        "confidence_score": 0.85
+    }
+}

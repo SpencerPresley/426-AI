@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "experiments"
+    ],
+    "experiments": {
+        "reasoning": "Experiments are a specific research method used to investigate the perceptions of consumers regarding contactless payment technology compared to traditional payment methods. This indicates a structured approach to data collection and analysis.",
+        "passages": [
+            "Two experiments demonstrate that contactless payment methods, when compared with traditional, contact forms of payments such as cash and credit card transactions, are perceived as less contaminated."
+        ],
+        "confidence_score": 0.9
+    }
+}

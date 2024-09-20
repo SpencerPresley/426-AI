@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "counter-balanced cross-over design",
+        "Trails Making Tests A and B",
+        "Mixed design ANOVA tests"
+    ],
+    "counter-balanced cross-over design": {
+        "reasoning": "The counter-balanced cross-over design is a specific methodological approach used to assign participants to different conditions, ensuring that each participant experiences both the vigorous physical activity and sedentary conditions, which helps control for individual variability.",
+        "passages": [
+            "Two groups of participants were assigned to receive either a vigorous physical activity or a sedentary condition within a counter-balanced cross-over design"
+        ],
+        "confidence_score": 0.95
+    },
+    "Trails Making Tests A and B": {
+        "reasoning": "Trails Making Tests A and B are specific tests used to measure executive control, providing a clear method for assessing cognitive performance in the study.",
+        "passages": [
+            "Both groups were administered Trails Making Tests A (TMT-A) and B (TMT-B) at 20- and 25-min post-treatment, respectively."
+        ],
+        "confidence_score": 0.9
+    },
+    "Mixed design ANOVA tests": {
+        "reasoning": "Mixed design ANOVA tests are statistical methods used to analyze the differences in performance between the treatment groups, making it a key analytical approach in the research.",
+        "passages": [
+            "Mixed design ANOVA tests with repeated measures examined differences between treatments on TMT-A and TMT-B performance"
+        ],
+        "confidence_score": 0.92
+    }
+}

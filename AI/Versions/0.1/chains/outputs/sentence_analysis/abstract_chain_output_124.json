@@ -1,0 +1,60 @@
+{
+    "sentences": [
+        {
+            "sentence": "The aim of the study was to examine and describe student perceptions of severity of violations, faculty support, and support for program improvement strategies related to willingness to report peer violations.",
+            "meaning": "The study intends to investigate how students perceive the seriousness of academic violations, the support they receive from faculty, and their views on program improvements that could influence their willingness to report peer misconduct.",
+            "reasoning": "The sentence clearly outlines the objectives of the research, focusing on student perceptions regarding violations and support systems.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Peer reporting is important when students witness dishonest behaviors.",
+            "meaning": "It is crucial for students to report dishonest actions they observe among their peers.",
+            "reasoning": "This sentence emphasizes the significance of peer reporting in maintaining academic integrity, indicating that student involvement is necessary.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "To foster academic integrity, exploration of the willingness to report is needed.",
+            "meaning": "Understanding the factors that influence students' willingness to report is essential for promoting academic integrity.",
+            "reasoning": "This sentence suggests that investigating reporting willingness is a key step in enhancing academic integrity within educational settings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Using McCabe's Academic Integrity Survey-Modified for Nursing Students, 442 baccalaureate students were surveyed.",
+            "meaning": "The researchers conducted a survey using a modified version of an existing tool, targeting 442 nursing students.",
+            "reasoning": "This sentence provides information about the methodology used in the study, including the specific survey instrument and the population sampled.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The more students felt faculty supported related policies, the more willing students were to report (r(s) = .298, alpha = .05).",
+            "meaning": "There is a positive correlation between students' perception of faculty support for reporting policies and their willingness to report violations.",
+            "reasoning": "The sentence presents a statistical finding that indicates a relationship between faculty support and students' reporting behavior.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The more students understood what was considered a violation, the more willing they were to report (r(s) = .485, alpha = .05).",
+            "meaning": "A greater understanding of what constitutes a violation correlates with an increased willingness to report such violations.",
+            "reasoning": "This finding highlights the importance of clarity regarding violations in encouraging reporting behaviors among students.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The more students believed program-wide strategies could prevent violations, the more willing they were to report (r(s) = .231, alpha = .05).",
+            "meaning": "Students' belief in the effectiveness of program-wide strategies to prevent violations positively affects their willingness to report.",
+            "reasoning": "This suggests that students are more likely to report if they feel that their program has effective measures in place to deter misconduct.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Education that helps define academic integrity can contribute to nursing students' willingness to report peer violations.",
+            "meaning": "Teaching students about academic integrity can enhance their likelihood of reporting misconduct among peers.",
+            "reasoning": "This conclusion highlights the role of education in shaping students' attitudes and behaviors regarding reporting violations.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Faculty support of policies and program-wide strategies contribute.",
+            "meaning": "Support from faculty for reporting policies and the implementation of program-wide strategies play a significant role in encouraging reporting.",
+            "reasoning": "This statement reinforces the idea that both faculty support and institutional strategies are critical in fostering a culture of reporting.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research investigates the factors that influence nursing students' willingness to report academic violations, emphasizing the importance of faculty support, understanding of violations, and effective program strategies.",
+    "detailed_summary": "This study aims to explore nursing students' perceptions regarding the severity of academic violations, the support they receive from faculty, and their views on program improvement strategies that may affect their willingness to report peer violations. The importance of peer reporting in maintaining academic integrity is highlighted, suggesting that understanding the willingness to report is crucial for fostering a culture of integrity. The researchers surveyed 442 baccalaureate nursing students using a modified version of McCabe's Academic Integrity Survey. The results indicate that students who perceive strong faculty support for reporting policies, understand what constitutes violations, and believe in effective program-wide strategies are more likely to report misconduct. The study concludes that education on academic integrity and faculty support are pivotal factors in enhancing students' willingness to report peer violations."
+}

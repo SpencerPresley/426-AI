@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "analyses based on the US light vehicle market"
+    ],
+    "analyses based on the US light vehicle market": {
+        "reasoning": "This phrase indicates a specific analytical approach used to examine the relationship between electric vehicle sales and environmental lobbying, representing a methodological process in the research.",
+        "passages": [
+            "Our analyses based on the US light vehicle market indicate that, indeed, the more electric vehicles automakers sell relative to their total sale volumes, the more they will engage in environmental lobbying."
+        ],
+        "confidence_score": 0.85
+    }
+}

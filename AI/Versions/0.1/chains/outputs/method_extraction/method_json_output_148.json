@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "documenting MM use",
+        "analyzing risk-taking behaviors"
+    ],
+    "documenting MM use": {
+        "reasoning": "Documenting MM use refers to the process of collecting and presenting data regarding the usage of mobile money, which is a specific methodological approach to understanding its impact.",
+        "passages": [
+            "This paper documents that MM use leads to the heightened probability of gambling"
+        ],
+        "confidence_score": 0.85
+    },
+    "analyzing risk-taking behaviors": {
+        "reasoning": "Analyzing risk-taking behaviors involves examining the relationship between mobile money usage and behaviors such as gambling, which is a specific analytical method employed in the research.",
+        "passages": [
+            "little is known about whether and how MM use influences risk-taking behaviors such as gambling"
+        ],
+        "confidence_score": 0.9
+    }
+}

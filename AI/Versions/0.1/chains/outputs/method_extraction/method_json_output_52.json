@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "zygomaxillare landmark identification",
+        "digital imaging",
+        "data collection",
+        "pairwise comparisons",
+        "PGLS analysis"
+    ],
+    "zygomaxillare landmark identification": {
+        "reasoning": "Zygomaxillare landmark identification is a specific method used to define and record the position of the zygomatic root, which is crucial for the research's focus on craniofacial features.",
+        "passages": [
+            "Zygomatic root position, as defined by the zygomaxillare landmark, was identified and recorded from digital images and physical specimens of adult primate crania."
+        ],
+        "confidence_score": 0.9
+    },
+    "digital imaging": {
+        "reasoning": "Digital imaging is a method employed to capture the necessary visual data of primate crania for subsequent analysis, making it a clear methodological approach.",
+        "passages": [
+            "identified and recorded from digital images and physical specimens of adult primate crania."
+        ],
+        "confidence_score": 0.85
+    },
+    "data collection": {
+        "reasoning": "Data collection refers to the systematic gathering of information from the 33 haplorhine species, which is essential for the empirical analysis conducted in the study.",
+        "passages": [
+            "Data were collected from 33 haplorhine species (n = 722)."
+        ],
+        "confidence_score": 0.95
+    },
+    "pairwise comparisons": {
+        "reasoning": "Pairwise comparisons is a statistical method used to evaluate the differences in zygomatic root position between groups based on their dietary types, representing a key analytical technique in the study.",
+        "passages": [
+            "Pairwise comparisons between mechanically challenging (hard and/or tough) and less mechanically challenging (soft) consumers found significant differences."
+        ],
+        "confidence_score": 0.9
+    },
+    "PGLS analysis": {
+        "reasoning": "PGLS (Phylogenetic Generalized Least Squares) analysis is a specific statistical method used to assess the effect of phylogeny on root position, making it an important aspect of the research methodology.",
+        "passages": [
+            "PGLS analysis found no significant effect of phylogeny on root position."
+        ],
+        "confidence_score": 0.85
+    }
+}

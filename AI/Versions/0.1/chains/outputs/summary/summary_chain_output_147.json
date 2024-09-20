@@ -1,0 +1,8 @@
+{
+    "summary": "The research investigates the unclear decision-making processes of analysts when revising target prices based on earnings and non-earnings forecasts. To clarify this process, the authors introduce a new metric, Internal Relevance (IR), which quantifies how revisions in consensus earnings and sales forecasts influence target price adjustments. The study finds that stocks with higher IR experience more significant market reactions, including increased abnormal returns, trading volumes, and volatility. These findings are validated through various robustness checks. Additionally, the authors demonstrate the practical application of IR in selecting stocks to enhance trading profitability.",
+    "reasoning": "The summary captures the essence of the research by highlighting the main objectives, the introduction of the Internal Relevance metric, and its implications for market reactions and stock screening. It avoids specific methodological details while focusing on the outcomes and significance of the findings, providing a clear overview of the research's contributions to understanding analysts' decision-making processes.",
+    "feedback": {
+        "methodologies_feedback": "The analysis is correct and sufficient, I have no feedback at this time.",
+        "abstract_sentence_analysis_feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+    }
+}

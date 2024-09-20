@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "Integrated Capacious Model of Leadership Identities Construction",
+        "diagnostic tool",
+        "leader development programs"
+    ],
+    "Integrated Capacious Model of Leadership Identities Construction": {
+        "reasoning": "The Integrated Capacious Model of Leadership Identities Construction (ICM) is a specific framework that integrates various theories and systems to understand leader identity, making it a methodological approach to analyzing and constructing leader identities.",
+        "passages": [
+            "The Integrated Capacious Model of Leadership Identities Construction (ICM) is a framework for understanding leader identity that integrates four extant leader identity theories with the systems and influences in the Capacious Model of leader identity."
+        ],
+        "confidence_score": 0.9
+    },
+    "diagnostic tool": {
+        "reasoning": "The term 'diagnostic tool' refers to a specific application of the ICM that is used to assess and construct leader identity, representing a methodological approach in the research.",
+        "passages": [
+            "the model presents leader identity as a construct located across space, time, and people, rather than the purview of a heroic leader or single instance of identity claiming. Examples are provided of the practical utility of using the ICM as a diagnostic tool for constructing a leader identity"
+        ],
+        "confidence_score": 0.85
+    },
+    "leader development programs": {
+        "reasoning": "This refers to specific programs designed to enhance or construct leader identities, which is a methodological application of the ICM framework in practical settings.",
+        "passages": [
+            "designing leader development programs"
+        ],
+        "confidence_score": 0.8
+    }
+}

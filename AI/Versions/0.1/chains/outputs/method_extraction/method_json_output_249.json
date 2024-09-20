@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "chronotopic-scalar system",
+        "spatiotemporal understandings",
+        "analysis of language use",
+        "decentralizing language"
+    ],
+    "chronotopic-scalar system": {
+        "reasoning": "The chronotopic-scalar system is a methodological framework proposed by the author for analyzing language use and multilingual practices, indicating a specific approach to understanding linguistic phenomena.",
+        "passages": [
+            "I argue for a chronotopic-scalar system of images and resolutions in the analysis of language use in general and multilingual practices in particular."
+        ],
+        "confidence_score": 0.9
+    },
+    "spatiotemporal understandings": {
+        "reasoning": "Spatiotemporal understandings refer to a methodological approach that incorporates the dimensions of space and time in analyzing linguistic resources, thus representing a specific analytical technique.",
+        "passages": [
+            "I discuss the utility of spatiotemporal understandings of repertoires of resources and normalcies in capturing the variability, dynamicity, and complexity of semiotic practices."
+        ],
+        "confidence_score": 0.85
+    },
+    "analysis of language use": {
+        "reasoning": "The analysis of language use is a broad methodological approach described in the abstract, indicating the process through which the author examines linguistic practices among Iranian Azerbaijanis.",
+        "passages": [
+            "I argue for a chronotopic-scalar system of images and resolutions in the analysis of language use in general and multilingual practices in particular."
+        ],
+        "confidence_score": 0.8
+    },
+    "decentralizing language": {
+        "reasoning": "Decentralizing language is presented as a methodological stance that shifts focus from traditional views of language, allowing for a more nuanced examination of language ideologies and practices.",
+        "passages": [
+            "Through decentralizing language(s) and foregrounding context(s) and contextualization, I argue, the chronotope enables us to analyze not only social actors' hybrid utilization of semiotic resources in meaning-making processes."
+        ],
+        "confidence_score": 0.75
+    }
+}

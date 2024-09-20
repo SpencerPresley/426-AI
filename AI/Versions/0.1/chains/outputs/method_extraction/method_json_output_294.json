@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "quasi-natural experiment",
+        "exogenous shock analysis",
+        "empirical evidence measurement"
+    ],
+    "quasi-natural experiment": {
+        "reasoning": "A quasi-natural experiment is a method used to study the effects of an intervention or treatment in a non-randomized setting, which in this case is applied to analyze airfare and booking patterns around the Super Bowl.",
+        "passages": [
+            "design a quasi-natural experiment to identify market-specific airfare and booking patterns"
+        ],
+        "confidence_score": 0.9
+    },
+    "exogenous shock analysis": {
+        "reasoning": "Exogenous shock analysis refers to the examination of unforeseen events that impact a market, which here pertains to the effects of the NFL conference championship round results on airfare and booking patterns.",
+        "passages": [
+            "exploit the exogenous shock created by the National Football League conference championship round results"
+        ],
+        "confidence_score": 0.85
+    },
+    "empirical evidence measurement": {
+        "reasoning": "Empirical evidence measurement involves quantifying data to assess the impact of an event, specifically measuring changes in airfare and bookings before and after the championship games.",
+        "passages": [
+            "quantify the impact on the resolution in uncertainty by measuring the changes in airfare and bookings, before and after the conference championship games"
+        ],
+        "confidence_score": 0.88
+    }
+}

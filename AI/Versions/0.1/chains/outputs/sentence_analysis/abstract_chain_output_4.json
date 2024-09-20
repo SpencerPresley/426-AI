@@ -1,0 +1,78 @@
+{
+    "sentences": [
+        {
+            "sentence": "National guidelines created by the Agency for Healthcare Research and Quality (AHRQ), the American College of Emergency Physicians (ACEP), and the American College of Physicians (ACP) support the use of nonsteroidal anti-inflammatory drugs (NSAIDs) over opioids when treating acute low back pain (AHRQ, 2016;Harrison, 2017;Qaseem, Wilt, McLean, Forciea, & Clinical Guidelines Committee of the American College of Physicians, 2017).",
+            "meaning": "The AHRQ, ACEP, and ACP recommend using NSAIDs instead of opioids for treating acute low back pain.",
+            "reasoning": "The sentence outlines the recommendations from several authoritative health organizations regarding the preferred treatment for a specific condition.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Opioids not only have many more side effects than NSAIDs but also carry the risk of opioid abuse and overdose (Qaseem et al., 2017).",
+            "meaning": "Opioids are associated with greater side effects and pose risks of abuse and overdose compared to NSAIDs.",
+            "reasoning": "The sentence contrasts opioids with NSAIDs, emphasizing the negative aspects of opioid use.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The purpose of this study was to determine whether emergency department (ED) providers, including physicians, nurse practitioners, and physician assistants, are following evidence-based low back pain management guidelines by assessing the measurement of opioid versus NSAID prescribing.",
+            "meaning": "This study aims to evaluate if ED providers adhere to guidelines for managing low back pain by comparing opioid and NSAID prescriptions.",
+            "reasoning": "The sentence clearly states the study's objective and the population being studied.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "A retrospective chart review including data from January through June 2017 was conducted at a rural ED.",
+            "meaning": "The research involved reviewing patient charts from a rural emergency department for a specific time period.",
+            "reasoning": "The sentence describes the methodology used in the study, indicating it was retrospective and focused on a particular location and time frame.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "Subject inclusion criteria were as follows: older than 18 years, had experienced new-onset low back pain within the last 1 month, and had been given an ICD-10 (International Classification of Diseases, Tenth Revision) code of M54.5.",
+            "meaning": "Participants in the study had to be adults with recent low back pain and a specific medical coding classification.",
+            "reasoning": "The sentence outlines the criteria for including subjects in the study, which is essential for understanding the study population.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Data regarding the type of provider seen, the treatment the provider prescribed, and demographics were collected.",
+            "meaning": "Information was gathered about the healthcare providers involved, the treatments given, and the demographics of the subjects.",
+            "reasoning": "This sentence summarizes the types of data collected for the study, which is crucial for analysis.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Inclusion criteria were met by 162 subjects.",
+            "meaning": "A total of 162 individuals qualified for the study based on the inclusion criteria.",
+            "reasoning": "This sentence provides a quantitative aspect of the study, indicating the sample size.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "While 52.5% of subjects were prescribed an NSAID at discharge, 53.7% were prescribed an opioid at discharge.",
+            "meaning": "More subjects received opioid prescriptions at discharge than NSAID prescriptions.",
+            "reasoning": "The sentence presents data comparing the proportions of NSAID and opioid prescriptions among the subjects.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "Subjects whose injury was work related were less likely to receive an opioid prescription (p= 0.027, 95% CL).",
+            "meaning": "Patients with work-related injuries had a lower likelihood of being prescribed opioids.",
+            "reasoning": "This sentence discusses a specific finding related to the type of injury and its effect on prescription practices.",
+            "confidence_score": 0.91
+        },
+        {
+            "sentence": "Subjects whose pain started within 3 days were more likely to receive an opioid prescription than those whose pain had started more than 3 days before being seen (p= 0.018, 95% CL).",
+            "meaning": "Patients with recent pain onset were more frequently prescribed opioids compared to those with longer-standing pain.",
+            "reasoning": "The sentence highlights another finding regarding the timing of pain onset and its influence on prescription decisions.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "Despite the current evidence-based guidelines by the AHRQ, ACEP, and ACP against opioid prescribing for acute low back pain, more subjects received an opioid prescription at discharge than a prescription for an NSAID.",
+            "meaning": "The study found that in practice, opioid prescriptions exceeded NSAID prescriptions, contrary to established guidelines.",
+            "reasoning": "This sentence summarizes a key conclusion of the study, indicating a discrepancy between guidelines and actual prescribing behavior.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "This retrospective chart review determined the need for increased ED provider education regarding treatment modalities for acute low back pain.",
+            "meaning": "The study concluded that emergency department providers require better education on treating acute low back pain.",
+            "reasoning": "The sentence reflects the implications of the study's findings, suggesting a need for improved training.",
+            "confidence_score": 0.93
+        }
+    ],
+    "overall_theme": "The research highlights the discrepancy between established guidelines recommending NSAIDs over opioids for acute low back pain and the actual prescribing practices observed in emergency departments.",
+    "detailed_summary": "This study investigates the adherence of emergency department providers to established guidelines regarding the treatment of acute low back pain, specifically comparing the prescriptions of nonsteroidal anti-inflammatory drugs (NSAIDs) and opioids. The research was conducted through a retrospective chart review at a rural emergency department, examining data from 162 patients who met specific inclusion criteria related to age and recent onset of low back pain. The findings revealed that a higher percentage of patients received opioid prescriptions compared to NSAIDs, despite guidelines recommending the latter. Notably, work-related injuries were associated with lower opioid prescription rates, and patients with pain onset within three days were more likely to receive opioids. The study underscores the need for enhanced education for emergency department providers on appropriate treatment options for acute low back pain to align practice with evidence-based guidelines."
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "difference-in-differences comparison",
+        "US Vital Statistics data analysis"
+    ],
+    "difference-in-differences comparison": {
+        "reasoning": "Difference-in-differences comparison is a specific analytical method used to estimate the causal effects of the EITC programme by comparing treatment households to control groups.",
+        "passages": [
+            "Alternative difference-in-differences (DD) comparison groups compare treatment households with like households in non-EITC counties and ineligible households in the same county."
+        ],
+        "confidence_score": 0.9
+    },
+    "US Vital Statistics data analysis": {
+        "reasoning": "US Vital Statistics data analysis refers to the method of using comprehensive birth data to assess the impact of the local EITC programme on birth outcomes.",
+        "passages": [
+            "We use US Vital Statistics data for all births in Maryland from 1995-2004 to capture the casual effects of implementing a local EITC programme across households."
+        ],
+        "confidence_score": 0.95
+    }
+}

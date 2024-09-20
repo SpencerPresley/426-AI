@@ -1,0 +1,30 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities.",
+            "meaning": "The research investigates how managers' views of employees' commitment to the organization impact their evaluations of those employees' chances for career advancement.",
+            "reasoning": "The phrase 'perceived organizational commitment' indicates that the study focuses on how managers perceive their employees' dedication to the organization, and 'assessments of employees' career growth opportunities' suggests an evaluation of potential career progression.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization.",
+            "meaning": "The study utilized data from 161 legal secretaries and their managers, finding that managers interpret employees' positive behaviors and attitudes as indicators of their emotional commitment to the organization.",
+            "reasoning": "The phrase 'paired sample' suggests a direct comparison between employees and their managers, while 'strong extra-role performance and enhanced work engagement' provides specific examples of behaviors that inform managers' perceptions.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities.",
+            "meaning": "Employees who are viewed as strongly committed to the organization tend to have better chances for both the quality and framework of career advancement.",
+            "reasoning": "The use of 'enhanced content and structural career growth opportunities' implies that these employees benefit from both the nature of their roles and the overall career framework within the organization.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+            "meaning": "The connection between how managers view employees' commitment to the organization and the employees' career growth is more significant for those who are also seen as committed to their own careers.",
+            "reasoning": "The comparison of 'highly committed to their careers' versus 'less committed to their careers' suggests a differentiation in how commitment influences career opportunities, indicating that dual commitment amplifies the effect.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research highlights the influence of managers' perceptions of employee commitment on career growth opportunities, emphasizing the importance of both organizational and personal commitment.",
+    "detailed_summary": "This study explores how perceived organizational commitment affects managers' evaluations of their employees' career growth opportunities. Utilizing a paired sample of 161 legal secretaries and their managers, the findings reveal that managers interpret employees' positive attitudes and behaviors, such as strong extra-role performance and work engagement, as indicators of their commitment to the organization. Consequently, employees who are perceived as highly committed enjoy better content and structural career growth opportunities. Furthermore, the study notes that the relationship between managers' perceptions of employees' commitment and their career opportunities is more pronounced for those employees who are also viewed as committed to their own careers, suggesting that dual commitment is beneficial for career advancement."
+}

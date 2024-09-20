@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "self-report surveys",
+        "longitudinal study",
+        "mediation analysis"
+    ],
+    "self-report surveys": {
+        "reasoning": "Self-report surveys are a method of data collection where participants provide information about their own experiences and perceptions, which is essential for measuring humor styles and their associations with well-being.",
+        "passages": [
+            "Two studies examined relations of humor styles with well-being, social support, cognitive reappraisal, and social competence."
+        ],
+        "confidence_score": 0.9
+    },
+    "longitudinal study": {
+        "reasoning": "A longitudinal study is a research design that follows participants over a period of time to observe changes and developments, which is indicated by the tracking of undergraduates over ten weeks in Study 2.",
+        "passages": [
+            "Study 2 followed undergraduates (N = 193) over ten weeks."
+        ],
+        "confidence_score": 0.85
+    },
+    "mediation analysis": {
+        "reasoning": "Mediation analysis is a statistical method used to understand the mechanisms through which one variable affects another, as seen in the exploration of how reappraisal and social support mediate the relationships between humor styles and psychological distress.",
+        "passages": [
+            "self-enhancing and affiliative humor were associated fewer health difficulties and less psychological distress, mediated by reappraisal and social support, respectively.",
+            "Social support and reappraisal mediated relations of humor styles with T1 distress."
+        ],
+        "confidence_score": 0.95
+    }
+}

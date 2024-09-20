@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "literary stylistics",
+        "sociolinguistics of mobility",
+        "pedagogical linguistics",
+        "political economy"
+    ],
+    "literary stylistics": {
+        "reasoning": "Literary stylistics refers to the method of analyzing the style of literary texts, which is used as a framework for examining postcolonial writings in this research.",
+        "passages": [
+            "Utilizing evidence from literary stylistics"
+        ],
+        "confidence_score": 0.85
+    },
+    "sociolinguistics of mobility": {
+        "reasoning": "Sociolinguistics of mobility is a specific framework that examines language in the context of social mobility, which is utilized in the paper to provide evidence for the arguments made.",
+        "passages": [
+            "Evidence is provided from emerging frameworks in the sociolinguistics of mobility"
+        ],
+        "confidence_score": 0.8
+    },
+    "pedagogical linguistics": {
+        "reasoning": "Pedagogical linguistics is a method that focuses on the intersection of language and education, which is referenced as a framework for supporting the paper's claims.",
+        "passages": [
+            "Evidence is provided from emerging frameworks in the pedagogical linguistics"
+        ],
+        "confidence_score": 0.75
+    },
+    "political economy": {
+        "reasoning": "Political economy is a method that analyzes the relationship between politics and economics in the context of language and society, which is used to demonstrate the relevance of Kachruvian frameworks.",
+        "passages": [
+            "Evidence is provided from emerging frameworks in the political economy"
+        ],
+        "confidence_score": 0.75
+    }
+}

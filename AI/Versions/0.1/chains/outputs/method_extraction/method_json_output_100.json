@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "literary analysis",
+        "philosophical lens",
+        "subaltern theory",
+        "deconstructive theory"
+    ],
+    "literary analysis": {
+        "reasoning": "Literary analysis is the method used to examine the themes and representations within Adiga's novel, focusing on how justice is portrayed through narrative and character perspectives.",
+        "passages": [
+            "This article analyses Aravind Adiga's Booker prize-winning novel The White Tiger (2008) through the lens of justice: philosophical, legal, and literary."
+        ],
+        "confidence_score": 0.9
+    },
+    "philosophical lens": {
+        "reasoning": "The philosophical lens refers to the approach used to interpret the concept of justice in the novel, indicating a specific methodology for analyzing the text's deeper meanings.",
+        "passages": [
+            "What is justice when its agent is subaltern - disprivileged by both caste and class - and delivers justice to himself?"
+        ],
+        "confidence_score": 0.85
+    },
+    "subaltern theory": {
+        "reasoning": "Subaltern theory is a methodological framework invoked in the analysis, focusing on the perspectives of marginalized groups and how their experiences shape the understanding of justice.",
+        "passages": [
+            "By writing his novel from the perspective of a subaltern character, Adiga joins the call by Dalit critics to reconfigure modernity from the interests of the oppressed and the marginalized."
+        ],
+        "confidence_score": 0.88
+    },
+    "deconstructive theory": {
+        "reasoning": "Deconstructive theory is another analytical method employed to challenge and unpack the established notions of justice as presented in the novel, indicating a specific approach to literary criticism.",
+        "passages": [
+            "My essay provokes wider insights into the implications for justice and human rights as they are informed and represented by literary fiction, subaltern theory, and deconstructive theory."
+        ],
+        "confidence_score": 0.87
+    }
+}

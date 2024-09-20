@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "This paper examines how an individual's labor supply responds immediately to her spouse's health shock in an aging household and how she adjusts her labor supply over time after her spouse's health shock.",
+            "meaning": "The research investigates the immediate and long-term effects of a spouse's health issue on the labor supply of the other partner in an aging family.",
+            "reasoning": "The sentence clearly states the focus of the paper on labor supply changes in response to a spouse's health shock, indicating both immediate and ongoing adjustments.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Different from previous work, this paper considers the subsequent health evolution following the spouse's health shock by proposing an adaptation model where the long-term labor supply adjustment of an individual is allowed to depend on her spouse's health evolution after the initial shock.",
+            "meaning": "This research introduces a new model that takes into account how a spouse's changing health status influences the long-term labor supply adjustments of the other partner.",
+            "reasoning": "The sentence contrasts this study's approach with earlier research by highlighting the importance of ongoing health changes in the adaptation model.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Analysis of the 1996-2012 data from the Health and Retirement Study (HRS) suggests that in the short run, both husbands and wives change their labor supply very little when their spouses become ill, but in the long run, a husband's labor supply adjustment does vary with his wife's current health status after her initial health shock.",
+            "meaning": "The data analysis reveals that immediate labor supply changes are minimal for both partners, but long-term adjustments for husbands depend on their wives' health conditions post-shock.",
+            "reasoning": "The sentence summarizes findings from the data analysis, indicating both short-term stability and long-term variability in labor supply adjustments.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "In contrast, the wife's annual work hours are not affected by her husband's health shock in the long run, regardless of husband's subsequent health status.",
+            "meaning": "The long-term labor supply of wives remains unchanged by their husbands' health issues, indicating a lack of reciprocal influence.",
+            "reasoning": "The use of 'in contrast' suggests a clear difference in how each spouse's health shock impacts the other's labor supply, emphasizing the wife's resilience or independence in this context.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "Households with an ill wife are probably at greater risk than those with an unhealthy husband in the long run, which may be attributed to the role that women have traditionally played in the household.",
+            "meaning": "The research suggests that households where the wife is ill face more significant challenges over time compared to those where the husband is ill, potentially due to traditional gender roles.",
+            "reasoning": "The sentence discusses implications of the findings, connecting the results to broader social dynamics and traditional roles within households.",
+            "confidence_score": 0.92
+        }
+    ],
+    "overall_theme": "The research explores the dynamics of labor supply adjustments in response to a spouse's health shock, highlighting differences between husbands and wives and the implications of traditional gender roles.",
+    "detailed_summary": "This paper investigates the immediate and long-term responses of labor supply in aging households when one spouse experiences a health shock. It introduces an adaptation model that considers the evolving health status of the affected spouse, enhancing understanding of labor supply adjustments over time. An analysis of data from the Health and Retirement Study (HRS) spanning from 1996 to 2012 reveals that while immediate changes in labor supply are minimal for both spouses, long-term adjustments differ significantly: husbands' labor supply is influenced by their wives' health status, while wives' work hours remain unaffected by their husbands' health shocks. The findings suggest that households with an ill wife may face greater risks in the long term, potentially linked to traditional roles women occupy in households."
+}

@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "two-staged learning events",
+        "interviews"
+    ],
+    "two-staged learning events": {
+        "reasoning": "Two-staged learning events refer to the specific experimental design used in Study 1 to assess children's learning and memory, making it a clear methodological approach.",
+        "passages": [
+            "In Study 1, 30 children in two age groups (4-year-olds and 5-year-olds) participated in two-staged learning events"
+        ],
+        "confidence_score": 0.9
+    },
+    "interviews": {
+        "reasoning": "Interviews are the method used to gather data from participants about their learning experiences, serving as a key technique for data collection in both studies.",
+        "passages": [
+            "were interviewed immediately after each event about the facts they had learned in the events and about how they had acquired them",
+            "were given similar interviews as in Study 1, either immediately after the event or after a 2- to 3-day delay"
+        ],
+        "confidence_score": 0.95
+    }
+}

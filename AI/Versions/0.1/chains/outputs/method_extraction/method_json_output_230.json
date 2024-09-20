@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "downscaling",
+        "artificial neural network (ANN)",
+        "regression analysis"
+    ],
+    "downscaling": {
+        "reasoning": "Downscaling is a method used to translate coarse-scale climate model predictions to finer local scales, which is crucial for assessing localized climate impacts.",
+        "passages": [
+            "This research downscales coarse-resolution GCM RCP8.5 predictions from the IPCC CMIP5 project to the local scale"
+        ],
+        "confidence_score": 0.9
+    },
+    "artificial neural network (ANN)": {
+        "reasoning": "The development of an artificial neural network (ANN) is a specific methodological approach used to predict weather outcomes based on various input variables, representing a key technique in this study.",
+        "passages": [
+            "An artificial neural network (ANN) is developed using five field variables (1000-, 850-, 700-, and 500-hPa specific humidity and 1000-700-hPa bulk wind shear)"
+        ],
+        "confidence_score": 0.95
+    },
+    "regression analysis": {
+        "reasoning": "Regression analysis is employed to examine the relationship between total precipitation and dry-day frequency, providing a quantitative method to assess climate impacts.",
+        "passages": [
+            "By regressing ERS total precipitation against dry-day frequency (R-2 = 0.95)"
+        ],
+        "confidence_score": 0.85
+    }
+}

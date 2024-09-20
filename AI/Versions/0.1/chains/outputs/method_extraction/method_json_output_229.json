@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "matrices generation",
+        "generalized Fibonacci sequences",
+        "generalized Lucas sequences"
+    ],
+    "matrices generation": {
+        "reasoning": "Matrices generation refers to the specific mathematical method used to create families of primitive Pythagorean triples, indicating a procedural approach to deriving these triples.",
+        "passages": [
+            "We present matrices that generate families of primitive Pythagorean triples"
+        ],
+        "confidence_score": 0.9
+    },
+    "generalized Fibonacci sequences": {
+        "reasoning": "Generalized Fibonacci sequences are a specific mathematical approach used in the research to derive primitive Pythagorean triples, indicating a method of generating these triples.",
+        "passages": [
+            "that arise from generalized Fibonacci sequences"
+        ],
+        "confidence_score": 0.85
+    },
+    "generalized Lucas sequences": {
+        "reasoning": "Generalized Lucas sequences are another specific mathematical method referenced in the context of generating primitive Pythagorean triples, indicating a procedural approach to the research.",
+        "passages": [
+            "We then present similar results for generalized Lucas sequences and primitive Pythagorean triples"
+        ],
+        "confidence_score": 0.85
+    }
+}

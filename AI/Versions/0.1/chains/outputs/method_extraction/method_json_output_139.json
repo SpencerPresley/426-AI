@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "acoustic sounding data collection",
+        "high-resolution satellite systems",
+        "uncrewed aerial vehicles",
+        "GPS and altimeter measures"
+    ],
+    "acoustic sounding data collection": {
+        "reasoning": "Acoustic sounding data collection is a specific method used to gather bathymetric data from the lakes, indicating the depth and underwater features, which is crucial for creating the datasets.",
+        "passages": [
+            "The bathymetric datasets were created from approximately 18 million acoustic soundings."
+        ],
+        "confidence_score": 0.95
+    },
+    "high-resolution satellite systems": {
+        "reasoning": "High-resolution satellite systems are a method used for delineating shorelines, providing a precise approach to collecting geographical data.",
+        "passages": [
+            "Over 8,200 km of shorelines are delineated across the three lakes from high-resolution satellite systems"
+        ],
+        "confidence_score": 0.9
+    },
+    "uncrewed aerial vehicles": {
+        "reasoning": "Uncrewed aerial vehicles (UAVs) are a method employed to assist in the collection of shoreline data, representing a technological approach to data acquisition.",
+        "passages": [
+            "Over 8,200 km of shorelines are delineated across the three lakes from... uncrewed aerial vehicles."
+        ],
+        "confidence_score": 0.85
+    },
+    "GPS and altimeter measures": {
+        "reasoning": "GPS and altimeter measures are specific methods used to create lake surface elevation models, indicating the use of precise measurement techniques in the research.",
+        "passages": [
+            "these data are tied together by creating lake surface elevation models collected from GPS and altimeter measures."
+        ],
+        "confidence_score": 0.9
+    }
+}

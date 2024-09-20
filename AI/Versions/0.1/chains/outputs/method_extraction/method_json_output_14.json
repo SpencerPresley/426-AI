@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "survey distribution",
+        "psychometric instruments",
+        "structural equations modeling analysis"
+    ],
+    "survey distribution": {
+        "reasoning": "Survey distribution refers to the process of administering a survey to gather data from participants, which is a fundamental method for collecting information in this research.",
+        "passages": [
+            "We concurrently distributed a survey containing a series of psychometric instruments to a convenience sample of 1,119 students"
+        ],
+        "confidence_score": 0.95
+    },
+    "psychometric instruments": {
+        "reasoning": "Psychometric instruments are specific tools used to measure psychological constructs, making them essential for assessing variables like resilience, distress, and burnout in the study.",
+        "passages": [
+            "a survey containing a series of psychometric instruments"
+        ],
+        "confidence_score": 0.9
+    },
+    "structural equations modeling analysis": {
+        "reasoning": "Structural equations modeling analysis is a statistical method used to assess relationships between variables, which is critical for analyzing the associations between psychological distress, academic burnout, and student resilience.",
+        "passages": [
+            "Via structural equations modeling analysis, we measured the associations between psychological distress, academic burnout, and departure intentions"
+        ],
+        "confidence_score": 0.92
+    }
+}

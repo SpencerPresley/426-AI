@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "interviews",
+        "replication",
+        "disclosure processes",
+        "written letters"
+    ],
+    "interviews": {
+        "reasoning": "Interviews are a qualitative data collection method used in this study to gather detailed insights from parents about their experiences regarding disclosure of their child's TGNC identity.",
+        "passages": [
+            "34 parents of TGNC youth under the age of 13 described in interviews their experiences pertaining to disclosure of their child's TGNC status to extended family members."
+        ],
+        "confidence_score": 0.95
+    },
+    "replication": {
+        "reasoning": "Replication refers to the method of repeating the study with additional participants to verify and expand the initial findings, which is a common practice in research to enhance reliability.",
+        "passages": [
+            "Phase 2 replicated and expanded these findings with 11 additional parents."
+        ],
+        "confidence_score": 0.9
+    },
+    "disclosure processes": {
+        "reasoning": "The disclosure processes identified in the study describe specific approaches parents used to communicate their child's TGNC identity, representing a methodological focus on how disclosure is enacted.",
+        "passages": [
+            "Across both phases, two disclosure processes were identified: casual unfolding disclosure, where parents allowed extended family members to witness their child's TGNC identity development, or explicit direct disclosure."
+        ],
+        "confidence_score": 0.85
+    },
+    "written letters": {
+        "reasoning": "Written letters are a specific method used by parents for explicit direct disclosure, indicating a structured approach to communication regarding their child's TGNC identity.",
+        "passages": [
+            "in which parents wrote mailed or emailed letters to help organize their thoughts and direct the course of the conversation."
+        ],
+        "confidence_score": 0.9
+    }
+}

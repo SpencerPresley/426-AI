@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "historic source reconstruction",
+        "written record analysis",
+        "map analysis",
+        "advertisement analysis",
+        "witness tree record analysis"
+    ],
+    "historic source reconstruction": {
+        "reasoning": "Historic source reconstruction refers to the method of using various historical documents and records to piece together information about the forests during a specific time period.",
+        "passages": [
+            "Multiple historic sources were used to reconstruct the forests of the Chesapeake at the time of European colonization."
+        ],
+        "confidence_score": 0.95
+    },
+    "written record analysis": {
+        "reasoning": "Written record analysis involves examining early written records to extract information about the composition of forests, which is a specific technique used in the research.",
+        "passages": [
+            "Early written records (1588-1699) show forests composed of hardwoods and conifers."
+        ],
+        "confidence_score": 0.9
+    },
+    "map analysis": {
+        "reasoning": "Map analysis is a method that involves examining historical maps to understand forest composition and distribution, as indicated by John Smith's map.",
+        "passages": [
+            "John Smith's 1612 map of the Chesapeake shows a forest composed of ca. 50:50 ratio of hardwoods to conifers."
+        ],
+        "confidence_score": 0.85
+    },
+    "advertisement analysis": {
+        "reasoning": "Advertisement analysis refers to the examination of historical advertisements for land sale or wood, which provides insights into forest composition over time.",
+        "passages": [
+            "Advertisements of land for sale or lease (1751-1838) show a forest primarily composed of hardwoods (86.5%)"
+        ],
+        "confidence_score": 0.88
+    },
+    "witness tree record analysis": {
+        "reasoning": "Witness tree record analysis is a method that involves studying historical records of trees to determine forest composition prior to settlement.",
+        "passages": [
+            "Witness tree records from the seventeenth century (the earliest reported) on Maryland's Eastern Shore show that a mature Oak-Pine forest dominated the pre-settlement forest."
+        ],
+        "confidence_score": 0.9
+    }
+}

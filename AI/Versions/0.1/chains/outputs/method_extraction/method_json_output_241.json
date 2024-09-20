@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "interviews",
+        "classroom observations",
+        "environmental print literacy scan",
+        "multi-cycle coding approach"
+    ],
+    "interviews": {
+        "reasoning": "Interviews are a method of data collection that involves direct interaction with participants to gather qualitative data, making it a core methodological approach in this study.",
+        "passages": [
+            "Data included interviews with teachers and students"
+        ],
+        "confidence_score": 0.95
+    },
+    "classroom observations": {
+        "reasoning": "Classroom observations represent a method used to collect data by directly observing the interactions and behaviors within the classroom setting, providing context to the study.",
+        "passages": [
+            "Data included... classroom observations"
+        ],
+        "confidence_score": 0.9
+    },
+    "environmental print literacy scan": {
+        "reasoning": "An environmental print literacy scan is a specific technique used to analyze the literacy resources present in the environment, contributing to the understanding of literacy sponsorship in the community.",
+        "passages": [
+            "Data included... an environmental print literacy scan"
+        ],
+        "confidence_score": 0.85
+    },
+    "multi-cycle coding approach": {
+        "reasoning": "The multi-cycle coding approach is a systematic method used in qualitative research for analyzing data, allowing the researchers to identify themes and patterns within the collected data.",
+        "passages": [
+            "A multi-cycle coding approach was used to develop thematic findings"
+        ],
+        "confidence_score": 0.9
+    }
+}

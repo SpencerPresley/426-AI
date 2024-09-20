@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "voter engagement model",
+        "pre- and post-tests"
+    ],
+    "voter engagement model": {
+        "reasoning": "The voter engagement model refers to the specific framework or approach implemented within social work education to enhance voter participation, making it a clear methodological component of the study.",
+        "passages": [
+            "This article describes the implementation of a voter engagement model in social work education."
+        ],
+        "confidence_score": 0.9
+    },
+    "pre- and post-tests": {
+        "reasoning": "Pre- and post-tests are specific assessment methods used to evaluate the effectiveness of the voter engagement model by measuring changes in participants' perceptions and behaviors before and after the intervention.",
+        "passages": [
+            "Pre- and post-tests from 475 participants demonstrate the efficacy of this model in increasing social work students' perceived importance of voting to their practice"
+        ],
+        "confidence_score": 0.95
+    }
+}

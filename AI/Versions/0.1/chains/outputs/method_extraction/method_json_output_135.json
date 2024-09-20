@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "testing the utility of colored glow sticks",
+        "measuring intensities of colored glow sticks",
+        "estimating photoreceptive quantum catches"
+    ],
+    "testing the utility of colored glow sticks": {
+        "reasoning": "This method refers to the experimental approach taken to evaluate how effective different colored glow sticks are as bait in traps for capturing eastern tiger salamanders, which is a specific process used in the research.",
+        "passages": [
+            "To optimize population monitoring of state-endangered eastern tiger salamanders (Ambystoma tigrinum), we tested the utility of colored glow sticks (green, orange, pink, or yellow) as bait in traps in Maryland and Delaware, USA, during 2015-2016."
+        ],
+        "confidence_score": 0.95
+    },
+    "measuring intensities of colored glow sticks": {
+        "reasoning": "This method involves quantifying the light intensities emitted by the glow sticks, which is an essential part of the methodology to understand how the light affects salamander attraction.",
+        "passages": [
+            "We then measured intensities of the colored glow sticks"
+        ],
+        "confidence_score": 0.9
+    },
+    "estimating photoreceptive quantum catches": {
+        "reasoning": "This method refers to the calculation of how many photons are captured by the salamanders' photoreceptors based on the spectral sensitivities of the species, which is a method of analyzing the effectiveness of the glow sticks.",
+        "passages": [
+            "and estimated photoreceptive quantum catches of each color according to the spectral sensitivities of eastern tiger salamanders."
+        ],
+        "confidence_score": 0.88
+    }
+}

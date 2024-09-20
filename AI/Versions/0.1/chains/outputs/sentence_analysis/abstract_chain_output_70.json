@@ -1,0 +1,48 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "The fundamental nature of humility and prosocial motivation entails transcending self-interest to enact behaviors that benefit others.",
+            "meaning": "Humility and prosocial motivation involve putting aside personal gain to engage in actions that help others.",
+            "reasoning": "The sentence defines humility and prosocial motivation in terms of selflessness and altruism.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We theorize that leader humility may enact a self-transcendent contagion effect that will manifest in enhanced follower prosocial motivation.",
+            "meaning": "The authors suggest that when leaders exhibit humility, it may inspire followers to also become more prosocial.",
+            "reasoning": "The term 'self-transcendent contagion effect' implies that leader behavior can influence follower behavior positively.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Due to the fundamental nature of humility, this construct holds great promise in understanding how contextual signals (i.e., leader behaviors) shape prosocial motivation in followers.",
+            "meaning": "Understanding humility can help explain how leaders' actions affect followers' willingness to engage in prosocial behavior.",
+            "reasoning": "The phrase 'contextual signals' refers to leader behaviors that can influence followers, emphasizing the importance of humility.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "In this study, we find that leader humility impacts follower prosocial motivation through followers' perception of work meaningfulness.",
+            "meaning": "The research shows that leader humility positively influences followers' prosocial motivation by affecting how meaningful they find their work.",
+            "reasoning": "The connection between leader humility and follower motivation is established through the lens of work meaningfulness.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Specifically, we found that leader humility is positively related to prosocial motivation.",
+            "meaning": "The study confirms a positive correlation between leader humility and the prosocial motivation of followers.",
+            "reasoning": "This sentence provides a clear affirmation of the key finding regarding the relationship between leader humility and prosocial behavior.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We also found that this relationship is mediated by followers' perception of work meaningfulness, and that this mediation is moderated by followers' perception of relational vitality.",
+            "meaning": "The effect of leader humility on follower prosocial motivation is influenced by how meaningful followers find their work, and this effect varies based on how vital followers feel in their relationships.",
+            "reasoning": "The terms 'mediated' and 'moderated' indicate the complexity of the relationships being studied, suggesting that other factors play a role.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Theoretical and practical implications are discussed.",
+            "meaning": "The authors will elaborate on the significance of their findings for theory and practice.",
+            "reasoning": "This sentence indicates that the research has broader implications beyond just the findings, addressing its relevance in real-world applications.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research explores how leader humility can enhance follower prosocial motivation through the perception of work meaningfulness, highlighting the importance of leadership behavior in fostering altruism in organizational settings.",
+    "detailed_summary": "This study investigates the relationship between leader humility and follower prosocial motivation. It posits that humility can create a self-transcendent contagion effect, encouraging followers to engage in behaviors that benefit others. The authors emphasize the importance of understanding humility as a construct that influences how leader behaviors serve as contextual signals shaping followers' motivations. The findings indicate that leader humility is positively correlated with follower prosocial motivation, which is mediated by the followers' perception of the meaningfulness of their work. Additionally, this mediation is moderated by followers' perception of relational vitality, suggesting that the impact of leader humility varies based on how connected followers feel in their relationships. The study concludes with a discussion of the theoretical and practical implications of these findings for leadership and organizational behavior."
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "theoretical model",
+        "propensity score matching"
+    ],
+    "theoretical model": {
+        "reasoning": "The theoretical model is a method because it provides a structured approach to understanding the relationship between financial literacy investment and advice-seeking behavior, forming the basis for the hypotheses tested in the study.",
+        "passages": [
+            "Our theoretical model suggests that in this case, investment in financial literacy and financial advice-seeking are substitutes."
+        ],
+        "confidence_score": 0.9
+    },
+    "propensity score matching": {
+        "reasoning": "Propensity score matching is a specific method used to control for self-selection bias in the analysis, allowing for a more accurate assessment of the relationship between the two variables.",
+        "passages": [
+            "When using the propensity score matching method to control for self-selection bias, we find a significant negative relationship between the probability of seeking advice from a financial planner and investment in financial literacy."
+        ],
+        "confidence_score": 0.95
+    }
+}

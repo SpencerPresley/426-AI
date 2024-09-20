@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "ordered probit with weights"
+    ],
+    "ordered probit with weights": {
+        "reasoning": "Ordered probit with weights is a specific statistical method used to analyze the willingness to pay (WTP) estimates, particularly addressing the selection correction mechanism in the study.",
+        "passages": [
+            "the most effective selection correction mechanism is the ordered probit with weights"
+        ],
+        "confidence_score": 0.9
+    }
+}

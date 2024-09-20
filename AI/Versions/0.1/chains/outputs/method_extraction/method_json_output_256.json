@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "two studies",
+        "dual-process model"
+    ],
+    "two studies": {
+        "reasoning": "The phrase 'two studies' indicates a methodological approach where the researchers conducted distinct investigations to explore the research questions, providing a clear framework for empirical analysis.",
+        "passages": [
+            "To address these gaps in the literature, we introduce two studies aimed at understanding the process through which the salient efforts of referent consumers serve to mitigate perceptions of price unfairness"
+        ],
+        "confidence_score": 0.9
+    },
+    "dual-process model": {
+        "reasoning": "The 'dual-process model' refers to a specific theoretical framework used to explain the cognitive and affective processes involved in price fairness judgments, representing a method of analysis for understanding consumer behavior.",
+        "passages": [
+            "The findings support a dual-process model whereby the efforts of other (referent) customers serve to simultaneously reduce buyer anger and increase buyer understanding of the price disparity"
+        ],
+        "confidence_score": 0.85
+    }
+}

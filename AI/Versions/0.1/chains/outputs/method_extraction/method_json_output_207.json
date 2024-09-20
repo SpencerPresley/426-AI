@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "cohort collection",
+        "laboratory studies",
+        "averemctin treatment"
+    ],
+    "cohort collection": {
+        "reasoning": "Cohort collection refers to the specific method used to gather groups of H. vitessoides larvae in the wild, which is essential for analyzing their aggregation behavior.",
+        "passages": [
+            "we collected 102 cohorts of H. vitessoides larvae (13,173 individuals in total); 54 cohorts were comprised of the same-instar larvae, and 48 cohorts were comprised of larvae with different developmental stages (instars)"
+        ],
+        "confidence_score": 0.95
+    },
+    "laboratory studies": {
+        "reasoning": "Laboratory studies are a method employed to observe the behavior and survivorship of H. vitessoides larvae under controlled conditions, providing insights into their aggregation tendencies.",
+        "passages": [
+            "Laboratory studies showed a strong aggregation tendency in the newly hatched and second-instar larvae of H. vitessoides"
+        ],
+        "confidence_score": 0.9
+    },
+    "averemctin treatment": {
+        "reasoning": "Avermectin treatment is a specific method used to test the effects of this substance on larval survivorship and adult emergence, forming a key part of the experimental design.",
+        "passages": [
+            "combining avermectin-treated larvae (donors) with untreated ones (receptors) significantly decreased larval survivorship and adult emergence of receptors"
+        ],
+        "confidence_score": 0.92
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "quantitative content analysis"
+    ],
+    "quantitative content analysis": {
+        "reasoning": "Quantitative content analysis is a specific research method used to systematically analyze the content of the news coverage, allowing for a comparison between different types of content produced by Hearken and traditional reporting.",
+        "passages": [
+            "This study employs a quantitative content analysis comparing one year's worth of coverage at four different local NPR affiliates in the United States"
+        ],
+        "confidence_score": 0.95
+    }
+}

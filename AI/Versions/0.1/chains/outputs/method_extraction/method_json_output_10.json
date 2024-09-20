@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "hyperglycemic-induction protocol",
+        "characterization of nerve structure and behavioral function",
+        "examination of regenerative potential"
+    ],
+    "hyperglycemic-induction protocol": {
+        "reasoning": "The hyperglycemic-induction protocol is a specific method used to induce a hyperglycemic state in zebrafish larvae, essential for studying motor nerve degeneration.",
+        "passages": [
+            "we optimized the hyperglycemic-induction protocol"
+        ],
+        "confidence_score": 0.9
+    },
+    "characterization of nerve structure and behavioral function": {
+        "reasoning": "Characterization of nerve structure and behavioral function refers to the methodical assessment of the effects of hyperglycemia on nerve integrity and associated behaviors, making it a clear methodological approach.",
+        "passages": [
+            "characterized deficits in nerve structure and behavioral function"
+        ],
+        "confidence_score": 0.85
+    },
+    "examination of regenerative potential": {
+        "reasoning": "The examination of regenerative potential describes the method used to assess the recovery and regeneration of motor nerve components after the hyperglycemic state, indicating a specific experimental approach.",
+        "passages": [
+            "examined the regenerative potential following recovery from the hyperglycemic state"
+        ],
+        "confidence_score": 0.88
+    }
+}

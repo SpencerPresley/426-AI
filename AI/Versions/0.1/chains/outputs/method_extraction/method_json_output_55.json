@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "surface or mound treatment",
+        "contact insecticide evaluation",
+        "bioassays"
+    ],
+    "surface or mound treatment": {
+        "reasoning": "Surface or mound treatment refers to the specific method used to apply insecticides to control the population of S. invicta, indicating a clear procedure in pest management.",
+        "passages": [
+            "Surface or mound treatment using contact insecticide is one of the main methods to control S. invicta."
+        ],
+        "confidence_score": 0.95
+    },
+    "contact insecticide evaluation": {
+        "reasoning": "Contact insecticide evaluation describes the comparative analysis of different insecticides' effectiveness against S. invicta, which is a crucial methodological approach in the study.",
+        "passages": [
+            "the present study, cycloxaprid, a newly discovered neonicotinoid insecticide, was evaluated for S. invicta control and compared with two referent insecticides, imidacloprid and bifenthrin."
+        ],
+        "confidence_score": 0.9
+    },
+    "bioassays": {
+        "reasoning": "Bioassays are specific experimental procedures used to assess the effects of substances on living organisms, in this case, to evaluate the digging activities of S. invicta workers.",
+        "passages": [
+            "Interestingly, S. invicta workers excavated significantly more sand containing 0.01 mg/kg cycloxaprid than untreated sand in the no-choice digging bioassays."
+        ],
+        "confidence_score": 0.85
+    }
+}

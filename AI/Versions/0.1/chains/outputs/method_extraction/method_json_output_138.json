@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "theoretical modeling",
+        "panel data analysis",
+        "mediation model",
+        "moderation model"
+    ],
+    "theoretical modeling": {
+        "reasoning": "Theoretical modeling refers to the establishment of a framework to test interrelationships among various factors, which is a foundational method in this research.",
+        "passages": [
+            "this research establishes a theoretical model to test the interrelationships among R&D investment, intellectual capital, organizational learning, and firm performance"
+        ],
+        "confidence_score": 0.9
+    },
+    "panel data analysis": {
+        "reasoning": "Panel data analysis involves using data collected over multiple time periods, which allows for the examination of dynamics in the relationships being studied.",
+        "passages": [
+            "We obtained seven years' panel data from two data centers"
+        ],
+        "confidence_score": 0.95
+    },
+    "mediation model": {
+        "reasoning": "A mediation model is a specific analytical approach used to assess whether the relationship between two variables is influenced by a third variable, which is a key part of the methodology in this research.",
+        "passages": [
+            "intellectual capital fully mediates the relationship between R&D investment and firm performance"
+        ],
+        "confidence_score": 0.85
+    },
+    "moderation model": {
+        "reasoning": "A moderation model is another analytical method that examines how the relationship between two variables changes depending on the level of a third variable, which is utilized in this research.",
+        "passages": [
+            "organizational learning moderates the relationship between R&D investment and human capital"
+        ],
+        "confidence_score": 0.85
+    }
+}

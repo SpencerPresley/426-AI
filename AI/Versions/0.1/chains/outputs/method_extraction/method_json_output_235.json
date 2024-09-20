@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "data collection",
+        "information processing view"
+    ],
+    "data collection": {
+        "reasoning": "Data collection is a fundamental method used to gather information from healthcare delivery networks, which is essential for analyzing the impact of interfirm dynamic capabilities on performance.",
+        "passages": [
+            "Using data collected from healthcare delivery networks"
+        ],
+        "confidence_score": 0.9
+    },
+    "information processing view": {
+        "reasoning": "The information processing view is a theoretical framework that underpins the study, guiding the examination of interfirm dynamic capabilities in healthcare delivery networks.",
+        "passages": [
+            "Grounded in information processing view, this study contributes to the literature by examining interfirm dynamic capabilities in the context of healthcare delivery networks."
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "sentences": [
+        {
+            "sentence": "Matching the supply of medical equipment with soaring demand caused by an epidemic event is a daunting challenge.",
+            "meaning": "It is difficult to align the availability of medical equipment with the increased demand resulting from an epidemic.",
+            "reasoning": "The sentence highlights the struggle faced by the medical equipment sector during an epidemic when demand rises sharply.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Focusing on medical equipment manufacturers, this study empirically examines how supply chain management impacts manufacturers' responses to epidemic-driven demand.",
+            "meaning": "The research investigates the effect of supply chain management on how manufacturers of medical equipment react to the increased demand due to an epidemic.",
+            "reasoning": "The term 'empirically examines' indicates that the study relies on data and observations to analyze this relationship.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "This study employs novel supply chain data from South Korea collected before and after the MERS (Middle East Respiratory Syndrome) epidemic event.",
+            "meaning": "The research uses new data regarding supply chains in South Korea, gathered around the time of the MERS epidemic.",
+            "reasoning": "The use of 'novel supply chain data' suggests that the data is recent and specifically relevant to the study's focus on the MERS epidemic.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In the results, we show that such an epidemic positively influences the sales performance of medical equipment manufacturers (i.e. a 10.2 percentage-point increase).",
+            "meaning": "The findings indicate that the epidemic leads to an increase in sales performance of medical equipment manufacturers by 10.2 percentage points.",
+            "reasoning": "The use of 'positively influences' and the specific percentage indicates a quantifiable benefit to manufacturers during the epidemic.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "To identify the mechanism behind this result, we provide evidence that increasing the supply base (i.e. the number of supply channels) enables medical equipment manufacturers to better respond to epidemic-driven demand and ultimately improves their sales performance.",
+            "meaning": "The study finds that having more supply channels helps manufacturers meet the increased demand during an epidemic, leading to better sales performance.",
+            "reasoning": "The phrase 'increasing the supply base' directly relates to improved responsiveness and sales, indicating a causal relationship.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "More interestingly, we find that medical equipment manufacturers with lower market status (i.e. lower market shares and lower supplier shares) expand their supply bases more extensively than other medical equipment manufacturers with higher market status do.",
+            "meaning": "Manufacturers with smaller market shares tend to increase their supply channels more than those with larger market shares.",
+            "reasoning": "The contrast between 'lower market status' and 'higher market status' suggests differing strategies in supply chain expansion based on market position.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Interpreting these results, we offer managerial insights into how medical equipment manufacturers can effectively manage their supply chains and improve their performance when responding to epidemic-driven demand.",
+            "meaning": "The study provides practical recommendations for manufacturers on supply chain management to enhance performance during epidemics.",
+            "reasoning": "The term 'managerial insights' indicates actionable advice based on the research findings.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the impact of supply chain management on medical equipment manufacturers' responses to increased demand during epidemics, specifically focusing on data from the MERS epidemic in South Korea.",
+    "detailed_summary": "This study addresses the challenges medical equipment manufacturers face in matching supply with heightened demand during epidemic events. By examining the effects of supply chain management on manufacturers' responses to epidemic-driven demand, the research utilizes novel data from South Korea collected around the MERS epidemic. The findings reveal that epidemics can significantly boost sales performance for manufacturers, with a recorded increase of 10.2 percentage points. The study identifies that expanding the supply base\u2014specifically the number of supply channels\u2014enables better responses to demand surges, thereby enhancing sales performance. Interestingly, it is noted that manufacturers with lower market status tend to expand their supply bases more than those with higher status. The research concludes with managerial insights aimed at helping manufacturers optimize their supply chains to improve performance during such critical demand periods."
+}

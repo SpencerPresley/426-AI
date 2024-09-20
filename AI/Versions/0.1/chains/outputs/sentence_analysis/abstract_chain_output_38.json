@@ -1,0 +1,36 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "The Integrated Capacious Model of Leadership Identities Construction (ICM) is a framework for understanding leader identity that integrates four extant leader identity theories with the systems and influences in the Capacious Model of leader identity.",
+            "meaning": "The ICM is a new framework designed to enhance the understanding of leader identity by combining existing theories and contextual elements.",
+            "reasoning": "The sentence introduces the ICM and highlights its purpose of integrating various theories and systems related to leader identity.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The ICM's systems (Individual System, Microsystem, Mesosystem, Exosystem, Macrosystem, and Chronosystem) contextualize leader identity in time and space; its influences (Purpose/Calling, Self-Identity, Social Identity, and Relationships) pinpoint select factors that affect the construction of leader identities; and its integrated theories (Narrative Identity, Identity Theory, Social Identity Theory, and Social Constructionism) address the leader identity construction process.",
+            "meaning": "The ICM includes various systems and influences that provide context for leader identity and incorporates established theories to explain how leader identities are formed.",
+            "reasoning": "This sentence elaborates on the components of the ICM, detailing the systems and influences that shape leader identity and the theories that explain the construction process.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The ICM speaks to calls for interdisciplinary, multi-level frameworks that are situated within the stream of scholarly literature on leader identity, as the model presents leader identity as a construct located across space, time, and people, rather than the purview of a heroic leader or single instance of identity claiming.",
+            "meaning": "The ICM responds to the need for comprehensive frameworks in leader identity research, emphasizing a broader perspective than just individual leaders.",
+            "reasoning": "This sentence discusses the relevance of the ICM in the academic context and its unique approach to leader identity, moving beyond traditional views.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Connecting established identity theories, systems, and influences results in a descriptive, practical model of leader identity.",
+            "meaning": "Integrating various theories and contextual factors leads to a useful and detailed model for understanding leader identity.",
+            "reasoning": "The sentence summarizes the outcome of the integration process described earlier, indicating that the ICM is both descriptive and practical.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Examples are provided of the practical utility of using the ICM as a diagnostic tool for constructing a leader identity, designing leader development programs, and identifying gaps in leader identity scholarship.",
+            "meaning": "The ICM can be applied in real-world scenarios to aid in leader identity development and to highlight areas needing further research.",
+            "reasoning": "This sentence indicates the practical applications of the ICM, suggesting its usefulness in various contexts related to leadership.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The abstract presents the Integrated Capacious Model of Leadership Identities Construction (ICM) as a comprehensive framework for understanding and developing leader identity by integrating existing theories and contextual factors.",
+    "detailed_summary": "The research introduces the Integrated Capacious Model of Leadership Identities Construction (ICM), a framework that synthesizes four existing leader identity theories and contextual factors from the Capacious Model. The ICM's components include systems that contextualize leader identity over time and space, influences that identify key factors in leader identity construction, and theories that explain the identity formation process. The model responds to the demand for interdisciplinary frameworks in leader identity literature, proposing a broader view of leader identity that transcends individual instances. The integration of these elements results in a practical model that can be used to diagnose leader identity, design development programs, and identify research gaps in the field."
+}

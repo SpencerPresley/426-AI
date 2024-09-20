@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "Bayesian dynamic occupancy models",
+        "point count data collection",
+        "spatial scale analysis"
+    ],
+    "Bayesian dynamic occupancy models": {
+        "reasoning": "Bayesian dynamic occupancy models are a specific analytical technique used to evaluate habitat use and dynamics, particularly accounting for misclassifications, which is central to the research methodology.",
+        "passages": [
+            "Bayesian dynamic occupancy models that accounted for misclassifications to evaluate habitat use and dynamics in response to prescribed fires"
+        ],
+        "confidence_score": 0.95
+    },
+    "point count data collection": {
+        "reasoning": "Point count data collection refers to the specific method used to gather data on the presence of the Florida Grasshopper Sparrow over a defined period, which is crucial for monitoring population dynamics.",
+        "passages": [
+            "We combined point count data (1996-2011)"
+        ],
+        "confidence_score": 0.9
+    },
+    "spatial scale analysis": {
+        "reasoning": "Spatial scale analysis involves examining habitat use at different spatial buffers, which is a methodological approach employed in the study to understand the impact of fires on the species' habitat.",
+        "passages": [
+            "to determine the impact of fires on Florida Grasshopper Sparrow habitat use at two spatial scales, 100 m and 400 m buffers surrounding point count locations"
+        ],
+        "confidence_score": 0.85
+    }
+}

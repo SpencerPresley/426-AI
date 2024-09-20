@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "online scenario-based survey",
+        "PLS analysis",
+        "cluster analysis"
+    ],
+    "online scenario-based survey": {
+        "reasoning": "An online scenario-based survey is a specific method used for data collection in this study, allowing researchers to gather responses from participants based on hypothetical situations.",
+        "passages": [
+            "Using an online scenario-based survey, data were collected via Amazon Mechanical Turk from 195 participants in the U.S."
+        ],
+        "confidence_score": 0.95
+    },
+    "PLS analysis": {
+        "reasoning": "PLS (Partial Least Squares) analysis is a statistical technique employed to analyze the relationships among variables in the study, making it a key methodological approach.",
+        "passages": [
+            "PLS and cluster analysis were used to analyze the data."
+        ],
+        "confidence_score": 0.9
+    },
+    "cluster analysis": {
+        "reasoning": "Cluster analysis is a method used to categorize participants based on their responses, which helps in understanding the different dimensions of eWOM skepticism.",
+        "passages": [
+            "PLS and cluster analysis were used to analyze the data."
+        ],
+        "confidence_score": 0.9
+    }
+}

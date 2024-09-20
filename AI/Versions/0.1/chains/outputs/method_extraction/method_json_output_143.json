@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "critical race theory",
+        "data analysis",
+        "transcripts from public hearings"
+    ],
+    "critical race theory": {
+        "reasoning": "Critical race theory (CRT) is employed as an analytic tool in the study, representing a specific theoretical framework used to analyze and interpret the data collected.",
+        "passages": [
+            "This study uses critical race theory (CRT) to uncover racialized interactions that influence legislative processes.",
+            "Results demonstrate the utility of CRT as an analytic tool to examine the policy-making process."
+        ],
+        "confidence_score": 0.9
+    },
+    "data analysis": {
+        "reasoning": "Data analysis refers to the specific process of examining the collected data (transcripts) to draw conclusions regarding the influence of racialized interactions on legislative processes.",
+        "passages": [
+            "The transcripts from public hearings from the 2017 Nevada State legislative session were included in the data analysis."
+        ],
+        "confidence_score": 0.85
+    },
+    "transcripts from public hearings": {
+        "reasoning": "The use of transcripts from public hearings indicates a specific method of data collection that provides the empirical basis for the analysis conducted in the study.",
+        "passages": [
+            "The transcripts from public hearings from the 2017 Nevada State legislative session were included in the data analysis."
+        ],
+        "confidence_score": 0.8
+    }
+}

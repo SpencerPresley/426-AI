@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "mining consumer's location aware tweets",
+        "measuring online rating bias",
+        "extracting emotion score",
+        "comparing pleasure scores to Yelp ratings"
+    ],
+    "mining consumer's location aware tweets": {
+        "reasoning": "This method involves collecting data from location-aware tweets to analyze consumer sentiment related to specific business locations, which is a specific process used in the research.",
+        "passages": [
+            "Authors mine consumer's location aware tweets from business locations to capture a location's pleasure score"
+        ],
+        "confidence_score": 0.9
+    },
+    "measuring online rating bias": {
+        "reasoning": "This method refers to the process of quantifying the discrepancies between actual customer sentiment and online ratings, which is a core focus of the research.",
+        "passages": [
+            "demonstrate a way to measure it"
+        ],
+        "confidence_score": 0.85
+    },
+    "extracting emotion score": {
+        "reasoning": "This method describes the technique used to derive an emotional sentiment score from tweets, utilizing a specific dictionary, which is a clear methodological approach.",
+        "passages": [
+            "Foursquare and Twitter are mined to extract an emotion score from the location aware tweets using a dictionary called the Affective Norms for English Words (ANEW)"
+        ],
+        "confidence_score": 0.88
+    },
+    "comparing pleasure scores to Yelp ratings": {
+        "reasoning": "This method involves the analytical approach of juxtaposing the pleasure scores derived from tweets against Yelp ratings to assess rating bias, representing a specific comparison technique.",
+        "passages": [
+            "compare the pleasure scores to Yelp ratings to determine how overrated or underrated the venue is"
+        ],
+        "confidence_score": 0.92
+    }
+}

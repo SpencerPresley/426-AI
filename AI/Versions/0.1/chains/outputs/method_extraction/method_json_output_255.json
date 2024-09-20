@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "modification of the measure of sterilization rate",
+        "econometric analysis"
+    ],
+    "modification of the measure of sterilization rate": {
+        "reasoning": "The modification of the measure of sterilization rate is a specific methodological approach used to analyze the effects of monetary sterilization on exchange rates, indicating a clear process employed in the research.",
+        "passages": [
+            "This paper separates the exchange rate effect of monetary sterilization from the scale effect as a rationale for a modification of the measure of sterilization rate."
+        ],
+        "confidence_score": 0.9
+    },
+    "econometric analysis": {
+        "reasoning": "Econometric analysis refers to the statistical methods used to analyze economic data, which is a key methodology in assessing the relationships and biases discussed in the paper.",
+        "passages": [
+            "While there is no econometric evidence for the 'hawkish bias' in the long run, the significant evidence exists for the short-run asymmetry of sterilization adjustment to be biased more toward the hawkish side than dovish side."
+        ],
+        "confidence_score": 0.85
+    }
+}

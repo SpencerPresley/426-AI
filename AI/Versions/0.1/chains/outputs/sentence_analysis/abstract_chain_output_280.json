@@ -1,0 +1,42 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Objective: Stress remains a major health concern among college students today.",
+            "meaning": "The primary goal of the research is to address the issue of stress that significantly affects college students.",
+            "reasoning": "The sentence explicitly states the objective of the research, highlighting the relevance of stress as a health issue in the context of college students.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Consequently, research on student stress is imperative, from both an organizational and an individual perspective.",
+            "meaning": "It is essential to study student stress for both institutions and individuals involved.",
+            "reasoning": "The use of 'imperative' suggests urgency and importance, indicating that understanding stress is crucial for effective management at both levels.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This research study explores the moderating role of coping skills on the relationship between self-leadership and stress among college students.",
+            "meaning": "The study investigates how coping skills influence the effect of self-leadership on stress levels in college students.",
+            "reasoning": "The phrase 'moderating role' indicates that coping skills may change the strength or direction of the relationship being studied.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "Participants: Data from 643 full-time undergraduate students attending a 4-year public university in the mid-Atlantic region were collected in February 2017 and analyzed using a moderated regression model.",
+            "meaning": "The study involved 643 full-time students from a specific university, and the data was analyzed using a statistical method.",
+            "reasoning": "This sentence provides specific details about the sample size, demographic, timing, and methodology used in the research.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Results: The results indicate self-leadership practices do reduce student stress levels and that this relationship is moderated by student coping skills.",
+            "meaning": "The findings show that self-leadership can lower stress in students, with coping skills affecting this relationship.",
+            "reasoning": "The use of 'indicate' suggests that the results provide evidence for the claims made regarding self-leadership and coping skills.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "Conclusion: The findings from this study deepen our understanding of how self-leadership practices may decrease student stress and showcases self-leadership as an effective tool for reducing college student stress.",
+            "meaning": "The study enhances knowledge about self-leadership's role in reducing stress and presents it as a valuable strategy for students.",
+            "reasoning": "The conclusion summarizes the implications of the research findings, emphasizing the significance of self-leadership in stress management.",
+            "confidence_score": 0.94
+        }
+    ],
+    "overall_theme": "The research investigates the impact of self-leadership on stress reduction among college students, highlighting the role of coping skills in this relationship.",
+    "detailed_summary": "This research paper addresses the critical issue of stress among college students, emphasizing its significance as a health concern. It underscores the necessity for research from both organizational and individual perspectives. The study specifically examines the moderating effect of coping skills on the relationship between self-leadership practices and stress levels. Data was collected from 643 full-time undergraduate students at a public university in the mid-Atlantic region in February 2017, analyzed using a moderated regression model. The results reveal that self-leadership practices effectively lower stress levels in students, with coping skills playing a significant moderating role. The findings contribute to a deeper understanding of how self-leadership can serve as a practical tool for reducing stress in the college student population."
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "purposive sampling",
+        "theoretical model testing"
+    ],
+    "purposive sampling": {
+        "reasoning": "Purposive sampling is a method used to select a specific group of participants (Vietnamese high school and college students) based on certain characteristics relevant to the research, which allows for focused data collection.",
+        "passages": [
+            "A purposive sample of (N = 291) Vietnamese high school and college students"
+        ],
+        "confidence_score": 0.95
+    },
+    "theoretical model testing": {
+        "reasoning": "Theoretical model testing refers to the method of evaluating the predictive power of different theoretical frameworks (communication, psychological, and contact models) to understand the results, which is a clear methodological approach.",
+        "passages": [
+            "to test the predictive power of three contesting theoretical models in the communication framework"
+        ],
+        "confidence_score": 0.9
+    }
+}

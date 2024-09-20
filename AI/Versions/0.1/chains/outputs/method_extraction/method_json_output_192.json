@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "self-assessment"
+    ],
+    "self-assessment": {
+        "reasoning": "Self-assessment is a method employed in this study to gather insights from students about their perceptions and evaluations of their reading and writing skills.",
+        "passages": [
+            "self-assessed their work as readers and writers during a summer enrichment program"
+        ],
+        "confidence_score": 0.9
+    }
+}

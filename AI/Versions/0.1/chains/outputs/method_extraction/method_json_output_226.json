@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "debriefing worksheets",
+        "game oversight",
+        "modeling"
+    ],
+    "debriefing worksheets": {
+        "reasoning": "Debriefing worksheets are a specific tool used to collect qualitative data from students after their gameplay, providing insights into their learning and connections to theoretical perspectives.",
+        "passages": [
+            "Drawing from debriefing worksheets that 151 students completed after playing it"
+        ],
+        "confidence_score": 0.9
+    },
+    "game oversight": {
+        "reasoning": "Game oversight refers to the process of managing and facilitating the game sessions, which is a crucial methodological component in ensuring that the learning objectives are met during the IR classes.",
+        "passages": [
+            "I highlight my experiences overseeing the game during the first 2 weeks of seven introductory IR classes"
+        ],
+        "confidence_score": 0.85
+    },
+    "modeling": {
+        "reasoning": "Modeling is described as a method used in the game to simulate world politics, allowing students to engage with theories in a practical context, thus serving as a distinct methodological approach in the research.",
+        "passages": [
+            "by modeling rather than replicating world politics, Diplomacy introduces students to a counterintuitive idea"
+        ],
+        "confidence_score": 0.88
+    }
+}

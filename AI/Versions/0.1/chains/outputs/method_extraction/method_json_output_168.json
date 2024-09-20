@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "three-dimensional (3D) confocal images",
+        "geometric approximations",
+        "image processing",
+        "volume measurement method",
+        "instrumentation for plankton biomass estimates"
+    ],
+    "three-dimensional (3D) confocal images": {
+        "reasoning": "The use of 3D confocal images represents a specific technique for measuring phytoplankton cell volumes, providing a more accurate representation than traditional 2D images.",
+        "passages": [
+            "we examined how cell volumes determined from three-dimensional (3D), confocal images affected established relationships between phytoplankton cell volume and C and N content."
+        ],
+        "confidence_score": 0.95
+    },
+    "geometric approximations": {
+        "reasoning": "Geometric approximations refer to a method used to estimate cell volume based on cell shape, which is a specific procedure in the analysis of phytoplankton biomass.",
+        "passages": [
+            "volume has traditionally been estimated with geometric approximations of cell shape using cell dimensions from planar two-dimensional (2D) images"
+        ],
+        "confidence_score": 0.9
+    },
+    "image processing": {
+        "reasoning": "Image processing is a methodological approach that encompasses the techniques used to analyze and interpret the images of phytoplankton, impacting the accuracy of volume measurements.",
+        "passages": [
+            "Given advances in image processing, we examined how cell volumes determined from three-dimensional (3D), confocal images affected established relationships"
+        ],
+        "confidence_score": 0.85
+    },
+    "volume measurement method": {
+        "reasoning": "The volume measurement method refers to the specific approach taken to determine the volume of phytoplankton cells, which is central to the research findings.",
+        "passages": [
+            "3D phytoplankton cell volume measurements were on average 15% greater than the geometric approximations from 2D images."
+        ],
+        "confidence_score": 0.92
+    },
+    "instrumentation for plankton biomass estimates": {
+        "reasoning": "This refers to the specific tools and technologies recommended for directly estimating plankton biomass, representing a methodological advancement in the field.",
+        "passages": [
+            "Recent advances in instrumentation, including those for at sea and autonomous applications can be used to estimate plankton biomass directly."
+        ],
+        "confidence_score": 0.88
+    }
+}

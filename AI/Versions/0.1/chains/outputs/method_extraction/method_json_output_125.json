@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "200-m transects",
+        "dung-baited pitfall traps",
+        "Random Forests analyses"
+    ],
+    "200-m transects": {
+        "reasoning": "200-m transects represent a specific method for sampling and surveying dung beetle communities across the farms, allowing researchers to systematically assess the distribution of species in relation to cattle treatment.",
+        "passages": [
+            "Using 200-m transacts and dung-baited pitfall traps."
+        ],
+        "confidence_score": 0.9
+    },
+    "dung-baited pitfall traps": {
+        "reasoning": "Dung-baited pitfall traps are a specific technique employed for collecting dung beetles, allowing for targeted sampling based on the availability of dung, which is crucial for studying these communities.",
+        "passages": [
+            "Using 200-m transacts and dung-baited pitfall traps."
+        ],
+        "confidence_score": 0.95
+    },
+    "Random Forests analyses": {
+        "reasoning": "Random Forests analyses is a specific statistical method used to analyze the data collected and identify key predictor variables affecting dung beetle abundances, thus forming a critical part of the data analysis process.",
+        "passages": [
+            "Using Random Forests analyses, we determined site location, soil type, and chemical lethality as additional important predictor variables affecting dung beetle abundances on Maryland farms."
+        ],
+        "confidence_score": 0.92
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "methods": [],
+    "divine providence": {
+        "reasoning": "Divine providence is a conceptual framework discussed in the abstract, but it does not represent a specific methodology or process used in research.",
+        "passages": [
+            "Divine providence, as traditionally conceived, keeps historical time subordinate to God's sovereignty so that the divine plan for it is fulfilled."
+        ],
+        "confidence_score": 0.1
+    },
+    "logic of radical generosity": {
+        "reasoning": "The logic of radical generosity is presented as a theoretical perspective rather than a methodological approach or technique utilized in the research.",
+        "passages": [
+            "the starting point for theologizing about providence ought to be the logic of radical generosity"
+        ],
+        "confidence_score": 0.2
+    },
+    "historical time": {
+        "reasoning": "Historical time is a concept discussed in the context of divine providence, but it does not represent a specific method or approach used in the research.",
+        "passages": [
+            "the divine Thou creates historical time as a reality unto itself"
+        ],
+        "confidence_score": 0.1
+    },
+    "human experience of grace": {
+        "reasoning": "The human experience of grace is mentioned as an example but does not represent a method or a systematic approach to research.",
+        "passages": [
+            "The human experience of grace offers us a paradigmatic example of this."
+        ],
+        "confidence_score": 0.2
+    }
+}

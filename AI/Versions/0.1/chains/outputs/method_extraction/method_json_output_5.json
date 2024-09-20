@@ -1,0 +1,19 @@
+{
+    "methods": [],
+    "ethical decision-making": {
+        "reasoning": "Ethical decision-making is a process that involves making choices based on ethical principles, which is central to the discussion of cataloging ethics in the abstract.",
+        "passages": [
+            "ethical decision-making is crucial",
+            "because cataloging requires decision-making"
+        ],
+        "confidence_score": 0.85
+    },
+    "cataloging ethics": {
+        "reasoning": "Cataloging ethics refers to a specific set of ethical principles that guide decision-making in cataloging, which is a distinct methodology within library ethics.",
+        "passages": [
+            "cataloging ethics are a distinct subset of library ethics",
+            "major current issues in cataloging ethics include the creation of a code of ethics"
+        ],
+        "confidence_score": 0.9
+    }
+}

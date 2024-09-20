@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "spectroscopic survey",
+        "targeting strategy",
+        "Ancillary Science Programs",
+        "Bright Time Extension (BTX)"
+    ],
+    "spectroscopic survey": {
+        "reasoning": "The term 'spectroscopic survey' refers to a specific method of collecting data using spectroscopy to analyze the light from objects in the Milky Way, which is a fundamental aspect of the research.",
+        "passages": [
+            "The Apache Point Observatory Galactic Evolution Experiment 2 (APOGEE-2) is a dual-hemisphere, near-infrared (NIR), spectroscopic survey"
+        ],
+        "confidence_score": 0.95
+    },
+    "targeting strategy": {
+        "reasoning": "The 'targeting strategy' refers to the specific approach used to select targets for the survey, which is a crucial methodological component of the research.",
+        "passages": [
+            "we present the updates and additions to the initial targeting strategy for APOGEE-2N"
+        ],
+        "confidence_score": 0.9
+    },
+    "Ancillary Science Programs": {
+        "reasoning": "'Ancillary Science Programs' represent a methodological approach to expand the research scope beyond the main survey through competitive proposals, indicating a structured process for scientific exploration.",
+        "passages": [
+            "Ancillary Science Programs competitively awarded to Sloan Digital Sky Survey IV PIs through proposal calls in 2015 and 2017"
+        ],
+        "confidence_score": 0.85
+    },
+    "Bright Time Extension (BTX)": {
+        "reasoning": "'Bright Time Extension (BTX)' refers to a specific extension of the survey that was implemented to enhance data collection, representing a methodological adjustment to the original survey design.",
+        "passages": [
+            "an effective 1.5 yr expansion of the survey, known as the Bright Time Extension (BTX)"
+        ],
+        "confidence_score": 0.8
+    }
+}

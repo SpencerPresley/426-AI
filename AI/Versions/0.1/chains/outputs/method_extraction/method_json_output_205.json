@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "empirical test",
+        "panel data set",
+        "hypothesis testing"
+    ],
+    "empirical test": {
+        "reasoning": "An empirical test refers to the application of a theoretical model to real-world data to validate or challenge the model's assumptions, making it a clear methodological approach in the study.",
+        "passages": [
+            "This study aims to provide an empirical test of an existing theoretical model depicting the governance modes used by international franchisors when entering international markets."
+        ],
+        "confidence_score": 0.9
+    },
+    "panel data set": {
+        "reasoning": "A panel data set involves data collected from multiple subjects over time, which is a specific method of data collection used in this research to analyze market expansions.",
+        "passages": [
+            "Using a unique panel data set of 222 market expansions by US firms over a seven-year period"
+        ],
+        "confidence_score": 0.95
+    },
+    "hypothesis testing": {
+        "reasoning": "Hypothesis testing is a methodological approach used to evaluate the validity of assumptions made about the relationships between variables, which is fundamental to the study's design.",
+        "passages": [
+            "this paper tests hypotheses regarding the factors affecting the franchisors' choice of governance modes when entering foreign markets."
+        ],
+        "confidence_score": 0.92
+    }
+}

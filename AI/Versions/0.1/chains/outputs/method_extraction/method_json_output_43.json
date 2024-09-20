@@ -1,0 +1,30 @@
+{
+    "methods": [
+        "lesson study",
+        "theory-based evaluation",
+        "collaborative inquiry process"
+    ],
+    "lesson study": {
+        "reasoning": "Lesson study is a specific method employed in educational settings that involves collaborative planning, enactment, and reflection on lessons, making it a clear methodological approach for improving instruction.",
+        "passages": [
+            "\"Lesson study\" has garnered considerable attention from educational researchers and practitioners as a promising method for improving instruction.",
+            "At its core, lesson study reflects a collaborative inquiry process, grounded in cycles of planning, enacting, and reflecting, that promotes teacher learning through active engagement in lesson refinement."
+        ],
+        "confidence_score": 0.95
+    },
+    "theory-based evaluation": {
+        "reasoning": "Theory-based evaluation is a methodological approach used to assess program effects by linking theory to practice, which is explicitly applied in the context of the lesson study evaluation.",
+        "passages": [
+            "we leverage lesson study as an exemplar case to foreground an examination and application of theory-based evaluation.",
+            "We overview a novel evaluation framework contextualized to this multidimensional instructional program and draw out the contributions of theory-based evaluation to the study of program effects."
+        ],
+        "confidence_score": 0.9
+    },
+    "collaborative inquiry process": {
+        "reasoning": "The collaborative inquiry process is a methodological approach that involves teachers working together to improve their practice through shared experiences and reflections, which is a key component of lesson study.",
+        "passages": [
+            "At its core, lesson study reflects a collaborative inquiry process, grounded in cycles of planning, enacting, and reflecting, that promotes teacher learning through active engagement in lesson refinement."
+        ],
+        "confidence_score": 0.85
+    }
+}

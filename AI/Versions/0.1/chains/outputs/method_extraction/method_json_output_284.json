@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "FRASE index construction",
+        "panel data analysis",
+        "Gini coefficient measurement"
+    ],
+    "FRASE index construction": {
+        "reasoning": "The FRASE index construction refers to the specific method of quantifying regulatory restrictions across states, which is essential for analyzing the relationship between regulation and income inequality.",
+        "passages": [
+            "The Federal Regulation and State Enterprise (FRASE) index quantifies the regulatory restrictions that apply to each US state by industrial composition."
+        ],
+        "confidence_score": 0.9
+    },
+    "panel data analysis": {
+        "reasoning": "Panel data analysis is the method used to examine the relationship between federal regulatory restrictions and income inequality over time across multiple states.",
+        "passages": [
+            "We construct a panel of 50 US states from 1997 to 2015 to test whether states exposed to more federal regulatory restrictions have higher levels of income inequality."
+        ],
+        "confidence_score": 0.85
+    },
+    "Gini coefficient measurement": {
+        "reasoning": "The Gini coefficient measurement is a specific statistical method used to quantify income inequality, which is a central focus of the research.",
+        "passages": [
+            "the results indicate that a 10 percent increase in federal regulation is associated with an approximate 0.5 percent increase in income inequality as measured by the Gini coefficient."
+        ],
+        "confidence_score": 0.95
+    }
+}

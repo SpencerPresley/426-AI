@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "chronotopization",
+        "analysis of participants' metacommentaries"
+    ],
+    "chronotopization": {
+        "reasoning": "Chronotopization is a proposed methodological concept used to understand the dynamic construction of perceptions of normative social behavior in relation to time, space, and interaction, suggesting a specific approach to the research.",
+        "passages": [
+            "I propose the notion of chronotopization to understand how perceptions of normative social behavior are dynamically constructed and organized with respect to time, space, and the people involved in the interaction."
+        ],
+        "confidence_score": 0.85
+    },
+    "analysis of participants' metacommentaries": {
+        "reasoning": "The analysis of participants' metacommentaries refers to the specific method used to examine how individuals reflect on and discuss language choices, providing a clear analytical approach within the research.",
+        "passages": [
+            "Through an analysis of participants' metacommentaries on appropriate language choice"
+        ],
+        "confidence_score": 0.9
+    }
+}

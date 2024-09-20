@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "retrospective chart review",
+        "data collection"
+    ],
+    "retrospective chart review": {
+        "reasoning": "A retrospective chart review is a specific method used to analyze existing patient records to assess adherence to treatment guidelines, making it a clear methodological approach in this study.",
+        "passages": [
+            "A retrospective chart review including data from January through June 2017 was conducted at a rural ED."
+        ],
+        "confidence_score": 0.95
+    },
+    "data collection": {
+        "reasoning": "Data collection refers to the systematic gathering of information regarding patient demographics, treatment prescribed, and provider type, which is essential for the analysis conducted in the study.",
+        "passages": [
+            "Data regarding the type of provider seen, the treatment the provider prescribed, and demographics were collected."
+        ],
+        "confidence_score": 0.9
+    }
+}

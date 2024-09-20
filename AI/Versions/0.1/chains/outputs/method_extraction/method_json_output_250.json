@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "sample of firms",
+        "customized dividends",
+        "external capital financing"
+    ],
+    "sample of firms": {
+        "reasoning": "The phrase 'sample of firms' indicates the specific group of entities that were analyzed in the study, which is a fundamental aspect of the research methodology.",
+        "passages": [
+            "in a sample of firms that pay dividends and issue new equity simultaneously"
+        ],
+        "confidence_score": 0.85
+    },
+    "customized dividends": {
+        "reasoning": "Customized dividends refer to the specific approach taken by managers in weakly governed firms to tailor dividend payments according to the needs of large shareholders, representing a method of dividend policy management.",
+        "passages": [
+            "managers in weakly governed firms are more likely to initiate customized dividends to meet outside large shareholders' needs"
+        ],
+        "confidence_score": 0.9
+    },
+    "external capital financing": {
+        "reasoning": "External capital financing describes the method by which firms raise funds to finance new investment projects, indicating a specific financial strategy employed in the research context.",
+        "passages": [
+            "simultaneously using costly external capital to finance new investment projects"
+        ],
+        "confidence_score": 0.88
+    }
+}

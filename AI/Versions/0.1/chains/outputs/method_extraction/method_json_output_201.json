@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "investigation",
+        "examination of bargaining power"
+    ],
+    "investigation": {
+        "reasoning": "Investigation refers to the systematic inquiry into the dynamics of manufacturer-retail relationships in emerging markets, which is a core methodological approach of the research.",
+        "passages": [
+            "We investigate whether national brand manufacturers possess bargaining power relative to retail buyers"
+        ],
+        "confidence_score": 0.85
+    },
+    "examination of bargaining power": {
+        "reasoning": "Examination of bargaining power is a specific analytical approach used to understand the impact of manufacturers' power on private label market shares, making it a methodological focus.",
+        "passages": [
+            "we examine how this may affect private label market shares"
+        ],
+        "confidence_score": 0.8
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "survey of managers",
+        "conceptualization based on information processing view"
+    ],
+    "survey of managers": {
+        "reasoning": "The survey of managers is a specific method used to collect empirical data from a defined group, allowing the researchers to analyze the relationships among the studied variables.",
+        "passages": [
+            "Empirical findings from our survey of 102 managers of US companies"
+        ],
+        "confidence_score": 0.9
+    },
+    "conceptualization based on information processing view": {
+        "reasoning": "This conceptualization refers to the methodological framework used to develop the idea of digital technology enabled IPC, which is crucial for understanding the research context.",
+        "passages": [
+            "we conceptualize digital technology enabled IPC based on the information processing view (IPV)"
+        ],
+        "confidence_score": 0.85
+    }
+}

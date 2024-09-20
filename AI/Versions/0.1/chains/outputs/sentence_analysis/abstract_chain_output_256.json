@@ -1,0 +1,48 @@
+{
+    "sentences": [
+        {
+            "sentence": "Past research has demonstrated that consumers' price fairness judgments are influenced by comparisons between the offer price they receive and the prices paid by other consumers for the same product offering.",
+            "meaning": "Previous studies have shown that consumers judge the fairness of a price based on how it compares to what others have paid for the same product.",
+            "reasoning": "The sentence discusses the influence of social comparisons on consumer behavior regarding price fairness, indicating that consumers evaluate their own experiences in relation to others.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "In today's digital age, reference points for purchases are more prevalent than ever.",
+            "meaning": "With the rise of digital technology, consumers have more access to information about prices paid by others, which serves as a reference point for their own purchasing decisions.",
+            "reasoning": "The phrase 'digital age' suggests an increase in information availability, which is likely to affect consumer behavior and decision-making.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, investigations on how certain inputs of the transaction affect these judgments is lacking.",
+            "meaning": "There is a lack of research on how specific factors related to transactions influence consumers' perceptions of price fairness.",
+            "reasoning": "The use of 'lacking' indicates a gap in the existing literature, suggesting that more exploration is needed in this area.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Specifically, extant research has failed to account for how the purchase efforts of other consumers can influence one's own price fairness evaluations.",
+            "meaning": "Current research does not consider how the effort other consumers put into their purchases affects an individual's judgment of price fairness.",
+            "reasoning": "The term 'failed to account' implies that this is an overlooked aspect that could be significant in understanding price fairness.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Moreover, relatively little empirical research has endeavored to understand the simultaneous cognitive and affective processes that explain how consumers arrive at price fairness judgments.",
+            "meaning": "There is a scarcity of empirical studies that investigate the mental and emotional processes involved in how consumers judge price fairness.",
+            "reasoning": "The phrase 'simultaneous cognitive and affective processes' indicates a complex interplay that has not been thoroughly explored in existing research.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "To address these gaps in the literature, we introduce two studies aimed at understanding the process through which the salient efforts of referent consumers serve to mitigate perceptions of price unfairness when two customers pay different prices for the same product.",
+            "meaning": "The authors propose two studies to explore how the efforts of other consumers can help reduce feelings of unfairness in price when different prices are paid for the same item.",
+            "reasoning": "The phrase 'address these gaps' suggests a proactive approach to research, indicating that the studies will fill identified voids in the literature.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "The findings support a dual-process model whereby the efforts of other (referent) customers serve to simultaneously reduce buyer anger and increase buyer understanding of the price disparity, ultimately mitigating perceptions of price unfairness.",
+            "meaning": "The results indicate a model where the efforts of other consumers help lessen feelings of anger and improve understanding of price differences, which in turn reduces feelings of price unfairness.",
+            "reasoning": "The term 'dual-process model' suggests a framework that integrates both emotional and cognitive responses, supporting the complexity of consumer reactions to price fairness.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research examines how the efforts of other consumers influence individual perceptions of price fairness, addressing gaps in existing literature regarding cognitive and emotional processes involved in price judgments.",
+    "detailed_summary": "This research paper investigates the factors influencing consumers' judgments of price fairness, particularly focusing on the role of social comparisons in the context of today's digital marketplace. It highlights a significant gap in existing studies that have not adequately considered how the purchase efforts of other consumers affect individual price fairness evaluations. Additionally, it notes a lack of empirical research on the cognitive and emotional processes that contribute to these judgments. To fill these gaps, the authors present two studies that explore how the efforts of referent consumers can help mitigate perceptions of unfair pricing when prices differ for the same product. The findings support a dual-process model, demonstrating that such efforts can reduce buyer anger and enhance understanding of price disparities, ultimately leading to a decrease in perceived price unfairness."
+}

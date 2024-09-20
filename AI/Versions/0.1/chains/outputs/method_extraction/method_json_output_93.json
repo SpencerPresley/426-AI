@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "multiple datasets",
+        "Global Entrepreneurship Monitor (GEM)",
+        "World Governance Indicators (WGIs)",
+        "WIN-Gallup International Global Index of Religiosity and Atheism"
+    ],
+    "multiple datasets": {
+        "reasoning": "The use of multiple datasets indicates a methodological approach to gather and analyze data from various sources, which is essential for understanding complex relationships in research.",
+        "passages": [
+            "the current study used multiple datasets, including the Global Entrepreneurship Monitor (GEM), World Governance Indicators (WGIs), and the WIN-Gallup International Global Index of Religiosity and Atheism"
+        ],
+        "confidence_score": 0.9
+    },
+    "Global Entrepreneurship Monitor (GEM)": {
+        "reasoning": "GEM is a specific dataset used for analyzing entrepreneurial activity, representing a concrete method for data collection and analysis in the context of entrepreneurship research.",
+        "passages": [
+            "the current study used multiple datasets, including the Global Entrepreneurship Monitor (GEM)"
+        ],
+        "confidence_score": 0.85
+    },
+    "World Governance Indicators (WGIs)": {
+        "reasoning": "WGIs provide a specific set of data related to governance, which is used as a method to evaluate the impact of government effectiveness on entrepreneurship.",
+        "passages": [
+            "the current study used multiple datasets, including the World Governance Indicators (WGIs)"
+        ],
+        "confidence_score": 0.85
+    },
+    "WIN-Gallup International Global Index of Religiosity and Atheism": {
+        "reasoning": "This index is a specific dataset that measures religiosity and atheism, serving as a methodological tool to analyze the informal institution's effect on the relationship between formal institutions and entrepreneurship.",
+        "passages": [
+            "the current study used multiple datasets, including the WIN-Gallup International Global Index of Religiosity and Atheism"
+        ],
+        "confidence_score": 0.85
+    }
+}

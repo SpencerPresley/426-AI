@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "regional atmosphere-ocean models",
+        "climate change scenario analysis"
+    ],
+    "regional atmosphere-ocean models": {
+        "reasoning": "Regional atmosphere-ocean models are specific computational tools used to simulate and investigate the effects of climate change on storm surge and coastal inundation, making it a clear methodological approach in this research.",
+        "passages": [
+            "Regional atmosphere-ocean models are used to investigate the storm surge and coastal inundation that might be produced by a similar storm under the warmer ocean temperature and higher sea level projected for the future climate."
+        ],
+        "confidence_score": 0.95
+    },
+    "climate change scenario analysis": {
+        "reasoning": "Climate change scenario analysis refers to the examination of different climate change scenarios (like RCP 4.5 and RCP 8.5) to assess their impacts on flooding and damage, representing a systematic approach to understanding future risks.",
+        "passages": [
+            "the number of houses flooded increases from 1420 during Hurricane Isabel to 1850/2190 in 2100 under the climate change scenario representative concentration pathway (RCP) 4.5/8.5.",
+            "These estimates are subjected to uncertainty due to different climate change scenarios and different climate model projections."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "change processes",
+        "conceptual framework"
+    ],
+    "change processes": {
+        "reasoning": "Change processes refer to the specific methods or strategies proposed in the paper to facilitate the development of a more equitable ethics infrastructure. This indicates a methodological approach to implementing change.",
+        "passages": [
+            "Three change processes were proposed to help build a futuristic infrastructure for ethics praxis"
+        ],
+        "confidence_score": 0.85
+    },
+    "conceptual framework": {
+        "reasoning": "The conceptual framework is a method used to structure the ideas and proposals presented in the paper, guiding the discussion around ethics praxis and its improvement.",
+        "passages": [
+            "this conceptual paper envisions a 'radical imaginary' as a call to action"
+        ],
+        "confidence_score": 0.8
+    }
+}

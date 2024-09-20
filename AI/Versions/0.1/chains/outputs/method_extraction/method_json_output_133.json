@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "multiple case study methodology",
+        "unstructured interviews",
+        "in-depth interviews",
+        "secondary data analysis"
+    ],
+    "multiple case study methodology": {
+        "reasoning": "Multiple case study methodology is a specific approach used to systematically investigate and analyze the strategic practices of different firms, making it a clear method for conducting the research.",
+        "passages": [
+            "The article adopts a multiple case study methodology supported by unstructured interviews to answer the research question."
+        ],
+        "confidence_score": 0.9
+    },
+    "unstructured interviews": {
+        "reasoning": "Unstructured interviews are a qualitative data collection method used to gather insights and information from participants in a flexible manner, which is essential for understanding the strategic practices of firms.",
+        "passages": [
+            "The article adopts a multiple case study methodology supported by unstructured interviews to answer the research question."
+        ],
+        "confidence_score": 0.85
+    },
+    "in-depth interviews": {
+        "reasoning": "In-depth interviews are a specific technique for collecting detailed qualitative data from individuals, allowing the researchers to explore the strategic practices of the firms in greater detail.",
+        "passages": [
+            "Using a combination of in-depth interviews and secondary data related to the case study in question, strategic practices of three Indian companies operating in different industry segments are identified and evaluated."
+        ],
+        "confidence_score": 0.88
+    },
+    "secondary data analysis": {
+        "reasoning": "Secondary data analysis refers to the method of using previously collected data to support the research findings, which is a common practice in case study research.",
+        "passages": [
+            "Using a combination of in-depth interviews and secondary data related to the case study in question, strategic practices of three Indian companies operating in different industry segments are identified and evaluated."
+        ],
+        "confidence_score": 0.87
+    }
+}

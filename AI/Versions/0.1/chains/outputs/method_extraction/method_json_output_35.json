@@ -1,0 +1,30 @@
+{
+    "methods": [
+        "characterization of covariates",
+        "habitat use estimation",
+        "hypothesis testing"
+    ],
+    "characterization of covariates": {
+        "reasoning": "Characterization of covariates refers to the specific process of identifying and defining the variables that influence the study, which is essential for understanding the factors affecting habitat use.",
+        "passages": [
+            "We characterized a set of covariates related to resource availability (fruit and invertebrate biomasses, feeding on dispersed and clumped food items, sleeping sites), perceived predation risk (alarm calls given to terrestrial and aerial predators, silent group movement, and vigilance behavior), and actual predation risk (evidence of hunting)"
+        ],
+        "confidence_score": 0.95
+    },
+    "habitat use estimation": {
+        "reasoning": "Habitat use estimation involves assessing how the primate group utilizes different forest types based on various risks and resource availability, which is a methodological focus of the study.",
+        "passages": [
+            "we estimated their effects on how one group of capuchin monkeys uses its habitat",
+            "the group divides its time among three major forest types within their home range: agroforest, mature, and secondary"
+        ],
+        "confidence_score": 0.9
+    },
+    "hypothesis testing": {
+        "reasoning": "Hypothesis testing is a fundamental research method used to evaluate the predictions made about the behavior of the capuchin monkeys in relation to hunting pressure and predation risks.",
+        "passages": [
+            "We hypothesized that the hunting pressure occurring in the capuchins' home range would favor predator avoidance to the detriment of searching for food",
+            "We confirmed our prediction that in a habitat with high hunting pressure, the risk of predation, both perceived and actual, had a more significant impact on how yellow-breasted capuchins used space than did food availability"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "theoretical resources",
+        "critical examination"
+    ],
+    "theoretical resources": {
+        "reasoning": "The term 'theoretical resources' refers to the frameworks and concepts derived from Marx's critique that are utilized to analyze and critique capital-induced planetary degradation, representing a methodological approach in the research.",
+        "passages": [
+            "The aim is to explicate the theoretical resources for a rigorous critique of capital-induced planetary degradation."
+        ],
+        "confidence_score": 0.85
+    },
+    "critical examination": {
+        "reasoning": "The phrase 'critical examination' indicates a method of analysis employed in the chapter to evaluate the shortcomings of ToP theory and the relevance of Marx's theory, thus representing a specific methodological approach.",
+        "passages": [
+            "The chapter discusses how Marxian critical theory facilitates a critical examination of the widespread growth of environmentalism as concomitant with the spread of neoliberal capitalism."
+        ],
+        "confidence_score": 0.8
+    }
+}

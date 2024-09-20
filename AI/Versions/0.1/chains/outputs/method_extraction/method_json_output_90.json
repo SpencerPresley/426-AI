@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "narrative portraiture",
+        "feminist methods",
+        "creative writing",
+        "critical literacy"
+    ],
+    "narrative portraiture": {
+        "reasoning": "Narrative portraiture is a specific qualitative research method that involves creating detailed narratives about individuals' lives, making it a methodological approach used in this study.",
+        "passages": [
+            "Blending narrative portraiture and feminist methods"
+        ],
+        "confidence_score": 0.9
+    },
+    "feminist methods": {
+        "reasoning": "Feminist methods refer to research approaches that prioritize women's experiences and perspectives, which is explicitly mentioned as part of the methodology in this study.",
+        "passages": [
+            "Blending narrative portraiture and feminist methods"
+        ],
+        "confidence_score": 0.85
+    },
+    "creative writing": {
+        "reasoning": "Creative writing is identified as a method used by the women to engage in praxis and disseminate knowledge, indicating its role as a specific approach in the research.",
+        "passages": [
+            "the women used creative writing to engage in praxis by creating and disseminating knowledge"
+        ],
+        "confidence_score": 0.95
+    },
+    "critical literacy": {
+        "reasoning": "Critical literacy is presented as a method that the women employed to shift their focus from traditional pedagogy to a more empowered use of texts, indicating its methodological significance.",
+        "passages": [
+            "the women drew upon critical literacy not as a means of being taught how to understand the power of texts, but to wield the power of texts themselves"
+        ],
+        "confidence_score": 0.9
+    }
+}

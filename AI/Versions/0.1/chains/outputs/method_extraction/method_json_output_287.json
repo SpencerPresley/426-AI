@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "Frobenius-Perron dimension",
+        "computation of Z-modules"
+    ],
+    "Frobenius-Perron dimension": {
+        "reasoning": "The Frobenius-Perron dimension is a specific mathematical concept introduced in the research, representing a new methodology for analyzing certain structures in mathematics.",
+        "passages": [
+            "We propose a notion of Frobenius-Perron dimension for certain free Z-modules of infinite rank"
+        ],
+        "confidence_score": 0.9
+    },
+    "computation of Z-modules": {
+        "reasoning": "The computation of Z-modules refers to the specific analytical process used to determine the Frobenius-Perron dimension for the Z-modules of finite dimensional complex representations, indicating a methodological approach in the research.",
+        "passages": [
+            "compute it for the Z-modules of finite dimensional complex representations of unitary groups with nonnegative dominant weights"
+        ],
+        "confidence_score": 0.85
+    }
+}

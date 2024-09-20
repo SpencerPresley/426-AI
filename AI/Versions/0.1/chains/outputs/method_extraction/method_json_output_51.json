@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "occupancy measurement",
+        "abundance measurement",
+        "water quality parameter measurement",
+        "geographic information systems analysis"
+    ],
+    "occupancy measurement": {
+        "reasoning": "Occupancy measurement refers to the specific method used to assess the presence or absence of Eastern Tiger Salamanders in breeding ponds, which is crucial for understanding their habitat use.",
+        "passages": [
+            "We measured salamander occupancy, salamander abundance, and water quality parameters at ponds during the 2018 and 2019 breeding seasons."
+        ],
+        "confidence_score": 0.9
+    },
+    "abundance measurement": {
+        "reasoning": "Abundance measurement is the method used to quantify the number of Eastern Tiger Salamanders present in the breeding ponds, which is essential for evaluating population dynamics.",
+        "passages": [
+            "We measured salamander occupancy, salamander abundance, and water quality parameters at ponds during the 2018 and 2019 breeding seasons."
+        ],
+        "confidence_score": 0.9
+    },
+    "water quality parameter measurement": {
+        "reasoning": "Water quality parameter measurement involves assessing various water quality metrics that can influence salamander populations, thus serving as a method to understand environmental conditions.",
+        "passages": [
+            "We measured salamander occupancy, salamander abundance, and water quality parameters at ponds during the 2018 and 2019 breeding seasons."
+        ],
+        "confidence_score": 0.85
+    },
+    "geographic information systems analysis": {
+        "reasoning": "Geographic information systems analysis is a method used to analyze spatial data related to pond characteristics and surrounding landscape features, which is critical for understanding habitat use.",
+        "passages": [
+            "We used geographic information systems to determine pond area and the percentage of forest area and road density surrounding a pond at four spatial scales."
+        ],
+        "confidence_score": 0.95
+    }
+}

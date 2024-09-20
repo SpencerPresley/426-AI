@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "survey instrument",
+        "model testing"
+    ],
+    "survey instrument": {
+        "reasoning": "The survey instrument is the specific method used to collect data from the sample of accounting majors, providing a structured approach to gather information relevant to the study's objectives.",
+        "passages": [
+            "For this study, a survey instrument was concurrently administered to 443 accounting majors at four geographically dispersed universities."
+        ],
+        "confidence_score": 0.95
+    },
+    "model testing": {
+        "reasoning": "Model testing refers to the analytical approach used to evaluate the relationships between resilience, academic burnout, and psychological distress, indicating a methodological process employed in the research.",
+        "passages": [
+            "Two alternative models are tested.",
+            "The first model positions resilience as an exogenous predictor, and dimensions of academic burnout antecedent to psychological distress."
+        ],
+        "confidence_score": 0.9
+    }
+}

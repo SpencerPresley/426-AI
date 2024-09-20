@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "40-item paper survey",
+        "multinomial logistic regression",
+        "Poisson regression"
+    ],
+    "40-item paper survey": {
+        "reasoning": "The 40-item paper survey is a specific data collection method used to gather information about sleep duration, quality, and other health behaviors from the participants.",
+        "passages": [
+            "Analyses were based on a 40-item paper survey from 2016/2017 to 2017/2018 academic years, with a 72% response rate."
+        ],
+        "confidence_score": 0.95
+    },
+    "multinomial logistic regression": {
+        "reasoning": "Multinomial logistic regression is a statistical method used to assess the association between sleep duration and independent variables, making it a key analytical approach in the study.",
+        "passages": [
+            "Multinomial logistic regression was used to assess the association between sleep duration and independent variables (race/nationality, gender, and BMI)."
+        ],
+        "confidence_score": 0.9
+    },
+    "Poisson regression": {
+        "reasoning": "Poisson regression is another specific statistical method employed to examine the relationship between sleep quality and independent variables, indicating its role as a methodological approach in the research.",
+        "passages": [
+            "Poisson regression was used to examine the relationship between sleep quality and independent variables."
+        ],
+        "confidence_score": 0.9
+    }
+}

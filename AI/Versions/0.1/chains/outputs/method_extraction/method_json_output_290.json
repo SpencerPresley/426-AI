@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "Young diagrams",
+        "curve neighborhoods",
+        "combinatorial models",
+        "k-strict partitions",
+        "partitions compatible with the Bruhat order"
+    ],
+    "Young diagrams": {
+        "reasoning": "Young diagrams are utilized as a mathematical tool to derive a formula for calculating the minimum positive integer d, indicating a specific method for analysis in the research.",
+        "passages": [
+            "We give a formula in terms of Young diagrams to calculate the minimum positive integer d"
+        ],
+        "confidence_score": 0.85
+    },
+    "curve neighborhoods": {
+        "reasoning": "Curve neighborhoods are a specific method used to study the properties of Schubert classes, indicating a procedural approach in the research.",
+        "passages": [
+            "We do this by studying curve neighborhoods."
+        ],
+        "confidence_score": 0.9
+    },
+    "combinatorial models": {
+        "reasoning": "Combinatorial models refer to the frameworks used to compute curve neighborhoods, representing a methodological approach in the analysis.",
+        "passages": [
+            "We compute curve neighborhoods in several combinatorial models."
+        ],
+        "confidence_score": 0.8
+    },
+    "k-strict partitions": {
+        "reasoning": "K-strict partitions are a specific type of combinatorial model used in the computation of curve neighborhoods, indicating a methodological component of the research.",
+        "passages": [
+            "We compute curve neighborhoods in several combinatorial models including k-strict partitions."
+        ],
+        "confidence_score": 0.75
+    },
+    "partitions compatible with the Bruhat order": {
+        "reasoning": "Partitions compatible with the Bruhat order represent another specific type of combinatorial model employed in the study, indicating a method for analysis.",
+        "passages": [
+            "and a set of partitions where their inclusion is compatible with the Bruhat order."
+        ],
+        "confidence_score": 0.75
+    }
+}

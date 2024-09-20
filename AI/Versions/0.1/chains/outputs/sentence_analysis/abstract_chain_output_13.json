@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "Growth rate of Fundulus heteroclitus was examined at 25 and 30 degrees C in nine treatments of diel-cycling dissolved oxygen (DO) and pH.",
+            "meaning": "The study investigated how the growth rate of a specific fish species, Fundulus heteroclitus, is affected by varying levels of dissolved oxygen and pH at two different temperatures.",
+            "reasoning": "This sentence outlines the main focus of the research, specifying the organism studied, the conditions tested, and the variables involved.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Extreme diel-cycling DO (1-11 mg O2.L-1) negatively impacted growth during 10 days at 30 degrees C, but not at 25 degrees C.",
+            "meaning": "High fluctuations in dissolved oxygen levels significantly hindered the fish's growth at 30 degrees Celsius over a 10-day period, while no such effect was observed at 25 degrees Celsius.",
+            "reasoning": "The sentence describes the specific results of the experiment, indicating that temperature and extreme oxygen conditions have a direct relationship with growth rates.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Moderate DO cycles (3-9 mg O2.L-1) had no direct growth impact at either temperature.",
+            "meaning": "Moderate variations in dissolved oxygen levels did not affect the growth of Fundulus heteroclitus at either temperature tested.",
+            "reasoning": "This sentence provides a contrasting result to the previous one, emphasizing that only extreme conditions were detrimental to growth.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Fish did not appear to acclimate, during days 10-30, to the initial growth-limiting effects of extreme diel DO cycles at 30 degrees C.",
+            "meaning": "The fish did not adapt to the negative growth effects caused by extreme dissolved oxygen fluctuations over the 20-day observation period following the initial 10 days.",
+            "reasoning": "This indicates a lack of physiological adaptation to stressors, which is significant in understanding the long-term effects of environmental changes.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Diel-cycling DO interacts synergistically with temperature to impact growth.",
+            "meaning": "The effects of fluctuating dissolved oxygen levels on growth are compounded by the temperature, meaning both factors together have a greater impact than either alone.",
+            "reasoning": "The use of 'synergistically' suggests that the interaction between the two variables is significant and should be considered in ecological assessments.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "There was no evidence of an independent growth effect of either moderate pH cycles (7.2-7.8) or extreme pH cycles (6.8-8.1) at either temperature.",
+            "meaning": "Changes in pH, whether moderate or extreme, did not have a significant effect on the growth of the fish at the tested temperatures.",
+            "reasoning": "This sentence clarifies that pH is not a contributing factor to growth limitations in this study, focusing attention on dissolved oxygen and temperature instead.",
+            "confidence_score": 0.87
+        },
+        {
+            "sentence": "Mean low pCO(2) levels in extreme cycles were similar to 32 000 and similar to 47 000 mu atm at 25 and 30 degrees C, respectively.",
+            "meaning": "The study found that the average low levels of partial pressure of carbon dioxide (pCO2) during extreme cycles were significantly high at both temperatures, with specific values provided.",
+            "reasoning": "This sentence introduces important data regarding carbon dioxide levels, which may have implications for the overall health of the aquatic environment.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "It is noteworthy that these high mean nightly pCO(2) levels are more than an order of magnitude higher than the chronic mean oceanic pCO(2) of similar to 1000 mu atm projected by the year 2100.",
+            "meaning": "The high levels of pCO2 observed in the experiment are considerably greater than the expected oceanic pCO2 levels by 2100, highlighting potential environmental concerns.",
+            "reasoning": "This conclusion emphasizes the significance of the findings in the context of future ocean conditions and their potential impact on marine life.",
+            "confidence_score": 0.93
+        }
+    ],
+    "overall_theme": "The research investigates how varying levels of dissolved oxygen and temperature affect the growth of Fundulus heteroclitus, revealing significant negative impacts from extreme conditions, while moderate pH and DO levels do not influence growth.",
+    "detailed_summary": "This study examines the growth rate of the fish species Fundulus heteroclitus under varying conditions of dissolved oxygen and pH at two temperatures (25 and 30 degrees Celsius). The findings indicate that extreme diel-cycling dissolved oxygen levels negatively impact fish growth at 30 degrees Celsius but not at 25 degrees Celsius. Moderate dissolved oxygen cycles do not affect growth at either temperature. Furthermore, the fish did not acclimate to the initial growth-limiting effects of extreme dissolved oxygen cycles over a longer observation period. The interaction between diel-cycling dissolved oxygen and temperature was found to be synergistic, significantly influencing growth. Additionally, neither moderate nor extreme pH cycles demonstrated an independent effect on growth. The study also highlights concerning levels of pCO2, which were found to be much higher than projected oceanic levels by the year 2100, suggesting potential ecological implications."
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "panel data collection",
+        "data gathering from COMPUSTAT",
+        "data gathering from ExecuComp"
+    ],
+    "panel data collection": {
+        "reasoning": "Panel data collection refers to the method of collecting data across multiple time periods for the same entities, allowing for analysis of changes over time, which is a core aspect of the research.",
+        "passages": [
+            "the authors collected data from 2,510 companies listed in the Standard and Poor's 500 index in a panel data format of a 12-year period"
+        ],
+        "confidence_score": 0.95
+    },
+    "data gathering from COMPUSTAT": {
+        "reasoning": "Data gathering from COMPUSTAT is a specific method used to collect financial and firm-level data, which is essential for the analysis conducted in the study.",
+        "passages": [
+            "the authors gathered financial and other firm-level data from COMPUSTAT"
+        ],
+        "confidence_score": 0.9
+    },
+    "data gathering from ExecuComp": {
+        "reasoning": "Data gathering from ExecuComp is a specific method employed to collect executive compensation and executive-level data, which is crucial for understanding the effects of compensation plans.",
+        "passages": [
+            "the authors gathered financial and other firm-level data from COMPUSTAT, and executive compensation and executive-level data from ExecuComp"
+        ],
+        "confidence_score": 0.9
+    }
+}

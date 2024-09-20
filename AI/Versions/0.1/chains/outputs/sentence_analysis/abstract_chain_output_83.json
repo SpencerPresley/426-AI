@@ -1,0 +1,24 @@
+{
+    "sentences": [
+        {
+            "sentence": "Players entering the Women's National Basketball Association (WNBA) are allocated to teams based on a draft where lower performing teams in the regular season earn the highest odds of selecting the best players, creating an incentive for teams to lose games.",
+            "meaning": "The WNBA uses a draft system that favors teams with poorer performance, which can encourage those teams to intentionally lose games to secure better player selections.",
+            "reasoning": "The sentence explains the mechanics of the draft system in the WNBA and how it potentially incentivizes teams to underperform.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Using data from the 2000-2019 seasons, results indicate that WNBA teams are more likely to lose after they have been eliminated from postseason playoffs regardless of the gender of the coach or general manager.",
+            "meaning": "Analysis of data from 2000 to 2019 shows that WNBA teams tend to lose more frequently after being eliminated from playoff contention, and this trend holds true irrespective of the gender of the coaching staff.",
+            "reasoning": "The sentence presents findings from the research, indicating a correlation between playoff elimination and increased losses, while also noting that this pattern is not influenced by the gender of the team's leadership.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Evidence of tanking is concentrated in seasons after the WNBA made a draft lottery change in 2015, which was intended to reduce tanking.",
+            "meaning": "The research found that instances of teams intentionally losing games (tanking) increased following a change in the draft lottery rules in 2015, which aimed to mitigate such behavior.",
+            "reasoning": "This sentence discusses a specific finding about the timing of tanking behavior in relation to changes in the draft rules, suggesting that the intended effect of the rule change was not achieved.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the relationship between the WNBA's draft system and team performance, highlighting a trend of intentional losing (tanking) among teams after playoff elimination, particularly following a 2015 rule change aimed at reducing such behavior.",
+    "detailed_summary": "This research paper analyzes the impact of the WNBA's draft allocation system on team performance, particularly focusing on the phenomenon of tanking, where teams intentionally lose games to secure better draft picks. By examining data from the 2000 to 2019 seasons, the study finds that teams are more likely to lose after being eliminated from playoff contention, and this trend is consistent regardless of the gender of the team's coach or general manager. Furthermore, the research highlights a significant increase in tanking behavior following a change in the draft lottery rules in 2015, which was designed to discourage such practices. Overall, the findings suggest that the draft system may inadvertently incentivize teams to lose, undermining the competitive integrity of the league."
+}

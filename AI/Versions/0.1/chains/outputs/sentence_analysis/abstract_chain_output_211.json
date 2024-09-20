@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "We empirically investigate the theory that regulatory growth within an industry disproportionately burdens small businesses relative to their larger competitors.",
+            "meaning": "The research examines whether increasing regulations in an industry have a greater negative impact on small businesses compared to larger ones.",
+            "reasoning": "The phrase 'empirically investigate' indicates a research approach based on observation or experimentation, while 'disproportionately burdens' suggests that small businesses face a heavier impact from regulatory growth.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Using RegData 3.0, we find that a 10% increase in industry-specific regulatory restrictions is associated with a 0.5% reduction in the number of firms regardless of firm size, but a 0.6% reduction in employment only among small firms.",
+            "meaning": "The data shows that an increase in regulations leads to a slight decrease in the number of firms in the industry, but small firms specifically experience a larger decline in employment.",
+            "reasoning": "The use of 'associated with' indicates a correlation between regulatory restrictions and the decrease in firms and employment, with specific emphasis on the greater impact on small firms.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We also find that consecutive years of high regulatory growth amplify the associated negative effects of future regulations on the number and employment of small firms, but we find no amplifying effects for large firms.",
+            "meaning": "Repeated years of increasing regulations worsen the negative impact on small firms, unlike large firms which do not experience this intensified effect.",
+            "reasoning": "The term 'amplify' suggests that the negative effects become stronger over time for small firms, while 'no amplifying effects for large firms' indicates that large firms remain unaffected by the duration of regulatory growth.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Finally, we find that higher regulatory growth rates are associated with lower job destruction rates among establishments owned by large firms.",
+            "meaning": "Increased regulatory growth correlates with fewer job losses in large firms, suggesting that they are more resilient to regulatory changes.",
+            "reasoning": "The phrase 'lower job destruction rates' implies a protective effect of regulatory growth on large firms, contrasting with the negative impact on small firms.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "These findings are consistent with the Public Choice theory of regulation and imply that regulatory growth leads to fewer small businesses and reduced small business employment, with minimal negative impacts on large businesses.",
+            "meaning": "The results support the Public Choice theory, indicating that increased regulation reduces the number of small businesses and their employment, while having little effect on large businesses.",
+            "reasoning": "The reference to the Public Choice theory ties the findings to an established economic theory, and the conclusion summarizes the implications of the research succinctly.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research explores how regulatory growth negatively affects small businesses more than large businesses, leading to fewer small firms and reduced employment in that sector.",
+    "detailed_summary": "This study investigates the impact of regulatory growth on small versus large businesses using RegData 3.0. It finds that a 10% increase in regulatory restrictions correlates with a 0.5% decrease in the total number of firms, with small firms experiencing a 0.6% decrease in employment. Furthermore, it highlights that consecutive years of increased regulation exacerbate the adverse effects on small firms, while large firms do not show similar amplifying effects. Interestingly, the research also notes that higher regulatory growth rates are linked to lower job destruction in large firms, indicating their relative stability in the face of regulations. Overall, the findings align with the Public Choice theory, suggesting that regulatory growth is detrimental to small businesses while having minimal negative effects on larger competitors."
+}

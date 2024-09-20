@@ -1,0 +1,52 @@
+{
+    "methods": [
+        "algebra screening measures",
+        "assessments administration",
+        "descriptive and correlation analyses",
+        "alternate-form and test-retest reliability",
+        "concurrent validity",
+        "predictive validity"
+    ],
+    "algebra screening measures": {
+        "reasoning": "Algebra screening measures refer to the specific tools used to assess students' understanding of algebra, making it a clear methodology in the study.",
+        "passages": [
+            "the technical adequacy of three procedural and two conceptual algebra screening measures"
+        ],
+        "confidence_score": 0.9
+    },
+    "assessments administration": {
+        "reasoning": "Assessments administration indicates the process of conducting evaluations over multiple rounds, which is a specific method used to collect data in the study.",
+        "passages": [
+            "We administered three rounds of assessments throughout an algebra course"
+        ],
+        "confidence_score": 0.85
+    },
+    "descriptive and correlation analyses": {
+        "reasoning": "Descriptive and correlation analyses are statistical methods used to analyze the data collected, thus serving as a key methodological approach in the research.",
+        "passages": [
+            "Descriptive and correlation analyses were used to investigate measure scores"
+        ],
+        "confidence_score": 0.9
+    },
+    "alternate-form and test-retest reliability": {
+        "reasoning": "Alternate-form and test-retest reliability are specific statistical methods used to evaluate the reliability of the measures, indicating a clear methodological focus.",
+        "passages": [
+            "alternate-form and test-retest reliability"
+        ],
+        "confidence_score": 0.88
+    },
+    "concurrent validity": {
+        "reasoning": "Concurrent validity is a specific method used to assess the validity of the measures by comparing them with other established measures, making it a methodological aspect of the study.",
+        "passages": [
+            "moderate concurrent and predictive validity"
+        ],
+        "confidence_score": 0.85
+    },
+    "predictive validity": {
+        "reasoning": "Predictive validity is a method used to determine how well the measures can predict future performance, which is a key aspect of the research methodology.",
+        "passages": [
+            "moderate concurrent and predictive validity"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "time-lagged survey design"
+    ],
+    "time-lagged survey design": {
+        "reasoning": "Time-lagged survey design is a specific methodological approach used to collect data at multiple points in time, allowing researchers to examine relationships over time and assess causality.",
+        "passages": [
+            "Using a time-lagged survey design"
+        ],
+        "confidence_score": 0.95
+    }
+}

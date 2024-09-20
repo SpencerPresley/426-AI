@@ -1,0 +1,24 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "On the basis of the self-determination theory, we develop and test an integrative framework that explains when and why customer incivility impairs employee service performance.",
+            "meaning": "The research builds on self-determination theory to create and evaluate a comprehensive model that identifies the conditions under which rude behavior from customers negatively affects the service performance of employees.",
+            "reasoning": "The phrase 'self-determination theory' indicates a psychological framework that focuses on motivation and behavior, while 'integrative framework' suggests a systematic approach to understanding the relationship between customer behavior and employee performance.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Using multisource data collected through two waves in a shopping mall, we found that the strength of the mediated relationship between customer incivility and employee service performance (via employee intrinsic motivation) varied based on employee core-self evaluations;",
+            "meaning": "The study employed data from multiple sources over two time periods in a shopping mall setting, revealing that the impact of customer incivility on employee performance, mediated by intrinsic motivation, differs according to employees' core self-evaluations.",
+            "reasoning": "The term 'multisource data' implies a comprehensive data collection method, while 'mediated relationship' indicates a complex interaction between variables. The mention of 'core-self evaluations' suggests that individual differences among employees play a significant role.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "the negative indirect effect of customer incivility via intrinsic motivation on service performance was weaker for employees with high levels of core-self evaluations than for employees with low levels of core-self evaluations.",
+            "meaning": "Employees with strong core self-evaluations are less affected by negative customer interactions in terms of their intrinsic motivation and subsequent service performance compared to those with weaker core self-evaluations.",
+            "reasoning": "The comparison between high and low levels of core self-evaluations indicates a moderating effect, suggesting that some employees are more resilient to negative customer behavior than others.",
+            "confidence_score": 0.88
+        }
+    ],
+    "overall_theme": "The research investigates how customer incivility affects employee performance, emphasizing the role of intrinsic motivation and individual employee traits (core self-evaluations) in this relationship.",
+    "detailed_summary": "This research paper explores the relationship between customer incivility and employee service performance through the lens of self-determination theory. It presents an integrative framework to explain the conditions under which customer rudeness negatively impacts employee motivation and performance. Utilizing multisource data collected over two waves in a shopping mall, the study finds that the effect of customer incivility on employee performance, mediated by intrinsic motivation, is influenced by the employees' core self-evaluations. Specifically, employees with higher core self-evaluations experience a weaker negative impact from customer incivility compared to those with lower evaluations. This suggests that individual differences in self-perception and resilience play a critical role in how employees respond to challenging customer interactions."
+}

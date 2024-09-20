@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "fine-scale genetic spatial structure analysis",
+        "Hardy-Weinberg equilibrium loci analysis",
+        "genetic patch size estimation"
+    ],
+    "fine-scale genetic spatial structure analysis": {
+        "reasoning": "Fine-scale genetic spatial structure analysis refers to the specific method employed to investigate the genetic relationships and dispersal patterns of the turtle species, which is central to the research question.",
+        "passages": [
+            "by investigating fine-scale genetic spatial structure of males and females",
+            "We found significant spatial genetic structure in both sexes"
+        ],
+        "confidence_score": 0.9
+    },
+    "Hardy-Weinberg equilibrium loci analysis": {
+        "reasoning": "Hardy-Weinberg equilibrium loci analysis is a methodological approach used to assess genetic variation and relatedness among individuals, helping to clarify the genetic structure in the study.",
+        "passages": [
+            "whether we used only loci in Hardy-Weinberg equilibrium (n = 7) or also included loci with potential null alleles (n = 5)"
+        ],
+        "confidence_score": 0.85
+    },
+    "genetic patch size estimation": {
+        "reasoning": "Genetic patch size estimation is a method used to understand the spatial distribution of genetic variation within the species, which is crucial for assessing the implications for conservation of the endangered species.",
+        "passages": [
+            "showing philopatry within a genetic patch size of C. guttata"
+        ],
+        "confidence_score": 0.8
+    }
+}

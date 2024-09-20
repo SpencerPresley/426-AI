@@ -1,0 +1,8 @@
+{
+    "summary": "This research addresses the dual challenges faced by organizations in a globalized environment: extracting actionable insights from large volumes of incoming data and managing the increasing risks associated with supply chains. The study proposes a framework for predicting supply chain risks through the development and application of big data analytics (BDA) capabilities, facilitated by an automated risk alert tool. The findings indicate that organizations can enhance their risk management strategies by focusing on building a robust IT infrastructure and leveraging strong BDA capabilities. The research emphasizes the importance of these capabilities in fostering resilience against supply chain risks and contributes valuable insights to the literature on supply chain risk management.",
+    "reasoning": "The summary captures the essence of the research by highlighting the main challenges organizations face due to globalization and the proposed solution involving BDA capabilities. It succinctly conveys the research's objectives, findings, and contributions to the field, without delving into specific methodologies used. This approach aligns with the requirement to focus on the main idea of the research rather than the methods employed.",
+    "feedback": {
+        "methodologies_feedback": "The analysis is correct and sufficient, I have no feedback at this time.",
+        "abstract_sentence_analysis_feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+    }
+}

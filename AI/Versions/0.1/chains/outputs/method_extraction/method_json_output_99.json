@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "hierarchical linear modeling (HLM) analysis",
+        "matched employee-employer sample"
+    ],
+    "hierarchical linear modeling (HLM) analysis": {
+        "reasoning": "Hierarchical linear modeling (HLM) analysis is a specific statistical method used to analyze data that is structured at more than one level, which is essential for understanding the relationships in the data collected from employees within organizations.",
+        "passages": [
+            "the results obtained from hierarchical linear modeling (HLM) analysis show that individual-perceived employee-employer relations indicated by a negative reciprocity norm is positively related to employees' strike attitudes."
+        ],
+        "confidence_score": 0.95
+    },
+    "matched employee-employer sample": {
+        "reasoning": "The matched employee-employer sample refers to the specific method of data collection where responses from employees are paired with their corresponding employer data, allowing for a more accurate analysis of the relationships being studied.",
+        "passages": [
+            "Using a matched employee-employer sample of more than 1,600 employees in 41 China-based MNCs"
+        ],
+        "confidence_score": 0.9
+    }
+}

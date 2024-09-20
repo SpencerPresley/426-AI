@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "online surveys",
+        "longitudinal study"
+    ],
+    "online surveys": {
+        "reasoning": "Online surveys are the specific method used to collect data from parents, allowing for the assessment of humor styles and their relations to health outcomes.",
+        "passages": [
+            "80 parents of children with disabilities completed online surveys at T1.",
+            "40 parents completed T2 surveys 4 months later."
+        ],
+        "confidence_score": 0.95
+    },
+    "longitudinal study": {
+        "reasoning": "The longitudinal study design is indicated by the collection of data at two different time points (T1 and T2), which allows for the examination of changes over time.",
+        "passages": [
+            "40 parents completed T2 surveys 4 months later."
+        ],
+        "confidence_score": 0.9
+    }
+}

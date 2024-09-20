@@ -1,0 +1,52 @@
+{
+    "methods": [
+        "collective memory work",
+        "qualitative feminist research",
+        "collaborative sessions",
+        "analyses of memories",
+        "sustained and collective research methodologies",
+        "framework of literacy-as-event"
+    ],
+    "collective memory work": {
+        "reasoning": "Collective memory work is identified as a specific qualitative research method used to structure the collaborative sessions among the participants, making it a clear methodological approach.",
+        "passages": [
+            "The process of collective memory work (CMW), a qualitative feminist research method, was used to structure collaborative sessions for the nine women English teachers."
+        ],
+        "confidence_score": 0.95
+    },
+    "qualitative feminist research": {
+        "reasoning": "Qualitative feminist research is described as the overarching methodological approach employed in the study, indicating a specific framework used for analysis and data collection.",
+        "passages": [
+            "a qualitative feminist research method"
+        ],
+        "confidence_score": 0.9
+    },
+    "collaborative sessions": {
+        "reasoning": "Collaborative sessions refer to the structured group activities where participants engaged in the collective memory work, indicating a specific procedure used in the research.",
+        "passages": [
+            "the group took up the CMW process as the memories were written, read, analyzed and theorized together."
+        ],
+        "confidence_score": 0.85
+    },
+    "analyses of memories": {
+        "reasoning": "The analyses of memories refers to the specific method of examining the collected memories from the participants, which is a key part of the research process.",
+        "passages": [
+            "The analyses of two memories from our group's work builds understanding of how the use of new materialism and a conceptualization of emotions as social, collective and agentic..."
+        ],
+        "confidence_score": 0.8
+    },
+    "sustained and collective research methodologies": {
+        "reasoning": "This phrase describes the methodological approach that emphasizes ongoing and group-oriented research practices, indicating a specific method employed in the study.",
+        "passages": [
+            "This study demonstrates how sustained and collective research methodologies like CMW can open space for teachers to more fully explore their identities..."
+        ],
+        "confidence_score": 0.75
+    },
+    "framework of literacy-as-event": {
+        "reasoning": "The framework of literacy-as-event is described as a conceptual lens through which the researchers analyze everyday classroom moments, representing a methodological approach to understanding interactions.",
+        "passages": [
+            "Further, unpacking everyday classroom moments (through the framework of literacy-as-event) can yield deep and critical understanding..."
+        ],
+        "confidence_score": 0.7
+    }
+}

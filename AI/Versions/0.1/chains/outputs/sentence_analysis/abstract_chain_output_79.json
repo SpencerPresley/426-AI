@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "Draco C1 is a known symbiotic binary star system composed of a carbon red giant and a hot, compact companion-likely a white dwarf-belonging to the Draco dwarf spheroidal galaxy.",
+            "meaning": "Draco C1 is a binary star system consisting of a carbon red giant and a likely white dwarf, located in the Draco dwarf spheroidal galaxy.",
+            "reasoning": "The sentence introduces Draco C1 as a binary star system and specifies its components and location.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "From near-infrared spectroscopic observations taken by the Apache Point Observatory Galactic Evolution Experiment (APOGEE-2), part of Sloan Digital Sky Survey IV, we provide updated stellar parameters for the cool, giant component, and constrain the temperature and mass of the hot, compact companion.",
+            "meaning": "The research utilizes near-infrared observations from APOGEE-2 to update the characteristics of the red giant and determine the temperature and mass of the white dwarf companion.",
+            "reasoning": "This sentence details the methodology used in the study and the specific results obtained regarding the stellar parameters.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Prior measurements of the periodicity of the system, based on only a few epochs of radial velocity data or relatively short baseline photometric observations, were sufficient only to place lower limits on the orbital period (P > 300 days).",
+            "meaning": "Previous studies could only establish that the orbital period of the binary system is greater than 300 days due to limited data.",
+            "reasoning": "The sentence discusses the limitations of earlier measurements and their inability to provide precise orbital period estimates.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "For the first time, we report precise orbital parameters for the binary system: with 43 radial velocity measurements from APOGEE spanning an observational baseline of more than 3 yr, we definitively derive the period of the system to be 1220.0(-3.5)(+3.7) days.",
+            "meaning": "This study presents the first accurate orbital parameters for Draco C1, determining its orbital period to be approximately 1220 days based on extensive measurements.",
+            "reasoning": "The sentence highlights a significant achievement of the research by providing precise measurements that were previously unattainable.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Based on the newly derived orbital period and separation of the system, together with estimates of the radius of the red giant star, we find that the hot companion must be accreting matter from the dense wind of its evolved companion.",
+            "meaning": "The findings suggest that the white dwarf companion is likely accreting material from the red giant's stellar wind due to the orbital characteristics and size of the stars.",
+            "reasoning": "This sentence summarizes the implications of the research findings regarding the interactions between the two stars in the binary system.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research provides new insights into the Draco C1 binary star system, detailing its components, updated orbital parameters, and the interaction between the stars.",
+    "detailed_summary": "The research paper focuses on the Draco C1 binary star system, which consists of a carbon red giant and a likely white dwarf, located in the Draco dwarf spheroidal galaxy. Using near-infrared spectroscopic observations from the APOGEE-2 project, part of the Sloan Digital Sky Survey IV, the authors updated the stellar parameters for the red giant and constrained the temperature and mass of its compact companion. Previous studies had only established a lower limit for the orbital period of the system (greater than 300 days) due to limited data. In contrast, this research presents precise orbital parameters for the first time, determining the period of the system to be approximately 1220 days based on 43 radial velocity measurements over more than three years. The findings suggest that the hot companion is likely accreting material from the red giant's dense stellar wind, highlighting the interactions within this binary system."
+}

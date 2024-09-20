@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "online survey",
+        "course impact measurement"
+    ],
+    "online survey": {
+        "reasoning": "An online survey is a specific method used to collect data from undergraduate social work students regarding their knowledge and values about diversity, making it a clear data collection technique.",
+        "passages": [
+            "An online survey was designed to answer three (3) research questions about students' knowledge, understanding, and values concerning diversity."
+        ],
+        "confidence_score": 0.95
+    },
+    "course impact measurement": {
+        "reasoning": "Course impact measurement refers to the method of assessing the effectiveness of a specific course designed to explore privilege and oppression, indicating a systematic approach to evaluating educational outcomes.",
+        "passages": [
+            "this research study measures the impact of a course created to explore the concepts of privilege and oppression on undergraduate social work students."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "With increasing global exposure, organisations have started to witness supply chain risks that they traditionally were not exposed to.",
+            "meaning": "Organizations are experiencing new supply chain risks due to greater global interactions.",
+            "reasoning": "The phrase 'increasing global exposure' suggests that as organizations engage more internationally, they face unfamiliar risks.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This article therefore attempts to answer the research question of how environmental uncertainty within a firm's supply chain, impacts firm financial performance.",
+            "meaning": "The article seeks to investigate the effect of environmental uncertainty in supply chains on a company's financial outcomes.",
+            "reasoning": "The structure indicates a clear research objective focusing on the relationship between environmental uncertainty and financial performance.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We further evaluate the role of supply chain risk management practices in mitigating the negative impact of such disruption events.",
+            "meaning": "The study also looks at how supply chain risk management can reduce the adverse effects of disruptions.",
+            "reasoning": "The term 'mitigating' implies a focus on strategies to lessen negative impacts, which aligns with risk management practices.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "To answer the research question, we conduct a literature review and develop the corresponding hypothesis.",
+            "meaning": "The researchers performed a literature review to formulate a hypothesis related to their research question.",
+            "reasoning": "This indicates a systematic approach to research, starting with existing literature to build a hypothesis.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "We test our hypothesis using both primary and secondary data.",
+            "meaning": "The hypothesis was evaluated through the analysis of both original (primary) data and existing (secondary) data.",
+            "reasoning": "This describes the methodological approach of the research, indicating a comprehensive data collection strategy.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The results show that environmental uncertainty has a negative impact on firm financial performance, with entrepreneurial managerial capitalism mediating the impact.",
+            "meaning": "Findings indicate that environmental uncertainty adversely affects financial performance, influenced by entrepreneurial managerial capitalism.",
+            "reasoning": "The use of 'negative impact' and 'mediating' suggests a complex relationship where one factor influences another.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "However, organisations that adopt macro and network supply chain risk management practices are able to improve managerial decision making frame, and mitigate the negative impact of environmental uncertainty on firm financial performance.",
+            "meaning": "Organizations utilizing specific risk management strategies can enhance decision-making and lessen the financial risks posed by environmental uncertainty.",
+            "reasoning": "This highlights a positive outcome associated with effective risk management practices in the context of environmental challenges.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The article concludes with our findings, along with managerial and practitioner implications of the research.",
+            "meaning": "The article summarizes its findings and discusses their relevance for managers and practitioners.",
+            "reasoning": "This suggests that the research has practical applications, which is common in research articles aimed at real-world impact.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research investigates the impact of environmental uncertainty on firm financial performance and the role of supply chain risk management in mitigating these effects.",
+    "detailed_summary": "This research paper explores how increasing global exposure leads organizations to face new supply chain risks, particularly focusing on environmental uncertainty's impact on financial performance. The authors conduct a literature review to formulate a hypothesis and test it using both primary and secondary data. The findings reveal that environmental uncertainty negatively affects financial performance, with entrepreneurial managerial capitalism playing a mediating role. Furthermore, the study emphasizes that organizations that implement macro and network supply chain risk management practices can enhance decision-making and reduce the adverse financial impacts of environmental uncertainty. The article concludes by discussing the implications of these findings for managers and practitioners, highlighting the importance of effective risk management strategies in today's globalized supply chains."
+}

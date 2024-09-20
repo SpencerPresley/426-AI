@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "Social Work Education Anti-Racism Scale",
+        "assessment tool"
+    ],
+    "Social Work Education Anti-Racism Scale": {
+        "reasoning": "The Social Work Education Anti-Racism Scale is a specific tool developed to assess the progress of social work programs in preparing students for antiracist practice, making it a clear methodological approach used in the research.",
+        "passages": [
+            "This article presents the Social Work Education Anti-Racism Scale to help programs assess their progress toward preparing social work students to become practitioners who embrace antiracism."
+        ],
+        "confidence_score": 0.9
+    },
+    "assessment tool": {
+        "reasoning": "The assessment tool mentioned is a method for evaluating efficacy across various domains related to antiracism, indicating a specific process used to gather and analyze data regarding student readiness and accountability.",
+        "passages": [
+            "An assessment tool that assesses efficacy across the four domains, specifically related to antiracism, is essential for practice readiness, assessment, and accountability for future professional social workers."
+        ],
+        "confidence_score": 0.85
+    }
+}

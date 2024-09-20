@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "semistructured interviews",
+        "7-stage Heideggerian hermeneutic analysis"
+    ],
+    "semistructured interviews": {
+        "reasoning": "Semistructured interviews are a specific qualitative data collection method used to gather in-depth insights from participants about their perspectives, making it a clear methodological approach in this research.",
+        "passages": [
+            "Administrators from 8 community colleges and 8 universities representing undergraduate and graduate nursing programs in the mid-Atlantic region participated in semistructured interviews"
+        ],
+        "confidence_score": 0.95
+    },
+    "7-stage Heideggerian hermeneutic analysis": {
+        "reasoning": "The 7-stage Heideggerian hermeneutic analysis is a specific analytical framework used to interpret qualitative data, indicating a structured approach to data analysis in this study.",
+        "passages": [
+            "Researchers used a 7-stage Heideggerian hermeneutic analysis"
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "empirical examination",
+        "supply chain data analysis"
+    ],
+    "empirical examination": {
+        "reasoning": "Empirical examination refers to the method of investigating the impact of supply chain management on manufacturers' responses to epidemic-driven demand through observation and data collection.",
+        "passages": [
+            "this study empirically examines how supply chain management impacts manufacturers' responses to epidemic-driven demand"
+        ],
+        "confidence_score": 0.9
+    },
+    "supply chain data analysis": {
+        "reasoning": "Supply chain data analysis is the method used to analyze the novel supply chain data collected from South Korea, allowing the researchers to draw conclusions about the effects of the epidemic on sales performance.",
+        "passages": [
+            "this study employs novel supply chain data from South Korea collected before and after the MERS (Middle East Respiratory Syndrome) epidemic event"
+        ],
+        "confidence_score": 0.85
+    }
+}

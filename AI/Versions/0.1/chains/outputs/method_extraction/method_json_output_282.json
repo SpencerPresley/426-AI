@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "phonotaxis assay",
+        "cross-modal stimulation"
+    ],
+    "phonotaxis assay": {
+        "reasoning": "The phonotaxis assay is a specific experimental procedure used to assess the behavioral relevance of stimuli in the context of female choice in tungara frogs, making it a clear methodological approach.",
+        "passages": [
+            "we first identified that a combined visual and seismic cue (vocal sac movement and water ripple) was behaviourally relevant for females choosing between two courtship calls in a phonotaxis assay."
+        ],
+        "confidence_score": 0.95
+    },
+    "cross-modal stimulation": {
+        "reasoning": "Cross-modal stimulation refers to the method of using stimuli from different sensory modalities to observe their effects on perception and decision-making, which is central to the research findings.",
+        "passages": [
+            "we demonstrated cross-modal stimulation in wild-caught tungara frogs",
+            "These results highlight how cross-modal stimulation can prime attention in receivers to improve performance during decision-making."
+        ],
+        "confidence_score": 0.9
+    }
+}

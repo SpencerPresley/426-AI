@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "panel data analysis"
+    ],
+    "panel data analysis": {
+        "reasoning": "Panel data analysis refers to the method used to examine the relationship between variables over time across multiple countries, which is essential for understanding the impact of regulation-induced time delays on export entrepreneurship.",
+        "passages": [
+            "in a panel of 59 countries for the period 2006 to 2014"
+        ],
+        "confidence_score": 0.9
+    }
+}

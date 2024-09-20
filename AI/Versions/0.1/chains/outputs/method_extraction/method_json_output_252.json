@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "curriculum examination",
+        "knowledge assessment"
+    ],
+    "curriculum examination": {
+        "reasoning": "Curriculum examination refers to the specific method used to analyze the availability and extent of psychology of religion courses offered in undergraduate programs.",
+        "passages": [
+            "the current study examined the extent to which psychology of religion courses were offered in the undergraduate curriculum"
+        ],
+        "confidence_score": 0.9
+    },
+    "knowledge assessment": {
+        "reasoning": "Knowledge assessment is a method used to evaluate the scientific knowledge gained by students who took psychology of religion courses compared to other psychology courses.",
+        "passages": [
+            "this study also found there was a gain in the scientific knowledge of psychology of religion for students who took this course relative to another course in psychology"
+        ],
+        "confidence_score": 0.85
+    }
+}

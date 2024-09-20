@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "survey",
+        "collaborative analysis"
+    ],
+    "survey": {
+        "reasoning": "The survey refers to the method used by the first author to gather information from recent JSDSE issues, which is a specific process for data collection related to teaching practices.",
+        "passages": [
+            "the first author of the article surveyed recent JSDSE issues to identify and reflect upon articles with implications for his teaching practice"
+        ],
+        "confidence_score": 0.9
+    },
+    "collaborative analysis": {
+        "reasoning": "Collaborative analysis is the method employed by the authors to interpret and frame the reflections of the first author in relation to the constructs of SKT and SKT2, indicating a specific analytical approach.",
+        "passages": [
+            "Drawing upon our collaborative analysis, we propose strategies to help JSDSE more fully realize its potential to contribute to SKT and SKT2"
+        ],
+        "confidence_score": 0.85
+    }
+}

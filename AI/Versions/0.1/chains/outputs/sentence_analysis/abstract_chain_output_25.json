@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "Empathy with a rape victim was examined based on knowing a rape victim (not oneself), personal sexual victimization experience, and participant gender.",
+            "meaning": "The study investigates how empathy towards rape victims is influenced by whether participants know a rape victim, their own experiences with sexual victimization, and their gender.",
+            "reasoning": "The sentence outlines the main focus of the research, specifying the variables that were analyzed in relation to empathy.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Undergraduates (n = 531) at a midsize public university in the Northeast United States completed the Rape-Victim Empathy Scale, the Sexual Experiences Survey-Short Form Victimization, and questions regarding knowing a rape victim.",
+            "meaning": "The research involved a sample of 531 undergraduate students who participated in surveys designed to measure their empathy towards rape victims and their own experiences with sexual victimization.",
+            "reasoning": "This sentence provides details about the participants and the tools used for measurement in the study.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Empathy scores were greater for those who reported knowing a rape victim than for those who did not.",
+            "meaning": "Participants who knew a rape victim exhibited higher levels of empathy compared to those who did not have such a connection.",
+            "reasoning": "This sentence summarizes a key finding of the research, indicating a correlation between knowing a rape victim and increased empathy.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Women with personal sexual victimization experience reported greater empathy than men with personal sexual victimization experience and all nonvictims, but no differences emerged among female nonvictims and all men.",
+            "meaning": "The study found that women who had experienced sexual victimization showed higher empathy levels than their male counterparts and nonvictims, while empathy levels were similar among female nonvictims and all men.",
+            "reasoning": "This sentence presents comparative results regarding empathy levels based on gender and victimization experience.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Findings suggest that knowing a rape victim may provide some degree of vicarious experience with rape that helps individuals better understand a rape victim's perspective, and factors influencing rape empathy among men and nonvictims needs more attention in future research.",
+            "meaning": "The results imply that having a personal connection to a rape victim enhances understanding of their experience, and further research is needed to explore how to better understand empathy in men and nonvictims.",
+            "reasoning": "This sentence discusses the implications of the findings and suggests directions for future research based on the results.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research explores the factors influencing empathy towards rape victims, particularly focusing on personal connections, victimization experiences, and gender differences.",
+    "detailed_summary": "The study investigates the role of personal connections to rape victims, personal experiences of sexual victimization, and participant gender in shaping empathy towards rape victims. Conducted with 531 undergraduate students from a public university in the Northeast United States, the research utilized the Rape-Victim Empathy Scale and the Sexual Experiences Survey-Short Form Victimization. Key findings reveal that individuals who know a rape victim demonstrate greater empathy, and women with personal sexual victimization experience display higher empathy levels compared to men and nonvictims. However, no significant differences were found between female nonvictims and all men. The findings indicate that knowing a rape victim may enhance understanding of their perspective, highlighting the need for further investigation into the factors affecting empathy among men and nonvictims."
+}

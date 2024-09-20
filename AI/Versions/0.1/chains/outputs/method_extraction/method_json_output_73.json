@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "behavioral study",
+        "interactive game",
+        "experimental findings"
+    ],
+    "behavioral study": {
+        "reasoning": "The term 'behavioral study' refers to the specific research methodology employed to investigate the strategic order forecasting behavior of buyers, indicating a systematic approach to examining behaviors in a controlled environment.",
+        "passages": [
+            "Through a behavioral study, we investigate buyers' strategic order forecasting behavior"
+        ],
+        "confidence_score": 0.9
+    },
+    "interactive game": {
+        "reasoning": "The 'interactive game' is a method used to simulate real-world supply chain dynamics, allowing participants to engage in a controlled experiment that reflects the complexities of order forecasting and inventory allocation.",
+        "passages": [
+            "We developed an interactive game that simulates a supply chain in which one supplier sells a key component to two buyers"
+        ],
+        "confidence_score": 0.85
+    },
+    "experimental findings": {
+        "reasoning": "The term 'experimental findings' indicates the results derived from the structured experimentation conducted in the study, reflecting the outcomes of the methods applied and their implications on buyer behavior.",
+        "passages": [
+            "Our experimental findings suggest that rewarding forecast accuracy in allocating inventory can significantly improve the order forecast accuracy of the buyers"
+        ],
+        "confidence_score": 0.8
+    }
+}

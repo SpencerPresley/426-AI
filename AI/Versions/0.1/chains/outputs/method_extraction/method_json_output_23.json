@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "cadastral database analysis",
+        "literature review",
+        "quantification of RPA area"
+    ],
+    "cadastral database analysis": {
+        "reasoning": "Cadastral database analysis refers to the examination and utilization of a specific database to gather information about land use and changes in riparian preservation areas, which is a clear methodological approach in the research.",
+        "passages": [
+            "use a recent cadastral database (CAR) of the state of Rondonia to quantify the area of RPA by stream size"
+        ],
+        "confidence_score": 0.9
+    },
+    "literature review": {
+        "reasoning": "A literature review is a method used to synthesize existing research and findings related to hydrological ecosystem services in light of RPA rules, which is a recognized method in academic research.",
+        "passages": [
+            "review the literature on hydrological ecosystem services (HES) in light of RPA rules"
+        ],
+        "confidence_score": 0.85
+    },
+    "quantification of RPA area": {
+        "reasoning": "Quantification of RPA area is a specific analytical method employed to measure and assess the extent of riparian preservation areas, which is essential for the research objectives.",
+        "passages": [
+            "to quantify the area of RPA by stream size"
+        ],
+        "confidence_score": 0.88
+    }
+}

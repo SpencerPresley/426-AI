@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "eye movement miscue analysis",
+        "eye tracking",
+        "miscue analysis",
+        "retelling"
+    ],
+    "eye movement miscue analysis": {
+        "reasoning": "Eye movement miscue analysis is a specific method used to study and record the reading process by tracking eye fixations and movements, making it a clear methodological approach in the research.",
+        "passages": [
+            "eye movement miscue analysis is a tool that provides a continuous record of eye fixations and movements over an entire text"
+        ],
+        "confidence_score": 0.95
+    },
+    "eye tracking": {
+        "reasoning": "Eye tracking is a specific technique used to collect data on where and how long readers focus their gaze on text, providing valuable insights into reading behavior.",
+        "passages": [
+            "Using data from eye tracking"
+        ],
+        "confidence_score": 0.9
+    },
+    "miscue analysis": {
+        "reasoning": "Miscue analysis refers to the systematic examination of the errors (miscues) that readers make while reading aloud, which is a key methodological focus of the study.",
+        "passages": [
+            "data from eye tracking, miscue analysis, and the retelling"
+        ],
+        "confidence_score": 0.85
+    },
+    "retelling": {
+        "reasoning": "Retelling is a method used to assess comprehension and reader's understanding by having them recount what they have read, making it a relevant methodological approach in the context of the study.",
+        "passages": [
+            "the retelling, the authors invited the readers to examine their assumptions about reading"
+        ],
+        "confidence_score": 0.8
+    }
+}
