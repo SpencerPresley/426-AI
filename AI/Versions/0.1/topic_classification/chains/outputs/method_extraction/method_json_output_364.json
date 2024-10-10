@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "panel data econometric models",
+        "epidemiological models",
+        "benefit transfer methods"
+    ],
+    "panel data econometric models": {
+        "reasoning": "Panel data econometric models are a specific statistical method used to analyze data collected over time across different entities, allowing for the estimation of the effects of lockdown on air quality.",
+        "passages": [
+            "We use panel data econometric models to estimate the effect of Bogot ' a's 16-month lockdown on PM2.5 and NO2 pollution"
+        ],
+        "confidence_score": 0.95
+    },
+    "epidemiological models": {
+        "reasoning": "Epidemiological models are used to simulate the relationship between air pollution reductions and health outcomes, specifically mortality, providing a methodological approach to understanding health impacts.",
+        "passages": [
+            "epidemiological models to simulate the effect of reductions in these pollutants on long-and short-term mortality"
+        ],
+        "confidence_score": 0.9
+    },
+    "benefit transfer methods": {
+        "reasoning": "Benefit transfer methods are a technique used to estimate economic values for ecosystem services by transferring existing benefit estimates from studies in similar contexts, which is crucial for valuing avoided mortality.",
+        "passages": [
+            "benefit transfer methods to value the avoided mortality"
+        ],
+        "confidence_score": 0.85
+    }
+}

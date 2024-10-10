@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "point counts",
+        "Breeding Bird Atlas data analysis",
+        "occupancy and nest success investigation"
+    ],
+    "point counts": {
+        "reasoning": "Point counts are a specific method used for surveying bird populations by counting individuals at fixed locations over a set period, which is a clear data collection technique in this research.",
+        "passages": [
+            "In 2012-2014, we conducted point counts at locations previously surveyed in 1981-1983"
+        ],
+        "confidence_score": 0.95
+    },
+    "Breeding Bird Atlas data analysis": {
+        "reasoning": "This refers to the analysis of historical bird population data collected over several years, a specific methodology used to estimate long-term population trends.",
+        "passages": [
+            "analysed Breeding Bird Atlas data from 1980-2013 to estimate long-term population trends"
+        ],
+        "confidence_score": 0.9
+    },
+    "occupancy and nest success investigation": {
+        "reasoning": "This method involves examining how forest characteristics affect the occupancy rates and reproductive success of the bird species, representing a specific investigative approach.",
+        "passages": [
+            "we investigated the effects of forest characteristics, such as vegetative composition and ground cover, on occupancy and nest success"
+        ],
+        "confidence_score": 0.85
+    }
+}

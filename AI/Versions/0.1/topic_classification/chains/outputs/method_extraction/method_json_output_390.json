@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "event study"
+    ],
+    "event study": {
+        "reasoning": "An event study is a specific methodology used to assess the impact of particular events on the value of a firm, making it a key method for analyzing the relationship between corporate sociopolitical activism and stock prices.",
+        "passages": [
+            "Results from an event study of 260 incidents of CSA show that CSA efforts decrease firm value by an average of 0.22%"
+        ],
+        "confidence_score": 0.95
+    }
+}

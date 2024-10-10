@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "compound-specific isotope analysis",
+        "bulk stable isotope analysis",
+        "conventional bulk isotope mixing models"
+    ],
+    "compound-specific isotope analysis": {
+        "reasoning": "Compound-specific isotope analysis is a specific technique used to determine the biosynthetic source of amino acids in fish, making it a clear methodological approach in the research.",
+        "passages": [
+            "We used compound-specific isotope analysis of carbon isotopes in amino acids (AAs) to determine the biosynthetic source of AAs in fish from major tributaries to California's Sacramento-San Joaquin river delta."
+        ],
+        "confidence_score": 0.95
+    },
+    "bulk stable isotope analysis": {
+        "reasoning": "Bulk stable isotope analysis is a method employed to characterize the general trophic structure and identify migration patterns of fish, representing a specific analytical process in the study.",
+        "passages": [
+            "Results from bulk stable isotope analysis of carbon and nitrogen in producers and consumers were adequate to characterize a general trophic structure and identify potential upstream and downstream migration."
+        ],
+        "confidence_score": 0.9
+    },
+    "conventional bulk isotope mixing models": {
+        "reasoning": "Conventional bulk isotope mixing models are mentioned as a methodological approach that was deemed unsuitable for the data collected, indicating their role in the research methodology.",
+        "passages": [
+            "our bulk data were unsuitable for conventional bulk isotope mixing models."
+        ],
+        "confidence_score": 0.85
+    }
+}

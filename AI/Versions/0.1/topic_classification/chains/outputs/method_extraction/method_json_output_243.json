@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "reconstructive discourse analysis",
+        "data sources",
+        "classroom observations",
+        "writing samples",
+        "recorded classroom discourse"
+    ],
+    "reconstructive discourse analysis": {
+        "reasoning": "Reconstructive discourse analysis is a specific method used to analyze the interactions and linguistic practices of multilingual students, providing a framework for understanding how translanguaging occurs in the classroom.",
+        "passages": [
+            "The authors use reconstructive discourse analysis to understand translanguaging across a variety of linguistic productions for a group of four focal students."
+        ],
+        "confidence_score": 0.95
+    },
+    "data sources": {
+        "reasoning": "Data sources refer to the specific types of data collected for the study, indicating the methodologies for gathering information about students' linguistic practices.",
+        "passages": [
+            "Data sources include fieldnotes from 29 classroom observations, writing samples and process documents and 8.5 h of recorded classroom discourse."
+        ],
+        "confidence_score": 0.9
+    },
+    "classroom observations": {
+        "reasoning": "Classroom observations are a method of data collection that involves systematically watching and recording classroom interactions to gather insights about students' use of multilingualism.",
+        "passages": [
+            "Data sources include fieldnotes from 29 classroom observations."
+        ],
+        "confidence_score": 0.85
+    },
+    "writing samples": {
+        "reasoning": "Writing samples are a method used to collect data on students' written work, which provides insight into their use of translanguaging in academic writing.",
+        "passages": [
+            "Data sources include... writing samples and process documents."
+        ],
+        "confidence_score": 0.8
+    },
+    "recorded classroom discourse": {
+        "reasoning": "Recorded classroom discourse refers to audio recordings of classroom interactions, which serve as a method for analyzing the dynamics of multilingual communication among students.",
+        "passages": [
+            "Data sources include... 8.5 h of recorded classroom discourse."
+        ],
+        "confidence_score": 0.85
+    }
+}

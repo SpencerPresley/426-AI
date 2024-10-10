@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "three studies"
+    ],
+    "three studies": {
+        "reasoning": "The phrase 'three studies' indicates a methodological approach where multiple research studies were conducted to examine the influence of evolutionary motives on food behavior, providing a systematic way to gather and analyze data.",
+        "passages": [
+            "Across three studies, we demonstrate that the evolutionary motives of mate acquisition and mate retention influence relationship partners to model the food behaviors of their eating partners."
+        ],
+        "confidence_score": 0.85
+    }
+}

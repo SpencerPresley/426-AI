@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "finite volume-alternating direction implicit method",
+        "decoupling correlated stock price process and volatility process"
+    ],
+    "finite volume-alternating direction implicit method": {
+        "reasoning": "The finite volume-alternating direction implicit method is a specific numerical technique used for the valuation of American options, indicating a clear methodological approach for solving the problem posed by the Heston model.",
+        "passages": [
+            "A finite volume-alternating direction implicit method is proposed for numerical valuation of the American options under the Heston model."
+        ],
+        "confidence_score": 0.95
+    },
+    "decoupling correlated stock price process and volatility process": {
+        "reasoning": "Decoupling the correlated stock price process and volatility process is a methodological approach that simplifies the numerical solution by eliminating mixed partial derivative terms, which is crucial for the implementation of the proposed method.",
+        "passages": [
+            "It is based on decoupling correlated stock price process and volatility process so that corresponding partial differential operator does not contain the mixed partial derivative term."
+        ],
+        "confidence_score": 0.9
+    }
+}

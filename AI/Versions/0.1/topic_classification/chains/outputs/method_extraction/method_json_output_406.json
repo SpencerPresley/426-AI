@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "choice tests",
+        "tunneling-choice tests",
+        "aggregation-choice tests",
+        "colony-initiation preference investigation"
+    ],
+    "choice tests": {
+        "reasoning": "Choice tests are a methodological approach used to evaluate the behaviors of O. formosanus workers in response to different stimuli, specifically the presence of Trichoderma fungi.",
+        "passages": [
+            "Different choice tests were conducted to evaluate the tunneling and aggregation behaviors of O. formosanus workers reacting to sand/soil containing the unformulated conidia of seven Trichoderma fungi"
+        ],
+        "confidence_score": 0.9
+    },
+    "tunneling-choice tests": {
+        "reasoning": "Tunneling-choice tests specifically assess the tunneling activity of O. formosanus workers in response to different conditions, making it a distinct method of investigation.",
+        "passages": [
+            "Tunneling-choice tests showed that sand containing conidia of nearly all Trichoderma fungi tested (except T. harzianum) significantly decreased tunneling activity in O. formosanus workers compared with untreated sand"
+        ],
+        "confidence_score": 0.95
+    },
+    "aggregation-choice tests": {
+        "reasoning": "Aggregation-choice tests are conducted to observe the aggregation behaviors of O. formosanus workers, highlighting their reactions to various Trichoderma species, thus representing a specific method used in the study.",
+        "passages": [
+            "Aggregation-choice test showed that T. koningii, T. atroviride and T. spirale repelled O. formosanus workers, whereas T. longibrachiatum and T. hamatum attracted termites"
+        ],
+        "confidence_score": 0.95
+    },
+    "colony-initiation preference investigation": {
+        "reasoning": "The investigation of colony-initiation preference examines the choice of O. formosanus adults regarding soil treated with Trichoderma conidia versus untreated soil, which is a specific methodological approach.",
+        "passages": [
+            "We also investigated the colony-initiation preference of paired O. formosanus adults to soil treated with Trichoderma conidia (T. koningii or T. longibrachiatum) versus untreated soil"
+        ],
+        "confidence_score": 0.85
+    }
+}

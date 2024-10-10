@@ -1,0 +1,22 @@
+{
+    "methods": [
+        "observational study",
+        "experimental manipulation"
+    ],
+    "observational study": {
+        "reasoning": "An observational study is a method that involves watching and recording behaviors without interfering, which is evident as the research investigates the transport behaviors of ants in their natural context.",
+        "passages": [
+            "Many ants can cooperatively transport large food items (either coordinated or uncoordinated during transportation), which can be rarely observed in other animals besides humans.",
+            "Our studies showed that S. invicta used multiple strategies to transport food items on vertical surfaces (tree trunks).",
+            "Competition and deadlocks were frequently observed during individual and collective transport respectively."
+        ],
+        "confidence_score": 0.85
+    },
+    "experimental manipulation": {
+        "reasoning": "Experimental manipulation involves changing variables to observe effects, which is indicated by the investigation of various factors like food placement, shape, and particle sizes on transport behaviors.",
+        "passages": [
+            "We investigated the effects of food placement (placed on a platform or fixed on tree trunk), food shape (cuboid or flattened), particle sizes (0.45-1, 1-2, 2-3, or 3-4 mm), and placement height (20, 80, or 150 cm) on the food transport on tree trunks."
+        ],
+        "confidence_score": 0.9
+    }
+}

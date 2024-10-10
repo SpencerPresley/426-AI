@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "quasi-experimental study",
+        "independent t-test"
+    ],
+    "quasi-experimental study": {
+        "reasoning": "A quasi-experimental study design is a specific methodology used to evaluate the impact of the nursing course redesign by comparing outcomes between two groups without random assignment.",
+        "passages": [
+            "In this quasi-experimental study, baccalaureate students received either traditional (n = 47) or hybrid delivery (n = 46)"
+        ],
+        "confidence_score": 0.9
+    },
+    "independent t-test": {
+        "reasoning": "The independent t-test is a statistical method used to analyze average exam scores between the two groups, providing a specific procedure for data analysis.",
+        "passages": [
+            "Average exam scores were analyzed using an independent t-test, with no significant differences found between groups."
+        ],
+        "confidence_score": 0.95
+    }
+}

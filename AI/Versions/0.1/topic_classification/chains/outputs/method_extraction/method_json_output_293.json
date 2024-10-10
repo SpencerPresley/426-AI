@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "spatially referenced data",
+        "statistical methods",
+        "nighttime luminosity"
+    ],
+    "spatially referenced data": {
+        "reasoning": "Spatially referenced data refers to data that is associated with geographic locations, which is crucial for analyzing the impact of cyclones on coastal economic activity across different regions.",
+        "passages": [
+            "Using spatially referenced data and statistical methods, we track from 2000 to 2012 the impact of cyclones on economic activity in coastal regions inhabited by nearly 2,000 tropical and subtropical communities across 23 major mangrove-holding countries."
+        ],
+        "confidence_score": 0.9
+    },
+    "statistical methods": {
+        "reasoning": "Statistical methods are techniques used for analyzing data and drawing conclusions, which are essential for assessing the impact of cyclones on economic activity in this research.",
+        "passages": [
+            "Using spatially referenced data and statistical methods, we track from 2000 to 2012 the impact of cyclones on economic activity in coastal regions inhabited by nearly 2,000 tropical and subtropical communities across 23 major mangrove-holding countries."
+        ],
+        "confidence_score": 0.85
+    },
+    "nighttime luminosity": {
+        "reasoning": "Nighttime luminosity is used as a specific metric to represent temporal trends in coastal economic activity, indicating a methodological approach to measuring economic impacts.",
+        "passages": [
+            "We use nighttime luminosity to represent temporal trends in coastal economic activity."
+        ],
+        "confidence_score": 0.88
+    }
+}

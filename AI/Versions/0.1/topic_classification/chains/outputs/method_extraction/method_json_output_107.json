@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "mathematical modeling",
+        "diffusive FitzHugh-Nagumo equations",
+        "numerical simulations"
+    ],
+    "mathematical modeling": {
+        "reasoning": "Mathematical modeling is the overarching method used to create a representation of neural networks in the context of the study, which is essential for analyzing their behavior.",
+        "passages": [
+            "A new mathematical model of neural networks described by diffusive FitzHugh-Nagumo equations with memristors and linear synaptic coupling is proposed and investigated."
+        ],
+        "confidence_score": 0.95
+    },
+    "diffusive FitzHugh-Nagumo equations": {
+        "reasoning": "The diffusive FitzHugh-Nagumo equations are a specific mathematical framework used in the model to describe the dynamics of neural networks, making it a key methodological component.",
+        "passages": [
+            "A new mathematical model of neural networks described by diffusive FitzHugh-Nagumo equations with memristors and linear synaptic coupling is proposed and investigated."
+        ],
+        "confidence_score": 0.9
+    },
+    "numerical simulations": {
+        "reasoning": "Numerical simulations are employed to illustrate and verify the theoretical findings of the model, serving as a method for testing and validating the proposed model's behavior.",
+        "passages": [
+            "which is illustrated and verified by numerical simulations."
+        ],
+        "confidence_score": 0.85
+    }
+}

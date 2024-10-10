@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "multi-group path analysis",
+        "biweekly surveys"
+    ],
+    "multi-group path analysis": {
+        "reasoning": "Multi-group path analysis is a specific statistical method used to test hypotheses regarding the relationships between variables, making it a key methodological approach in the study.",
+        "passages": [
+            "a multi-group path analysis to test our hypotheses"
+        ],
+        "confidence_score": 0.95
+    },
+    "biweekly surveys": {
+        "reasoning": "Biweekly surveys refer to the method of data collection used in Study 2, allowing researchers to gather repeated measures from participants over a defined period.",
+        "passages": [
+            "Study 2 uses a sample of 152 working adults who participated in three biweekly surveys"
+        ],
+        "confidence_score": 0.9
+    }
+}

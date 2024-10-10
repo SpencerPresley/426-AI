@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "statistical distribution analysis",
+        "theoretical upper limits calculation",
+        "proxy measurement"
+    ],
+    "statistical distribution analysis": {
+        "reasoning": "Statistical distribution analysis refers to the method of examining the distribution of the maximum shift in radial velocities, Delta RVmax, to understand the relationship between stellar evolution, rotation, and multiplicity.",
+        "passages": [
+            "We use the statistical distribution of the maximum shift in the radial velocities, Delta RVmax, as a proxy for the close binary fraction to explore the interplay between stellar evolution, rotation, and multiplicity."
+        ],
+        "confidence_score": 0.9
+    },
+    "theoretical upper limits calculation": {
+        "reasoning": "Theoretical upper limits calculation involves deriving expected values for vsin i and Delta RVmax based on assumptions about stellar behavior, making it a clear methodological approach used in the research.",
+        "passages": [
+            "we calculate theoretical upper limits on expected vsin i and Delta RVmax values."
+        ],
+        "confidence_score": 0.85
+    },
+    "proxy measurement": {
+        "reasoning": "Proxy measurement is a method used to infer or estimate one quantity based on another, in this case, using Delta RVmax as a proxy for the close binary fraction.",
+        "passages": [
+            "We use the statistical distribution of the maximum shift in the radial velocities, Delta RVmax, as a proxy for the close binary fraction."
+        ],
+        "confidence_score": 0.8
+    }
+}

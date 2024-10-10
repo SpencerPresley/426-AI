@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "art-theoretical concept elaboration",
+        "discussion of formal differences",
+        "analysis of historical avant-garde transformations",
+        "proposing 'musical contemporary art'"
+    ],
+    "art-theoretical concept elaboration": {
+        "reasoning": "Elaborating on the art-theoretical concept of 'the contemporary' indicates a methodical approach to defining and analyzing a specific concept within art theory.",
+        "passages": [
+            "This article elaborates the art-theoretical concept of 'the contemporary'"
+        ],
+        "confidence_score": 0.85
+    },
+    "discussion of formal differences": {
+        "reasoning": "The discussion of formal differences between contemporary music and contemporary art suggests a method of comparative analysis to highlight distinctions in these fields.",
+        "passages": [
+            "along with formal differences between contemporary music and contemporary art"
+        ],
+        "confidence_score": 0.8
+    },
+    "analysis of historical avant-garde transformations": {
+        "reasoning": "Analyzing the transformations of the historical avant-garde indicates a methodological approach to understanding the evolution of art movements and their impact on contemporary practices.",
+        "passages": [
+            "emerges from the radical transformations of the historical avant-garde and neo-avant-garde"
+        ],
+        "confidence_score": 0.75
+    },
+    "proposing 'musical contemporary art'": {
+        "reasoning": "Proposing a new category, 'musical contemporary art,' represents a methodological contribution to the discourse on contemporary practices, suggesting a new framework for understanding.",
+        "passages": [
+            "I propose 'musical contemporary art' to describe practices that depart in consequential ways from new/contemporary music and sound art"
+        ],
+        "confidence_score": 0.9
+    }
+}

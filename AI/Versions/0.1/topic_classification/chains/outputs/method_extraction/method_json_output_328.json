@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "partitioning NAS",
+        "measuring earnings response coefficients",
+        "analyzing investor perceptions"
+    ],
+    "partitioning NAS": {
+        "reasoning": "Partitioning NAS refers to the specific method used to categorize nonaudit services into distinct types (audit-related, tax, and others) to analyze their individual effects, which is a clear methodological approach in the study.",
+        "passages": [
+            "we partition the joint provision of nonaudit services (NAS) into audit-related, tax, and all other services"
+        ],
+        "confidence_score": 0.9
+    },
+    "measuring earnings response coefficients": {
+        "reasoning": "Measuring earnings response coefficients is a method used to quantify the impact of nonaudit services on independence-in-appearance, providing a specific analytical technique employed in the research.",
+        "passages": [
+            "as measured by earnings response coefficients"
+        ],
+        "confidence_score": 0.85
+    },
+    "analyzing investor perceptions": {
+        "reasoning": "Analyzing investor perceptions is a methodological approach used to understand how different types of nonaudit services are viewed by investors, which plays a central role in the study's analysis.",
+        "passages": [
+            "provide evidence that investors have negative perceptions of audit-related NAS and positive perceptions of tax NAS"
+        ],
+        "confidence_score": 0.8
+    }
+}

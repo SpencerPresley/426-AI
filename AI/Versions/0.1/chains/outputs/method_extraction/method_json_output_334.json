@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "behavioral responses",
+        "auditory brainstem responses",
+        "multiunit electrophysiological recordings"
+    ],
+    "behavioral responses": {
+        "reasoning": "Behavioral responses refer to the specific method used to observe and measure the reactions of tungara frogs to acoustic sexual displays, which is a direct approach to assess mate recognition thresholds.",
+        "passages": [
+            "we use 3 methods to assess such thresholds in tungara frogs: behavioral responses"
+        ],
+        "confidence_score": 0.9
+    },
+    "auditory brainstem responses": {
+        "reasoning": "Auditory brainstem responses are a method employed to measure the neural activity in response to sound stimuli, providing a physiological assessment of detection thresholds in frogs.",
+        "passages": [
+            "we use 3 methods to assess such thresholds in tungara frogs: auditory brainstem responses"
+        ],
+        "confidence_score": 0.95
+    },
+    "multiunit electrophysiological recordings": {
+        "reasoning": "Multiunit electrophysiological recordings are a specific technique used to measure the electrical activity of multiple neurons in the midbrain, allowing for the assessment of acoustic signal detection thresholds.",
+        "passages": [
+            "we use 3 methods to assess such thresholds in tungara frogs: multiunit electrophysiological recordings from the midbrain"
+        ],
+        "confidence_score": 0.95
+    }
+}

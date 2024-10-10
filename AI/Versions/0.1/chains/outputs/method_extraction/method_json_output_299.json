@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "hypothesis testing",
+        "BMP implementation assessment",
+        "water quality sampling",
+        "survey-directed interviews"
+    ],
+    "hypothesis testing": {
+        "reasoning": "Hypothesis testing is a methodological approach used to evaluate the validity of the proposed hypothesis regarding the effectiveness of BMPs in reducing nutrient concentrations.",
+        "passages": [
+            "Here we test the hypothesis that the current management approach of primarily voluntary, untargeted BMP implementation is insufficient to create detectable, widespread reductions in N, P, and total suspended solid (TSS) concentrations"
+        ],
+        "confidence_score": 0.9
+    },
+    "BMP implementation assessment": {
+        "reasoning": "Assessing BMP implementation refers to the method of evaluating the application and effectiveness of best management practices in the agricultural settings studied.",
+        "passages": [
+            "we assessed BMP implementation and sampled water quality on participating farms"
+        ],
+        "confidence_score": 0.85
+    },
+    "water quality sampling": {
+        "reasoning": "Water quality sampling is a specific method used to collect data on nutrient concentrations in various water bodies, which is crucial for evaluating the effectiveness of BMPs.",
+        "passages": [
+            "sampled water quality on participating farms, at intermediate streams within each watershed, and at watershed outlets"
+        ],
+        "confidence_score": 0.95
+    },
+    "survey-directed interviews": {
+        "reasoning": "Survey-directed interviews represent a qualitative method used to gather insights from farmers about their perceptions and experiences regarding BMP adoption and water quality.",
+        "passages": [
+            "and survey-directed interviews of farmers"
+        ],
+        "confidence_score": 0.8
+    }
+}

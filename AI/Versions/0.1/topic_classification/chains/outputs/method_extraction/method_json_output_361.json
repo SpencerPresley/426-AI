@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "empirical investigation",
+        "sample analysis"
+    ],
+    "empirical investigation": {
+        "reasoning": "Empirical investigation refers to the systematic approach used to gather data and analyze the experiences of smart speaker users, which is a fundamental method in research.",
+        "passages": [
+            "we empirically investigated the dilemma of users seeking to adopt smart speakers"
+        ],
+        "confidence_score": 0.9
+    },
+    "sample analysis": {
+        "reasoning": "Sample analysis indicates the method of studying a specific group of users (559 users in South Korea and the U.S.) to understand their behaviors and perceptions regarding smart speakers.",
+        "passages": [
+            "Using a sample of 559 users in South Korea and the U.S."
+        ],
+        "confidence_score": 0.85
+    }
+}

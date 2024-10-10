@@ -1,0 +1,24 @@
+{
+    "sentences": [
+        {
+            "sentence": "We examine the mediating role of employees' affective well-being in the relationship between relationship conflict and counterproductive work behavior (CWB) and how this process varies based on their emotional intelligence (EI).",
+            "meaning": "The research investigates how employees' emotional state affects the link between conflicts in relationships at work and negative behaviors that harm the organization, while also considering the influence of emotional intelligence.",
+            "reasoning": "The phrase 'mediating role' indicates that affective well-being influences the relationship between the other two variables. The mention of emotional intelligence suggests it could modify this influence.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Using a time-lagged survey design, we found that affective well-being mediates the relationship between relationship conflict and CWBO (CWB directed toward the organization) but not CWBI (CWB directed toward individuals).",
+            "meaning": "The study employed a survey method over time and discovered that emotional well-being affects how relationship conflict leads to negative behaviors towards the organization, but this effect does not extend to negative behaviors directed at individuals.",
+            "reasoning": "The term 'time-lagged survey design' implies a methodology that assesses changes over time, which supports the findings about mediation. The distinction between CWBO and CWBI clarifies the specific context of the results.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Furthermore, the positive indirect effect of relationship conflict on CWBO via affective well-being was significant for employees who have high levels of EI but not for those with low levels of EI.",
+            "meaning": "The research indicates that for employees with high emotional intelligence, relationship conflict significantly impacts their well-being, which in turn affects their negative behaviors towards the organization, while this is not the case for those with low emotional intelligence.",
+            "reasoning": "The use of 'positive indirect effect' suggests a significant relationship that varies by emotional intelligence levels, highlighting the importance of EI in mitigating negative outcomes from relationship conflict.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The study explores how employees' emotional well-being mediates the effects of relationship conflict on negative workplace behaviors, emphasizing the role of emotional intelligence in this dynamic.",
+    "detailed_summary": "This research investigates the role of employees' affective well-being in mediating the relationship between relationship conflict and counterproductive work behavior (CWB). It specifically differentiates between CWB directed towards the organization (CWBO) and CWB directed towards individuals (CWBI). Utilizing a time-lagged survey design, the findings reveal that affective well-being does mediate the relationship between relationship conflict and CWBO, but not CWBI. Additionally, the study highlights that this mediating effect is significant for employees with high emotional intelligence (EI), suggesting that EI plays a crucial role in how relationship conflict translates into negative workplace behaviors. Overall, the research underscores the importance of emotional well-being and intelligence in understanding workplace dynamics."
+}

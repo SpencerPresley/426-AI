@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "structural estimation framework",
+        "two-stage framework",
+        "mixed logit recreation site choice model"
+    ],
+    "structural estimation framework": {
+        "reasoning": "The structural estimation framework is a specific methodological approach developed to analyze whether individuals exhibit habit-forming or variety-seeking behavior in their choices, making it a core method of the research.",
+        "passages": [
+            "We develop a structural estimation framework to capture whether people are habit forming or variety seeking"
+        ],
+        "confidence_score": 0.9
+    },
+    "two-stage framework": {
+        "reasoning": "The two-stage framework refers to the methodological structure used to account for habit or variety-seeking behavior in recreation site choice models, indicating a specific analytical approach.",
+        "passages": [
+            "demonstrating how to account for habit or variety-seeking behavior in recreation site choice models in a two-stage framework"
+        ],
+        "confidence_score": 0.85
+    },
+    "mixed logit recreation site choice model": {
+        "reasoning": "The mixed logit recreation site choice model is a specific statistical model used in the second stage of the analysis to estimate recreation site choices based on predicted probabilities, representing a distinct methodological approach.",
+        "passages": [
+            "a mixed logit recreation site choice model of bird watching trips from eBird, by their members"
+        ],
+        "confidence_score": 0.9
+    }
+}

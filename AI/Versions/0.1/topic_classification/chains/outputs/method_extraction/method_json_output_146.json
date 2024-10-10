@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "observations from the APOGEE survey",
+        "high-resolution repeat spectroscopy",
+        "abundance measurements from the APOGEE pipeline",
+        "distances and stellar parameters derived using Gaia DR2 parallaxes",
+        "identification and characterization of stellar multiples"
+    ],
+    "observations from the APOGEE survey": {
+        "reasoning": "This method refers to the systematic collection of data from the APOGEE survey, which is crucial for exploring the relationship between stellar parameters and multiplicity.",
+        "passages": [
+            "We use observations from the Apache Point Observatory Galactic Evolution Experiment (APOGEE) survey to explore the relationship between stellar parameters and multiplicity."
+        ],
+        "confidence_score": 0.9
+    },
+    "high-resolution repeat spectroscopy": {
+        "reasoning": "This method involves conducting spectroscopy multiple times to achieve high-resolution measurements, which is essential for analyzing the properties of dwarf and subgiant stars.",
+        "passages": [
+            "We combine high-resolution repeat spectroscopy for 41 363 dwarf and subgiant stars"
+        ],
+        "confidence_score": 0.95
+    },
+    "abundance measurements from the APOGEE pipeline": {
+        "reasoning": "This method refers to the process of measuring chemical abundances of stars using the APOGEE pipeline, which is a key aspect of the analysis in the study.",
+        "passages": [
+            "with abundance measurements from the APOGEE pipeline"
+        ],
+        "confidence_score": 0.85
+    },
+    "distances and stellar parameters derived using Gaia DR2 parallaxes": {
+        "reasoning": "This method involves using parallax data from the Gaia mission to derive distances and stellar parameters, which are fundamental to the research findings.",
+        "passages": [
+            "and distances and stellar parameters derived using Gaia DR2 parallaxes from Sanders & Das"
+        ],
+        "confidence_score": 0.9
+    },
+    "identification and characterization of stellar multiples": {
+        "reasoning": "This method refers to the systematic process of identifying and characterizing binary and multiple star systems, which is central to the research objectives.",
+        "passages": [
+            "to identify and characterize stellar multiples with periods below 30 yr"
+        ],
+        "confidence_score": 0.92
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "This study explores the factor structure of job performance and each performance dimension's relative importance in determining supervisors' overall job performance ratings.",
+            "meaning": "The research investigates how different aspects of job performance contribute to supervisors' evaluations of employee performance.",
+            "reasoning": "The use of 'factor structure' suggests a breakdown of job performance into components, while 'relative importance' indicates an analysis of how these components affect performance ratings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We found that the optimal factor structure of job performance includes five dimensions: task performance, organizational citizenship behaviour directed toward the organization and individuals (OCB-O and OCB-I, respectively), and counterproductive work behaviour directed toward the organization and individuals (CWB-O and CWB-I, respectively).",
+            "meaning": "The study identifies five key dimensions of job performance, which are task performance, organizational citizenship behaviors towards both the organization and individuals, and counterproductive work behaviors towards both.",
+            "reasoning": "The enumeration of the five dimensions indicates a comprehensive framework for understanding job performance, highlighting both positive and negative behaviors.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The percent-based relative weight (%RW) is the highest for task performance in determining job performance, followed by OCB and CWB.",
+            "meaning": "Task performance is the most significant factor in job performance ratings, with organizational citizenship behaviors and counterproductive behaviors following in importance.",
+            "reasoning": "The phrase '%RW' indicates a quantitative measure of importance, and the ranking suggests a hierarchy among the factors affecting job performance ratings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Interestingly, the %RW of non-task performance dimensions directed toward the organization (OCB-O and CWB-O) is similar to the %RW of task performance but greater than the %RW of non-task performance dimensions directed toward individuals (OCB-I and CWB-I).",
+            "meaning": "The importance of non-task performance behaviors aimed at the organization is comparable to task performance but more significant than those aimed at individuals.",
+            "reasoning": "The contrasting comparisons made between the different dimensions suggest a nuanced understanding of how different behaviors impact overall job performance ratings.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Copyright (c) 2018 ASAC. Published by John Wiley & Sons, Ltd.",
+            "meaning": "This sentence indicates the copyright information and the publisher of the study.",
+            "reasoning": "It does not contribute to the research findings but provides legal and publishing information.",
+            "confidence_score": 1.0
+        }
+    ],
+    "overall_theme": "The study investigates the structure and significance of various dimensions of job performance, revealing that task performance is the most critical factor, followed closely by organizational citizenship behaviors and counterproductive behaviors.",
+    "detailed_summary": "This research paper examines how different dimensions of job performance contribute to supervisors' overall evaluations of employee performance. The authors identify five key dimensions: task performance, organizational citizenship behavior (OCB) towards the organization and individuals, and counterproductive work behavior (CWB) towards the organization and individuals. They find that task performance has the highest relative weight in determining job performance ratings, followed by OCB and CWB. Notably, the relative weight of non-task performance dimensions directed towards the organization is comparable to that of task performance, while those directed towards individuals have a lower relative weight. This nuanced understanding underscores the complexity of job performance evaluation and the importance of both positive and negative behaviors in the workplace."
+}

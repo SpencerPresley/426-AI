@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "This study aimed to investigate the acute effects of autoregulated and non-autoregulated applied pressures during blood flow restriction resistance exercise to volitional fatigue on indices of arterial stiffness using the Delfi Personalized Tourniquet System.",
+            "meaning": "The research focuses on examining how different types of blood flow restriction pressures affect arterial stiffness during a specific type of exercise.",
+            "reasoning": "The sentence outlines the primary objective of the study, indicating the variables being tested (autoregulated vs. non-autoregulated pressures) and the context (blood flow restriction during resistance exercise).",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Following a randomized autoregulated or non-autoregulated blood flow restriction familiarization session, 20 physically active adults (23 +/- 5 years; 7 females) participated in three randomized treatment-order sessions with autoregulated and non-autoregulated and no blood flow restriction training.",
+            "meaning": "After a familiarization session, 20 active adults took part in three different training sessions that were randomly assigned, involving autoregulated, non-autoregulated, and no blood flow restriction methods.",
+            "reasoning": "This sentence describes the methodology and participant demographics, emphasizing the randomized design of the treatment sessions.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Participants performed four sets of dumbbell wall squats to failure using 20% of one repetition maximum.",
+            "meaning": "The exercise involved participants doing wall squats with a weight set at 20% of their maximum lifting capacity until they could no longer continue.",
+            "reasoning": "This sentence specifies the exercise protocol used in the study, detailing the intensity and structure of the workout.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Blood flow restriction was performed with 60% of supine limb occlusion pressure.",
+            "meaning": "The blood flow restriction applied during the exercise was set at 60% of the pressure needed to occlude blood flow while lying down.",
+            "reasoning": "This sentence clarifies the specific level of pressure used for blood flow restriction, which is crucial for understanding the experimental conditions.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Testing before and post-session included an ultrasonic scan of the carotid artery, applanation tonometry, and blood pressure acquisition.",
+            "meaning": "Measurements were taken before and after the exercise sessions to assess arterial stiffness and blood pressure using specific medical techniques.",
+            "reasoning": "This sentence outlines the assessment methods employed to evaluate the effects of the exercise and blood flow restriction on arterial stiffness.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Carotid-femoral pulse wave velocity increased in the non-autoregulated and no blood flow restriction training groups following exercise while carotid-radial pulse wave velocity increased in the no blood flow restriction training group (all p<0.05).",
+            "meaning": "After the exercise, the velocity of blood flow between the carotid and femoral arteries increased in the non-autoregulated and no restriction groups, while the velocity between the carotid and radial arteries increased only in the no restriction group, indicating statistical significance.",
+            "reasoning": "This sentence presents the results of the study, highlighting significant changes in pulse wave velocity as indicators of arterial stiffness.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Carotid-femoral pulse wave velocity exhibited an interaction effect between autoregulated and non-autoregulated blood flow restriction in favor of autoregulated blood flow restriction (p<0.05).",
+            "meaning": "There was a significant interaction effect observed in the carotid-femoral pulse wave velocity measurements, showing that autoregulated blood flow restriction was more favorable than non-autoregulated.",
+            "reasoning": "This sentence summarizes a key finding regarding the comparative effects of the two types of blood flow restriction on arterial stiffness.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Autoregulated blood flow restriction training does not influence indices of arterial stiffness while non-autoregulated and no blood flow restriction training increases central stiffness.",
+            "meaning": "The study concluded that autoregulated blood flow restriction does not affect arterial stiffness, whereas non-autoregulated and no restriction methods lead to increased stiffness.",
+            "reasoning": "This sentence summarizes the main conclusion of the research, specifying the differential impact of the blood flow restriction methods on arterial stiffness.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates how autoregulated versus non-autoregulated blood flow restriction during resistance exercise affects arterial stiffness in physically active adults.",
+    "detailed_summary": "The study explores the acute effects of different blood flow restriction techniques during resistance exercise on arterial stiffness. It involved 20 physically active adults who participated in randomized training sessions with autoregulated, non-autoregulated, and no blood flow restriction. Participants performed wall squats at 20% of their one-repetition maximum, with blood flow restriction set at 60% of the occlusion pressure. Measurements before and after the exercise included ultrasonic scans and blood pressure assessments. Results showed that carotid-femoral pulse wave velocity increased in both non-autoregulated and no restriction groups, while the carotid-radial pulse wave velocity increased only in the no restriction group. Notably, autoregulated blood flow restriction did not affect arterial stiffness, contrasting with the increases observed with non-autoregulated and no restriction training."
+}

@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "FRASE index estimation",
+        "statistical analysis"
+    ],
+    "FRASE index estimation": {
+        "reasoning": "The FRASE index estimation is a specific method used to quantify the burden of federal regulations at the state level, which is central to the research's focus on the relationship between regulations and poverty rates.",
+        "passages": [
+            "using the recently created Federal Regulation and State Enterprise (FRASE) index, which is an industry-weighted measure of the burden of federal regulations at the state level"
+        ],
+        "confidence_score": 0.9
+    },
+    "statistical analysis": {
+        "reasoning": "Statistical analysis is the method employed to determine the relationship between the FRASE index and poverty rates, allowing the researchers to control for other influencing factors and assess the significance of their findings.",
+        "passages": [
+            "we find a robust, positive and statistically significant relationship between the FRASE index and poverty rates across states",
+            "Controlling for many other factors known to influence poverty rates"
+        ],
+        "confidence_score": 0.85
+    }
+}

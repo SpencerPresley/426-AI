@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "difference-in-differences strategy",
+        "event study strategy"
+    ],
+    "difference-in-differences strategy": {
+        "reasoning": "The difference-in-differences strategy is a specific statistical method used to estimate the causal effect of the district-wide reforms by comparing the changes in outcomes over time between the treatment group (Montgomery County) and a control group.",
+        "passages": [
+            "we employ a difference-in-differences strategy to show that the reforms significantly increased the percentage of students in Montgomery County who scored advanced on third- and fifth-grade math and reading tests"
+        ],
+        "confidence_score": 0.95
+    },
+    "event study strategy": {
+        "reasoning": "The event study strategy is a method used to analyze the impacts of the reforms over time, allowing for the examination of changes in student performance following the implementation of the reforms.",
+        "passages": [
+            "Using an event study strategy, we find that the positive impacts extended through the end of the panel"
+        ],
+        "confidence_score": 0.9
+    }
+}

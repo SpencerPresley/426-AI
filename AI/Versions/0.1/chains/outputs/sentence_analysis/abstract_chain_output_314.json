@@ -1,0 +1,30 @@
+{
+    "sentences": [
+        {
+            "sentence": "This article describes outcomes of a statewide initiative to increase the number of faculty with the National League for Nursing's Certified Nurse Educator (CNE (R)) credential.",
+            "meaning": "The article discusses the results of a statewide program aimed at boosting the number of nursing faculty who hold a specific certification.",
+            "reasoning": "The phrase 'describes outcomes' indicates that the article reports on the results of an initiative, while 'statewide initiative' specifies the scope and purpose of the program.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "After offering CNE preparation workshops and creating a certification award, data were collected on perceived workshop effectiveness, readiness to test, certification pass rates, and characteristics of award recipients.",
+            "meaning": "The initiative included workshops to prepare faculty for certification and a financial award, followed by the collection of data on various aspects related to these efforts.",
+            "reasoning": "The structure of the sentence outlines the sequence of actions taken (workshops and awards) and specifies the types of data collected, indicating a methodical approach to evaluation.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The number of certified faculty increased by 92.3 percent, representing 24 of 28 nursing programs.",
+            "meaning": "There was a significant increase in the number of faculty members who became certified, with most nursing programs participating in this increase.",
+            "reasoning": "The percentage increase and specific numbers provide concrete evidence of the initiative's effectiveness across a majority of programs.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Maryland faculty were awarded $625,000 through the Academic Nurse Educator Certification award.",
+            "meaning": "A total of $625,000 was distributed to nursing faculty in Maryland as part of the certification initiative.",
+            "reasoning": "The sentence clearly states the amount of funding awarded and links it to the certification program, highlighting financial support as a component of the initiative.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research focuses on a successful statewide initiative in Maryland aimed at increasing the number of nurse educators with a specific certification through workshops and financial support.",
+    "detailed_summary": "The article reports on the outcomes of a Maryland initiative designed to enhance the number of nursing faculty who obtain the Certified Nurse Educator (CNE) credential. The initiative included the organization of preparation workshops for the CNE certification and the establishment of a financial award to incentivize participation. Data collected after these interventions assessed various factors, including the effectiveness of the workshops, faculty readiness for certification testing, the pass rates for certification, and the profiles of those who received the awards. As a result of the initiative, the number of certified faculty saw a remarkable increase of 92.3%, with 24 out of 28 nursing programs represented. Additionally, a total of $625,000 in funding was awarded to support Maryland faculty in achieving this certification."
+}

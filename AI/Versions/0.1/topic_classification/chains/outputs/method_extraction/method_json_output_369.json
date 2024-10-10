@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "quantum multiplication",
+        "Perron-Frobenius theory",
+        "combinatorics of the quantum Chevalley formula"
+    ],
+    "quantum multiplication": {
+        "reasoning": "Quantum multiplication refers to the specific mathematical process applied to the anticanonical class of a Fano manifold, which is essential for deriving the eigenvalues discussed in the study.",
+        "passages": [
+            "the eigenvalues of the linear operator obtained by the quantum multiplication by the anticanonical class of X"
+        ],
+        "confidence_score": 0.9
+    },
+    "Perron-Frobenius theory": {
+        "reasoning": "Perron-Frobenius theory is a mathematical framework used to analyze nonnegative matrices, which is crucial for the proof provided in the research.",
+        "passages": [
+            "the Perron-Frobenius theory of nonnegative matrices"
+        ],
+        "confidence_score": 0.85
+    },
+    "combinatorics of the quantum Chevalley formula": {
+        "reasoning": "The combinatorics of the quantum Chevalley formula is a specific analytical approach that is utilized in the proof, indicating a methodical way to address the problem at hand.",
+        "passages": [
+            "the combinatorics of the recently found quantum Chevalley formula for IG (k,2n+1)"
+        ],
+        "confidence_score": 0.8
+    }
+}

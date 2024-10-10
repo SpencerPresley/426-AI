@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "Verbal coercion experience is common among college women and has sometimes been associated with lower self-esteem.",
+            "meaning": "Many college women experience verbal coercion, which can lead to decreased self-esteem.",
+            "reasoning": "The sentence presents a general observation about the prevalence of verbal coercion among a specific demographic and its potential psychological effects.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The current study examined self-esteem based on the two verbal coercion items included in the latest version of the most popular measure of sexual victimization experience, the Sexual Experiences Survey-Short Form Victimization (SES-SFV; Koss et al.,2007).",
+            "meaning": "This study focuses on self-esteem in relation to two specific types of verbal coercion identified in a well-known survey measuring sexual victimization.",
+            "reasoning": "The sentence indicates the purpose of the study and references a recognized measurement tool in the field.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "One item includes verbal tactics categorized as 'threat' and the other item includes verbal tactics categorized as 'criticism.'",
+            "meaning": "The study distinguishes between two types of verbal coercion: threats and criticisms.",
+            "reasoning": "The sentence clarifies the specific verbal tactics being analyzed in the study, essential for understanding the research focus.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Undergraduate women (n = 479) completed the Rosenberg Self-Esteem Scale and the SES-SFV.",
+            "meaning": "A sample of 479 undergraduate women participated in the study by taking two assessments related to self-esteem and verbal coercion.",
+            "reasoning": "This sentence provides information on the sample size and the tools used for measuring the variables of interest.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Results showed that women who experienced criticism reported lower self-esteem than those who did not experience criticism.",
+            "meaning": "The findings indicate that criticism as a form of verbal coercion is linked to lower self-esteem among women.",
+            "reasoning": "The sentence summarizes a key result of the study, highlighting the negative impact of criticism on self-esteem.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, threat experience was not significantly related to women's self-esteem.",
+            "meaning": "The study found no significant connection between experiencing threats and levels of self-esteem in women.",
+            "reasoning": "This contrasts with the previous sentence, indicating that not all forms of verbal coercion have the same effect on self-esteem.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Findings support Koss et al.'s suggestion that criticism tactics are more negative than threat tactics, and imply that self-esteem may be negatively associated with some sexually coercive verbal tactics but not associated with others.",
+            "meaning": "The results align with previous research suggesting that criticism is more harmful than threats, indicating varied impacts of verbal coercion on self-esteem.",
+            "reasoning": "This sentence synthesizes the study's findings with existing literature, reinforcing the notion that not all verbal coercion is equally detrimental.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Future researchers should pay careful attention to operational definitions of verbal coercion.",
+            "meaning": "The study suggests that future research should clearly define what constitutes verbal coercion to ensure accurate findings.",
+            "reasoning": "This final sentence provides a recommendation based on the study's findings, emphasizing the importance of precise definitions in research.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the relationship between verbal coercion experiences, specifically criticism and threats, and self-esteem among college women, highlighting that criticism is more detrimental to self-esteem than threats.",
+    "detailed_summary": "This study explores the prevalence and impact of verbal coercion on self-esteem among college women, focusing on two specific tactics: criticism and threats, as measured by the Sexual Experiences Survey-Short Form Victimization (SES-SFV). A sample of 479 undergraduate women completed the Rosenberg Self-Esteem Scale and the SES-SFV to assess their experiences and self-esteem levels. Results indicate that women who experienced criticism reported significantly lower self-esteem compared to those who did not, while the experience of threats showed no significant relationship with self-esteem. These findings support previous suggestions that criticism is a more harmful form of verbal coercion than threats. The study concludes with a recommendation for future research to carefully define verbal coercion to enhance the clarity and accuracy of findings in this area."
+}

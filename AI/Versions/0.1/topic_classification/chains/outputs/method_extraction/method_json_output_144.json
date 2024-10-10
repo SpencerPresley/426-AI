@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "multiobject spectroscopy",
+        "production of targeting databases",
+        "calibration of targeting databases",
+        "software pipelines updates",
+        "value-added catalogs"
+    ],
+    "multiobject spectroscopy": {
+        "reasoning": "Multiobject spectroscopy is a specific technique used in the SDSS to observe and gather data from multiple celestial objects simultaneously, representing a clear methodological approach in the context of the survey.",
+        "passages": [
+            "this data release contains extensive targeting information for the two multiobject spectroscopy programs (MWM and BHM)"
+        ],
+        "confidence_score": 0.95
+    },
+    "production of targeting databases": {
+        "reasoning": "The production of targeting databases refers to the specific process of creating and organizing databases that are essential for the scientific objectives of the SDSS, indicating a methodological approach to data management.",
+        "passages": [
+            "we describe the production of the targeting databases"
+        ],
+        "confidence_score": 0.9
+    },
+    "calibration of targeting databases": {
+        "reasoning": "Calibration of targeting databases is a method used to ensure the accuracy and reliability of the data collected, which is essential for the scientific integrity of the survey.",
+        "passages": [
+            "we describe the production of the targeting databases and their calibration"
+        ],
+        "confidence_score": 0.85
+    },
+    "software pipelines updates": {
+        "reasoning": "Updates to software pipelines indicate a methodological approach to improving the processes used for data processing and analysis within the SDSS, reflecting ongoing methodological development.",
+        "passages": [
+            "We present updates to some of the SDSS software pipelines"
+        ],
+        "confidence_score": 0.8
+    },
+    "value-added catalogs": {
+        "reasoning": "Value-added catalogs are specific outputs that enhance the existing data by providing additional context or information, representing a method of data enhancement and organization.",
+        "passages": [
+            "we also describe three value-added catalogs (VACs) based on SDSS-IV data that have been published since DR17"
+        ],
+        "confidence_score": 0.75
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "deliberative policy analysis",
+        "administrative practices"
+    ],
+    "deliberative policy analysis": {
+        "reasoning": "Deliberative policy analysis (DPA) is a specific methodological approach used to examine the relationship between recycling practices and administrative constructs, providing a framework for understanding the complexities of policy processes.",
+        "passages": [
+            "We use this event as an entry into exploring the practice of recycling in relation to administrative constructs through the lens of deliberative policy analysis (DPA)."
+        ],
+        "confidence_score": 0.95
+    },
+    "administrative practices": {
+        "reasoning": "Administrative practices refer to the specific actions and processes employed by the administration that shape the identity of 'the recycler' and influence the understanding of recycling, making it a crucial methodological focus in the research.",
+        "passages": [
+            "we use the case to distinguish between the idea of social construction and that of administrative construction by highlighting the production of an identity (the recycler) through administrative practices that define an activity (recycling)."
+        ],
+        "confidence_score": 0.9
+    }
+}

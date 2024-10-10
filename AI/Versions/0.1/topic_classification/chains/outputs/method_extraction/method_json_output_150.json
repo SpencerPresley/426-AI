@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "ploidy level determination",
+        "measurements of guard cell areas"
+    ],
+    "ploidy level determination": {
+        "reasoning": "Ploidy level determination is a specific method used to assess the genetic composition of creosote leaves, allowing researchers to understand the distribution of diploid and tetraploid races.",
+        "passages": [
+            "We determined ploidy levels for creosote leaves preserved in ancient packrat middens from the Peloncillo Mountains, AZ",
+            "to better understand the history of ploidy race distribution along its diploid-tetraploid boundary."
+        ],
+        "confidence_score": 0.95
+    },
+    "measurements of guard cell areas": {
+        "reasoning": "Measurements of guard cell areas refer to the specific technique employed to analyze the physical characteristics of modern creosote plants, providing insights into their response to environmental conditions.",
+        "passages": [
+            "Modem creosote at the Peloncillo site is also diploid, but with significantly larger guard cells areas that may be a response to increasingly hot, dry conditions."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "We study the effect of stakeholder orientation on corporate tax avoidance.",
+            "meaning": "The research investigates how a company's focus on stakeholders influences its tax avoidance strategies.",
+            "reasoning": "The phrase 'stakeholder orientation' refers to how much a company considers the interests of its stakeholders, and 'corporate tax avoidance' refers to strategies used to minimize tax liabilities.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Using the staggered passage of constituency statutes across U.S. states between 1983 and 2006, we show that greater stakeholder orientation results in increased tax avoidance.",
+            "meaning": "The researchers utilized data from the implementation of specific laws in various states to demonstrate that a stronger focus on stakeholders leads to higher levels of tax avoidance.",
+            "reasoning": "The mention of 'staggered passage of constituency statutes' indicates a methodical approach to analyzing changes in laws and their effects on corporate behavior over time.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "We further find greater tax avoidance among firms with limited financial resources and that employees benefit from the change.",
+            "meaning": "The study reveals that companies with fewer financial resources tend to engage in more tax avoidance, and this behavior positively impacts employees.",
+            "reasoning": "The phrase 'limited financial resources' suggests that these firms may be more motivated to avoid taxes to sustain operations, while 'employees benefit' indicates that the outcomes of tax avoidance may favor employee interests.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Our results are consistent with stakeholder salience theory that resource-constrained managers prioritize the claims of salient stakeholders, such as employees, at the expense of secondary stakeholders, such as the government.",
+            "meaning": "The findings align with a theory suggesting that managers facing resource limitations focus on the most important stakeholders, like employees, rather than less critical ones, like the government.",
+            "reasoning": "The term 'stakeholder salience theory' implies a framework for understanding how managers prioritize stakeholder interests, particularly when resources are scarce.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research explores the relationship between stakeholder focus and corporate tax avoidance, highlighting how resource constraints influence managerial decisions regarding stakeholder prioritization.",
+    "detailed_summary": "This research paper investigates how a company's orientation towards its stakeholders affects its strategies for tax avoidance. By analyzing the staggered implementation of constituency statutes across various U.S. states from 1983 to 2006, the authors find that a greater emphasis on stakeholder interests correlates with increased tax avoidance. Additionally, the study identifies that firms with limited financial resources tend to engage in higher levels of tax avoidance, which can benefit employees. These findings support stakeholder salience theory, suggesting that managers with constrained resources prioritize the needs of more significant stakeholders, like employees, over those of secondary stakeholders, such as the government."
+}

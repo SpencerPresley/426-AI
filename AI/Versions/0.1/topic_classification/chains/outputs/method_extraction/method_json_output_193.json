@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "inflated beta regression model",
+        "Bayesian approach",
+        "simulation study"
+    ],
+    "inflated beta regression model": {
+        "reasoning": "The inflated beta regression model is a specific method introduced to handle dependent variables that can take on values in the range (0,1) as well as zero and one, representing a novel approach in regression modeling.",
+        "passages": [
+            "One recent approach is to use an inflated beta regression model which has discrete point-valued components.",
+            "we introduce a new class of regression models for y is an element of [0,1] that is fully continuous."
+        ],
+        "confidence_score": 0.9
+    },
+    "Bayesian approach": {
+        "reasoning": "The Bayesian approach is a specific statistical methodology used for estimation in the context of the new regression models, highlighting a particular technique employed in the research.",
+        "passages": [
+            "We use a Bayesian approach for estimation."
+        ],
+        "confidence_score": 0.85
+    },
+    "simulation study": {
+        "reasoning": "The simulation study is a methodological procedure used to examine model fit, representing a systematic approach to testing the proposed models.",
+        "passages": [
+            "perform a simulation study examining model fit."
+        ],
+        "confidence_score": 0.8
+    }
+}

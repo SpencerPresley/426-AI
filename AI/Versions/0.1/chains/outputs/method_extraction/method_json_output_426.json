@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "semi-structured phone interviews",
+        "digital advocacy"
+    ],
+    "semi-structured phone interviews": {
+        "reasoning": "Semi-structured phone interviews represent a specific qualitative data collection method used to gather in-depth insights from participants, allowing for both structured and flexible questioning.",
+        "passages": [
+            "Eleven parents of TGNC children age 13 and under completed semi-structured phone interviews."
+        ],
+        "confidence_score": 0.95
+    },
+    "digital advocacy": {
+        "reasoning": "Digital advocacy refers to the specific approach taken by parents to promote awareness and support for TGNC children, highlighting a method of engagement and support utilized by the participants.",
+        "passages": [
+            "Ten parents considered themselves advocates, with digital advocacy being the most common."
+        ],
+        "confidence_score": 0.85
+    }
+}

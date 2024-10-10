@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "Bayesian truncation error model",
+        "Gaussian processes",
+        "model-checking diagnostics",
+        "Python code (gsum)"
+    ],
+    "Bayesian truncation error model": {
+        "reasoning": "The Bayesian truncation error model is a specific statistical method used to quantify the truncation error in predictions made by effective field theories, indicating a methodological approach to error analysis.",
+        "passages": [
+            "propose a Bayesian truncation error model for predictions that are correlated across the independent variables"
+        ],
+        "confidence_score": 0.9
+    },
+    "Gaussian processes": {
+        "reasoning": "Gaussian processes are a specific technique used to encode the correlation structure of effective field theory coefficients, serving as a method for modeling and prediction within the context of the research.",
+        "passages": [
+            "Central to our approach are Gaussian processes that encode both the naturalness and correlation structure of EFT coefficients"
+        ],
+        "confidence_score": 0.95
+    },
+    "model-checking diagnostics": {
+        "reasoning": "Model-checking diagnostics are analytical tools used for validating effective field theories, representing a methodological approach to assess the reliability of the models developed in the research.",
+        "passages": [
+            "we demonstrate that model-checking diagnostics-applied to the case of multiple curves-are powerful tools for EFT validation"
+        ],
+        "confidence_score": 0.85
+    },
+    "Python code (gsum)": {
+        "reasoning": "The development of Python code, specifically named gsum, represents a methodological contribution that facilitates the implementation and use of the proposed methods in practice.",
+        "passages": [
+            "Our methods are packaged in Python code, called gsum, that is available for download on GitHub"
+        ],
+        "confidence_score": 0.8
+    }
+}

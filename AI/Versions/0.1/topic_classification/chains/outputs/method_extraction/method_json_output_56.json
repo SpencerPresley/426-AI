@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "phonotactic responses examination",
+        "multimodal and unimodal stimuli testing",
+        "environmental manipulation"
+    ],
+    "phonotactic responses examination": {
+        "reasoning": "Phonotactic responses examination refers to the specific method used to analyze how tungara frogs respond to sound stimuli, which is central to the study's investigation of mating behaviors.",
+        "passages": [
+            "We examined both male and female tungara frog phonotactic responses to multimodal (audiovisual) and unimodal (acoustic) stimuli."
+        ],
+        "confidence_score": 0.9
+    },
+    "multimodal and unimodal stimuli testing": {
+        "reasoning": "Testing multimodal and unimodal stimuli represents the methodological approach used to assess the frogs' responses to different types of mating signals, which is crucial for understanding their mating behavior.",
+        "passages": [
+            "We examined both male and female tungara frog phonotactic responses to multimodal (audiovisual) and unimodal (acoustic) stimuli."
+        ],
+        "confidence_score": 0.85
+    },
+    "environmental manipulation": {
+        "reasoning": "Environmental manipulation involves altering physical conditions to observe their effects on animal behavior, which is a key methodological process in this study.",
+        "passages": [
+            "We altered aspects of the physical environment by changing substrate (terrestrial and aquatic) and ambient light levels."
+        ],
+        "confidence_score": 0.95
+    }
+}

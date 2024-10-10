@@ -1,0 +1,78 @@
+{
+    "sentences": [
+        {
+            "sentence": "Research suggests that music can affect mood and physiological states (Elliott, Polman, & McGregor, 2011; Thoma et al., 2013).",
+            "meaning": "Music has been shown to influence both emotional and physical states.",
+            "reasoning": "The sentence references previous studies that indicate a relationship between music and its effects on mood and physiological responses.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The extant literature has mainly focused on long-term changes in self-report measures resulting from several sessions of music intervention (but see Jiang, Zhou, Rickson, & Jiang, 2013 and Pelletier, 2004 for review).",
+            "meaning": "Most existing research has concentrated on the long-term effects of music interventions, primarily measured through self-reports over multiple sessions.",
+            "reasoning": "This sentence summarizes the focus of previous studies and notes exceptions that provide alternative perspectives.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The purpose of this study was to expand the previous work in three major ways.",
+            "meaning": "This research aims to build upon earlier studies by addressing three specific aspects.",
+            "reasoning": "The phrase 'expand the previous work' indicates an intention to enhance understanding in the field.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "First, the stress-reducing effects of music listening versus musical improvisation on a xylophone were compared.",
+            "meaning": "The study compares how listening to music and improvising on a xylophone affect stress reduction.",
+            "reasoning": "The sentence clearly outlines the first aim of the study, which involves a direct comparison of two different musical activities.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Second, psychophysiological measures of stress were utilized in addition to self-report measures.",
+            "meaning": "The research incorporates both physiological metrics and self-reported data to assess stress.",
+            "reasoning": "The use of 'psychophysiological measures' indicates a broader approach to understanding stress responses beyond self-reports.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Third, stress reduction effects were measured in one session.",
+            "meaning": "The study evaluates the effects of music on stress reduction within a single session.",
+            "reasoning": "This indicates a departure from previous studies that typically involved multiple sessions, emphasizing a novel approach.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "A total of 105 participants completed a stressor task and were then assigned to one of three recovery conditions: control (CG), music listening (ML), or music improvisation (MI).",
+            "meaning": "The study involved 105 participants who underwent a stress-inducing task followed by one of three recovery methods.",
+            "reasoning": "The sentence outlines the methodology, including participant numbers and the conditions they were assigned to.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The ML and MI groups were expected to exhibit greater stress reduction (evidenced by behavioral and physiological measures) than the CG.",
+            "meaning": "It was hypothesized that the music listening and improvisation groups would show more significant stress reduction compared to the control group.",
+            "reasoning": "The expectation of greater stress reduction is based on prior research and the nature of the interventions.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Self-report and skin conductance (electrodermal activity; EDA) measures were used to assess response during the stressor task and recovery session.",
+            "meaning": "The study employed both self-reported data and physiological measurements (skin conductance) to evaluate participants' responses.",
+            "reasoning": "This highlights the dual approach to measuring stress responses, combining subjective and objective data.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Results indicated that participants exhibited a significant increase in stress response as a result of the stressor task.",
+            "meaning": "Participants showed a marked increase in stress levels due to the stress-inducing task.",
+            "reasoning": "The phrase 'significant increase' suggests that the stressor was effective in eliciting a stress response.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Although self-report measures indicated that mood improved during the recovery session, the MI group exhibited only differential effects for levels of satisfaction.",
+            "meaning": "Participants reported improved mood after recovery, but the improvisation group only showed varied satisfaction levels.",
+            "reasoning": "This suggests that while mood improved overall, the improvisation condition did not uniformly enhance satisfaction.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The physiological data showed greater stress reduction for the ML condition as compared with the CG and MI group.",
+            "meaning": "The physiological measurements indicated that the music listening condition resulted in more significant stress reduction than the control and improvisation groups.",
+            "reasoning": "This concludes the findings by emphasizing the effectiveness of music listening over the other conditions.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The study investigates the effects of music listening and musical improvisation on stress reduction, utilizing both self-report and physiological measures, and finds that music listening is more effective in reducing stress than improvisation.",
+    "detailed_summary": "This research paper explores how music impacts stress reduction by comparing music listening and musical improvisation on a xylophone. It aims to expand upon existing literature that primarily focuses on long-term outcomes by examining immediate effects in a single session. A total of 105 participants completed a stressor task and were assigned to one of three recovery conditions: control, music listening, or music improvisation. The study utilized both self-report measures and physiological data (skin conductance) to assess stress responses. Results showed that while participants generally reported improved mood, only the music listening condition demonstrated significant physiological stress reduction compared to the control and improvisation groups. The findings highlight the potential of music listening as an effective intervention for immediate stress relief."
+}

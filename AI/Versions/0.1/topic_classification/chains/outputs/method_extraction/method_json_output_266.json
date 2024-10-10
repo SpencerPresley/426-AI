@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "examination of expressions of nationality",
+        "analysis of commentary",
+        "advocacy for a borderless global federation"
+    ],
+    "examination of expressions of nationality": {
+        "reasoning": "This method refers to the specific process of investigating how German anarchist editors and writers articulated their sense of nationality, which is a central focus of the research.",
+        "passages": [
+            "This article examines expressions of nationality by a handful of German anarchist editors and writers from the 1880s to the end of World War II."
+        ],
+        "confidence_score": 0.9
+    },
+    "analysis of commentary": {
+        "reasoning": "This method involves analyzing the commentary made by anarchists against various political regimes, which serves as a significant part of the research methodology.",
+        "passages": [
+            "There was a remarkable consistency in their commentary levelled against Bismarck, the Kaiser, the Weimar government and the Nazis either in Germany or in the host country."
+        ],
+        "confidence_score": 0.85
+    },
+    "advocacy for a borderless global federation": {
+        "reasoning": "This method describes the approach taken by the anarchists to promote their vision of a political structure, reflecting their ideological stance and actions as a form of advocacy.",
+        "passages": [
+            "Anarchists advocated for a borderless global federation of free communities and, to that end, rejected nationalism."
+        ],
+        "confidence_score": 0.8
+    }
+}

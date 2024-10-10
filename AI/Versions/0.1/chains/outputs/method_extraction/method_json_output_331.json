@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "panel data analysis",
+        "hypothesis testing"
+    ],
+    "panel data analysis": {
+        "reasoning": "Panel data analysis refers to the method used to analyze data collected from multiple countries over a specified time period, allowing for the examination of relationships between variables across different entities.",
+        "passages": [
+            "we examine the relationship between natural resource rents and new business creation using a panel of 116 countries spanning the period 2001-2012"
+        ],
+        "confidence_score": 0.9
+    },
+    "hypothesis testing": {
+        "reasoning": "Hypothesis testing is a methodological approach used to determine the validity of the proposed hypothesis regarding the resource curse and its effects on entrepreneurship.",
+        "passages": [
+            "Testing the hypothesis that the resource curse promotes rent-seeking behaviour at the expense of entrepreneurship"
+        ],
+        "confidence_score": 0.85
+    }
+}

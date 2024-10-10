@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "sampling wetlands",
+        "context-driven approaches"
+    ],
+    "sampling wetlands": {
+        "reasoning": "Sampling wetlands is a specific method used to gather data from various sites, which is essential for understanding the influence of landscape structure on freshwater turtles.",
+        "passages": [
+            "We sampled wetlands at 531 sites across 16 states in the eastern U.S."
+        ],
+        "confidence_score": 0.95
+    },
+    "context-driven approaches": {
+        "reasoning": "Context-driven approaches refer to the methodology employed to analyze how different landscape contexts influence conservation and management decisions, indicating a specific analytical framework.",
+        "passages": [
+            "Our study supports the use of context-driven approaches to land use-related conservation and management decisions"
+        ],
+        "confidence_score": 0.9
+    }
+}

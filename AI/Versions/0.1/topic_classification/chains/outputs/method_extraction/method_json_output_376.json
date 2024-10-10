@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "literature review",
+        "quantitative analysis",
+        "data collection"
+    ],
+    "literature review": {
+        "reasoning": "The literature review is a method used to synthesize existing research and theories related to CSR practices and corporate reputation, forming the basis for developing hypotheses.",
+        "passages": [
+            "we conduct a literature review and develop the corresponding hypothesis"
+        ],
+        "confidence_score": 0.9
+    },
+    "quantitative analysis": {
+        "reasoning": "Quantitative analysis is a method used to statistically test the developed hypothesis, allowing for the examination of relationships between CSR practices and corporate reputation.",
+        "passages": [
+            "We test our hypothesis using quantitative analysis of both primary and secondary data"
+        ],
+        "confidence_score": 0.95
+    },
+    "data collection": {
+        "reasoning": "Data collection refers to the specific method of gathering both primary and secondary data from various organizations, which is essential for conducting the quantitative analysis.",
+        "passages": [
+            "data collected from organizations dispersed globally"
+        ],
+        "confidence_score": 0.85
+    }
+}

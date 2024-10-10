@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "extraction of weight-bearing springs",
+        "compression distance measurement",
+        "pressure measurement using a gauge",
+        "statistical treatment using independent t tests",
+        "1-way analysis of variance"
+    ],
+    "extraction of weight-bearing springs": {
+        "reasoning": "This method describes the process of obtaining specific types of coil springs from mattresses, which is essential for the comparative analysis of their firmness.",
+        "passages": [
+            "Weight-bearing springs (WBS) extracted from the center of the mattresses (N = 32), and non-weightbearing springs (NWBS) extracted from the head/foot"
+        ],
+        "confidence_score": 0.9
+    },
+    "compression distance measurement": {
+        "reasoning": "This method refers to the specific procedure used to determine how much the coil springs compress under a defined load, which is critical to assessing their firmness.",
+        "passages": [
+            "a 1296-g ingot was placed on the coil, and the compression distance was measured (cm)"
+        ],
+        "confidence_score": 0.95
+    },
+    "pressure measurement using a gauge": {
+        "reasoning": "This method involves using a gauge to quantify the force required to compress the coil springs, providing a direct measurement of their resistance to compression.",
+        "passages": [
+            "a gauge was used to measure the amount of pressure required to compress the coil springs a distance of 2 cm"
+        ],
+        "confidence_score": 0.95
+    },
+    "statistical treatment using independent t tests": {
+        "reasoning": "This method describes the statistical analysis technique applied to compare the data between the two groups of springs, which is essential for validating the research findings.",
+        "passages": [
+            "Comparison between WBS and NWBS data were statistically treated using independent t tests"
+        ],
+        "confidence_score": 0.85
+    },
+    "1-way analysis of variance": {
+        "reasoning": "This method indicates the use of ANOVA to analyze the variance among different groups, which is a common statistical method to assess differences in means.",
+        "passages": [
+            "Comparison between WBS and NWBS data were statistically treated using... a 1-way analysis of variance"
+        ],
+        "confidence_score": 0.85
+    }
+}

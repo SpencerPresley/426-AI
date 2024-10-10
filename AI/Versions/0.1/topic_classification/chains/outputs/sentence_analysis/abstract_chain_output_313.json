@@ -1,0 +1,60 @@
+{
+    "sentences": [
+        {
+            "sentence": "The automobile consumption credit business promotes the development of the automobile industry.",
+            "meaning": "The credit system for automobile purchases supports the growth of the automobile sector.",
+            "reasoning": "This sentence establishes the importance of automobile credit in enhancing industry growth.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, the current credit system in China requires further refinement.",
+            "meaning": "The existing credit framework in China needs improvements.",
+            "reasoning": "The use of 'requires further refinement' suggests inadequacies in the current system.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Thus, the credit loan business is associated with certain risks, and company profits are often negatively impacted by clients who default on loans.",
+            "meaning": "The credit loan sector carries risks, particularly due to loan defaults, which can harm company profits.",
+            "reasoning": "The phrase 'associated with certain risks' indicates potential financial dangers, specifically from defaults.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Based on the data, this article leverages the economic and financial theories of consumer credit risk control to construct a logistic model to predict customers' default probability.",
+            "meaning": "The research utilizes data and theories to create a model that forecasts the likelihood of loan defaults.",
+            "reasoning": "The sentence outlines the methodology employed in the study, indicating a systematic approach to predicting defaults.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Then, a quadratic regression model is established to determine the optimal commission structure to balance profitability with incentives from retail stores.",
+            "meaning": "A quadratic regression model is developed to find the best commission setup that ensures both profit and retail incentives.",
+            "reasoning": "This sentence describes another aspect of the study's methodology focused on optimizing commission structures.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Results show that the macro-level variables are negatively associated with the probability of good behavior.",
+            "meaning": "At a broader level, certain economic factors correlate with lower chances of responsible borrowing behavior.",
+            "reasoning": "The term 'negatively associated' implies that as macro-level variables change, good behavior declines.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The personal level variables exhibit a positive association.",
+            "meaning": "Individual-specific factors are linked to a higher likelihood of responsible borrowing behavior.",
+            "reasoning": "The phrase 'exhibit a positive association' suggests that personal factors encourage good behavior in borrowing.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In addition, a negative coefficient in the quadratic profit equation indicates the presence of an inverted 'U' relationship between profit and commission.",
+            "meaning": "The analysis reveals that profit and commission have a complex relationship, where too much commission can reduce profit.",
+            "reasoning": "The 'inverted U' relationship suggests that there is an optimal point for commission that maximizes profit before it declines.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Corresponding suggestions are put forward.",
+            "meaning": "The article offers recommendations based on the findings.",
+            "reasoning": "The phrase 'put forward' indicates that actionable insights are derived from the research results.",
+            "confidence_score": 0.8
+        }
+    ],
+    "overall_theme": "The research analyzes the risks associated with the automobile consumption credit system in China, proposing models to predict loan defaults and optimize commission structures to enhance profitability.",
+    "detailed_summary": "This research paper investigates the automobile consumption credit business in China, highlighting its role in promoting the automobile industry while noting the need for improvements in the credit system. It addresses the risks linked to loan defaults that adversely affect company profits. The study employs economic and financial theories to develop a logistic model aimed at predicting customer default probabilities. Additionally, a quadratic regression model is created to identify an optimal commission structure that balances profitability with retail incentives. The results indicate that macro-level variables negatively influence responsible borrowing behavior, while personal-level variables positively correlate with it. Furthermore, the findings reveal an inverted 'U' relationship between profit and commission, suggesting that excessive commissions may harm profits. The paper concludes with recommendations based on these insights."
+}

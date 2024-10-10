@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "actionable recommendations"
+    ],
+    "actionable recommendations": {
+        "reasoning": "Actionable recommendations refer to specific guidelines and suggestions proposed by the authors to improve inclusivity in biology learning environments for LGBTQ+ individuals. This represents a method as it provides a structured approach to addressing the identified issue.",
+        "passages": [
+            "we present a set of actionable recommendations to help biologists, biology educators, and biology education researchers be more inclusive of individuals with LGBTQ+ identities."
+        ],
+        "confidence_score": 0.85
+    }
+}

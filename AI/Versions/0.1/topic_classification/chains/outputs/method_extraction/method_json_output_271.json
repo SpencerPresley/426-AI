@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "unmanned aerial systems (UAS)",
+        "very high-resolution satellite imagery",
+        "geographic information systems (GIS)",
+        "mapping"
+    ],
+    "unmanned aerial systems (UAS)": {
+        "reasoning": "Unmanned aerial systems (UAS) represent a specific technology used for data collection in the study, allowing for aerial mapping and monitoring of tilapia fish cages.",
+        "passages": [
+            "unmanned aerial systems (UAS), very high-resolution satellite imagery, and geographic information systems (GIS) were used to map the tilapia fish cages"
+        ],
+        "confidence_score": 0.95
+    },
+    "very high-resolution satellite imagery": {
+        "reasoning": "Very high-resolution satellite imagery is a method used for capturing detailed images of the area of interest, contributing to the mapping and assessment of environmental impacts.",
+        "passages": [
+            "unmanned aerial systems (UAS), very high-resolution satellite imagery, and geographic information systems (GIS) were used to map the tilapia fish cages"
+        ],
+        "confidence_score": 0.9
+    },
+    "geographic information systems (GIS)": {
+        "reasoning": "Geographic information systems (GIS) are utilized for spatial analysis and mapping, making it a key method for understanding the ecological impacts of cage aquaculture.",
+        "passages": [
+            "unmanned aerial systems (UAS), very high-resolution satellite imagery, and geographic information systems (GIS) were used to map the tilapia fish cages"
+        ],
+        "confidence_score": 0.9
+    },
+    "mapping": {
+        "reasoning": "Mapping is the specific process employed to visualize the distribution and density of tilapia fish cages, which is central to the study's methodology.",
+        "passages": [
+            "mapping of inshore tilapia fish cages with high positional accuracy"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "sampling",
+        "environmental factor assessment",
+        "statistical analysis of sex ratios"
+    ],
+    "sampling": {
+        "reasoning": "Sampling refers to the method used to collect data on the spotted turtle across its geographic range, which is crucial for assessing the impact of environmental factors on adult sex ratios.",
+        "passages": [
+            "We sampled the spotted turtle (Clemmys guttata), a freshwater species with TSD, across a large portion of its geographic range (Florida to Maine)"
+        ],
+        "confidence_score": 0.95
+    },
+    "environmental factor assessment": {
+        "reasoning": "This method involves evaluating the environmental factors influencing adult sex ratios, which is a key aspect of the research.",
+        "passages": [
+            "to assess the environmental factors influencing adult sex ratios"
+        ],
+        "confidence_score": 0.9
+    },
+    "statistical analysis of sex ratios": {
+        "reasoning": "Statistical analysis is implied in the examination of the relationships between climate change and sex ratios, as the study discusses patterns and relationships that require analytical techniques.",
+        "passages": [
+            "We present evidence that suggests recent climate change has potentially skewed the adult sex ratio of spotted turtles",
+            "we found the opposite pattern, with samples becoming more male biased with increasing temperatures"
+        ],
+        "confidence_score": 0.85
+    }
+}

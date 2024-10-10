@@ -14,12 +14,15 @@ for abstract in raw_abstracts:
         continue
     abstracts.append(abstract)
 
+print(abstracts[13])
+input("Press Enter to continue...")
+
 print(len(abstracts))
 # print(len(abstracts))
-# print(f"abstract left = {len(abstracts) - 310}")
-
-# abstracts = abstracts[310:]
-# print(len(abstracts))
+print(f"abstract left = {len(abstracts) - 296}")
+abstracts = abstracts[296:]
+# print(abstracts)
+print(len(abstracts))
 
 
 
@@ -75,4 +78,4 @@ setence_analysis_json_example = """
     }
 """
 
-process_abstracts(abstracts, json_structure, method_json_format, setence_analysis_json_example, index=0)
+process_abstracts(abstracts, json_structure, method_json_format, setence_analysis_json_example, index=296)

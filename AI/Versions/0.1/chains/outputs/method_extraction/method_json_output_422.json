@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "convenience sampling",
+        "structural equations modeling"
+    ],
+    "convenience sampling": {
+        "reasoning": "Convenience sampling is a method for selecting participants based on availability and accessibility, which is explicitly stated in the study as the approach used to gather data from students.",
+        "passages": [
+            "Using a convenience sample of 631 students matriculating in various business majors at four U.S. universities"
+        ],
+        "confidence_score": 0.95
+    },
+    "structural equations modeling": {
+        "reasoning": "Structural equations modeling is a statistical technique used to assess complex relationships among variables, which the study employs to analyze the effects of psychological factors on students' behaviors.",
+        "passages": [
+            "and structural equations modeling procedures, this study assesses the effects of psychological factors on business students' propensities to utilize the services of homework assistance websites"
+        ],
+        "confidence_score": 0.9
+    }
+}

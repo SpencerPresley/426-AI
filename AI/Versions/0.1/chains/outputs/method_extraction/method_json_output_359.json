@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "comparison of microbial enzymatic activity",
+        "community composition analysis",
+        "soil collection",
+        "FDA hydrolysis measurement",
+        "dehydrogenase activity measurement"
+    ],
+    "comparison of microbial enzymatic activity": {
+        "reasoning": "This method involves comparing the enzymatic activity of microbes in different soil types, which is a specific analytical process used to evaluate the effects of land use changes.",
+        "passages": [
+            "We compared microbial enzymatic activity and community composition in small, undisturbed, family cemetery soils and surrounding agricultural fields or suburban lawns"
+        ],
+        "confidence_score": 0.9
+    },
+    "community composition analysis": {
+        "reasoning": "This method refers to the analysis of the composition of microbial communities in different soil types, which is essential for understanding the impact of land use on soil biology.",
+        "passages": [
+            "We compared microbial enzymatic activity and community composition in small, undisturbed, family cemetery soils and surrounding agricultural fields or suburban lawns"
+        ],
+        "confidence_score": 0.85
+    },
+    "soil collection": {
+        "reasoning": "Soil collection is a specific procedure for gathering soil samples from various sites, which is a fundamental step in conducting this research.",
+        "passages": [
+            "We collected soil from seven sites in Wicomico County, Maryland monthly for one year."
+        ],
+        "confidence_score": 0.95
+    },
+    "FDA hydrolysis measurement": {
+        "reasoning": "This method involves measuring the hydrolysis of fluorescein diacetate (FDA), which is a specific technique used to assess microbial activity in the soil.",
+        "passages": [
+            "Fluorescein diacetate (FDA) hydrolysis and dehydrogenase activity were significantly greater in the cemetery soils compared to field soils"
+        ],
+        "confidence_score": 0.9
+    },
+    "dehydrogenase activity measurement": {
+        "reasoning": "This method refers to the measurement of dehydrogenase activity in soils, which is another specific technique used to evaluate microbial activity.",
+        "passages": [
+            "Fluorescein diacetate (FDA) hydrolysis and dehydrogenase activity were significantly greater in the cemetery soils compared to field soils"
+        ],
+        "confidence_score": 0.9
+    }
+}

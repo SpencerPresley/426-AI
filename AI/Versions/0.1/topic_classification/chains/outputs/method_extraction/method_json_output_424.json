@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "focus group sessions",
+        "thematic analysis"
+    ],
+    "focus group sessions": {
+        "reasoning": "Focus group sessions are a qualitative research method used to gather insights from participants through guided discussions, making it a specific technique employed to explore perceptions of wellness.",
+        "passages": [
+            "Five focus group sessions were conducted to explore perceptions of wellness among undergraduate college students."
+        ],
+        "confidence_score": 0.95
+    },
+    "thematic analysis": {
+        "reasoning": "Thematic analysis is a method for analyzing qualitative data by identifying patterns and themes within the data, which is essential for interpreting participants' perceptions in this study.",
+        "passages": [
+            "Data was analyzed, themed, and coded."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "cultural chronotopes",
+        "quantification of experience"
+    ],
+    "cultural chronotopes": {
+        "reasoning": "Cultural chronotopes are used as a theoretical framework to analyze how experiences are shaped and represented in the Linguistic Landscape, making it a methodological approach in the research.",
+        "passages": [
+            "We engage the theoretical concept of cultural chronotopes (Agha, 2007a) to demonstrate how spatially and temporally entwined experiences of nostalgia and modernity are produced in South Delhi's commercial LL"
+        ],
+        "confidence_score": 0.85
+    },
+    "quantification of experience": {
+        "reasoning": "The quantification of experience refers to the specific process by which experiences are measured and analyzed through signs in the commodification of visceral experiences, highlighting a methodological approach.",
+        "passages": [
+            "we discuss the quantification of experience executed by these signs in commodifying the visceral"
+        ],
+        "confidence_score": 0.9
+    }
+}

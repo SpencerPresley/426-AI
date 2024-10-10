@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "three studies",
+        "donation quantifier formats",
+        "managing consumer skepticism"
+    ],
+    "three studies": {
+        "reasoning": "The phrase 'three studies' indicates a methodological approach where multiple experiments or investigations are conducted to gather data and draw conclusions, thus representing a structured research design.",
+        "passages": [
+            "Across three studies, the authors demonstrate when using monetary quantifiers is less beneficial"
+        ],
+        "confidence_score": 0.9
+    },
+    "donation quantifier formats": {
+        "reasoning": "Donation quantifier formats refer to the specific methods used to communicate donation amounts (e.g., monetary versus descriptive), which is a key variable in the research that affects outcomes like price fairness.",
+        "passages": [
+            "Study 2 provides evidence that donation quantifier formats operate uniquely and impact price fairness through skepticism."
+        ],
+        "confidence_score": 0.85
+    },
+    "managing consumer skepticism": {
+        "reasoning": "Managing consumer skepticism is a methodological approach discussed in Study 3, which outlines strategies that practitioners can use to influence consumer perceptions and behaviors, thus representing a specific technique or procedure.",
+        "passages": [
+            "Finally, Study 3 demonstrates ways in which practitioners can manage consumer skepticism, which affect perceptions of price fairness and ultimately purchase intent."
+        ],
+        "confidence_score": 0.8
+    }
+}

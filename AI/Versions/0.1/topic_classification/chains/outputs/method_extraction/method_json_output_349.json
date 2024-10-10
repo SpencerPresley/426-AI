@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "examination of photobiological characteristics",
+        "analysis of lipids and isotopic signatures",
+        "depth-dependent light gradient study"
+    ],
+    "examination of photobiological characteristics": {
+        "reasoning": "This method refers to the specific process of studying the photobiological traits of Symbiodinium, which is crucial for understanding energy acquisition mechanisms in corals.",
+        "passages": [
+            "we examined Symbiodinium (endosymbiotic dinoflagellate) photobiological characteristics"
+        ],
+        "confidence_score": 0.9
+    },
+    "analysis of lipids and isotopic signatures": {
+        "reasoning": "This method involves the specific analytical procedures used to assess the lipid content and isotopic composition of both Symbiodinium and coral hosts, which are essential for understanding their energy acquisition strategies.",
+        "passages": [
+            "the lipids and isotopic signatures from Symbiodinium and coral hosts"
+        ],
+        "confidence_score": 0.85
+    },
+    "depth-dependent light gradient study": {
+        "reasoning": "This method refers to the experimental approach of studying the effects of varying light conditions at different depths on coral energy acquisition, which is a key aspect of the research.",
+        "passages": [
+            "over a depth-dependent light gradient (55-7 mu mol photons m(-2) s(-1), 60-132 m)"
+        ],
+        "confidence_score": 0.95
+    }
+}

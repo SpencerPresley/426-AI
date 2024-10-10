@@ -1,0 +1,186 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "This paper aims to provide empirical evidence on the impact of a corporate label change (CLC) from investors' perspective, especially based on the stakeholder approach to corporate identity.",
+            "meaning": "The study seeks to investigate how changes in corporate labels affect investor perceptions, using a stakeholder-focused framework.",
+            "reasoning": "The sentence outlines the primary objective of the research and emphasizes the perspective taken in the analysis.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The resource-based theory has been used as a theoretical root of understanding the antecedents and consequences of brands.",
+            "meaning": "The research employs resource-based theory to analyze the factors leading to and resulting from brand changes.",
+            "reasoning": "This sentence explains the theoretical framework that underpins the study, indicating a focus on brand management.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The authors specifically examine how two important types of firm-level heterogeneity - firm size and firm age - change shareholder reactions.",
+            "meaning": "The study looks at how variations in company size and age influence how shareholders respond to corporate label changes.",
+            "reasoning": "The mention of 'firm-level heterogeneity' indicates that the authors are focusing on specific characteristics of firms that may affect investor reactions.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In addition, the authors also test the moderating effects of firm performance.",
+            "meaning": "The research further explores how the performance of a firm might influence the relationship between firm characteristics and shareholder reactions.",
+            "reasoning": "The use of 'moderating effects' suggests an exploration of additional variables that could impact the primary relationships being studied.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Using Korean company data, the authors first calculate the cumulative abnormal return (CAR) with the two-day event window [-1,0].",
+            "meaning": "The authors analyze data from South Korean companies by measuring the abnormal stock returns around the time of the label change.",
+            "reasoning": "The sentence describes the methodology, specifically the data source and the financial metric used for analysis.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Then, the authors test the impacts of firm size and age on CAR with ordinary least squares regressions.",
+            "meaning": "The researchers apply statistical regression techniques to assess how firm size and age affect the calculated abnormal returns.",
+            "reasoning": "This sentence continues to detail the methodology, specifying the analytical approach taken to assess the primary variables.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "To understand greater dynamics, the authors also test the moderation effects of firm performance.",
+            "meaning": "The authors investigate how firm performance interacts with size and age to affect shareholder reactions.",
+            "reasoning": "The focus on 'greater dynamics' indicates a desire to understand more complex relationships in the data.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "For the robustness check, the authors test using a different event window and different measures as well.",
+            "meaning": "To ensure the reliability of their findings, the authors validate their results by applying alternative methodologies.",
+            "reasoning": "The mention of a 'robustness check' indicates a standard practice in research to confirm the stability of results.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The findings for South Korean companies reveal that CLC itself does not significantly affect shareholder value.",
+            "meaning": "The study concludes that changes in corporate labels do not have a notable impact on the value perceived by shareholders.",
+            "reasoning": "This is a key finding that directly addresses the initial research question about the effects of CLC.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, firm size and firm age show positive and significant coefficients.",
+            "meaning": "The results indicate that larger and older firms tend to receive more favorable reactions from investors.",
+            "reasoning": "The use of 'positive and significant coefficients' suggests a statistical relationship that is noteworthy.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This means that larger and older firms are more likely to have better investor reactions.",
+            "meaning": "The study interprets the statistical findings to suggest that firm characteristics improve investor sentiment.",
+            "reasoning": "This sentence clarifies the implications of the previous finding about firm size and age.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In addition, the authors also test a moderation effect of firm performance.",
+            "meaning": "The research further examines how firm performance influences the relationship between firm characteristics and investor reactions.",
+            "reasoning": "This reiterates the investigation into additional factors affecting shareholder responses.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "The result shows that the impact of firm size weakens when firms have better performance.",
+            "meaning": "The findings indicate that as a firm's performance improves, the influence of its size on investor reactions diminishes.",
+            "reasoning": "This sentence provides a specific outcome related to the moderation effect being studied.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The first limitation is the generalizability of the findings, particularly those regarding the impacts of CLC on investor reactions.",
+            "meaning": "The authors acknowledge that their results may not apply broadly beyond the specific context of their study.",
+            "reasoning": "Limitations are important for understanding the scope and applicability of research findings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "A second limitation is that the authors did not consider the time gaps between CLCs.",
+            "meaning": "The study did not account for potential delays or intervals between different corporate label changes.",
+            "reasoning": "This limitation points to a potential oversight in the analysis that could affect the outcomes.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Third, there are limitations of using an event study with stock market data due to the ambiguity of the causal relationship between a firm's strategic choices and market reactions.",
+            "meaning": "The authors recognize challenges in establishing clear cause-and-effect relationships in their study due to the nature of stock market data.",
+            "reasoning": "This highlights a common concern in financial research regarding the interpretation of data.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Lastly, the authors use all CLCs except CLCs related to corporate governance (i.e. mergers and acquisitions).",
+            "meaning": "The research excludes certain types of corporate label changes that pertain to governance issues from its analysis.",
+            "reasoning": "Clarifying the scope of the study helps readers understand what is included and what is not.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Although managers expect positive relations by introducing new corporate label, the outcomes may not be sufficient because potential losses (i.e. losing royal customers) are significant.",
+            "meaning": "Managers may anticipate favorable investor reactions from label changes, but there are risks involved that could negate those expectations.",
+            "reasoning": "This sentence addresses practical implications for managers, emphasizing the need for caution.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Hence, more careful considerations are required when a manager forms a new CLC.",
+            "meaning": "Managers should be more judicious in their approach to changing corporate labels.",
+            "reasoning": "This follows logically from the previous sentence regarding the risks associated with label changes.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The results provide valuable insights for the conditions when large and aged companies pursue CLCs.",
+            "meaning": "The findings offer guidance for older and larger firms regarding when to consider changing their corporate labels.",
+            "reasoning": "The focus on specific types of firms suggests targeted recommendations based on the research outcomes.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In addition, the needs of a CLC are increasing when a company shows underperformance.",
+            "meaning": "Companies that are not performing well may feel a greater need to change their corporate labels.",
+            "reasoning": "This sentence connects performance with the strategic decision to change labels, indicating a trend.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Poor performance is a trigger for introducing new strategic choices (Boeker, 1997).",
+            "meaning": "Underperformance can prompt firms to explore new strategies, including changing their corporate labels.",
+            "reasoning": "This ties back to the overall theme of strategic decision-making in response to firm performance.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The finding can be another supporting material for managers to consider when they intend to perform CLCs.",
+            "meaning": "The results of the study serve as additional evidence for managers contemplating corporate label changes.",
+            "reasoning": "This reinforces the practical relevance of the research for managerial decision-making.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The authors probe the effect of CLC on external stakeholders, particularly investor reactions.",
+            "meaning": "The research focuses on how corporate label changes affect investors as external stakeholders.",
+            "reasoning": "This emphasizes the specific aspect of stakeholder theory being applied in the study.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The current literature has discussed the impacts of CLC on employees, internal stakeholders, and customers, external stakeholders.",
+            "meaning": "Previous studies have primarily focused on how corporate label changes affect internal stakeholders rather than investors.",
+            "reasoning": "This sentence positions the current research within the existing body of literature, highlighting its unique focus.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "To the best of the authors' knowledge, there is no strategy for understanding a CLC under stakeholder aspects.",
+            "meaning": "The authors claim that their research addresses a gap in the literature regarding stakeholder perspectives on corporate label changes.",
+            "reasoning": "This indicates the novelty of the research and its contribution to the field.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The authors believe that the findings contribute to the extant literature on CLC.",
+            "meaning": "The researchers assert that their results add value to existing studies on corporate label changes.",
+            "reasoning": "This statement reflects the authors' confidence in the significance of their work.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This question is also important to a manager.",
+            "meaning": "The topic of corporate label changes is relevant and significant for managerial decision-making.",
+            "reasoning": "This emphasizes the practical implications of the research for business leaders.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Although introducing a new corporate label is a popular strategy for firms to provide corporate identity to various stakeholders, many cases have shown mixed results.",
+            "meaning": "Changing corporate labels is a common strategy, but its effectiveness can vary significantly across different situations.",
+            "reasoning": "This acknowledges the complexities and uncertainties involved in implementing such strategies.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This research provides evidence of what to consider when a manager makes its decision.",
+            "meaning": "The study offers insights and considerations for managers who are thinking about changing corporate labels.",
+            "reasoning": "This ties back to the practical implications of the findings for management practices.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the effects of corporate label changes on shareholder reactions, emphasizing the roles of firm size, age, and performance, while providing practical insights for managers.",
+    "detailed_summary": "This paper provides empirical evidence regarding the impact of corporate label changes (CLC) on investor reactions, grounded in stakeholder theory and resource-based theory. It examines how firm-level characteristics such as size and age influence shareholder responses, while also testing the moderating effects of firm performance. Using data from South Korean companies, the authors calculate cumulative abnormal returns (CAR) and employ ordinary least squares regressions to analyze the data. The findings reveal that CLC does not significantly affect shareholder value; however, larger and older firms tend to receive more favorable investor reactions. Interestingly, the impact of firm size on shareholder reactions diminishes when firms perform well. The study acknowledges limitations, including the generalizability of findings and the exclusion of certain types of CLCs. Practically, it suggests that managers should be cautious when considering label changes, especially in light of potential losses. The research fills a gap in the literature by focusing on external stakeholder reactions, particularly from investors, and offers valuable insights for managerial decision-making regarding corporate identity strategies."
+}

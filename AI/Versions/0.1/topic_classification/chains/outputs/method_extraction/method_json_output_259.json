@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "case study analysis",
+        "micro histories development",
+        "primary research"
+    ],
+    "case study analysis": {
+        "reasoning": "Case study analysis refers to the specific method of examining particular instances of the Knights' producer cooperatives to understand their functioning and failures, making it a clear methodological approach.",
+        "passages": [
+            "This study examines cases of the Knights' producer cooperatives to understand how they functioned and why they failed."
+        ],
+        "confidence_score": 0.9
+    },
+    "micro histories development": {
+        "reasoning": "Micro histories development is a method used to create detailed accounts of specific cooperatives, providing insights into their operations and challenges.",
+        "passages": [
+            "Micro histories of selected co-ops in three regions of the U.S. were developed from primary research conducted during the 1880s as well as contemporary journals and newspapers."
+        ],
+        "confidence_score": 0.85
+    },
+    "primary research": {
+        "reasoning": "Primary research is a method involving the collection of original data from historical sources, which is essential for the analysis conducted in this study.",
+        "passages": [
+            "Micro histories of selected co-ops in three regions of the U.S. were developed from primary research conducted during the 1880s as well as contemporary journals and newspapers."
+        ],
+        "confidence_score": 0.88
+    }
+}

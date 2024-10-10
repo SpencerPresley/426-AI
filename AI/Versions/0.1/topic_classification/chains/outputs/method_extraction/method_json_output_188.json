@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "applications of epidemiologic theory",
+        "individual- and group-level interventions",
+        "targeted school-based civic education initiatives"
+    ],
+    "applications of epidemiologic theory": {
+        "reasoning": "This keyword represents a method because it refers to the specific theoretical framework applied to analyze and connect youth civic engagement with public health concepts, which is a methodological approach in the research.",
+        "passages": [
+            "We illustrate this with four applications of epidemiologic theory to youth civic engagement"
+        ],
+        "confidence_score": 0.85
+    },
+    "individual- and group-level interventions": {
+        "reasoning": "This keyword indicates a method as it describes the specific types of interventions proposed to enhance civic engagement, focusing on both individuals and groups, which is a methodological aspect of the research.",
+        "passages": [
+            "we present a case for individual- and group-level interventions based around targeted, school-based, effective civic education initiatives"
+        ],
+        "confidence_score": 0.9
+    },
+    "targeted school-based civic education initiatives": {
+        "reasoning": "This keyword signifies a method because it refers to a specific approach aimed at improving civic education in schools, outlining a clear procedural strategy employed in the research.",
+        "passages": [
+            "based around targeted, school-based, effective civic education initiatives"
+        ],
+        "confidence_score": 0.95
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "subcutaneous implantation",
+        "GnRH agonist treatment",
+        "behavioral observation"
+    ],
+    "subcutaneous implantation": {
+        "reasoning": "Subcutaneous implantation is a specific method used to deliver the GnRH agonist (deslorelin) into the subjects, which is crucial for the experimental design.",
+        "passages": [
+            "We subcutaneously implanted a long-acting GnRH agonist (deslorelin)"
+        ],
+        "confidence_score": 0.95
+    },
+    "GnRH agonist treatment": {
+        "reasoning": "GnRH agonist treatment refers to the specific intervention applied to the subjects to study its effects on vaginal patency and behavior, making it a key methodological approach.",
+        "passages": [
+            "We subcutaneously implanted a long-acting GnRH agonist (deslorelin), which over time inhibits sex steroid secretion"
+        ],
+        "confidence_score": 0.9
+    },
+    "behavioral observation": {
+        "reasoning": "Behavioral observation is the method used to assess changes in interaction and aggression towards males, which is essential for understanding the impact of the treatment.",
+        "passages": [
+            "Behaviorally, deslorelin-treated females spent less time interacting with, and were more aggressive towards males"
+        ],
+        "confidence_score": 0.85
+    }
+}

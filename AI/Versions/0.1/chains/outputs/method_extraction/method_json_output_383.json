@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "econometric analysis"
+    ],
+    "econometric analysis": {
+        "reasoning": "Econometric analysis is a specific method used to analyze data and test hypotheses, particularly in the context of economic and financial research. It involves the application of statistical techniques to economic data, which is a clear methodological approach in this study.",
+        "passages": [
+            "An econometric analysis of a large sample of Chinese public firms provides strong evidence in support of these theoretical predictions."
+        ],
+        "confidence_score": 0.95
+    }
+}

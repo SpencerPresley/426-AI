@@ -1,0 +1,48 @@
+{
+    "sentences": [
+        {
+            "sentence": "China experienced an unprecedented increase in labor strikes until the mid-2010s, and the country continues to experience considerable strike activity.",
+            "meaning": "China saw a significant rise in labor strikes up to the mid-2010s, and this trend of high strike activity persists.",
+            "reasoning": "The sentence provides a historical context for labor strikes in China and indicates that the situation remains relevant.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Therefore, it is important to study what predicts Chinese workers' attitudes toward strikes.",
+            "meaning": "Understanding the factors that influence Chinese workers' views on strikes is crucial.",
+            "reasoning": "The use of 'therefore' suggests that the previous sentence's context necessitates further investigation into workers' attitudes.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The study applies social exchange theory as an overarching framework to investigate the contributions of three forms of social exchange relations in organizations-employee-employer relations, labor-management relations, and leader-member relations-to account for Chinese employees' attitudes toward strikes in multinational corporations (MNCs) based in China.",
+            "meaning": "The research uses social exchange theory to explore how different types of relationships within organizations affect employees' attitudes toward strikes in Chinese MNCs.",
+            "reasoning": "The sentence outlines the theoretical framework and the specific relationships being studied, linking them to the central focus of the research.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Using a matched employee-employer sample of more than 1,600 employees in 41 China-based MNCs, the results obtained from hierarchical linear modeling (HLM) analysis show that individual-perceived employee-employer relations indicated by a negative reciprocity norm is positively related to employees' strike attitudes.",
+            "meaning": "The study found that employees who perceive their relationship with employers as negative are more likely to have favorable attitudes toward strikes.",
+            "reasoning": "The sentence details the methodology and findings, specifically the relationship between negative perceptions and strike attitudes.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Labor-management relations indicated by the organizational-level cooperative industrial relations (IR) climate is negatively related to employees' strike attitudes.",
+            "meaning": "A positive labor-management relationship is associated with lower levels of favorable attitudes toward strikes among employees.",
+            "reasoning": "This sentence contrasts the previous finding by showing that a cooperative environment has the opposite effect on strike attitudes.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Leader-member relations indicated by leader-member exchange (LMX) is not significantly related to employees' strike attitudes.",
+            "meaning": "The quality of leader-member relationships does not have a significant impact on how employees feel about strikes.",
+            "reasoning": "This indicates that, unlike the other two types of relationships, LMX does not play a role in shaping strike attitudes.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Overall, the results indicate that at the individual level, it is more important for companies not to do bad (to engage in negative reciprocity with workers) than to do good to reduce employees' strike attitudes.",
+            "meaning": "To minimize strike attitudes, companies should avoid negative behaviors towards employees rather than solely focusing on positive actions.",
+            "reasoning": "This conclusion summarizes the study's findings, emphasizing the importance of avoiding negative interactions over merely providing positive ones.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research examines how various social exchange relationships within organizations influence Chinese workers' attitudes toward strikes, highlighting the significance of negative perceptions in shaping these attitudes.",
+    "detailed_summary": "The research paper investigates the factors influencing Chinese workers' attitudes toward labor strikes, particularly in the context of multinational corporations in China. It utilizes social exchange theory to analyze three types of relationships: employee-employer, labor-management, and leader-member relations. A sample of over 1,600 employees from 41 China-based MNCs was used, and the findings were analyzed through hierarchical linear modeling. The results indicated that negative perceptions of employee-employer relations increase favorable attitudes toward strikes, while positive labor-management relations decrease such attitudes. Interestingly, leader-member relations showed no significant impact on strike attitudes. The study concludes that it is crucial for companies to avoid negative interactions with employees to mitigate strike attitudes, suggesting that the absence of bad practices may be more effective than the presence of good ones."
+}

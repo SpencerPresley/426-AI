@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "habituation-discrimination paradigm"
+    ],
+    "habituation-discrimination paradigm": {
+        "reasoning": "The habituation-discrimination paradigm is a specific experimental method used to assess the ability of subjects (in this case, southern giant pouched rats) to recognize and respond to different social signals. It involves training subjects to become accustomed to a stimulus and then testing their ability to discriminate between familiar and novel stimuli, thus providing a structured approach to the research.",
+        "passages": [
+            "we tested southern giant pouched rats (Cricetomys ansorgei) using a habituation-discrimination paradigm"
+        ],
+        "confidence_score": 0.95
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "literature review",
+        "survey research",
+        "empirical testing"
+    ],
+    "literature review": {
+        "reasoning": "A literature review is a systematic method used to gather and synthesize existing research on a topic, which helps in understanding the current state of knowledge and identifying gaps.",
+        "passages": [
+            "Using a literature review and survey research of managers from global firms"
+        ],
+        "confidence_score": 0.9
+    },
+    "survey research": {
+        "reasoning": "Survey research is a method for collecting data from a predefined group of respondents to gain information and insights on a specific topic, in this case, risk management practices among managers.",
+        "passages": [
+            "Using a literature review and survey research of managers from global firms"
+        ],
+        "confidence_score": 0.95
+    },
+    "empirical testing": {
+        "reasoning": "Empirical testing refers to the process of testing hypotheses through observation and experimentation, which is a fundamental method in validating the research model presented in the study.",
+        "passages": [
+            "we present a research model, and empirically test the hypothesized relationships"
+        ],
+        "confidence_score": 0.85
+    }
+}

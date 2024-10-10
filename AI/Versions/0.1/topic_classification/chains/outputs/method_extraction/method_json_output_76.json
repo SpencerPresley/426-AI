@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "LAX-Score",
+        "feature selection",
+        "weighted regression",
+        "statistical validation"
+    ],
+    "LAX-Score": {
+        "reasoning": "LAX-Score is a specific metric designed to quantify athletic performance, representing a methodological approach to measuring team performance in collegiate lacrosse.",
+        "passages": [
+            "we designed a metric called LAX-Score to quantify a collegiate lacrosse team's athletic performance."
+        ],
+        "confidence_score": 0.9
+    },
+    "feature selection": {
+        "reasoning": "Feature selection is a method used to identify the most relevant variables for the analysis, which is crucial for deriving the LAX-Score and understanding performance factors.",
+        "passages": [
+            "To derive the metric, we utilized feature selection"
+        ],
+        "confidence_score": 0.85
+    },
+    "weighted regression": {
+        "reasoning": "Weighted regression is a statistical technique used to analyze the relationship between variables, which is fundamental in deriving the LAX-Score.",
+        "passages": [
+            "we utilized feature selection and weighted regression."
+        ],
+        "confidence_score": 0.85
+    },
+    "statistical validation": {
+        "reasoning": "Statistical validation refers to the process of confirming the accuracy and reliability of the proposed metric, which is a critical methodological step in research.",
+        "passages": [
+            "the proposed metric was statistically validated on over 700 games from the last three seasons of NCAA Division I women's lacrosse."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "mediated model",
+        "mediation models"
+    ],
+    "mediated model": {
+        "reasoning": "The mediated model refers to a specific methodological approach used to analyze the relationship between error type and leader ratings, indicating how one variable influences another through a mediator.",
+        "passages": [
+            "to test a mediated model in which behavioral attribution mediated the relationship between error type and leader ratings"
+        ],
+        "confidence_score": 0.9
+    },
+    "mediation models": {
+        "reasoning": "Mediation models are specific analytical techniques used to understand the indirect effects of one variable on another through a mediator, which is central to the study's findings.",
+        "passages": [
+            "Across two mediation models, behavioral attribution mediated the relationship between leader error and leader ratings after an error occurred."
+        ],
+        "confidence_score": 0.85
+    }
+}

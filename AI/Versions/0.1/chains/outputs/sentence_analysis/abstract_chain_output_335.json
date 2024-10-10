@@ -1,0 +1,48 @@
+{
+    "sentences": [
+        {
+            "sentence": "Background: Advocacy is widely recognized as a nursing responsibility.",
+            "meaning": "Advocacy is considered an essential duty of nurses.",
+            "reasoning": "The sentence establishes the importance of advocacy within the nursing profession.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Speaking up, a form of advocacy, is known to benefit patient safety and quality of care yet research shows that nurses are hesitant to speak up and face multiple barriers when deciding to do so.",
+            "meaning": "While advocating for patients improves safety and care quality, nurses often struggle to voice their concerns due to various obstacles.",
+            "reasoning": "This sentence contrasts the positive impact of advocacy with the reality of nurses' reluctance to engage in it, highlighting a significant issue in nursing practice.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Method: A toolkit that included web-based learning modules and simulation experience with a standardized patient was developed to enhance advocacy skills in baccalaureate nursing students.",
+            "meaning": "A toolkit was created to improve advocacy skills among nursing students through online learning and simulated patient interactions.",
+            "reasoning": "The sentence outlines the methodology employed in the research, indicating a structured approach to skill development.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "Student perceptions of the efficacy of this approach were used to revise and improve toolkit materials.",
+            "meaning": "Feedback from students on the effectiveness of the toolkit was utilized to make enhancements to its content.",
+            "reasoning": "This indicates an iterative process where student input directly informs the refinement of educational materials.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Results: There were 131 participants over four semesters.",
+            "meaning": "A total of 131 nursing students participated in the study across four academic terms.",
+            "reasoning": "The sentence presents a quantitative aspect of the research, indicating the sample size and duration.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Students reported the toolkit helped them understand how to use advocacy skills (87%), allowed them to use critical thinking (97%), and practice advocacy (94%).",
+            "meaning": "The majority of students felt that the toolkit improved their understanding and application of advocacy and critical thinking skills.",
+            "reasoning": "This sentence provides specific percentages reflecting student feedback, demonstrating the perceived effectiveness of the toolkit.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "Conclusion: Educational experiences like this promote development of students' advocacy skills in a safe environment and can be used to bridge the gap between expectation and practice.",
+            "meaning": "Such educational tools are valuable for fostering advocacy skills in nursing students, helping align their training with real-world practice.",
+            "reasoning": "The conclusion summarizes the overall impact of the educational intervention, emphasizing its role in addressing the gap in advocacy practices.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research focuses on enhancing advocacy skills in nursing students through a structured educational toolkit, addressing the barriers to effective advocacy in nursing practice.",
+    "detailed_summary": "The abstract discusses the critical role of advocacy in nursing and the challenges nurses face in speaking up for patient safety and quality care. To address this issue, the researchers developed a toolkit comprising web-based learning modules and simulation experiences with standardized patients aimed at improving advocacy skills among baccalaureate nursing students. Feedback from students was used to refine the toolkit, ensuring its effectiveness. Over four semesters, 131 students participated in the study, with a high percentage reporting that the toolkit significantly enhanced their understanding of advocacy, critical thinking, and practical application of advocacy skills. The conclusion emphasizes that such educational experiences are essential for developing advocacy skills in a safe learning environment, ultimately bridging the gap between theoretical expectations and practical application in nursing."
+}

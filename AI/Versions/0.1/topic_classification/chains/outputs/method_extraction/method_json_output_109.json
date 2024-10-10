@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "candidate announcement analysis",
+        "comparative analysis",
+        "gendered language analysis"
+    ],
+    "candidate announcement analysis": {
+        "reasoning": "Candidate announcement analysis refers to the specific examination of how candidates present themselves during their campaign announcements, which is a clear methodological process in this study.",
+        "passages": [
+            "This study analyzes candidate announcements from the 2020 Democratic Party nomination for president and how each of the top six candidates branded themselves."
+        ],
+        "confidence_score": 0.9
+    },
+    "comparative analysis": {
+        "reasoning": "Comparative analysis is a method used to contrast different candidates based on their name recognition and branding strategies, providing a structured approach to the research.",
+        "passages": [
+            "Comparisons will be made between candidates with national name recognition and those who have yet to make a name for themselves on a national stage."
+        ],
+        "confidence_score": 0.85
+    },
+    "gendered language analysis": {
+        "reasoning": "Gendered language analysis refers to the examination of how male and female candidates use language differently in their announcements, representing a specific analytical method employed in the study.",
+        "passages": [
+            "A comparison will also be made between male and female candidates, including an analysis of gendered language in announcing their candidacy."
+        ],
+        "confidence_score": 0.88
+    }
+}

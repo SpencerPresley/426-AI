@@ -1,0 +1,37 @@
+{
+    "methods": [
+        "discoursal framings analysis",
+        "qualitative data sourcing",
+        "quantitative data sourcing",
+        "lexicalization analysis"
+    ],
+    "discoursal framings analysis": {
+        "reasoning": "Discoursal framings analysis refers to the examination of how language and discourse shape perceptions and actions within the context of job advertisements, making it a specific method used to analyze the data.",
+        "passages": [
+            "the paper examines how macrocontextual pushes toward political populism combined with a synchronous tightening of job markets in academia have enacted a plethora of labels for temporary work",
+            "we witness the invention of novel, microlinguistically rendered lexicalizations of semiotic redundancy"
+        ],
+        "confidence_score": 0.85
+    },
+    "qualitative data sourcing": {
+        "reasoning": "Qualitative data sourcing involves gathering non-numerical data to understand concepts, opinions, or experiences. In this context, it refers to the collection of data that provides depth to the analysis of job advertisements.",
+        "passages": [
+            "supplemented with qualitatively and quantitatively sourced data from international, national, and local institutional contexts"
+        ],
+        "confidence_score": 0.9
+    },
+    "quantitative data sourcing": {
+        "reasoning": "Quantitative data sourcing refers to the collection of numerical data that can be analyzed statistically. This method is essential for supporting the analysis of trends and patterns in job advertisements.",
+        "passages": [
+            "supplemented with qualitatively and quantitatively sourced data from international, national, and local institutional contexts"
+        ],
+        "confidence_score": 0.9
+    },
+    "lexicalization analysis": {
+        "reasoning": "Lexicalization analysis focuses on how specific terms and phrases are used to convey meaning within a particular context, which is crucial for understanding the evolving language around academic job markets.",
+        "passages": [
+            "the invention of novel, microlinguistically rendered lexicalizations of semiotic redundancy in academic capitalism's own obfuscation of profit margins"
+        ],
+        "confidence_score": 0.8
+    }
+}

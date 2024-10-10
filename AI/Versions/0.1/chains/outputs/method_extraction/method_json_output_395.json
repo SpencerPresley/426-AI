@@ -1,0 +1,52 @@
+{
+    "methods": [
+        "mixed methodology",
+        "teacher narratives",
+        "critical conceptual analysis",
+        "collective memory work",
+        "phenomenology",
+        "reflective teaching narratives"
+    ],
+    "mixed methodology": {
+        "reasoning": "Mixed methodology refers to the combination of different research methods, which in this case integrates qualitative narratives and conceptual analysis, making it a specific approach used in the inquiry.",
+        "passages": [
+            "The methodology of the inquiry is mixed in that it combines teacher narratives (our own) with critical conceptual analysis, collective memory work, and phenomenology."
+        ],
+        "confidence_score": 0.9
+    },
+    "teacher narratives": {
+        "reasoning": "Teacher narratives are a specific method of data collection that involves personal accounts and reflections from teachers, providing qualitative insights into their experiences and perspectives.",
+        "passages": [
+            "the methodology of the inquiry is mixed in that it combines teacher narratives (our own)"
+        ],
+        "confidence_score": 0.85
+    },
+    "critical conceptual analysis": {
+        "reasoning": "Critical conceptual analysis is a method used to examine and interpret educational concepts, allowing for a deeper understanding of the theoretical frameworks involved in the study.",
+        "passages": [
+            "the methodology of the inquiry is mixed in that it combines teacher narratives (our own) with critical conceptual analysis"
+        ],
+        "confidence_score": 0.8
+    },
+    "collective memory work": {
+        "reasoning": "Collective memory work is a specific methodological approach that focuses on the shared memories of a group, providing insights into how these memories shape educational practices.",
+        "passages": [
+            "we recommend that teachers explore collective memory work (Haag, 1999)"
+        ],
+        "confidence_score": 0.85
+    },
+    "phenomenology": {
+        "reasoning": "Phenomenology is a qualitative research method that explores individuals' lived experiences, making it a key approach used to understand the teachers' interactions with memories and curriculum.",
+        "passages": [
+            "the methodology of the inquiry is mixed in that it combines teacher narratives (our own) with critical conceptual analysis, collective memory work, and phenomenology."
+        ],
+        "confidence_score": 0.8
+    },
+    "reflective teaching narratives": {
+        "reasoning": "Reflective teaching narratives are a method that involves teachers reflecting on and narrating their experiences, which helps in understanding their memories and influences on teaching.",
+        "passages": [
+            "we recommend that teachers explore collective memory work (Haag, 1999) and reflective teaching narratives (Furman, 2015)"
+        ],
+        "confidence_score": 0.85
+    }
+}

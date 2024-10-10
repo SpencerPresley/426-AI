@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "habitat data collection",
+        "structural equation modeling",
+        "stable isotope analyses"
+    ],
+    "habitat data collection": {
+        "reasoning": "Habitat data collection refers to the systematic gathering of data regarding environmental conditions such as water quality, canopy cover, and vegetation, which are essential for understanding the habitat preferences of the Spotted Turtle.",
+        "passages": [
+            "For habitat data, water quality measurements were recorded once per trapping session, while canopy cover and vegetation data were recorded once per field season."
+        ],
+        "confidence_score": 0.95
+    },
+    "structural equation modeling": {
+        "reasoning": "Structural equation modeling is a statistical technique used to analyze the relationships between C. guttata and other turtles, allowing for the investigation of direct interactions versus environmental influences.",
+        "passages": [
+            "We used structural equation modeling to better understand if the relationships between C. guttata and other turtles were due to direct interactions or simply reflected environmental influences."
+        ],
+        "confidence_score": 0.9
+    },
+    "stable isotope analyses": {
+        "reasoning": "Stable isotope analyses are used to compare dietary overlap between species by examining isotopic ratios, providing a specific methodological approach to assess resource competition.",
+        "passages": [
+            "We then used stable isotope analyses to compare similarities in delta C-13 and delta N-15 isotopes as proxies for diet overlap between C. guttata and other turtles."
+        ],
+        "confidence_score": 0.92
+    }
+}

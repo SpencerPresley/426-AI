@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "event study",
+        "resource-based view"
+    ],
+    "event study": {
+        "reasoning": "An event study is a specific method used to assess the impact of an event (in this case, third-party delivery partnerships) on the financial performance of firms, providing a clear analytical framework for the research.",
+        "passages": [
+            "Results from an event study reveal that, on average, third-party delivery partnerships improve firm performance."
+        ],
+        "confidence_score": 0.95
+    },
+    "resource-based view": {
+        "reasoning": "The resource-based view is a theoretical framework that guides the analysis of how third-party delivery firms contribute value through their unique capabilities, making it a methodological approach in the research.",
+        "passages": [
+            "Adopting a resource-based view, we explore how third-party delivery firms add value through their unique capabilities."
+        ],
+        "confidence_score": 0.9
+    }
+}

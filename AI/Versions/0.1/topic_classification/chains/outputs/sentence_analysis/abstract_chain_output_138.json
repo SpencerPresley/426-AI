@@ -1,0 +1,42 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "The effect of R&D investment on firm performances is subject of a number of internal factors.",
+            "meaning": "R&D investment's impact on how well a company performs is influenced by various internal factors.",
+            "reasoning": "The sentence discusses the complexity of how R&D investment relates to firm performance, indicating that it is not a straightforward relationship and is affected by other internal elements.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The dynamics of this effect is unclear in the literature.",
+            "meaning": "Existing research does not clearly explain how R&D investment affects firm performance.",
+            "reasoning": "The sentence suggests that there is a gap in the literature regarding the understanding of how R&D investment influences performance, indicating a need for further exploration.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Based on the knowledge-based view and theory of intellectual capital, this research establishes a theoretical model to test the interrelationships among R&D investment, intellectual capital, organizational learning, and firm performance.",
+            "meaning": "The research uses established theories to create a model that examines the connections between R&D investment, intellectual capital, organizational learning, and firm performance.",
+            "reasoning": "The sentence outlines the theoretical framework and objectives of the research, indicating a structured approach to understanding the relationships among key variables.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We obtained seven years' panel data from two data centers, and applied mediation and moderation models to investigate the interrelationships.",
+            "meaning": "The researchers collected seven years of data from two sources and used specific statistical models to study the relationships between the variables.",
+            "reasoning": "The mention of 'seven years' panel data' and 'mediation and moderation models' indicates a robust methodological approach to analyzing the data.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Our findings show while intellectual capital fully mediates the relationship between R&D investment and firm performance, organizational learning moderates the relationship between R&D investment and human capital.",
+            "meaning": "The results indicate that intellectual capital completely influences the connection between R&D investment and firm performance, whereas organizational learning influences the strength of the relationship between R&D investment and human capital.",
+            "reasoning": "The use of terms 'fully mediates' and 'moderates' suggests specific statistical relationships that were identified in the study, highlighting the roles of intellectual capital and organizational learning.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Our results show the important roles of intellectual capital and organizational learning in enhancing the effectiveness of R&D investment.",
+            "meaning": "The research concludes that both intellectual capital and organizational learning significantly contribute to making R&D investment more effective.",
+            "reasoning": "This sentence summarizes the implications of the findings, emphasizing the importance of the two factors in improving the outcomes of R&D investments.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates how R&D investment affects firm performance through the lens of intellectual capital and organizational learning, highlighting the complex interrelationships among these factors.",
+    "detailed_summary": "This research paper explores the influence of R&D investment on firm performance, acknowledging that this relationship is affected by various internal factors. It identifies a gap in the existing literature regarding the dynamics of this effect. Utilizing the knowledge-based view and theory of intellectual capital, the authors develop a theoretical model to examine the interconnections between R&D investment, intellectual capital, organizational learning, and firm performance. They analyze seven years of panel data from two data centers, employing mediation and moderation models for their investigation. The findings reveal that intellectual capital fully mediates the relationship between R&D investment and firm performance, while organizational learning moderates the relationship between R&D investment and human capital. Ultimately, the study underscores the critical roles of intellectual capital and organizational learning in enhancing the effectiveness of R&D investment."
+}

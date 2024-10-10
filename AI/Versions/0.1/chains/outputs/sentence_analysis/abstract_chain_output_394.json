@@ -1,0 +1,66 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "The purpose of this paper is to examine the effectiveness of oral hygiene promoting program (OHPP) using a smartphone endomicroscope among students in elementary schools in Bangkok, Thailand, to enable their oral hygiene maintenance and to compare oral health outcomes in the intervention program between the experimental and control groups.",
+            "meaning": "The study aims to evaluate how effective an oral hygiene program is when using a smartphone endomicroscope, specifically targeting elementary students in Bangkok, and to compare the results between those who participated in the program and those who did not.",
+            "reasoning": "The sentence outlines the study's objectives, specifying the target population, the intervention being tested, and the comparative aspect of the research.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "This is a quasi-experimental research study consisting of two groups, a pretest, a posttest and a follow-up design.",
+            "meaning": "The research employs a quasi-experimental design featuring two groups of participants, with assessments conducted before and after the intervention, as well as a follow-up evaluation.",
+            "reasoning": "The mention of 'quasi-experimental' indicates the study's structure, and the terms 'pretest', 'posttest', and 'follow-up' clarify the timing of the assessments.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The student sample consisted of 59 fifth graders who matched the study criteria on medium and low levels of teeth brushing skills.",
+            "meaning": "The study involved a sample of 59 fifth-grade students who were selected based on their moderate to low abilities in brushing their teeth.",
+            "reasoning": "The sentence specifies the sample size and the selection criteria, indicating that the focus is on students with particular brushing skills.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "There were 29 experimental group participants who completed the six-week OHPP using a smartphone endomicroscope.",
+            "meaning": "Out of the 59 students, 29 participated in the experimental group and completed a six-week oral hygiene program that utilized a smartphone endomicroscope.",
+            "reasoning": "The sentence provides details about the number of participants in the experimental group and the duration of the program.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Another 30 participants formed the control group involved in the ordinary oral health education program.",
+            "meaning": "The remaining 30 students were part of a control group that received standard oral health education instead of the experimental intervention.",
+            "reasoning": "This sentence highlights the division of participants into experimental and control groups and clarifies the type of program the control group experienced.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The comparison data for oral health behaviors (knowledge, attitude and practice (KAP)) and oral hygiene were statistically analyzed by using multivariate analysis of variance (MANOVA).",
+            "meaning": "The researchers used multivariate analysis of variance (MANOVA) to statistically compare the oral health behaviors and hygiene between the two groups.",
+            "reasoning": "The sentence describes the statistical method used for analysis, emphasizing the focus on specific behaviors and hygiene metrics.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Results indicated that the experimental group exhibited higher oral health behaviors regarding KAPs and oral hygiene related to teeth cleanliness and gum health than the control group in the postexperimental and follow-up phases.",
+            "meaning": "The findings showed that students in the experimental group had better oral health behaviors and hygiene outcomes compared to those in the control group after the intervention and during follow-up.",
+            "reasoning": "This sentence summarizes the main findings of the study, indicating a positive effect of the intervention on the experimental group.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "However, there were no statistically significant differences between the two groups with regard to tongue cleanliness.",
+            "meaning": "Despite the overall improvements in oral health behaviors, the study found no significant difference between the groups specifically concerning cleanliness of the tongue.",
+            "reasoning": "This sentence presents a limitation of the findings, indicating that while there were improvements, one specific area did not show significant results.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The students maintain their own oral hygiene due to a provision of activities related to KAP concerns.",
+            "meaning": "The students were able to sustain their oral hygiene practices because of the activities provided that addressed knowledge, attitudes, and practices (KAP).",
+            "reasoning": "This sentence suggests that the program included components that empowered students to take responsibility for their oral hygiene.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The instrument helped the students to find tooth decay and dental plaque associated with teeth cleanliness after brushing their teeth.",
+            "meaning": "The smartphone endomicroscope enabled students to detect issues like tooth decay and plaque, which are related to their oral hygiene practices.",
+            "reasoning": "The sentence indicates the practical application of the technology used in the study and its role in helping students understand their oral health status.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the impact of a smartphone-based oral hygiene program on elementary students' oral health behaviors and outcomes in Bangkok, revealing positive results in most areas except for tongue cleanliness.",
+    "detailed_summary": "This research paper focuses on assessing the effectiveness of an oral hygiene promoting program (OHPP) using a smartphone endomicroscope for elementary school students in Bangkok, Thailand. The study is designed as a quasi-experimental research with a sample of 59 fifth graders, divided into an experimental group of 29 students participating in the OHPP and a control group of 30 students receiving standard oral health education. The researchers conducted pretests, posttests, and follow-up assessments to evaluate oral health behaviors, specifically knowledge, attitude, and practice (KAP), along with oral hygiene. The analysis utilized multivariate analysis of variance (MANOVA) to compare outcomes between the groups. Results indicated that the experimental group showed significant improvements in oral health behaviors and hygiene related to teeth cleanliness and gum health compared to the control group, although no significant differences were found regarding tongue cleanliness. The study concludes that the program effectively supports students in maintaining their oral hygiene through engaging activities, aided by the smartphone endomicroscope, which allows them to observe their oral health conditions such as tooth decay and plaque."
+}

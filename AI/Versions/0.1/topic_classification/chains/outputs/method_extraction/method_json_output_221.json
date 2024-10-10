@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "short hairpin RNA (shRNA) screen",
+        "transient knockdowns",
+        "cell survival evaluation",
+        "pharmacologic inhibition"
+    ],
+    "short hairpin RNA (shRNA) screen": {
+        "reasoning": "The shRNA screen is a specific experimental method used to identify genes that contribute to enzalutamide resistance by systematically knocking down gene expression.",
+        "passages": [
+            "we performed a short hairpin RNA (shRNA) screen in the bone-homing, castration-resistant prostate cancer cell line, C4-2B"
+        ],
+        "confidence_score": 0.95
+    },
+    "transient knockdowns": {
+        "reasoning": "Transient knockdowns refer to a method of temporarily reducing the expression of specific genes to assess their role in cell survival in response to treatment, making it a clear methodological approach.",
+        "passages": [
+            "we performed transient knockdowns in CA-2B and 22Rv1 cells and evaluated cell survival in response to enzalutamide"
+        ],
+        "confidence_score": 0.9
+    },
+    "cell survival evaluation": {
+        "reasoning": "Evaluating cell survival is a specific technique employed to measure the impact of gene knockdowns and treatments on cancer cell viability, thus serving as a method of analysis.",
+        "passages": [
+            "evaluated cell survival in response to enzalutamide"
+        ],
+        "confidence_score": 0.85
+    },
+    "pharmacologic inhibition": {
+        "reasoning": "Pharmacologic inhibition refers to the method of using drugs to inhibit specific proteins or pathways, which in this case was used to study the effects on cell survival in combination with enzalutamide.",
+        "passages": [
+            "pharmacologic inhibition of MAP3K11 with CEP-1347 in combination with enzalutamide resulted in a dramatic increase in cell death"
+        ],
+        "confidence_score": 0.9
+    }
+}

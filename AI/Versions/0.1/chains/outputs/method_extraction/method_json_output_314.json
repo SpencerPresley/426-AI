@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "CNE preparation workshops",
+        "certification award",
+        "data collection"
+    ],
+    "CNE preparation workshops": {
+        "reasoning": "CNE preparation workshops are a specific method employed to enhance the skills and knowledge of faculty, directly contributing to the initiative's goal of increasing the number of certified nurse educators.",
+        "passages": [
+            "After offering CNE preparation workshops"
+        ],
+        "confidence_score": 0.9
+    },
+    "certification award": {
+        "reasoning": "The certification award is a method used to incentivize and recognize faculty who achieve certification, thereby promoting the initiative's objectives.",
+        "passages": [
+            "creating a certification award"
+        ],
+        "confidence_score": 0.85
+    },
+    "data collection": {
+        "reasoning": "Data collection refers to the systematic gathering of information regarding various outcomes of the initiative, which is essential for evaluating its effectiveness.",
+        "passages": [
+            "data were collected on perceived workshop effectiveness, readiness to test, certification pass rates, and characteristics of award recipients"
+        ],
+        "confidence_score": 0.95
+    }
+}

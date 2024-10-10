@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "Analysts' decision-making process, through which they use earnings and non-earnings forecasts to provide their target price revisions, remains opaque.",
+            "meaning": "The process analysts use to revise target prices based on earnings and other forecasts is not clearly understood.",
+            "reasoning": "The term 'opaque' indicates a lack of clarity or transparency in how analysts make their decisions regarding target price revisions.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Based on the decision tree analysis, we develop a new multivariate information metric, Internal Relevance (IR), to measure the extent to which the revisions of analysts' consensus earnings and sales forecasts are incorporated into the revisions of consensus target prices.",
+            "meaning": "The authors created a new metric called Internal Relevance (IR) using decision tree analysis to quantify how analyst forecast revisions affect target price changes.",
+            "reasoning": "The phrase 'develop a new multivariate information metric' suggests a novel method is introduced for assessing the relationship between forecast revisions and target prices.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We show that stocks with higher IR have stronger market reactions to target price revisions in terms of abnormal return, abnormal trading volume, and abnormal return volatility.",
+            "meaning": "Stocks that score higher on the Internal Relevance metric tend to experience more significant market responses following target price revisions.",
+            "reasoning": "The use of 'stronger market reactions' implies a correlation between the IR metric and the observed market behaviors, which include changes in return and trading volume.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "These results remain consistent across a series of robustness checks.",
+            "meaning": "The findings about the relationship between IR and market reactions are reliable and hold true under various tests.",
+            "reasoning": "The term 'robustness checks' indicates that the authors have tested their findings in multiple ways to ensure their validity.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Finally, we perform portfolio analysis to show that IR can be used to screen stocks to improve trading profitability.",
+            "meaning": "The authors conducted an analysis of investment portfolios to demonstrate that the Internal Relevance metric can help identify stocks that may enhance trading profits.",
+            "reasoning": "The phrase 'screen stocks to improve trading profitability' suggests a practical application of the IR metric in investment strategies.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research introduces a new metric, Internal Relevance, to clarify how analysts' forecast revisions impact target price changes and demonstrates its practical application in stock screening for improved trading outcomes.",
+    "detailed_summary": "The abstract discusses the complexity of analysts' decision-making processes regarding target price revisions based on earnings and non-earnings forecasts. To address this, the authors developed a new metric called Internal Relevance (IR) using decision tree analysis, which quantifies the integration of consensus earnings and sales forecast revisions into target price changes. The study finds that stocks with higher IR experience more significant market reactions, including abnormal returns, trading volumes, and volatility, and confirms these results through various robustness checks. Additionally, the authors illustrate the practical utility of IR in portfolio analysis, suggesting that it can be effectively used to screen stocks to enhance trading profitability."
+}

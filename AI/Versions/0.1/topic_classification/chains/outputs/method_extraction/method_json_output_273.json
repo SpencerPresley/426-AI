@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "ordinary least squares regression",
+        "Heckman selection model",
+        "2019 Survey of Consumer Finances"
+    ],
+    "ordinary least squares regression": {
+        "reasoning": "Ordinary least squares regression is a statistical method used to identify relationships between variables, specifically to detect the presence of endowment bias and home bias in the study.",
+        "passages": [
+            "utilize an ordinary least squares regression to identify the presence of endowment bias and home bias in individual investors' direct stock holdings"
+        ],
+        "confidence_score": 0.95
+    },
+    "Heckman selection model": {
+        "reasoning": "The Heckman selection model is a statistical technique used to examine the determinants of a specific outcome, in this case, the extent of endowment bias and home bias among investors.",
+        "passages": [
+            "use a Heckman selection model to examine determinants of the extent of endowment bias and home bias"
+        ],
+        "confidence_score": 0.9
+    },
+    "2019 Survey of Consumer Finances": {
+        "reasoning": "The 2019 Survey of Consumer Finances is the dataset used for data collection in this study, which provides the foundation for the analysis of investor characteristics.",
+        "passages": [
+            "Using the 2019 Survey of Consumer Finances"
+        ],
+        "confidence_score": 0.85
+    }
+}

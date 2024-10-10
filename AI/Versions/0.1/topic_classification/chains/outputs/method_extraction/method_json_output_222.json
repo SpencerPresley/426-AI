@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "meta-analysis",
+        "means of measuring performance",
+        "means of measuring internationalization"
+    ],
+    "meta-analysis": {
+        "reasoning": "Meta-analysis is a specific method used to systematically evaluate and synthesize findings from multiple studies, providing a comprehensive overview of the effect of internationalization on performance in family firms.",
+        "passages": [
+            "This paper is a meta-analysis of the impact of internationalization on performance in family firms"
+        ],
+        "confidence_score": 0.95
+    },
+    "means of measuring performance": {
+        "reasoning": "This refers to the specific methodologies employed to assess performance in the context of family firms, indicating a methodological approach used in the research.",
+        "passages": [
+            "Several methodological moderators were significant, such as the means of measuring performance"
+        ],
+        "confidence_score": 0.85
+    },
+    "means of measuring internationalization": {
+        "reasoning": "This indicates the specific methods or approaches used to quantify or assess internationalization, which is crucial for understanding its impact on performance.",
+        "passages": [
+            "Several methodological moderators were significant, such as the means of measuring internationalization"
+        ],
+        "confidence_score": 0.85
+    }
+}

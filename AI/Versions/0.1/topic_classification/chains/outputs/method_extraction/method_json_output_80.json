@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "panel data analysis",
+        "regression analysis"
+    ],
+    "panel data analysis": {
+        "reasoning": "Panel data analysis is a method used to examine data across multiple countries over a specified time period, allowing researchers to observe changes and trends in export entrepreneurship in relation to trade barriers.",
+        "passages": [
+            "in a panel of 60 countries between 2006 and 2014"
+        ],
+        "confidence_score": 0.9
+    },
+    "regression analysis": {
+        "reasoning": "Regression analysis is implied in the examination of the relationship between trade regulations and export entrepreneurship, as it typically involves assessing the impact of one variable on another.",
+        "passages": [
+            "finds robust evidence that unfavorable trade regulations significantly reduce export entry rate and export entry density"
+        ],
+        "confidence_score": 0.85
+    }
+}

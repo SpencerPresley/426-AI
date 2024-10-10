@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "surveys",
+        "UV LED flashlights"
+    ],
+    "surveys": {
+        "reasoning": "Surveys are the specific method used to gather data on the presence of caterpillars and adults of the species in question. This method indicates a systematic approach to data collection in the study.",
+        "passages": [
+            "We surveyed for caterpillars and adults of King's Hairstreak, Satyrium kingi",
+            "Surveys were conducted at three study sites"
+        ],
+        "confidence_score": 0.95
+    },
+    "UV LED flashlights": {
+        "reasoning": "The use of UV LED flashlights is a specific technique employed during the surveys to locate caterpillars, indicating a particular approach to data collection.",
+        "passages": [
+            "We found caterpillars at only one site using UV LED flashlights"
+        ],
+        "confidence_score": 0.9
+    }
+}

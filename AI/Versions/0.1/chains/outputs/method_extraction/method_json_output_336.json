@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "IUCN Red List database analysis",
+        "random sampling"
+    ],
+    "IUCN Red List database analysis": {
+        "reasoning": "The analysis of the entire IUCN Red List database is a specific method used to quantify the impact of various threats on species, providing a systematic approach to data examination.",
+        "passages": [
+            "we analyzed the entire IUCN Red List database to determine the percentage of threatened species affected by overexploitation, climate change, pollution, habitat destruction, and invasive species, diseases, and genes"
+        ],
+        "confidence_score": 0.95
+    },
+    "random sampling": {
+        "reasoning": "Random sampling is a methodological technique employed to estimate the percentage of species affected by each threat, ensuring that the sample is representative of the larger database.",
+        "passages": [
+            "we also randomly sampled a portion of the database to estimate the percentage of species for which each threat was the dominant threat placing them at risk of extinction"
+        ],
+        "confidence_score": 0.9
+    }
+}

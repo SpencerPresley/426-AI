@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "This study examined the trends and patterns of opioid and non-opioid pharmacotherapy use among a large national sample of privately insured pediatric patients with cancer in the United States.",
+            "meaning": "The research focuses on how the use of opioid and non-opioid medications has changed over time in a significant group of young cancer patients in the U.S.",
+            "reasoning": "The sentence introduces the study's objective, specifying the population (privately insured pediatric cancer patients) and the scope (trends and patterns of medication use).",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We identified pediatric (aged < 21) patients diagnosed with central nervous system (CNS), lymphoma, gonadal, leukemia, or bone cancer from MarketScan data 2005-2019.",
+            "meaning": "The researchers selected patients under 21 years old with specific types of cancer from a database covering the years 2005 to 2019.",
+            "reasoning": "This sentence outlines the criteria for patient selection and the timeframe of the data used in the study, which is crucial for understanding the study's context.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We examined the proportion of patients who filled a prescription for the following 5 types of pharmacotherapy: opioid, anticonvulsant, non-steroidal anti-inflammatory drug (NSAID), antidepressant, and muscle relaxant during active cancer treatment.",
+            "meaning": "The study analyzed what percentage of patients received prescriptions for various types of medications while undergoing treatment for cancer.",
+            "reasoning": "The sentence specifies the medications studied and indicates that the focus is on prescriptions filled during active treatment, which is key to understanding the research's scope.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "We assessed the trends and patterns in pharmacotherapy using multivariable logistic regressions.",
+            "meaning": "The researchers utilized statistical methods (multivariable logistic regressions) to analyze changes in medication use over time.",
+            "reasoning": "This sentence describes the methodology employed to evaluate the data, indicating a rigorous analytical approach.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "Among 4174 patients included, 2979 (71%) had an opioid prescription; 746 (18%), 384 (9%), 202 (5%), and 169 (4%) had anticonvulsant, NSAID, antidepressant and muscle relaxant prescriptions, respectively.",
+            "meaning": "Out of the total patients studied, a significant majority received opioid prescriptions, with smaller percentages receiving other types of medications.",
+            "reasoning": "This sentence presents specific data on prescription rates among the cohort, providing a quantitative overview of medication use.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Multivariable logistic regression showed a nonlinear trend in the use of opioids among pediatric patients with cancer over time such that use slightly increased until 2012 (OR of 1.40 [95% CI, 1.12-1.73] for 2012 vs. 2006) but then decreased thereafter (OR of 0.51 [0.37-0.68] for 2018 vs. 2012).",
+            "meaning": "The analysis revealed that opioid usage increased until 2012 and then significantly declined by 2018, indicating a change in prescribing patterns.",
+            "reasoning": "This sentence conveys complex statistical findings about opioid use trends over time, highlighting both the increase and subsequent decrease.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The use of anticonvulsants, NSAIDs, and muscle relaxants increased significantly linearly over time (all P < .005).",
+            "meaning": "In contrast to opioids, the use of non-opioid medications showed a consistent and significant increase throughout the study period.",
+            "reasoning": "This sentence summarizes the trends in non-opioid medication use, indicating a positive correlation with time and providing statistical significance.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "There has been a downward trend in the use of opioids in recent years among pediatric patients with cancer and an upward trend in the use of non-opioid pharmacotherapy for pain management potentially as an alternative to opioids.",
+            "meaning": "Overall, the study concludes that opioid use has decreased while non-opioid medications have become more common in managing pain for young cancer patients.",
+            "reasoning": "This sentence encapsulates the main findings of the research, drawing a comparison between the trends of opioid and non-opioid medication use.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates the changing patterns of opioid and non-opioid medication use among pediatric cancer patients, revealing a decline in opioid prescriptions and an increase in non-opioid alternatives.",
+    "detailed_summary": "This study analyzes the trends and patterns of opioid and non-opioid pharmacotherapy among privately insured pediatric cancer patients in the U.S. from 2005 to 2019. It identifies patients under 21 with specific cancer diagnoses and examines the proportion of those who received prescriptions for opioids, anticonvulsants, NSAIDs, antidepressants, and muscle relaxants during treatment. The methodology includes multivariable logistic regressions to assess changes over time. Findings indicate that 71% of the 4174 patients had opioid prescriptions, while smaller percentages received other medications. The results show a nonlinear trend in opioid use, with a peak in 2012 followed by a decline by 2018, contrasting with a significant linear increase in the use of non-opioid medications. The study concludes that there is a notable shift away from opioids towards non-opioid pharmacotherapy for pain management in this patient population."
+}

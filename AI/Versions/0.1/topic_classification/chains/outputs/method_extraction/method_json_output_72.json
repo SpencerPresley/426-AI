@@ -1,0 +1,31 @@
+{
+    "methods": [
+        "electrophysiological effect evaluation",
+        "toxicity assessment",
+        "repellency testing"
+    ],
+    "electrophysiological effect evaluation": {
+        "reasoning": "This method refers to the specific process of measuring the electrophysiological responses of fire ants to eugenol derivatives, which is a defined technique used in the study to assess the impact of these compounds.",
+        "passages": [
+            "the electrophysiological effect, toxicity and repellency of five eugenol derivatives were evaluated against S. invicta workers",
+            "All eugenol derivatives triggered significantly higher EAG responses than the hexane blanks"
+        ],
+        "confidence_score": 0.9
+    },
+    "toxicity assessment": {
+        "reasoning": "This method involves evaluating the toxic effects of eugenol derivatives on fire ants, providing a clear process for determining the harmfulness of these compounds, which is essential for understanding their potential use as repellents.",
+        "passages": [
+            "toxicity and repellency of five eugenol derivatives were evaluated against S. invicta workers",
+            "had concentration-dependent toxicity against S. invicta workers"
+        ],
+        "confidence_score": 0.85
+    },
+    "repellency testing": {
+        "reasoning": "This method describes the process of testing how effectively the eugenol derivatives can repel fire ants, which is a central focus of the research and involves specific experimental setups.",
+        "passages": [
+            "All tested eugenol derivatives except isoeugenyl acetate showed strong repellency by significantly decreasing the number of defending and foraging ants in the tested arenas",
+            "methyl isoeugenol almost repelled all defending fire ants from disturbed mounds"
+        ],
+        "confidence_score": 0.95
+    }
+}

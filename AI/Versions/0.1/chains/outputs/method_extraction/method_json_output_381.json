@@ -1,0 +1,22 @@
+{
+    "methods": [
+        "modeling framework",
+        "simultaneous testing"
+    ],
+    "modeling framework": {
+        "reasoning": "The modeling framework is a specific methodological approach used to analyze and test the functions of female song in eastern bluebirds, allowing for a structured examination of multiple behaviors.",
+        "passages": [
+            "Using a modeling framework, based on all known functions of song in other species, we tested the function of female song in eastern bluebirds.",
+            "The modeling framework allowed us to test the effect of multiple complex behaviors simultaneously to predict female song function."
+        ],
+        "confidence_score": 0.95
+    },
+    "simultaneous testing": {
+        "reasoning": "Simultaneous testing refers to the method of evaluating multiple complex behaviors at the same time, which is a specific procedure utilized to understand the function of female song without the complications of multiple testing.",
+        "passages": [
+            "The modeling framework allowed us to test the effect of multiple complex behaviors simultaneously to predict female song function.",
+            "Additionally, modeling mitigated issues of multiple testing across the five different functional categories."
+        ],
+        "confidence_score": 0.9
+    }
+}

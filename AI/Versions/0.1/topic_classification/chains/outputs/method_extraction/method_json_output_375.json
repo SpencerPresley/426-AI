@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "theoretical formations",
+        "intersectional analysis"
+    ],
+    "theoretical formations": {
+        "reasoning": "Theoretical formations refer to the specific frameworks or concepts introduced by the author to analyze and understand the intersectionality of Sikhs, representing a methodological approach to the research.",
+        "passages": [
+            "I argue for six theoretical formations that can illuminate what I term intersectional Sikhism"
+        ],
+        "confidence_score": 0.85
+    },
+    "intersectional analysis": {
+        "reasoning": "Intersectional analysis is the method employed to examine the complexities of identity and oppression as applied to Sikhs, serving as a specific analytical approach in the research.",
+        "passages": [
+            "This article examines intersectionality in Crenshaw's original formulation to argue for theoretical and political insights when intersectionality is applied to the multiply minoritized position of Sikhs in the US and India."
+        ],
+        "confidence_score": 0.9
+    }
+}

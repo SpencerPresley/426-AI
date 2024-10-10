@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "structural equation modeling"
+    ],
+    "structural equation modeling": {
+        "reasoning": "Structural equation modeling is a statistical method used to analyze the relationships among variables, which in this study is employed to understand the contribution of executive function to text comprehension.",
+        "passages": [
+            "Using structural equation modeling, a latent executive function factor significantly predicted comprehension after accounting for age, reading time, prior knowledge, and vocabulary ability."
+        ],
+        "confidence_score": 0.95
+    }
+}

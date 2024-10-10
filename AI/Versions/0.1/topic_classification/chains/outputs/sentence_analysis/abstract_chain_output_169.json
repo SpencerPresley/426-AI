@@ -1,0 +1,30 @@
+{
+    "sentences": [
+        {
+            "sentence": "The cost of textbooks is problematic for many students at American colleges as prices have increased by 140% in almost two decades (U.S. Bureau of Labor Statistics).",
+            "meaning": "The rising cost of textbooks has become a significant issue for students in American colleges, with prices having risen dramatically over the past 20 years.",
+            "reasoning": "The sentence states a fact about textbook price increases and highlights the impact on students, suggesting a broader concern about affordability in education.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This economic injustice causes students to miss out on educational opportunities because they have to prioritize paying for their basic needs over textbooks.",
+            "meaning": "The financial burden of expensive textbooks prevents students from fully engaging in their education, as they must first address their essential living expenses.",
+            "reasoning": "The use of 'economic injustice' indicates a moral judgment about the situation, and the connection to basic needs suggests a prioritization that negatively impacts education.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "This article discusses a research study which explored students' perceptions of using an Open/Alternative Educational Resource (OAER), specifically a nontraditional textbook in a social work skills course.",
+            "meaning": "The article presents a study focused on how students view the use of alternative educational resources, particularly a nontraditional textbook used in a social work course.",
+            "reasoning": "The sentence outlines the main focus of the article, indicating that it involves a specific type of educational resource and its reception among students.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Overall, results support the notion that students are amenable to buying a low cost, nontraditional textbook option.",
+            "meaning": "The findings of the study indicate that students are open to the idea of purchasing a less expensive, nontraditional textbook.",
+            "reasoning": "The phrase 'support the notion' suggests that the results validate a hypothesis about student attitudes towards affordable textbook alternatives.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The abstract addresses the financial challenges students face due to rising textbook costs and presents research on their perceptions of alternative, more affordable educational resources.",
+    "detailed_summary": "The abstract highlights the significant issue of rising textbook costs, which have increased by 140% over nearly 20 years, creating an economic barrier for students at American colleges. This economic injustice forces students to prioritize basic living expenses over educational materials, limiting their access to learning opportunities. The article presents a research study that investigates students' perceptions of Open/Alternative Educational Resources (OAER), focusing on a nontraditional textbook used in a social work skills course. The study's results indicate that students are generally receptive to the idea of purchasing a low-cost, nontraditional textbook option, suggesting a potential solution to the financial burden of traditional textbooks."
+}

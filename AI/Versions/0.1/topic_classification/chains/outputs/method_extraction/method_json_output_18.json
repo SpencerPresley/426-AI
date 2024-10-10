@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "multisource data collection",
+        "mediating effect analysis"
+    ],
+    "multisource data collection": {
+        "reasoning": "Multisource data collection refers to the method of gathering data from multiple sources, in this case from employee-manager dyads, which provides a comprehensive view of the relationship being studied.",
+        "passages": [
+            "Using multisource data from 209 employee-manager dyads in South Korea"
+        ],
+        "confidence_score": 0.95
+    },
+    "mediating effect analysis": {
+        "reasoning": "Mediating effect analysis is a specific analytical approach used to explore the indirect effects of leader behavioral integrity on employee in-role performance through coworker support, indicating a methodological process in the research.",
+        "passages": [
+            "this paper found support for the mediating effect of coworker support in the positive relationship between leader behavior integrity and employees' in-role autonomy"
+        ],
+        "confidence_score": 0.9
+    }
+}

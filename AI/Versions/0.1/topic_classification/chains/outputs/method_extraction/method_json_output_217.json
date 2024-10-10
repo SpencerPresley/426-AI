@@ -1,0 +1,53 @@
+{
+    "methods": [
+        "environmental DNA (eDNA) detection techniques",
+        "field experiment",
+        "laboratory trials",
+        "species-specific droplet digital PCR (ddPCR) assay",
+        "sediment slurry and water sample collection",
+        "replicated treatments"
+    ],
+    "environmental DNA (eDNA) detection techniques": {
+        "reasoning": "eDNA detection techniques are the specific methods used for monitoring organisms through genetic material found in the environment, which is central to the study's aim of detecting invasive species.",
+        "passages": [
+            "Environmental DNA (eDNA) detection techniques have been used for monitoring soft-bodied organisms",
+            "the present study evaluates the efficacy of applying eDNA methods for detecting the invasive European green crab"
+        ],
+        "confidence_score": 0.95
+    },
+    "field experiment": {
+        "reasoning": "The field experiment refers to the practical application of eDNA detection in a natural setting, which is a clear methodological step in the research.",
+        "passages": [
+            "An initial field experiment conducted in a local salt marsh system detected no C. maenas eDNA in sediment samples associated with traps containing C. maenas."
+        ],
+        "confidence_score": 0.9
+    },
+    "laboratory trials": {
+        "reasoning": "Laboratory trials involve controlled experiments to test hypotheses regarding eDNA exudation by the crabs, representing a specific methodological approach in the study.",
+        "passages": [
+            "In subsequent laboratory trials, aquaria containing one or two C. maenas at different life stages were evaluated in replicated treatments"
+        ],
+        "confidence_score": 0.9
+    },
+    "species-specific droplet digital PCR (ddPCR) assay": {
+        "reasoning": "The ddPCR assay is a specific analytical method used to quantify eDNA, which is crucial for determining the presence of the invasive species.",
+        "passages": [
+            "analyzed using a species-specific droplet digital PCR (ddPCR) assay"
+        ],
+        "confidence_score": 0.95
+    },
+    "sediment slurry and water sample collection": {
+        "reasoning": "The collection of sediment slurry and water samples is a specific methodological step in the data gathering process, necessary for eDNA analysis.",
+        "passages": [
+            "Duplicate sediment slurry and water samples were collected from each aquarium"
+        ],
+        "confidence_score": 0.9
+    },
+    "replicated treatments": {
+        "reasoning": "Replicated treatments indicate the methodological design of the experiments, ensuring that results are reliable and can be generalized.",
+        "passages": [
+            "were evaluated in replicated treatments to test the hypothesis that C. maenas exudes eDNA at higher levels"
+        ],
+        "confidence_score": 0.85
+    }
+}

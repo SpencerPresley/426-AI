@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "Height-Excess Enumeration Theorem",
+        "matrix powers",
+        "matrix mapping"
+    ],
+    "Height-Excess Enumeration Theorem": {
+        "reasoning": "The Height-Excess Enumeration Theorem provides a theoretical basis for generating primitive Pythagorean triples, making it a specific methodological approach used in the research.",
+        "passages": [
+            "building on the Height-Excess Enumeration Theorem, we show how to generate primitive Pythagorean triples of a given height"
+        ],
+        "confidence_score": 0.9
+    },
+    "matrix powers": {
+        "reasoning": "Using powers of a single matrix is a specific technique employed to generate primitive Pythagorean triples, which is a clear methodological process outlined in the abstract.",
+        "passages": [
+            "using powers of a single matrix"
+        ],
+        "confidence_score": 0.85
+    },
+    "matrix mapping": {
+        "reasoning": "Matrix mapping refers to the process of transforming one Pythagorean triple into another while preserving certain properties, making it a defined method for generating triples.",
+        "passages": [
+            "discuss other matrices that both map any Pythagorean triple to another and also preserve a triple's height"
+        ],
+        "confidence_score": 0.8
+    }
+}

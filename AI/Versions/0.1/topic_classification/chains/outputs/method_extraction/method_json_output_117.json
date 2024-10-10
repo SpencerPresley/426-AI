@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "simple random sampling",
+        "online survey",
+        "standardized measures",
+        "non-standardized measure",
+        "job satisfaction measurement"
+    ],
+    "simple random sampling": {
+        "reasoning": "Simple random sampling is a method used to select participants from a larger population, ensuring that every individual has an equal chance of being chosen, which is critical for the validity of the study.",
+        "passages": [
+            "A simple random sample of National Association of Social Workers members were asked to participate."
+        ],
+        "confidence_score": 0.9
+    },
+    "online survey": {
+        "reasoning": "An online survey is a method for data collection that allows participants to respond to questions remotely, making it a specific approach used in this research to gather data on secondary traumatic stress.",
+        "passages": [
+            "Participants completed an online survey that explored their exposure and responses to secondary traumatic stress."
+        ],
+        "confidence_score": 0.95
+    },
+    "standardized measures": {
+        "reasoning": "Standardized measures refer to tools that are consistently administered and scored, which are crucial for objectively assessing variables such as secondary trauma and self-care strategies in research.",
+        "passages": [
+            "The online survey consisted of standardized measures including the Secondary Traumatic Stress Scale and The Coping Strategies Inventory."
+        ],
+        "confidence_score": 0.85
+    },
+    "non-standardized measure": {
+        "reasoning": "A non-standardized measure is a method that is tailored specifically for the study, in this case to assess the magnitude of work, which adds a unique dimension to the data collection process.",
+        "passages": [
+            "The magnitude of work... is assessed by a non-standardized measure which consists of clinical caseloads composition questions."
+        ],
+        "confidence_score": 0.8
+    },
+    "job satisfaction measurement": {
+        "reasoning": "Job satisfaction measurement refers to the specific approach used to assess social workers' job satisfaction through items taken from a workplace questionnaire, which is a methodological aspect of the study.",
+        "passages": [
+            "Job satisfaction is measured by items taken from the National Association of Social Workers' workplace questionnaire."
+        ],
+        "confidence_score": 0.75
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "survey",
+        "follow-up surveys",
+        "mediated analysis"
+    ],
+    "survey": {
+        "reasoning": "The survey method was used to collect data from parents regarding their humor styles and psychological well-being, making it a specific process for data collection.",
+        "passages": [
+            "Ninety-nine parents of children with disabilities were surveyed at the beginning of the COVID-19 pandemic in the United States in March 2020"
+        ],
+        "confidence_score": 0.95
+    },
+    "follow-up surveys": {
+        "reasoning": "Follow-up surveys were conducted to gather additional data from the same participants, allowing for longitudinal analysis of changes over time.",
+        "passages": [
+            "79 parents completed follow-up surveys in July 2020"
+        ],
+        "confidence_score": 0.9
+    },
+    "mediated analysis": {
+        "reasoning": "Mediated analysis refers to the method used to explore the relationships between humor styles and psychological well-being, particularly how caregiver positive reappraisal and family efforts mediate these effects.",
+        "passages": [
+            "Relations were largely mediated by caregiver positive reappraisal, family efforts to reframe daily disability-related challenges, and negative social interactions"
+        ],
+        "confidence_score": 0.85
+    }
+}

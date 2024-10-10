@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "playback experiments",
+        "quantification of latency to call",
+        "quantification of time spent calling",
+        "quantification of number of calling bouts"
+    ],
+    "playback experiments": {
+        "reasoning": "Playback experiments are a method used to simulate real-life scenarios in which subjects can respond to recorded calls, allowing researchers to observe behavioral responses in a controlled setting.",
+        "passages": [
+            "we exposed males to playbacks of two competing males that varied in call frequency"
+        ],
+        "confidence_score": 0.95
+    },
+    "quantification of latency to call": {
+        "reasoning": "Quantification of latency to call is a specific measurement technique used to assess how quickly the frogs respond to the eavesdropped calls, making it a clear methodological approach.",
+        "passages": [
+            "we quantified latency to call"
+        ],
+        "confidence_score": 0.9
+    },
+    "quantification of time spent calling": {
+        "reasoning": "Quantifying the time spent calling provides a specific measure of the frogs' behavioral response to eavesdropped calls, which is essential for analyzing the effects of competition.",
+        "passages": [
+            "we quantified time spent calling"
+        ],
+        "confidence_score": 0.9
+    },
+    "quantification of number of calling bouts": {
+        "reasoning": "This method involves counting the number of times the frogs call, which is another specific measure of their behavioral response to competitors, indicating the intensity of their response.",
+        "passages": [
+            "we quantified number of calling bouts"
+        ],
+        "confidence_score": 0.9
+    }
+}

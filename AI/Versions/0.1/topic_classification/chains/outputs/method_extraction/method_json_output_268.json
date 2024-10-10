@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "U.S. state panel data set",
+        "estimation of federal regulation effects",
+        "mortality risk analysis"
+    ],
+    "U.S. state panel data set": {
+        "reasoning": "The U.S. state panel data set is a specific dataset used for empirical analysis, making it a critical method for the research conducted.",
+        "passages": [
+            "Using a novel U.S. state panel data set spanning the period 2000-2014"
+        ],
+        "confidence_score": 0.95
+    },
+    "estimation of federal regulation effects": {
+        "reasoning": "Estimating the effect of federal regulation on state-level mortality is a methodological approach used to analyze the relationship between regulation and mortality risk.",
+        "passages": [
+            "we estimate the effect of U.S. federal regulation on state-level mortality"
+        ],
+        "confidence_score": 0.9
+    },
+    "mortality risk analysis": {
+        "reasoning": "Mortality risk analysis refers to the methodological process of assessing the risks associated with mortality in relation to federal regulations, which is central to the research.",
+        "passages": [
+            "boosts the credibility of mortality risk analysis, whereby public policymakers weigh both the expected lives saved and lost due to a proposed regulation or other policy"
+        ],
+        "confidence_score": 0.85
+    }
+}

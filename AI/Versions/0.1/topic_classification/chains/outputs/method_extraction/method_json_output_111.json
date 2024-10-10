@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "data tracing",
+        "publishing trend analysis"
+    ],
+    "data tracing": {
+        "reasoning": "Data tracing refers to the method of examining and following the publishing trends of the most cited papers over a specified period, allowing for a systematic review of changes in the field.",
+        "passages": [
+            "This paper traces publishing trends from the 100 most cited papers in the decades from 1970 to 2019 (500 papers in total)."
+        ],
+        "confidence_score": 0.9
+    },
+    "publishing trend analysis": {
+        "reasoning": "Publishing trend analysis is the method used to analyze the changes in publication practices and citation patterns in the field of economics over time, indicating a shift in the empirical nature of research.",
+        "passages": [
+            "Data suggest that the field has become more empirical and that the structure of papers is more standardized, often following a format that is closer to that of scientific papers."
+        ],
+        "confidence_score": 0.85
+    }
+}

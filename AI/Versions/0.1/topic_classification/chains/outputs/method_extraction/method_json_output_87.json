@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "thematic analysis",
+        "dialectical processes"
+    ],
+    "thematic analysis": {
+        "reasoning": "Thematic analysis is a method used to identify, analyze, and report patterns (themes) within qualitative data, which is central to the exploration of the presidential addresses in this study.",
+        "passages": [
+            "Using thematic analysis and drawing on both dialectical and life cycle organizational processes, three periods of SCRA and community psychology more broadly were identified"
+        ],
+        "confidence_score": 0.95
+    },
+    "dialectical processes": {
+        "reasoning": "Dialectical processes refer to a methodological approach that examines the interplay of opposing ideas or forces, which is used in this commentary to analyze the organizational evolution of SCRA.",
+        "passages": [
+            "drawing on both dialectical and life cycle organizational processes"
+        ],
+        "confidence_score": 0.85
+    }
+}

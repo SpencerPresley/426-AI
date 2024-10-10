@@ -1,0 +1,60 @@
+{
+    "methods": [
+        "national comprehensive TBI database",
+        "geospatial data components",
+        "GIS in TBI research",
+        "multi-tiered conceptual framework",
+        "implementation strategy",
+        "location-based mapping",
+        "data analysis and modelling"
+    ],
+    "national comprehensive TBI database": {
+        "reasoning": "The national comprehensive TBI database represents a specific method for organizing and managing data related to traumatic brain injuries, which is essential for addressing the TBI epidemic.",
+        "passages": [
+            "This paper presents the importance of and the need for a national comprehensive TBI database that incorporates geospatial data components to help tackle the TBI epidemic."
+        ],
+        "confidence_score": 0.9
+    },
+    "geospatial data components": {
+        "reasoning": "Geospatial data components are a methodological approach that enhances the database by incorporating spatial information, which is crucial for analyzing TBI data in relation to geographic factors.",
+        "passages": [
+            "a national comprehensive TBI database that incorporates geospatial data components"
+        ],
+        "confidence_score": 0.85
+    },
+    "GIS in TBI research": {
+        "reasoning": "The use of GIS (Geographic Information Systems) in TBI research is a method that allows for spatial analysis and visualization of data, which is critical for understanding the patterns and impacts of TBI.",
+        "passages": [
+            "to make the use of GIS in TBI research possible"
+        ],
+        "confidence_score": 0.88
+    },
+    "multi-tiered conceptual framework": {
+        "reasoning": "The multi-tiered conceptual framework is a structured approach that outlines the organization and strategy for implementing the TBI database, serving as a methodological guide for research and data management.",
+        "passages": [
+            "It proposes a multi-tiered conceptual framework and associated implementation strategy to establish the proposed national TBI data structure."
+        ],
+        "confidence_score": 0.8
+    },
+    "implementation strategy": {
+        "reasoning": "The implementation strategy refers to the specific plan or methodology for executing the proposed framework and setting up the TBI data infrastructure, making it a key methodological component.",
+        "passages": [
+            "associated implementation strategy to establish the proposed national TBI data structure."
+        ],
+        "confidence_score": 0.82
+    },
+    "location-based mapping": {
+        "reasoning": "Location-based mapping is a methodological technique that utilizes GIS capabilities to visualize TBI data geographically, which is essential for effective data analysis.",
+        "passages": [
+            "utilize the GIS capabilities for location-based mapping"
+        ],
+        "confidence_score": 0.87
+    },
+    "data analysis and modelling": {
+        "reasoning": "Data analysis and modelling represent specific methods for processing and interpreting TBI data, allowing researchers to derive insights and inform decision-making.",
+        "passages": [
+            "data analysis and modelling"
+        ],
+        "confidence_score": 0.85
+    }
+}

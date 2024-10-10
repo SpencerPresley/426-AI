@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "competitive institutional grants",
+        "evaluation of initiatives"
+    ],
+    "competitive institutional grants": {
+        "reasoning": "Competitive institutional grants represent a specific funding method used to support nursing programs, indicating how resources were allocated to address the nursing faculty shortage.",
+        "passages": [
+            "106 competitive institutional grants"
+        ],
+        "confidence_score": 0.9
+    },
+    "evaluation of initiatives": {
+        "reasoning": "Evaluation of initiatives refers to the systematic assessment of the outcomes of the funding programs, indicating a methodological approach to determine the effectiveness of the initiatives.",
+        "passages": [
+            "are described and evaluated"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "event study",
+        "further analysis"
+    ],
+    "event study": {
+        "reasoning": "An event study is a specific methodological approach used to assess the impact of particular events on firm value, making it a clear method used in this research.",
+        "passages": [
+            "Results from an event study of 185 announcements of store-in-store agreements show that they increase firm value by an average of 1.06%"
+        ],
+        "confidence_score": 0.95
+    },
+    "further analysis": {
+        "reasoning": "Further analysis refers to the additional examination of data or results to derive deeper insights, indicating a methodological step taken after the initial findings.",
+        "passages": [
+            "Further analysis reveals that several characteristics of store-in-store agreements augment firm value."
+        ],
+        "confidence_score": 0.85
+    }
+}

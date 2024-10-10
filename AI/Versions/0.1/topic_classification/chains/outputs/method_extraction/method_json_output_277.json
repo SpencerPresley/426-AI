@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "statewide nursing scholarship-for-service program",
+        "programmatic changes"
+    ],
+    "statewide nursing scholarship-for-service program": {
+        "reasoning": "The statewide nursing scholarship-for-service program is a specific initiative implemented to address the nurse faculty shortage, representing a structured approach to support future educators.",
+        "passages": [
+            "Four-year outcomes of a statewide nursing scholarship-for-service program to support future educators are reported."
+        ],
+        "confidence_score": 0.9
+    },
+    "programmatic changes": {
+        "reasoning": "Programmatic changes refer to the specific recommendations made to enhance the effectiveness and efficiency of the scholarship program, indicating a methodological approach to improving outcomes.",
+        "passages": [
+            "Recommendations for programmatic changes to improve cost-effectiveness are provided."
+        ],
+        "confidence_score": 0.85
+    }
+}

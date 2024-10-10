@@ -1,0 +1,66 @@
+{
+    "sentences": [
+        {
+            "sentence": "Pre-adolescent transgender and gender non-conforming (TGNC) youth who are supported by their parents have improved psychosocial outcomes.",
+            "meaning": "Support from parents positively influences the mental and social well-being of TGNC youth.",
+            "reasoning": "The sentence establishes a direct correlation between parental support and the psychosocial health of TGNC youth, highlighting its significance.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Despite the important role parents play in TGNC youth's development, there is little research on their experiences.",
+            "meaning": "There is a gap in research regarding the experiences of parents of TGNC youth, despite their crucial role.",
+            "reasoning": "This sentence points out the contradiction between the importance of parental support and the lack of academic focus on parents' perspectives.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This study explored the early parenting experiences of 34 parents of pre-adolescent TGNC youth.",
+            "meaning": "The research focuses on understanding the initial parenting experiences of a specific group of parents.",
+            "reasoning": "The sentence clearly states the objective of the study and the demographic involved.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Parents were recruited from online communities and listservs, and interviewed via phone about their early parenting experiences.",
+            "meaning": "The study gathered data from parents through online platforms and conducted interviews to collect qualitative data.",
+            "reasoning": "This explains the methodology used for gathering information from participants.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Data were analyzed via thematic analysis.",
+            "meaning": "The researchers used thematic analysis to interpret the data collected from the interviews.",
+            "reasoning": "This indicates the analytical approach taken to derive insights from the qualitative data.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Findings indicate that parents became aware of their child's TGNC identity either through observing their child's gender behaviors, or by their child verbalizing their identity.",
+            "meaning": "Parents recognized their child's TGNC identity through either behavioral cues or direct communication from the child.",
+            "reasoning": "The sentence summarizes key findings about how parents come to understand their child's identity.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Parents, on average, became aware of their child's gender identity exploration when they were just over 3 and a half years old.",
+            "meaning": "The average age at which parents noticed their child's exploration of gender identity is around 3.5 years.",
+            "reasoning": "This provides a specific demographic detail relevant to the study's findings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Parents felt a mix of emotions, with many reporting a lack of concern or positive emotions regarding their child's rejection of traditional gender roles.",
+            "meaning": "Parents experienced varied feelings, often feeling positively or neutrally about their child's non-conformity to traditional gender norms.",
+            "reasoning": "This highlights the emotional responses of parents towards their child's identity exploration.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Parents without prior knowledge of transgender people or existing connections to lesbian, gay, bisexual, transgender, or queer (LGBTQ+) people sought out information from the Internet.",
+            "meaning": "Parents who were unfamiliar with transgender issues turned to online resources for guidance.",
+            "reasoning": "The sentence indicates the proactive steps taken by parents to educate themselves about transgender identities.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The findings are both consistent with and diverge from prior research with parents, suggesting both new areas for research, and additional ways in which TGNC youth and their parents can be best supported.",
+            "meaning": "The results of this study align with some previous research but also introduce new insights, indicating areas for future inquiry and support strategies.",
+            "reasoning": "This sentence summarizes the implications of the findings in relation to existing literature and potential future research.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the early parenting experiences of pre-adolescent TGNC youth, highlighting the importance of parental support and the emotional complexities involved in recognizing and accepting their child's gender identity.",
+    "detailed_summary": "This study examines the early parenting experiences of 34 parents of pre-adolescent transgender and gender non-conforming (TGNC) youth, emphasizing the significant role that parental support plays in the psychosocial outcomes of these children. Despite the critical nature of this support, the abstract notes a lack of existing research on the parents' experiences. The methodology involved recruiting parents from online communities and conducting phone interviews, with the data analyzed through thematic analysis. Key findings reveal that parents typically became aware of their child's TGNC identity at around 3.5 years old, either through observation or direct communication. The emotional responses of parents varied, with many expressing a lack of concern regarding their child's deviation from traditional gender roles. Additionally, parents with little prior knowledge of transgender issues sought information online. The findings both align with and contrast previous research, suggesting new avenues for further investigation and highlighting ways to better support TGNC youth and their families."
+}

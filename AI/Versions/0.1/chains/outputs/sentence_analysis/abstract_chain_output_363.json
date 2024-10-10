@@ -1,0 +1,78 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Temporality is understood as the subjective perception of the flow of chronological time and is a central component of contemporary and integrative medicine approaches.",
+            "meaning": "Temporality refers to how individuals perceive time, which is important in modern medical practices.",
+            "reasoning": "The sentence defines temporality and emphasizes its significance in contemporary medicine, suggesting that understanding time perception is crucial for integrative approaches.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Although temporal dynamics are recognized as central to the processes associated with chronic pain (CP), the temporal management of CP is inadequately understood in pain research.",
+            "meaning": "While the role of time in chronic pain is acknowledged, there is a lack of understanding regarding how to manage time in relation to chronic pain.",
+            "reasoning": "This sentence contrasts the acknowledgment of temporal dynamics in chronic pain with the insufficient knowledge in managing these dynamics in research, indicating a gap in the field.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "How is temporality conceptualized in Ayurvedic protocols of CP management?",
+            "meaning": "The research question investigates how Ayurvedic medicine interprets and utilizes the concept of time in managing chronic pain.",
+            "reasoning": "The sentence explicitly states the research question, focusing on the understanding of temporality within Ayurvedic practices for chronic pain.",
+            "confidence_score": 0.98
+        },
+        {
+            "sentence": "Ayurvedic physicians (N = 10) from India were recruited through purposive and snowball sampling.",
+            "meaning": "The study involved ten Ayurvedic doctors from India, selected using targeted sampling methods.",
+            "reasoning": "This sentence provides details about the sample size and method of recruitment, indicating a qualitative research approach.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "A semi-structured interview protocol was employed to gather qualitative data focusing on the Ayurvedic protocol employed to treat CP patients.",
+            "meaning": "The researchers used semi-structured interviews to collect qualitative information about how Ayurvedic treatments are applied to chronic pain patients.",
+            "reasoning": "The sentence describes the methodology used in the study, emphasizing the qualitative nature of the data collection.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The interviews were audio-recorded, professionally transcribed, and thematically analyzed.",
+            "meaning": "The data from the interviews were recorded, transcribed, and analyzed for themes.",
+            "reasoning": "This sentence outlines the process of data handling and analysis, indicating a systematic approach to qualitative research.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Member validation, participant voice, and researcher self-awareness were employed to strengthen reliability and validity.",
+            "meaning": "The study used strategies like member validation and self-awareness of the researcher to enhance the trustworthiness of the findings.",
+            "reasoning": "This sentence highlights the measures taken to ensure the credibility of the research results.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "An ontologically grounded thematic exploration of Ayurvedic protocols illustrates that temporality is conceptualized in CP as spatiotemporal present moment awareness (PMA) and embodied time (ET).",
+            "meaning": "The study reveals that Ayurvedic protocols view temporality in chronic pain through the lenses of present moment awareness and embodied time.",
+            "reasoning": "This sentence summarizes key findings, indicating how temporality is understood in the context of chronic pain management in Ayurveda.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "Spatiotemporality as PMA references an awareness of the relationality of cognitive temporal movement, dosha operations, and their pathophysiological expression in the body.",
+            "meaning": "Present moment awareness in Ayurveda relates to understanding the connections between mental time perception, dosha functions, and their physical manifestations.",
+            "reasoning": "The sentence elaborates on the concept of PMA, indicating a complex interplay between cognitive processes and physical health.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Spatiotemporality as ET is conceptualized as awareness of the expression of time in embodied emotional and psychosocial processes as in the movement of the breath through the body, the movement of body sensations over time, and in their intersection with consciousness.",
+            "meaning": "Embodied time in Ayurveda involves recognizing how time is experienced through emotions, breath, and body sensations, linking these experiences to consciousness.",
+            "reasoning": "This sentence expands on the concept of embodied time, illustrating its relevance to emotional and physical experiences.",
+            "confidence_score": 0.91
+        },
+        {
+            "sentence": "The study findings present an experiential and relational framework situating spatiotemporality ontologically as an organizing principle in CP management.",
+            "meaning": "The research proposes a framework that positions the understanding of spatiotemporality as fundamental in managing chronic pain.",
+            "reasoning": "This sentence summarizes the implications of the findings, indicating the significance of spatiotemporality in chronic pain management.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "While temporality focuses on the representation of experiences and relations over time, spatiotemporality foregrounds a constructionist approach by centering the embodied spatial cognitive expression of time, consciousness, and subjective experience.",
+            "meaning": "The distinction is made between general temporality and spatiotemporality, with the latter emphasizing the embodied and constructed nature of time and experience.",
+            "reasoning": "This sentence contrasts two concepts of time, highlighting the innovative perspective offered by the study on how time is perceived and experienced in chronic pain management.",
+            "confidence_score": 0.93
+        }
+    ],
+    "overall_theme": "The research explores the conceptualization of temporality in Ayurvedic chronic pain management, highlighting the importance of present moment awareness and embodied time.",
+    "detailed_summary": "This study investigates how temporality is understood within Ayurvedic protocols for managing chronic pain. It identifies a significant gap in pain research regarding the temporal management of chronic pain despite its acknowledged importance. The research question focuses on the conceptualization of temporality in Ayurvedic practices, involving ten Ayurvedic physicians from India. A semi-structured interview approach was used to gather qualitative data, which was then transcribed and analyzed thematically. To ensure the reliability and validity of the findings, strategies such as member validation and researcher self-awareness were employed. The findings reveal that Ayurvedic protocols conceptualize temporality through spatiotemporal present moment awareness (PMA) and embodied time (ET). PMA relates to the cognitive understanding of time and its physical implications, while ET emphasizes the emotional and psychosocial dimensions of time as experienced through the body. The study concludes by proposing a framework that positions spatiotemporality as a key organizing principle in chronic pain management, differentiating it from the traditional understanding of temporality."
+}

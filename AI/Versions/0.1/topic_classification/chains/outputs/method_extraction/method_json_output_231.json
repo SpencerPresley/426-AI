@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "measures of sexual victimization experience",
+        "measures of rape empathy"
+    ],
+    "measures of sexual victimization experience": {
+        "reasoning": "This keyword represents a method because it refers to the specific tool or assessment used to gather data on the sexual victimization experiences of the participants.",
+        "passages": [
+            "Undergraduates (n = 531) completed measures of sexual victimization experience"
+        ],
+        "confidence_score": 0.95
+    },
+    "measures of rape empathy": {
+        "reasoning": "This keyword represents a method because it indicates the specific assessment used to evaluate the level of empathy participants had towards rape victims.",
+        "passages": [
+            "Undergraduates (n = 531) completed measures of rape empathy"
+        ],
+        "confidence_score": 0.95
+    }
+}

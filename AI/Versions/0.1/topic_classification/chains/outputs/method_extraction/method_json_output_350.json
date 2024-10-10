@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "semistructured one-page written case analysis",
+        "two-case method",
+        "short lecture introducing the case analysis method",
+        "initial small group practice case"
+    ],
+    "semistructured one-page written case analysis": {
+        "reasoning": "This method refers to a specific approach to case analysis that is structured yet concise, allowing for efficient evaluation and comparison with traditional methods.",
+        "passages": [
+            "Experiment 1 compares the effectiveness of a semistructured one-page written case analysis over a traditional case analysis"
+        ],
+        "confidence_score": 0.9
+    },
+    "two-case method": {
+        "reasoning": "The two-case method is a specific approach tested in the research to introduce the case analysis process, indicating a methodological strategy for teaching.",
+        "passages": [
+            "A two-case method introducing the case analysis process is tested in Experiment 2"
+        ],
+        "confidence_score": 0.85
+    },
+    "short lecture introducing the case analysis method": {
+        "reasoning": "This is a specific instructional method used in the research to facilitate understanding of the case analysis process, indicating a structured approach to teaching.",
+        "passages": [
+            "a short lecture introducing the case analysis method"
+        ],
+        "confidence_score": 0.8
+    },
+    "initial small group practice case": {
+        "reasoning": "This method involves group practice aimed at enhancing understanding and skills in case analysis, representing a hands-on approach to learning.",
+        "passages": [
+            "an initial small group practice case further improves student grades"
+        ],
+        "confidence_score": 0.75
+    }
+}

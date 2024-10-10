@@ -1,0 +1,68 @@
+{
+    "methods": [
+        "resistance training models",
+        "randomization",
+        "exercise regimen",
+        "strength training exercises",
+        "carotid femoral pulse wave velocity measurement",
+        "maximum squat assessment",
+        "bench press assessment",
+        "seated row assessment"
+    ],
+    "resistance training models": {
+        "reasoning": "Resistance training models refer to the specific types of training programs being compared in the study, which is a methodological approach to understand their effects on arterial stiffness.",
+        "passages": [
+            "to determine the effect of 2 resistance training models on indices of arterial stiffness in young, healthy women"
+        ],
+        "confidence_score": 0.9
+    },
+    "randomization": {
+        "reasoning": "Randomization is a method used to assign subjects to different groups in a way that minimizes bias, ensuring the validity of the experimental results.",
+        "passages": [
+            "Twenty-four women, untrained college students, aged 18-22 years were randomized into 1 of 3 groups"
+        ],
+        "confidence_score": 0.95
+    },
+    "exercise regimen": {
+        "reasoning": "The exercise regimen describes the specific protocol that participants followed during the study, outlining the frequency and structure of the training sessions.",
+        "passages": [
+            "Subjects randomized to resistance training groups were required to perform strength training exercises 3-5 days a week for 11 weeks."
+        ],
+        "confidence_score": 0.85
+    },
+    "strength training exercises": {
+        "reasoning": "Strength training exercises are the specific activities performed by participants, which are central to the intervention being studied.",
+        "passages": [
+            "The exercise regimen consisted of 2-3 sets of 3-8 repetitions (80-90% of 1 repetition maximum [1RM]) for the HI group and 3-4 sets of 10-15 repetitions (50-70% of 1RM) for the HV group."
+        ],
+        "confidence_score": 0.9
+    },
+    "carotid femoral pulse wave velocity measurement": {
+        "reasoning": "This measurement technique is used to assess arterial stiffness, which is a key outcome variable in the study, representing a specific methodological approach.",
+        "passages": [
+            "there was a significant increase in carotid femoral pulse wave velocity (PWV)"
+        ],
+        "confidence_score": 0.95
+    },
+    "maximum squat assessment": {
+        "reasoning": "Maximum squat assessment refers to the specific test used to evaluate strength improvements in participants, serving as a measure of the effectiveness of the training.",
+        "passages": [
+            "Both the HI and HV groups increased their maximum squat"
+        ],
+        "confidence_score": 0.9
+    },
+    "bench press assessment": {
+        "reasoning": "Bench press assessment is another specific strength test used in the study to measure the effectiveness of the resistance training programs.",
+        "passages": [
+            "bench press (34.4 +/- 12.6 vs. 23.4 +/- 11.1 percent change; p < 0.05)"
+        ],
+        "confidence_score": 0.9
+    },
+    "seated row assessment": {
+        "reasoning": "Seated row assessment is yet another specific strength test that was conducted to evaluate participant performance as part of the study's methodology.",
+        "passages": [
+            "seated row (22.0 +/- 12.6 vs. 21.9 +/- 12.5 percent change; p < 0.05)"
+        ],
+        "confidence_score": 0.9
+    }
+}

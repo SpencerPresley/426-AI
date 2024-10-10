@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "MarketScan data analysis",
+        "multivariable logistic regression"
+    ],
+    "MarketScan data analysis": {
+        "reasoning": "MarketScan data analysis refers to the method of identifying and utilizing a large dataset of privately insured pediatric patients for the study, which is essential for examining trends in pharmacotherapy use.",
+        "passages": [
+            "We identified pediatric (aged < 21) patients diagnosed with central nervous system (CNS), lymphoma, gonadal, leukemia, or bone cancer from MarketScan data 2005-2019."
+        ],
+        "confidence_score": 0.9
+    },
+    "multivariable logistic regression": {
+        "reasoning": "Multivariable logistic regression is a statistical method used to assess the trends and patterns in pharmacotherapy, allowing for the analysis of multiple variables simultaneously.",
+        "passages": [
+            "We assessed the trends and patterns in pharmacotherapy using multivariable logistic regressions."
+        ],
+        "confidence_score": 0.95
+    }
+}

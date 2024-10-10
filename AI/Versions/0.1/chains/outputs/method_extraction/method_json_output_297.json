@@ -1,0 +1,52 @@
+{
+    "methods": [
+        "qualitative study",
+        "focus groups",
+        "interpretive phenomenological analysis",
+        "multiple teaching methods",
+        "simulated teaching encounters",
+        "group debriefing"
+    ],
+    "qualitative study": {
+        "reasoning": "A qualitative study is a research approach that focuses on understanding human experiences and perspectives, which is central to this research's aim of eliciting experiences from participants.",
+        "passages": [
+            "This qualitative study elicited the experiences of participants who completed a structured program to prepare clinicians to become clinical faculty for prelicensure students."
+        ],
+        "confidence_score": 0.95
+    },
+    "focus groups": {
+        "reasoning": "Focus groups are a specific method used to gather insights and perspectives from participants through guided discussions, making them a core part of the data collection in this study.",
+        "passages": [
+            "Methods Focus groups uncovered participant perspectives on 'learning how to teach.'"
+        ],
+        "confidence_score": 0.9
+    },
+    "interpretive phenomenological analysis": {
+        "reasoning": "Interpretive phenomenological analysis is a qualitative research method used to analyze participants' lived experiences and is specifically mentioned as the analytical approach employed in this study.",
+        "passages": [
+            "Results Using interpretive phenomenological analysis, the themes (1) I'm not sure I can do this, (2) changing perspectives-learning to teach, and (3) instilling confidence emerged."
+        ],
+        "confidence_score": 0.92
+    },
+    "multiple teaching methods": {
+        "reasoning": "Multiple teaching methods refer to various instructional strategies utilized in the training of novice educators, indicating a specific approach to teaching that was beneficial for participants.",
+        "passages": [
+            "novice educators reported benefitting most from exposure to multiple teaching methods"
+        ],
+        "confidence_score": 0.85
+    },
+    "simulated teaching encounters": {
+        "reasoning": "Simulated teaching encounters are practical exercises that mimic real teaching situations, representing a specific technique used to enhance the learning experience of the participants.",
+        "passages": [
+            "novice educators reported benefitting most from exposure to...simulated teaching encounters"
+        ],
+        "confidence_score": 0.88
+    },
+    "group debriefing": {
+        "reasoning": "Group debriefing is a method of reflection and discussion following teaching experiences, serving as a specific approach to facilitate learning and improvement among novice educators.",
+        "passages": [
+            "novice educators reported benefitting most from exposure to...group debriefing as they learned to become educators."
+        ],
+        "confidence_score": 0.87
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "Sexual Experiences Survey-Short Form Victimization (SES-SFV)",
+        "Rosenberg Self-Esteem Scale"
+    ],
+    "Sexual Experiences Survey-Short Form Victimization (SES-SFV)": {
+        "reasoning": "The Sexual Experiences Survey-Short Form Victimization (SES-SFV) is a specific tool used to measure sexual victimization experiences, which is a methodological approach for collecting data on verbal coercion.",
+        "passages": [
+            "the two verbal coercion items included in the latest version of the most popular measure of sexual victimization experience, the Sexual Experiences Survey-Short Form Victimization (SES-SFV; Koss et al.,2007)"
+        ],
+        "confidence_score": 0.95
+    },
+    "Rosenberg Self-Esteem Scale": {
+        "reasoning": "The Rosenberg Self-Esteem Scale is a validated instrument used to assess self-esteem levels among participants, serving as a methodological approach for evaluating the relationship between verbal coercion and self-esteem.",
+        "passages": [
+            "Undergraduate women (n = 479) completed the Rosenberg Self-Esteem Scale and the SES-SFV."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "methods": [
+        "zebrafish model",
+        "transdermal absorption",
+        "hyperglycemia induction",
+        "60 mM D-glucose treatment"
+    ],
+    "zebrafish model": {
+        "reasoning": "The zebrafish model is a specific animal model used in this research to study diabetic complications, making it a defined methodological approach.",
+        "passages": [
+            "Zebrafish (Danio rerio) are an emerging animal model used to study a number of metabolic disorders, including diabetes.",
+            "We present a novel model of diabetic peripheral neuropathy in zebrafish in which the integrity of the peripheral nerve is dysregulated following the induction of hyperglycemia."
+        ],
+        "confidence_score": 0.9
+    },
+    "transdermal absorption": {
+        "reasoning": "Transdermal absorption refers to the method by which the zebrafish larvae are utilized to extend the period of hyperglycemia, indicating a specific technique applied in the study.",
+        "passages": [
+            "taking advantage of the transdermal absorption abilities of zebrafish larvae to extend the period of hyperglycemia."
+        ],
+        "confidence_score": 0.85
+    },
+    "hyperglycemia induction": {
+        "reasoning": "Hyperglycemia induction describes the process used to create a hyperglycemic state in the zebrafish model, which is a crucial methodological step in the research.",
+        "passages": [
+            "following the ablation of the insulin-producing beta-cells of the pancreas (and subsequent hyperglycemia)",
+            "following 5 days of 60 mM D-glucose treatment"
+        ],
+        "confidence_score": 0.9
+    },
+    "60 mM D-glucose treatment": {
+        "reasoning": "The treatment with 60 mM D-glucose is a specific experimental procedure used to induce hyperglycemia in the zebrafish model, thus representing a defined method.",
+        "passages": [
+            "Following 5 days of 60 mM D-glucose treatment, we observed motor axon defasciculation, disturbances in perineurial glia sheath formation, decreased myelination of motor axons, and sensory neuron mislocalization."
+        ],
+        "confidence_score": 0.95
+    }
+}

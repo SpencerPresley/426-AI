@@ -1,0 +1,30 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities.",
+            "meaning": "The research investigates how managers' perceptions of employees' commitment to the organization influence their evaluations of the employees' career advancement prospects.",
+            "reasoning": "The sentence clearly states the focus of the study, which is the relationship between perceived organizational commitment and career growth assessments.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization.",
+            "meaning": "The study used data from 161 pairs of legal secretaries and their managers and found that managers rely on employees' attitudes and behaviors, such as extra-role performance and work engagement, to gauge their emotional commitment to the organization.",
+            "reasoning": "The sentence describes the sample size and the key findings, specifically how managers form their perceptions of employees' commitment.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities.",
+            "meaning": "Employees who were seen as highly committed to the organization were given better opportunities for both the substance and structure of their career growth.",
+            "reasoning": "The sentence explains the outcome for employees perceived as highly committed, linking their perceived commitment to improved career growth opportunities.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+            "meaning": "The connection between managers' views of employees' organizational commitment and their career growth opportunities was more pronounced for employees who were also seen as highly dedicated to their own careers.",
+            "reasoning": "The sentence highlights an additional finding that the impact of perceived organizational commitment on career growth is influenced by the employees' own career commitment.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The study explores how managers' perceptions of employees' organizational commitment, influenced by employees' attitudes and behaviors, affect the employees' career growth opportunities, with a stronger effect observed for those also highly committed to their careers.",
+    "detailed_summary": "The research investigates the impact of perceived organizational commitment on managers' evaluations of employees' career growth opportunities. Using a paired sample of 161 legal secretaries and their managers, the study found that managers rely on employees' attitudes and behaviors, such as strong extra-role performance and enhanced work engagement, to assess their emotional commitment to the organization. Employees perceived as highly committed to the organization were given better content and structural career growth opportunities. Additionally, the relationship between managers' perceptions of organizational commitment and career growth opportunities was stronger for employees who were also seen as highly committed to their own careers."
+}

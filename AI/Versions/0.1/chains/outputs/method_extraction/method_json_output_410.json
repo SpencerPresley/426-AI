@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "multi-method investigation",
+        "qualitative exploration",
+        "experiments",
+        "survey"
+    ],
+    "multi-method investigation": {
+        "reasoning": "Multi-method investigation indicates the use of various research methods to gain a comprehensive understanding of the phenomenon, which is a methodological approach.",
+        "passages": [
+            "this phenomenon warranted an in-depth, multi-method investigation"
+        ],
+        "confidence_score": 0.9
+    },
+    "qualitative exploration": {
+        "reasoning": "Qualitative exploration refers to the specific method employed to gather in-depth insights into employees' feelings and experiences regarding customer deviant behavior.",
+        "passages": [
+            "The qualitative approach probes employees' feelings about and identifies categories of CDB in retail service settings"
+        ],
+        "confidence_score": 0.85
+    },
+    "experiments": {
+        "reasoning": "Experiments are a method of empirical testing used in the research to validate the developed typology of guardianship policies, constituting a specific research technique.",
+        "passages": [
+            "substantiated and extended via three experiments"
+        ],
+        "confidence_score": 0.88
+    },
+    "survey": {
+        "reasoning": "Survey refers to the method of data collection used to gather quantitative data regarding employees' perceptions and experiences, serving as a systematic approach to research.",
+        "passages": [
+            "extended via three experiments and a survey"
+        ],
+        "confidence_score": 0.87
+    }
+}

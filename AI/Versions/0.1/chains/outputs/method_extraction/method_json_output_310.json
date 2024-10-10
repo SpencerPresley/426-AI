@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "genetic confirmation",
+        "surveys"
+    ],
+    "genetic confirmation": {
+        "reasoning": "Genetic confirmation refers to the specific method used to validate the identity of the captured bat, indicating a systematic approach to identifying the species.",
+        "passages": [
+            "we report the first ever capture and genetic confirmation of an adult male Northern Long-eared Bat"
+        ],
+        "confidence_score": 0.9
+    },
+    "surveys": {
+        "reasoning": "Surveys are a method mentioned for data collection, indicating the systematic approach to assess the presence and distribution of the Northern Long-eared Bat along the Atlantic Coastal Plain.",
+        "passages": [
+            "further surveys are needed along the Atlantic Coastal Plain to determine if this region is being increasingly utilized by this species"
+        ],
+        "confidence_score": 0.85
+    }
+}

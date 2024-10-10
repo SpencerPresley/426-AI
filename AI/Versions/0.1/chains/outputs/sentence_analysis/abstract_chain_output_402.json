@@ -1,0 +1,42 @@
+{
+    "sentences": [
+        {
+            "sentence": "This meta-analysis found that the emotional intelligence-organizational citizenship behavior relationship is stronger in long-term oriented and restraint cultures.",
+            "meaning": "The study indicates that the connection between emotional intelligence and organizational citizenship behavior is more pronounced in cultures that prioritize long-term goals and exhibit restraint.",
+            "reasoning": "The terms 'long-term oriented' and 'restraint cultures' suggest cultural dimensions that influence how emotional intelligence affects behavior in organizational contexts.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, this relationship does not differ between individualistic and collectivistic cultures, masculine and feminine cultures, high uncertainty avoidance and low uncertainty avoidance cultures, and high power distance and low power distance cultures.",
+            "meaning": "The study found that the emotional intelligence-organizational citizenship behavior relationship is consistent regardless of whether a culture is individualistic or collectivistic, masculine or feminine, or varies in uncertainty avoidance or power distance.",
+            "reasoning": "The use of 'however' indicates a contrast to the previous sentence, suggesting that while there are cultural influences, certain cultural dimensions do not affect this specific relationship.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The emotional intelligence-counterproductive work behavior relationship is stronger in collectivistic, feminine, high uncertainty avoidance, high power distance, long-term oriented, and restraint cultures.",
+            "meaning": "The research shows that the link between emotional intelligence and counterproductive work behavior is more significant in cultures that are collectivistic, feminine, and have high levels of uncertainty avoidance and power distance, as well as those that are long-term oriented and exhibit restraint.",
+            "reasoning": "This sentence mirrors the structure of the previous one, indicating that specific cultural traits amplify the relationship between emotional intelligence and negative workplace behaviors.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Emotional intelligence-organizational citizenship behavior/counterproductive work behavior relationships are mediated by both state positive affect and state negative affect.",
+            "meaning": "The relationships between emotional intelligence and both organizational citizenship behavior and counterproductive work behavior are influenced by individuals' current emotional states, both positive and negative.",
+            "reasoning": "The term 'mediated by' suggests that the emotional states play a crucial role in how emotional intelligence impacts these behaviors, highlighting the complexity of the relationship.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Human resource development professionals from cultures where the effects of emotional intelligence are stronger are especially recommended to hire emotionally intelligent employees and/or provide emotional intelligence training to stimulate organizational citizenship behavior and to restrain counterproductive work behavior.",
+            "meaning": "HR professionals in cultures with a pronounced effect of emotional intelligence on behavior are advised to prioritize hiring emotionally intelligent individuals and to offer training in emotional intelligence.",
+            "reasoning": "The recommendation for HR practices indicates practical implications of the study's findings, suggesting that fostering emotional intelligence can enhance positive workplace behaviors.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Although there are important cross-cultural differences, emotional intelligence universally encourages organizational citizenship behavior and almost universally diminishes counterproductive work behavior across cultures.",
+            "meaning": "Despite cultural variations, emotional intelligence is generally beneficial for promoting positive behaviors and reducing negative behaviors in the workplace across different cultures.",
+            "reasoning": "The phrase 'universally encourages' indicates a strong, overarching trend that emotional intelligence has positive effects, regardless of cultural context.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the influence of emotional intelligence on workplace behaviors across different cultural contexts, highlighting the varying strengths of these relationships and providing recommendations for HR practices.",
+    "detailed_summary": "This meta-analysis explores how emotional intelligence affects organizational citizenship behavior and counterproductive work behavior across various cultural dimensions. It finds that the emotional intelligence-organizational citizenship behavior relationship is particularly strong in long-term oriented and restraint cultures, while remaining consistent across individualistic and collectivistic cultures, as well as other cultural dimensions like power distance and uncertainty avoidance. Conversely, the emotional intelligence-counterproductive work behavior relationship is more pronounced in collectivistic, feminine, and cultures with high uncertainty avoidance and power distance. Both relationships are mediated by individuals' positive and negative emotional states. The study recommends that HR professionals in cultures where emotional intelligence has a stronger effect should focus on hiring emotionally intelligent employees and offering emotional intelligence training. Overall, the findings suggest that emotional intelligence broadly promotes positive workplace behaviors and mitigates negative ones, despite significant cross-cultural differences."
+}

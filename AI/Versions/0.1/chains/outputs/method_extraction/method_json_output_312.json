@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "citizen science observations",
+        "iNaturalist observations"
+    ],
+    "citizen science observations": {
+        "reasoning": "Citizen science observations refer to the involvement of the public in collecting data about the mourning gecko, which is a specific approach to gathering information on non-native species.",
+        "passages": [
+            "the utility of citizen science observations for documenting the spread of non-native reptiles"
+        ],
+        "confidence_score": 0.9
+    },
+    "iNaturalist observations": {
+        "reasoning": "iNaturalist observations represent a specific platform used for collecting and documenting sightings of the mourning gecko, thus serving as a method for data collection.",
+        "passages": [
+            "concomitant with citizen science observations on iNaturalist",
+            "An additional iNaturalist observation is presented"
+        ],
+        "confidence_score": 0.85
+    }
+}

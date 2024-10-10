@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "hypothesis testing",
+        "two-choice test",
+        "three-choice tests"
+    ],
+    "hypothesis testing": {
+        "reasoning": "Hypothesis testing is a method employed to evaluate the validity of the proposed hypothesis regarding female tungara frogs' responses to male advertisement calls in different noise conditions.",
+        "passages": [
+            "We tested the hypothesis that female tungara frogs' responses to attractive male advertisement calls are improved in noise when a visual signal component is added to the available choices."
+        ],
+        "confidence_score": 0.9
+    },
+    "two-choice test": {
+        "reasoning": "The two-choice test is a specific experimental method used to assess female preferences for attractive calls in the presence of noise, allowing for controlled comparisons between two options.",
+        "passages": [
+            "In a two-choice test, the presence of noise did not reduce female preferences for attractive calls."
+        ],
+        "confidence_score": 0.85
+    },
+    "three-choice tests": {
+        "reasoning": "The three-choice tests represent another experimental method used to evaluate female responses to attractive calls in more complex decision-making scenarios, providing insights into the effects of noise and visual components.",
+        "passages": [
+            "In three-choice tests, the presence of noise alone reduced female responses to attractive calls and this was not strongly affected by the presence or absence of visual components."
+        ],
+        "confidence_score": 0.85
+    }
+}

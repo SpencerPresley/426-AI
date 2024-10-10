@@ -1,0 +1,54 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "The current investigation was conducted to determine the effect of 2 resistance training models on indices of arterial stiffness in young, healthy women.",
+            "meaning": "The study aims to assess how two different resistance training approaches affect arterial stiffness in a specific demographic.",
+            "reasoning": "The sentence clearly states the purpose of the research, indicating both the subject (young, healthy women) and the focus (arterial stiffness) along with the intervention (resistance training models).",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Twenty-four women, untrained college students, aged 18-22 years were randomized into 1 of 3 groups: control (CON) group (n = 8), high-intensity (HI) resistance exercise group (n = 8), and high-volume (HV) resistance exercise group (n = 8).",
+            "meaning": "The study involved 24 untrained college women aged 18-22, who were divided into three groups for the experiment.",
+            "reasoning": "This sentence provides details on the sample size, characteristics, and the experimental design, specifically the randomization into groups.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Subjects randomized to resistance training groups were required to perform strength training exercises 3-5 days a week for 11 weeks.",
+            "meaning": "Participants in the resistance training groups had to engage in strength training exercises multiple times a week over an 11-week period.",
+            "reasoning": "The sentence outlines the frequency and duration of the training regimen for those in the resistance training groups.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "The exercise regimen consisted of 2-3 sets of 3-8 repetitions (80-90% of 1 repetition maximum [1RM]) for the HI group and 3-4 sets of 10-15 repetitions (50-70% of 1RM) for the HV group.",
+            "meaning": "The specific training protocols were defined for the high-intensity and high-volume groups, detailing the number of sets, repetitions, and intensity.",
+            "reasoning": "This sentence gives precise information about the exercise details for each group, indicating the differences in training methods.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "All subjects were instructed to continue their normal diet and avoid cardiovascular exercise during the study.",
+            "meaning": "Participants were asked to maintain their usual dietary habits and refrain from any cardiovascular workouts throughout the research period.",
+            "reasoning": "This indicates the control measures taken to isolate the effects of resistance training on arterial stiffness.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "After the intervention, there was a significant increase in carotid femoral pulse wave velocity (PWV) (6.39 +/- 0.73 to 8.40 +/- 2.31 m center dot s(-1); p < 0.05) and carotid radial PWV (9.77 +/- 1.74 to 12.58 +/- 2.09 m center dot s(-1); p < 0.05) in the CON group alone.",
+            "meaning": "The control group showed a significant increase in arterial stiffness as measured by pulse wave velocity after the 11-week period.",
+            "reasoning": "This sentence presents the main results of the study regarding changes in arterial stiffness, specifically highlighting the control group's outcomes.",
+            "confidence_score": 0.94
+        },
+        {
+            "sentence": "Both the HI and HV groups increased their maximum squat (36.6 +/- 7.9 vs. 41.3 +/- 31.8 percent change; p < 0.05), bench press (34.4 +/- 12.6 vs. 23.4 +/- 11.1 percent change; p < 0.05), and seated row (22.0 +/- 12.6 vs. 21.9 +/- 12.5 percent change; p < 0.05), respectively.",
+            "meaning": "The high-intensity and high-volume groups both experienced significant improvements in their strength performance across various exercises.",
+            "reasoning": "This sentence summarizes the performance gains in strength training for both experimental groups, providing specific data on their progress.",
+            "confidence_score": 0.91
+        },
+        {
+            "sentence": "Our findings support the use of resistance training exercise without undue impact on vascular compliance in otherwise healthy women.",
+            "meaning": "The results suggest that resistance training can be beneficial for strength without negatively affecting vascular health in healthy women.",
+            "reasoning": "This concluding statement reflects the overall implications of the study's findings regarding resistance training and its effects on vascular compliance.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates the effects of different resistance training models on arterial stiffness in young women, highlighting significant findings related to strength improvements and vascular health.",
+    "detailed_summary": "This study assessed the impact of two resistance training models on arterial stiffness in 24 untrained college women aged 18-22. Participants were randomly assigned to one of three groups: a control group or one of two resistance training groups (high-intensity and high-volume), with training conducted 3-5 days per week for 11 weeks. The high-intensity group performed fewer repetitions at a higher percentage of their one-repetition maximum, while the high-volume group did more repetitions at a lower intensity. All participants maintained their usual diet and avoided cardiovascular exercises. Results indicated that the control group experienced significant increases in arterial stiffness, while both resistance training groups showed notable improvements in strength across various exercises. The study concludes that resistance training can enhance strength without adversely affecting vascular compliance in healthy women."
+}

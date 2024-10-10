@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "Body-Esteem Scale",
+        "Rosenberg Self-Esteem Scale",
+        "Sexual Experiences Survey"
+    ],
+    "Body-Esteem Scale": {
+        "reasoning": "The Body-Esteem Scale is a specific measurement tool used to assess participants' body-esteem, making it a method of data collection in the study.",
+        "passages": [
+            "Undergraduate women (n = 1,005) completed the Body-Esteem Scale"
+        ],
+        "confidence_score": 0.95
+    },
+    "Rosenberg Self-Esteem Scale": {
+        "reasoning": "The Rosenberg Self-Esteem Scale is a standardized questionnaire used to evaluate self-esteem, representing a method for measuring this psychological construct.",
+        "passages": [
+            "Undergraduate women (n = 1,005) completed the Rosenberg Self-Esteem Scale"
+        ],
+        "confidence_score": 0.95
+    },
+    "Sexual Experiences Survey": {
+        "reasoning": "The Sexual Experiences Survey is a specific tool used to gather data regarding experiences of sexual assault, thus serving as a method for data collection in the research.",
+        "passages": [
+            "Undergraduate women (n = 1,005) completed the Sexual Experiences Survey"
+        ],
+        "confidence_score": 0.95
+    }
+}

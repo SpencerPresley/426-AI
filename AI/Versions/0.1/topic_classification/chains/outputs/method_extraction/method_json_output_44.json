@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "multi-dimensional classification",
+        "process-based writing assignments"
+    ],
+    "multi-dimensional classification": {
+        "reasoning": "Multi-dimensional classification refers to the specific method of categorizing writing assignments based on defined criteria, which indicates a systematic approach to organizing the information.",
+        "passages": [
+            "This article provides a multi-dimensional classification of process-based writing assignments that are categorized according to two criteria: writing skill and economic understanding"
+        ],
+        "confidence_score": 0.85
+    },
+    "process-based writing assignments": {
+        "reasoning": "Process-based writing assignments are a specific type of assignment mentioned in the abstract, indicating a methodological approach to teaching writing in economics.",
+        "passages": [
+            "This article provides a multi-dimensional classification of process-based writing assignments"
+        ],
+        "confidence_score": 0.8
+    }
+}

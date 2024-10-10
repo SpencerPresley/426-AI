@@ -1,0 +1,22 @@
+{
+    "methods": [
+        "Exceptionally Strong Warranty (ESW)",
+        "Third-Party Organization Endorsement (TPOE)"
+    ],
+    "Exceptionally Strong Warranty (ESW)": {
+        "reasoning": "Exceptionally Strong Warranty (ESW) is a specific technique used in the research to influence consumer perceptions of quality, making it a methodological approach employed by the researchers.",
+        "passages": [
+            "an unfamiliar brand can successfully use an Exceptionally Strong Warranty (ESW) as a quality signal under some conditions.",
+            "When used in an offer alone, ESW results in more favorable perceptions of quality than a weaker market-standard warranty"
+        ],
+        "confidence_score": 0.9
+    },
+    "Third-Party Organization Endorsement (TPOE)": {
+        "reasoning": "Third-Party Organization Endorsement (TPOE) is identified as a supporting trusted signal that enhances the effectiveness of the ESW for low knowledge consumers, representing a specific methodological approach.",
+        "passages": [
+            "unless it is accompanied by a supporting trusted signal like Third-Party Organization Endorsement (TPOE).",
+            "the signal needs assistance from a naturally trusted signal like TPOE to be effective for low knowledge consumers"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "qualitative case study",
+        "in-depth semi-structured interviews",
+        "qualitative inductive content analytic approach"
+    ],
+    "qualitative case study": {
+        "reasoning": "A qualitative case study is a specific research design used to explore complex phenomena within their real-life context, which is essential for understanding the nuances of Ayurveda in chronic pain management.",
+        "passages": [
+            "This qualitative case study conducted in-depth semi-structured interviews of Ayurvedic physicians from India (N = 10)"
+        ],
+        "confidence_score": 0.9
+    },
+    "in-depth semi-structured interviews": {
+        "reasoning": "In-depth semi-structured interviews are a specific method of data collection that allows for detailed exploration of participants' experiences and perspectives, which is crucial for gathering rich qualitative data in this study.",
+        "passages": [
+            "conducted in-depth semi-structured interviews of Ayurvedic physicians from India (N = 10)"
+        ],
+        "confidence_score": 0.95
+    },
+    "qualitative inductive content analytic approach": {
+        "reasoning": "A qualitative inductive content analytic approach is a systematic method for analyzing qualitative data, allowing researchers to identify patterns and themes that emerge from the data rather than testing preconceived hypotheses.",
+        "passages": [
+            "and a qualitative inductive content analytic approach."
+        ],
+        "confidence_score": 0.85
+    }
+}

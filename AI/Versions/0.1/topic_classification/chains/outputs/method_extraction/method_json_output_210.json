@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "panel data analysis",
+        "empirical estimation"
+    ],
+    "panel data analysis": {
+        "reasoning": "Panel data analysis refers to the method of combining data across multiple countries and over time, allowing for the examination of the relationship between entry regulations and income inequality across different contexts.",
+        "passages": [
+            "we combine entry regulations data from the World Bank's Doing Business Index with various measures of income inequality, including Gini coefficients and income shares to form a panel of 115 countries"
+        ],
+        "confidence_score": 0.9
+    },
+    "empirical estimation": {
+        "reasoning": "Empirical estimation is the method used to quantitatively assess the relationship between entry regulations and income inequality, providing a systematic approach to analyze real-world data.",
+        "passages": [
+            "To estimate this relationship empirically",
+            "we find that countries with more stringent entry regulations tend to experience more income inequality"
+        ],
+        "confidence_score": 0.85
+    }
+}

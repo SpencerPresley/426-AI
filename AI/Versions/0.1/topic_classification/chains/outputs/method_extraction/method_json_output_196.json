@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "MangPrim-21 database creation",
+        "mapping and measuring interactions"
+    ],
+    "MangPrim-21 database creation": {
+        "reasoning": "The creation of the MangPrim-21 database is a specific methodological approach used to gather and organize data on interactions between non-human primates and mangrove forests, serving as a foundational tool for the research.",
+        "passages": [
+            "To counter this, we created the MangPrim-21 database to map and measure the locations of interactions between all non-human primates and all mangrove forests globally."
+        ],
+        "confidence_score": 0.95
+    },
+    "mapping and measuring interactions": {
+        "reasoning": "Mapping and measuring interactions refers to the specific processes employed to analyze the spatial relationships between non-human primates and mangrove forests, which is central to the research objectives.",
+        "passages": [
+            "to map and measure the locations of interactions between all non-human primates and all mangrove forests globally."
+        ],
+        "confidence_score": 0.9
+    }
+}

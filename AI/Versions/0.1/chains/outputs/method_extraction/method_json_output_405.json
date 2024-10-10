@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "panel data analysis"
+    ],
+    "panel data analysis": {
+        "reasoning": "Panel data analysis is a specific method used to analyze data collected over time across multiple subjects (in this case, countries), allowing the researchers to assess the impact of variables like startup regulations and institutional quality on new business activity.",
+        "passages": [
+            "in a panel of 119 countries between 2001 and 2012"
+        ],
+        "confidence_score": 0.9
+    }
+}

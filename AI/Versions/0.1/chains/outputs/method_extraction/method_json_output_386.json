@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "literature review",
+        "categorization",
+        "pedagogical frameworks",
+        "measures and perceptions"
+    ],
+    "literature review": {
+        "reasoning": "The literature review is a systematic method used to analyze existing scholarly journal articles related to human rights discourse in social work education, providing a foundation for the study's findings.",
+        "passages": [
+            "This paper presents a review of scholarly journal articles that explore the human rights discourse related to social work education in the United States."
+        ],
+        "confidence_score": 0.95
+    },
+    "categorization": {
+        "reasoning": "Categorization refers to the method of organizing findings into distinct groups based on themes that emerged from the literature, which is a specific approach used in the analysis.",
+        "passages": [
+            "Upon reviewing the literature, the following categories emerged: (1) general articles on integrating human rights into social work education; (2) pedagogical frameworks, models, and examples of incorporating human rights into social work education; and (3) measures and perceptions related to assessing the integration of human rights in social work education."
+        ],
+        "confidence_score": 0.9
+    },
+    "pedagogical frameworks": {
+        "reasoning": "Pedagogical frameworks are specific methods or approaches for integrating human rights into social work education, representing a technique for teaching and curriculum design.",
+        "passages": [
+            "(2) pedagogical frameworks, models, and examples of incorporating human rights into social work education"
+        ],
+        "confidence_score": 0.85
+    },
+    "measures and perceptions": {
+        "reasoning": "Measures and perceptions refer to the methods used to assess the integration of human rights into social work education, indicating a systematic approach to evaluation.",
+        "passages": [
+            "(3) measures and perceptions related to assessing the integration of human rights in social work education."
+        ],
+        "confidence_score": 0.8
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "membrane inlet mass spectrometry",
+        "qPCR",
+        "NO3- amendment"
+    ],
+    "membrane inlet mass spectrometry": {
+        "reasoning": "Membrane inlet mass spectrometry is a specific technique used to measure ambient and potential denitrification rates, making it a clear methodological approach in the research.",
+        "passages": [
+            "Ambient and potential denitrification rates were measured using membrane inlet mass spectrometry"
+        ],
+        "confidence_score": 0.95
+    },
+    "qPCR": {
+        "reasoning": "qPCR is a method used to compare the denitrifying bacterial communities by analyzing specific genes, which is a defined methodological process in this study.",
+        "passages": [
+            "the denitrifying bacterial communities were compared using qPCR with genes nirK, nirS, nosZ-I, and nosZ-II"
+        ],
+        "confidence_score": 0.9
+    },
+    "NO3- amendment": {
+        "reasoning": "The NO3- amendment refers to a specific experimental procedure used to assess the response of denitrifying communities to nutrient pulses, representing a method of manipulating conditions in the study.",
+        "passages": [
+            "potential rates increased almost 10-fold after a NO3- amendment"
+        ],
+        "confidence_score": 0.85
+    }
+}

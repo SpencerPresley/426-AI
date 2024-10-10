@@ -1,0 +1,60 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Habitats with spatial variation in food availability, predation risk, and hunting pressure allow us to study how animals resolve the trade-off between food searching and predator avoidance.",
+            "meaning": "The study examines how different habitats affect the balance animals must strike between finding food and avoiding predators.",
+            "reasoning": "The sentence introduces the idea that variations in environmental factors create opportunities to analyze animal behavior regarding food and safety.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We investigated the influence of food availability, predation risk, and the perceived predation risk on habitat use by a primate living under high hunting pressure, the yellow-breasted capuchin monkeys, Sapajus xanthosternos, at Una Biological Reserve (ReBio Una).",
+            "meaning": "The research focuses on how food and predation risks affect the habitat choices of yellow-breasted capuchin monkeys in an area with significant hunting threats.",
+            "reasoning": "This sentence specifies the subject of the study (the capuchin monkeys) and the context (high hunting pressure), clarifying the research's focus.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We hypothesized that the hunting pressure occurring in the capuchins' home range would favor predator avoidance to the detriment of searching for food.",
+            "meaning": "The researchers believed that the threat of hunting would lead the monkeys to prioritize avoiding predators over foraging for food.",
+            "reasoning": "The hypothesis indicates a predicted behavioral response to environmental pressures, suggesting a specific relationship between hunting pressure and foraging behavior.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We characterized a set of covariates related to resource availability (fruit and invertebrate biomasses, feeding on dispersed and clumped food items, sleeping sites), perceived predation risk (alarm calls given to terrestrial and aerial predators, silent group movement, and vigilance behavior), and actual predation risk (evidence of hunting) and estimated their effects on how one group of capuchin monkeys uses its habitat.",
+            "meaning": "The study defined various factors that could influence habitat use, including food resources and different types of predation risk, and assessed their impacts on the monkeys' behavior.",
+            "reasoning": "This sentence details the methodology, describing how the researchers quantified and analyzed various environmental factors affecting the monkeys.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The group divides its time among three major forest types within their home range: agroforest, mature, and secondary.",
+            "meaning": "The capuchin monkeys spend time in three different types of forest environments.",
+            "reasoning": "This sentence provides context about the habitat types available to the monkeys and implies that these habitats may influence their behavior.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Our results suggest that the actual and perceived risk of hunting by humans, as well as the perceived predation risk by both terrestrial and aerial predators, were significant determinants of capuchin monkeys' space use.",
+            "meaning": "The findings indicate that both real and perceived threats from humans and other predators significantly affect how the monkeys utilize their habitat.",
+            "reasoning": "This sentence summarizes key findings, highlighting the importance of predation risks in influencing habitat use.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Yellow-breasted capuchin monkeys' space use was negatively related to the risk of hunting by humans (actual evidence and silent behavior), the perceived risk of predation by both aerial and terrestrial predators, and the presence of sleeping sites.",
+            "meaning": "The monkeys tended to avoid areas with higher risks of human hunting and predation, as well as areas lacking suitable sleeping sites.",
+            "reasoning": "This sentence presents specific correlations found in the study, reinforcing the idea that risk factors influence habitat selection.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Capuchin monkeys' use of space was not related to the biomass of fruits in the habitat, and the biomass of invertebrates had a very low positive effect.",
+            "meaning": "The availability of fruit did not significantly influence the monkeys' habitat use, and invertebrate availability had minimal impact.",
+            "reasoning": "This sentence contrasts the previous findings about predation risk with the findings about food availability, emphasizing the primary role of safety over food in habitat selection.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We confirmed our prediction that in a habitat with high hunting pressure, the risk of predation, both perceived and actual, had a more significant impact on how yellow-breasted capuchins used space than did food availability.",
+            "meaning": "The study validated their hypothesis that predation risk outweighs food availability in influencing the monkeys' habitat use in high hunting pressure areas.",
+            "reasoning": "This concluding sentence summarizes the main finding of the research, reinforcing the central theme of predation risk's dominance over food availability.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates how yellow-breasted capuchin monkeys balance food searching and predator avoidance in an environment with significant hunting pressure, revealing that predation risk is a more critical factor in habitat use than food availability.",
+    "detailed_summary": "This research explores the habitat use of yellow-breasted capuchin monkeys in the Una Biological Reserve, focusing on how food availability and predation risks influence their behavior. The researchers hypothesized that high hunting pressure would lead these monkeys to prioritize avoiding predators over foraging for food. They characterized various factors affecting habitat use, including resource availability and both perceived and actual predation risks. The findings indicated that the monkeys' habitat use was significantly influenced by the risks posed by human hunting and other predators, while food availability, particularly fruit biomass, had little effect. Ultimately, the study confirmed that in high hunting pressure environments, the risks of predation have a more substantial impact on the monkeys' space use than the availability of food resources."
+}

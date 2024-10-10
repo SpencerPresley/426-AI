@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "online survey",
+        "self-efficacy examination"
+    ],
+    "online survey": {
+        "reasoning": "An online survey is a specific method used to collect data from health educators regarding their self-efficacy during the pandemic. It describes the process of data collection employed in the research.",
+        "passages": [
+            "an online survey sent to health educators"
+        ],
+        "confidence_score": 0.95
+    },
+    "self-efficacy examination": {
+        "reasoning": "Self-efficacy examination refers to the specific approach used to assess the confidence levels of health educators in various professional areas. This method focuses on understanding the impact of the pandemic on their professional practice.",
+        "passages": [
+            "Seven aspects of self-efficacy in professional practice were examined"
+        ],
+        "confidence_score": 0.9
+    }
+}

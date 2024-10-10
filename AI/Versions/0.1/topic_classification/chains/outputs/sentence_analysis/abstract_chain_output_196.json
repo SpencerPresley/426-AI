@@ -1,0 +1,66 @@
+{
+    "sentences": [
+        {
+            "sentence": "Global and spatially explicit information about the interaction between habitat and wildlife species is critical to enhancing conservation efforts.",
+            "meaning": "The understanding of how wildlife interacts with their habitats on a global scale is essential for improving conservation strategies.",
+            "reasoning": "The sentence highlights the importance of detailed information regarding wildlife and habitats for effective conservation.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Despite the recognized importance of mangrove forests to non-human primates, the relationship between the two lacks understanding.",
+            "meaning": "Although mangrove forests are known to be important for non-human primates, there is insufficient knowledge about how they interact.",
+            "reasoning": "This indicates a gap in research regarding the specific interactions between these two ecological components.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "To counter this, we created the MangPrim-21 database to map and measure the locations of interactions between all non-human primates and all mangrove forests globally.",
+            "meaning": "In response to the lack of understanding, a database named MangPrim-21 was developed to track and analyze the interactions between non-human primates and mangrove forests worldwide.",
+            "reasoning": "This sentence explains the purpose of the database as a solution to the identified gap in knowledge.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We report our findings across the global, national, and local scales for all inventoried non-human primates and all inventoried mangrove forests.",
+            "meaning": "The results of the study are presented at different scales: global, national, and local, covering all documented non-human primates and mangrove forests.",
+            "reasoning": "This indicates a comprehensive approach to presenting the research findings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Globally, we find that half of all non-primates potentially use mangrove forests, and more than half of the global mangrove forest falls within the delineated range of at least one non-human primate species.",
+            "meaning": "The study reveals that approximately 50% of non-primates may utilize mangrove forests, and over 50% of mangrove areas are within the habitat range of at least one non-human primate.",
+            "reasoning": "This provides statistical insights into the relationship between non-primates and mangrove forests.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Nationally, we find that Indonesia, Madagascar, Brazil, Cameroon, and Malaysia likely have the most non-human primate and mangrove forest interactions.",
+            "meaning": "The research identifies specific countries where interactions between non-human primates and mangrove forests are most prevalent.",
+            "reasoning": "This highlights key geographical areas of interest for further study and conservation efforts.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "At the subnational level, we find that several discrete locations in Kalimantan are critical to both mangrove forests and non-human primates.",
+            "meaning": "Within Kalimantan, certain specific areas are essential for the conservation of both mangrove forests and non-human primates.",
+            "reasoning": "This suggests targeted regions for conservation action at a more localized level.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The MangPrim-21 database provides a globally consistent and locally applicable database of non-human primate and mangrove forest interactions.",
+            "meaning": "The MangPrim-21 database offers a standardized yet adaptable resource for studying the interactions between non-human primates and mangrove forests worldwide.",
+            "reasoning": "This emphasizes the utility of the database for both global and local research applications.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The results presented have broader implications for non-human primate and mangrove conservation and global actions to protect both.",
+            "meaning": "The findings of the study are significant for the conservation of both non-human primates and mangrove forests, suggesting that actions should be taken on a global scale.",
+            "reasoning": "This indicates that the research has wider relevance beyond the immediate findings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Additionally, our results raise questions about the idea that non-human primates primarily use mangrove forests as a refuge from human encroachment and habitat degradation.",
+            "meaning": "The study challenges the assumption that mangrove forests serve mainly as safe havens for non-human primates escaping human threats.",
+            "reasoning": "This suggests a need for further investigation into the role of mangrove forests in the lives of non-human primates.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research focuses on the interactions between non-human primates and mangrove forests, highlighting the creation of a database to better understand these relationships and their implications for conservation.",
+    "detailed_summary": "The abstract discusses the critical need for detailed information on the interactions between wildlife species and their habitats, specifically focusing on non-human primates and mangrove forests. Despite the recognized importance of mangrove forests for these primates, there is a significant gap in understanding their relationship. To address this, the researchers developed the MangPrim-21 database, which maps and measures interactions globally. The findings indicate that a substantial proportion of non-primates utilize mangrove forests, and many mangrove areas overlap with the habitats of non-human primates. Key countries such as Indonesia, Madagascar, Brazil, Cameroon, and Malaysia show the highest levels of interaction, with specific locations in Kalimantan identified as critical. The database serves as a valuable tool for conservation efforts, with implications for the protection of both non-human primates and mangrove forests. The research also questions existing assumptions about the role of mangrove forests as mere refuges for these primates, suggesting a more complex relationship that warrants further investigation."
+}

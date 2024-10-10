@@ -1,7 +1,7 @@
 
 from pydantic import BaseModel
 from typing import List, Dict, Union
-from langchain_core.output_parsers import JsonOutputParser
+from langchain_core.output_parsers import JsonOutputParser, PydanticOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain.prompts import PromptTemplate, ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 
@@ -61,7 +61,7 @@ sentence_analysis_json_example = """
 """
 
 json_structure = """
-    {
+    "{
         "summary": "Detailed summary of the abstract",
         "reasoning": "Detailed reasoning for the summary",
         "feedback": {
@@ -151,6 +151,7 @@ top_classification_system_message = PromptTemplate(
 )
 
 top_classification_parser = JsonOutputParser(pydantic_object=TopClassificationOutput)
+pytdantic_parser = PydanticOutputParser(pydantic_object=TopClassificationOutput)
 
 from langchain.prompts import PromptTemplate
 

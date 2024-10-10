@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "data collection",
+        "psychometric instruments",
+        "data analysis"
+    ],
+    "data collection": {
+        "reasoning": "Data collection is a method because it describes the process of gathering information from participants, which is essential for conducting the research.",
+        "passages": [
+            "We collected data from 443 accounting majors at four geographically disbursed U.S. universities"
+        ],
+        "confidence_score": 0.95
+    },
+    "psychometric instruments": {
+        "reasoning": "Psychometric instruments are specific tools used for measuring psychological variables, making them a method for assessing resilience and other psychological factors in the study.",
+        "passages": [
+            "using a battery of psychometric instruments"
+        ],
+        "confidence_score": 0.9
+    },
+    "data analysis": {
+        "reasoning": "Data analysis refers to the method used to examine the relationships between various factors such as role stressors and psychological health, which is crucial for interpreting the collected data.",
+        "passages": [
+            "we analyzed the relations between role stressors, psychological health, burnout, and departure intentions"
+        ],
+        "confidence_score": 0.92
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "There is a need for more research on the experiences of affirming parents of pre-adolescent transgender and gender non-conforming (TGNC) children.",
+            "meaning": "The authors highlight a gap in existing research regarding the experiences of parents who support transgender and gender non-conforming children who are not yet teenagers.",
+            "reasoning": "The phrase 'need for more research' indicates that the current literature is insufficient, and 'affirming parents' specifies the focus on supportive parents of TGNC children.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This study explores how parents conceptualized advocacy roles.",
+            "meaning": "The study aims to understand how parents perceive and define their roles as advocates for their TGNC children.",
+            "reasoning": "The word 'explores' suggests an investigative approach into parents' thoughts and beliefs about advocacy.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Eleven parents of TGNC children age 13 and under completed semi-structured phone interviews.",
+            "meaning": "The research involved interviews with eleven parents whose children are 13 years old or younger and identify as TGNC.",
+            "reasoning": "The sentence provides specific details about the sample size, participant characteristics, and the method of data collection.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Ten parents considered themselves advocates, with digital advocacy being the most common.",
+            "meaning": "Out of the eleven parents, ten identified as advocates for their children, primarily using digital platforms for advocacy.",
+            "reasoning": "The phrase 'considered themselves advocates' indicates self-identification, and 'digital advocacy' implies the use of online resources or platforms for support.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Advocacy motivations centered around parental concerns.",
+            "meaning": "The reasons for advocacy among these parents were primarily driven by their concerns for their children.",
+            "reasoning": "The term 'motivations' suggests underlying reasons, and 'parental concerns' indicates a protective or supportive instinct.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Parents were divided on whether advocacy helped or had no impact on the parent-child relationship.",
+            "meaning": "There was a lack of consensus among parents regarding the effects of their advocacy on their relationship with their children.",
+            "reasoning": "The word 'divided' implies differing opinions, and 'helped or had no impact' suggests uncertainty about the outcomes of their advocacy efforts.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "The largest-shared concern was over the right to privacy.",
+            "meaning": "The primary concern among parents was related to the privacy rights of their TGNC children.",
+            "reasoning": "The phrase 'largest-shared concern' indicates a common issue that many parents felt strongly about.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "These findings have implications for mobilizing parents of TGNC youth as advocates.",
+            "meaning": "The results of the study could inform strategies to encourage and support parents in taking on advocacy roles for TGNC youth.",
+            "reasoning": "The term 'implications' suggests that the findings can be applied to future efforts in advocacy, indicating practical use of the research.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The abstract discusses the need for further understanding of affirming parents' experiences and advocacy roles concerning their pre-adolescent TGNC children.",
+    "detailed_summary": "The research paper emphasizes the necessity for more studies focusing on affirming parents of pre-adolescent transgender and gender non-conforming (TGNC) children. It specifically investigates how these parents view their roles as advocates. The study involved semi-structured phone interviews with eleven parents of TGNC children aged 13 and under. Results indicated that ten out of eleven parents identified as advocates, with a notable emphasis on digital advocacy. Their motivations for advocacy were primarily rooted in concerns for their children's well-being. However, opinions varied on whether this advocacy positively influenced their relationships with their children, highlighting a divide among parents. A significant shared concern among the parents was the issue of privacy rights for TGNC youth. The findings suggest potential strategies for mobilizing and supporting parents of TGNC youth in advocacy efforts."
+}

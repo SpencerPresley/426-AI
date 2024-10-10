@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "cross-matching",
+        "UV matching",
+        "forward modeling"
+    ],
+    "cross-matching": {
+        "reasoning": "Cross-matching refers to the specific method used to combine data from different sources (SDSS Data Release 14 and GALEX photometric catalogue) to ensure the quasars are accurately identified and compared, which is crucial for the integrity of the research.",
+        "passages": [
+            "constructed from data on over 480 000 quasars carefully cross-matched between SDSS Data Release 14 and the final GALEX photometric catalogue"
+        ],
+        "confidence_score": 0.95
+    },
+    "UV matching": {
+        "reasoning": "UV matching is a method that involves determining detection probabilities for the quasars based on their ultraviolet properties, which is essential for analyzing the colour-redshift relationship.",
+        "passages": [
+            "UV matching and detection probabilities are given for all the quasars"
+        ],
+        "confidence_score": 0.9
+    },
+    "forward modeling": {
+        "reasoning": "Forward modeling is a method used to simulate the expected observations based on theoretical quasar spectra, accounting for various factors like intergalactic opacity and intrinsic reddening, which is critical for understanding the observed data.",
+        "passages": [
+            "Quasar template spectra were forward modelled through the GALEX bandpasses, accounting for intergalactic opacity, intrinsic reddening, and continuum slope variations."
+        ],
+        "confidence_score": 0.92
+    }
+}

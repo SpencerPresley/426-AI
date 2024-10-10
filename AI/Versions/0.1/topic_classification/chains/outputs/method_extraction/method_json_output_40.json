@@ -1,0 +1,60 @@
+{
+    "methods": [
+        "case study",
+        "self-study",
+        "internal evaluation",
+        "external evaluation",
+        "NSF site visits",
+        "multi-institutional networking",
+        "facilitated processes"
+    ],
+    "case study": {
+        "reasoning": "A case study is a specific research method that involves an in-depth exploration of a particular instance or example, in this case, the AGEP PROMISE Academy Alliance.",
+        "passages": [
+            "Here we present a case study describing the progress of the NSF-funded Alliances for Graduate Education and the Professoriate (AGEP) PROMISE Academy Alliance"
+        ],
+        "confidence_score": 0.95
+    },
+    "self-study": {
+        "reasoning": "Self-study refers to a method where the program reflects on its own practices to assess and improve its effectiveness, making it a specific methodological approach used in this research.",
+        "passages": [
+            "qualitative lessons learned from self-study"
+        ],
+        "confidence_score": 0.9
+    },
+    "internal evaluation": {
+        "reasoning": "Internal evaluation is a method used to assess the program's processes and outcomes from within the organization, indicating a systematic approach to measuring effectiveness.",
+        "passages": [
+            "qualitative lessons learned from self-study, internal evaluation"
+        ],
+        "confidence_score": 0.85
+    },
+    "external evaluation": {
+        "reasoning": "External evaluation involves assessing the program's impact and effectiveness by outside evaluators, which is a recognized methodological approach to ensure objectivity.",
+        "passages": [
+            "qualitative lessons learned from external evaluation"
+        ],
+        "confidence_score": 0.85
+    },
+    "NSF site visits": {
+        "reasoning": "NSF site visits are a specific method of evaluation where external reviewers assess the program on-site, providing qualitative insights into its implementation and effectiveness.",
+        "passages": [
+            "qualitative lessons learned from NSF site visits"
+        ],
+        "confidence_score": 0.8
+    },
+    "multi-institutional networking": {
+        "reasoning": "Multi-institutional networking is a method that facilitates collaboration and professional development across different institutions, which is essential for achieving the program's goals.",
+        "passages": [
+            "multi-institutional networking and professional development"
+        ],
+        "confidence_score": 0.75
+    },
+    "facilitated processes": {
+        "reasoning": "Facilitated processes refer to structured methods that help transition postdocs into tenure-track positions, indicating a specific procedural approach within the program.",
+        "passages": [
+            "facilitated processes to transition (or 'convert') postdocs into tenure-track positions"
+        ],
+        "confidence_score": 0.8
+    }
+}

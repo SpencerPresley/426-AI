@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "factor structure analysis",
+        "percent-based relative weight calculation"
+    ],
+    "factor structure analysis": {
+        "reasoning": "Factor structure analysis is a method used to identify and validate the underlying dimensions of job performance, which is central to the study's exploration of performance ratings.",
+        "passages": [
+            "the optimal factor structure of job performance includes five dimensions"
+        ],
+        "confidence_score": 0.9
+    },
+    "percent-based relative weight calculation": {
+        "reasoning": "Percent-based relative weight calculation is a method used to assess the relative importance of each performance dimension in determining overall job performance ratings.",
+        "passages": [
+            "the %RW is the highest for task performance in determining job performance, followed by OCB and CWB"
+        ],
+        "confidence_score": 0.85
+    }
+}

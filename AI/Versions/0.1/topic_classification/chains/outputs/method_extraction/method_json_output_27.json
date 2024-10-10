@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "mixed-method research",
+        "survey data collection",
+        "focus groups"
+    ],
+    "mixed-method research": {
+        "reasoning": "Mixed-method research refers to the combination of qualitative and quantitative approaches in the study, indicating a specific methodological framework used to gather and analyze data.",
+        "passages": [
+            "This mixed-method research reports on 10-year outcomes of one hybrid program"
+        ],
+        "confidence_score": 0.9
+    },
+    "survey data collection": {
+        "reasoning": "Survey data collection is a method used to gather quantitative data from participants, which is essential for assessing the outcomes of the program.",
+        "passages": [
+            "Aggregate data from surveys revealed a need for improvements in the organization of program materials"
+        ],
+        "confidence_score": 0.85
+    },
+    "focus groups": {
+        "reasoning": "Focus groups are a qualitative method used to gather detailed insights and opinions from participants, which helps in understanding their experiences and needs.",
+        "passages": [
+            "Aggregate data from surveys and focus groups revealed a need for improvements"
+        ],
+        "confidence_score": 0.8
+    }
+}

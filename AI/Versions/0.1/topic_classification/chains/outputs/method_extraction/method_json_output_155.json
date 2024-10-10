@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "Pythagorean triple preserving matrices",
+        "Fibonacci number construction"
+    ],
+    "Pythagorean triple preserving matrices": {
+        "reasoning": "This keyword represents a specific methodological approach used to create matrices that maintain the properties of Pythagorean triples, indicating a clear technique employed in the research.",
+        "passages": [
+            "construct Pythagorean triple preserving matrices with entries that can also be expressed using Fibonacci numbers"
+        ],
+        "confidence_score": 0.9
+    },
+    "Fibonacci number construction": {
+        "reasoning": "This keyword refers to the method of using Fibonacci numbers to derive entries of Pythagorean triples and matrices, indicating a specific technique for generating numerical values used in the study.",
+        "passages": [
+            "Pythagorean triples whose entries can be expressed using Fibonacci numbers",
+            "entries that can also be expressed using Fibonacci numbers"
+        ],
+        "confidence_score": 0.85
+    }
+}

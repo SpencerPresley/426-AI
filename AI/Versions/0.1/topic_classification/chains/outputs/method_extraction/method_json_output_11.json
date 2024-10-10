@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "detailed recordings",
+        "multimodal models"
+    ],
+    "detailed recordings": {
+        "reasoning": "Detailed recordings refer to the specific method used to capture the acoustic signals and physical attributes of the frogs, which is essential for the analysis of the mating signals.",
+        "passages": [
+            "To address this, we made detailed recordings of calling males, including call amplitude, vocal sac volume and water ripple height, in 54 frogs (2430 calls)."
+        ],
+        "confidence_score": 0.95
+    },
+    "multimodal models": {
+        "reasoning": "Multimodal models are the analytical approach used to predict the mass of calling males, indicating a specific methodological framework employed in the study.",
+        "passages": [
+            "We also found that multimodal models predicted the mass of calling males better than unimodal models."
+        ],
+        "confidence_score": 0.9
+    }
+}

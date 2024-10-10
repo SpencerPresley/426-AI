@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "data collection",
+        "measurement of IT applications maturity",
+        "measurement of management institutional capability",
+        "measurement of process management capability"
+    ],
+    "data collection": {
+        "reasoning": "Data collection refers to the specific process used to gather information from the companies studied, which is essential for the empirical analysis presented in the research.",
+        "passages": [
+            "the authors collect corresponding data from 123 companies in China"
+        ],
+        "confidence_score": 0.95
+    },
+    "measurement of IT applications maturity": {
+        "reasoning": "This refers to the specific method used to quantify the level of maturity of IT applications within the companies, which is a key variable in the study.",
+        "passages": [
+            "Based on reliable and valid measurements of IT applications maturity"
+        ],
+        "confidence_score": 0.9
+    },
+    "measurement of management institutional capability": {
+        "reasoning": "This method involves the assessment of the management institutional capability of the companies, which is crucial for understanding its impact on IT application maturity.",
+        "passages": [
+            "Based on reliable and valid measurements of management institutional capability"
+        ],
+        "confidence_score": 0.9
+    },
+    "measurement of process management capability": {
+        "reasoning": "This method pertains to the evaluation of process management capability, which is important for analyzing its relationship with IT application maturity.",
+        "passages": [
+            "Based on reliable and valid measurements of process management capability"
+        ],
+        "confidence_score": 0.9
+    }
+}

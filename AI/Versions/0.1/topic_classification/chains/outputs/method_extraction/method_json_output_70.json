@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "theoretical modeling",
+        "mediated moderation analysis"
+    ],
+    "theoretical modeling": {
+        "reasoning": "Theoretical modeling is a method used to construct and analyze the relationships between leader humility and follower prosocial motivation, providing a framework for understanding these dynamics.",
+        "passages": [
+            "We theorize that leader humility may enact a self-transcendent contagion effect that will manifest in enhanced follower prosocial motivation.",
+            "Due to the fundamental nature of humility, this construct holds great promise in understanding how contextual signals (i.e., leader behaviors) shape prosocial motivation in followers."
+        ],
+        "confidence_score": 0.85
+    },
+    "mediated moderation analysis": {
+        "reasoning": "Mediated moderation analysis refers to the method used to explore the relationships between variables, specifically how the mediation of work meaningfulness and moderation of relational vitality affect the relationship between leader humility and follower prosocial motivation.",
+        "passages": [
+            "we found that this relationship is mediated by followers' perception of work meaningfulness, and that this mediation is moderated by followers' perception of relational vitality."
+        ],
+        "confidence_score": 0.9
+    }
+}

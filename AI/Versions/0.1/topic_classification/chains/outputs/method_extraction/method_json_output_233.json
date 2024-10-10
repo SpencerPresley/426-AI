@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "propensity score matching",
+        "survival analysis"
+    ],
+    "propensity score matching": {
+        "reasoning": "Propensity score matching is a statistical method used to reduce selection bias by matching participants based on covariates, allowing for a more accurate estimation of the causal effect of the LLC program.",
+        "passages": [
+            "This paper uses propensity score matching to address selection bias and identify the causal effect of an LLC program on GPA and retention."
+        ],
+        "confidence_score": 0.95
+    },
+    "survival analysis": {
+        "reasoning": "Survival analysis is a statistical technique used to analyze the time until an event occurs, in this case, retention over time, making it a specific method employed in the research.",
+        "passages": [
+            "Survival analysis (of the matched sample) is used to estimate retention over time."
+        ],
+        "confidence_score": 0.9
+    }
+}

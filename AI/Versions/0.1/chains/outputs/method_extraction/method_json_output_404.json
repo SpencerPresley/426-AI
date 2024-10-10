@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "standardized inpatient education",
+        "scripted telephone followup",
+        "training of staff nurses"
+    ],
+    "standardized inpatient education": {
+        "reasoning": "Standardized inpatient education refers to a specific method of delivering consistent and structured information to patients during their hospital stay, which is aimed at improving their understanding and management of heart failure.",
+        "passages": [
+            "60 minutes of standardized inpatient education"
+        ],
+        "confidence_score": 0.9
+    },
+    "scripted telephone followup": {
+        "reasoning": "Scripted telephone followup is a method employed to ensure that patients receive consistent information and support after discharge, facilitating better self-management and reducing readmissions.",
+        "passages": [
+            "scripted telephone followup, administered by staff nurses"
+        ],
+        "confidence_score": 0.85
+    },
+    "training of staff nurses": {
+        "reasoning": "Training of staff nurses is a methodological approach that involves preparing healthcare providers to effectively deliver education and follow-up care related to heart failure, which is critical for the success of the intervention.",
+        "passages": [
+            "staff nurses trained in HF"
+        ],
+        "confidence_score": 0.8
+    }
+}

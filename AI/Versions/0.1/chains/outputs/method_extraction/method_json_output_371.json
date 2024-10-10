@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "survey",
+        "structural equations modeling"
+    ],
+    "survey": {
+        "reasoning": "The survey method is used to collect data from auditors regarding their resilience levels and related job factors, making it a clear process for data gathering in this research.",
+        "passages": [
+            "This study surveys 332 auditors from the offices of nine public accounting firms."
+        ],
+        "confidence_score": 0.95
+    },
+    "structural equations modeling": {
+        "reasoning": "Structural equations modeling is a statistical technique employed to analyze the relationships between resilience, stress, burnout, job satisfaction, and turnover intentions, thus serving as a specific method for data analysis.",
+        "passages": [
+            "The structural equations modeling procedures examine an expanded role stress model to assess the nature and extent of the role that resilience plays in reducing stress, burnout, job dissatisfaction and turnover intentions."
+        ],
+        "confidence_score": 0.9
+    }
+}

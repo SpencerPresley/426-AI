@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "questionnaire-based survey methodology",
+        "econometric techniques"
+    ],
+    "questionnaire-based survey methodology": {
+        "reasoning": "Questionnaire-based survey methodology is a specific method used to gather data from participants regarding their perceptions, which is crucial for understanding how firms can develop a risk alert tool.",
+        "passages": [
+            "The authors used a questionnaire-based survey methodology supported by secondary data to collect information related to managerial perceptions"
+        ],
+        "confidence_score": 0.95
+    },
+    "econometric techniques": {
+        "reasoning": "Econometric techniques are methods used to analyze the collected data and test the proposed hypothesis, making them essential for the research's analytical framework.",
+        "passages": [
+            "Using econometric techniques, the authors identify the conditions necessary for such an automated risk management tool to be effective."
+        ],
+        "confidence_score": 0.9
+    }
+}

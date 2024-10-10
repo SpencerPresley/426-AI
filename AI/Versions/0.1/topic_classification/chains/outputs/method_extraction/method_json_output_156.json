@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "proxying geographic proximity",
+        "monitoring incentives analysis"
+    ],
+    "proxying geographic proximity": {
+        "reasoning": "Proxying geographic proximity is a method used to measure shareholder coordination, which is a key variable in the study. This method allows researchers to quantify the relationship between geographic factors and corporate innovation outcomes.",
+        "passages": [
+            "greater shareholder coordination, as proxied by the geographic proximity between institutional investors"
+        ],
+        "confidence_score": 0.9
+    },
+    "monitoring incentives analysis": {
+        "reasoning": "Monitoring incentives analysis is a method that examines how different types of institutional investors (dedicated and independent) influence corporate innovation through their incentives to monitor. This analytical approach is crucial for understanding the dynamics of shareholder coordination and its effects.",
+        "passages": [
+            "This relationship is driven by coordination among dedicated and independent institutions who have strong monitoring incentives"
+        ],
+        "confidence_score": 0.85
+    }
+}

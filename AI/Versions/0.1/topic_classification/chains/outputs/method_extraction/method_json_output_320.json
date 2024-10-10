@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "comprehensive survey",
+        "partnering trends analysis"
+    ],
+    "comprehensive survey": {
+        "reasoning": "A comprehensive survey is a method used to gather data from industry professionals regarding their experiences and perceptions related to partnering in aviation construction projects.",
+        "passages": [
+            "A comprehensive survey of industry professionals representing DOTs, airports, and others involved in construction aviation projects in the United States helps capture partnering trends across the industry."
+        ],
+        "confidence_score": 0.95
+    },
+    "partnering trends analysis": {
+        "reasoning": "Partnering trends analysis refers to the examination of the data collected from the survey to identify and describe trends in the use of partnering within the aviation construction industry.",
+        "passages": [
+            "Findings show that participants with experience in partnered-aviation construction projects perceive higher improvement of safety and reduced claims offering greater rewards."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "SEER-Medicare database",
+        "multivariable logistic regression",
+        "Kaplan-Meier estimation",
+        "Cox proportional hazard model"
+    ],
+    "SEER-Medicare database": {
+        "reasoning": "The SEER-Medicare database is a specific data source used for identifying patients who fit the study criteria, representing a method for data collection and analysis.",
+        "passages": [
+            "using the SEER-Medicare database"
+        ],
+        "confidence_score": 0.95
+    },
+    "multivariable logistic regression": {
+        "reasoning": "Multivariable logistic regression is a statistical method used to examine the initiation of endocrine therapy (ET) and its patterns, making it a key analytical technique in the study.",
+        "passages": [
+            "We examined the initiation of ET and the utilization patterns of ET using a multivariable logistic regression."
+        ],
+        "confidence_score": 0.9
+    },
+    "Kaplan-Meier estimation": {
+        "reasoning": "Kaplan-Meier estimation is a statistical method used to analyze survival outcomes, specifically in assessing the overall survival of patients in this study.",
+        "passages": [
+            "We further examined the overall survival outcomes using Kaplan-Meier estimation"
+        ],
+        "confidence_score": 0.85
+    },
+    "Cox proportional hazard model": {
+        "reasoning": "The Cox proportional hazard model is a statistical approach employed to evaluate the impact of receiving endocrine therapy on overall survival, constituting a significant method of analysis.",
+        "passages": [
+            "and Cox proportional hazard model with inverse probability weighting."
+        ],
+        "confidence_score": 0.88
+    }
+}

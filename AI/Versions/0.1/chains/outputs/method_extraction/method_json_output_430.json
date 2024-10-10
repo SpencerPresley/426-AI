@@ -1,0 +1,30 @@
+{
+    "methods": [
+        "ecological approaches",
+        "community-based approaches",
+        "multilevel research"
+    ],
+    "ecological approaches": {
+        "reasoning": "Ecological approaches are specific methodologies that focus on the interactions between individuals and their environments, which are relevant to addressing health and environmental issues.",
+        "passages": [
+            "behavioral medicine can address with ecological and community-based approaches.",
+            "Building on behavioral medicine's rich foundation of ecological models"
+        ],
+        "confidence_score": 0.85
+    },
+    "community-based approaches": {
+        "reasoning": "Community-based approaches refer to methods that involve the participation of community members in addressing health and environmental issues, making it a clear methodological focus.",
+        "passages": [
+            "behavioral medicine can address with ecological and community-based approaches.",
+            "Collaboration with communities is central to simultaneously tackling interconnected human and environmental health threats."
+        ],
+        "confidence_score": 0.9
+    },
+    "multilevel research": {
+        "reasoning": "Multilevel research indicates a methodological approach that considers various levels of influence (individual, community, policy) in addressing the syndemic, making it a specific research method.",
+        "passages": [
+            "reduction of greenhouse gas emissions through multilevel research and practice."
+        ],
+        "confidence_score": 0.8
+    }
+}

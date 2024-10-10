@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "two-sector dynamic general equilibrium model",
+        "panel data analysis"
+    ],
+    "two-sector dynamic general equilibrium model": {
+        "reasoning": "The two-sector dynamic general equilibrium model is a specific analytical framework used to understand the implications of regulations on small firms, making it a method employed in the research.",
+        "passages": [
+            "Using a two-sector dynamic general equilibrium model, we obtained two implications of higher regulation on small firms that have yet to be empirically tested in the published literature."
+        ],
+        "confidence_score": 0.9
+    },
+    "panel data analysis": {
+        "reasoning": "Panel data analysis refers to the method of using a dataset that tracks multiple subjects over time, which is employed to analyze the impact of federal regulations on small businesses.",
+        "passages": [
+            "Using a panel of industry-specific US regulatory restrictions, we found that a 10% increase in federal regulations was associated with an approximate 0.8% reduction in small firms' share of industry employment and a nearly 1.5% decline in small firms' share of industry output."
+        ],
+        "confidence_score": 0.85
+    }
+}

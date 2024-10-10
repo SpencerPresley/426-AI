@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "curve neighborhoods",
+        "Chevalley formula",
+        "algorithm for multiplication"
+    ],
+    "curve neighborhoods": {
+        "reasoning": "Curve neighborhoods is a specific technique used to construct neighborhoods around curves, which is essential for proving results in the context of the equivariant quantum cohomology of the odd symplectic Grassmannian.",
+        "passages": [
+            "We use the technique of curve neighborhoods to prove a Chevalley formula in the equivariant quantum cohomology of IG"
+        ],
+        "confidence_score": 0.9
+    },
+    "Chevalley formula": {
+        "reasoning": "The Chevalley formula represents a specific mathematical result derived in the study, which is crucial for understanding the multiplication of Schubert classes in equivariant quantum cohomology.",
+        "passages": [
+            "to prove a Chevalley formula in the equivariant quantum cohomology of IG"
+        ],
+        "confidence_score": 0.85
+    },
+    "algorithm for multiplication": {
+        "reasoning": "The algorithm for multiplication is a method that provides a systematic approach to calculate multiplications in the equivariant quantum cohomology ring, indicating a clear procedural methodology.",
+        "passages": [
+            "it gives an algorithm to calculate any multiplication in the equivariant quantum cohomology ring"
+        ],
+        "confidence_score": 0.9
+    }
+}

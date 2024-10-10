@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "microelectrode array studies",
+        "whole-cell patch-clamp"
+    ],
+    "microelectrode array studies": {
+        "reasoning": "Microelectrode array studies are a specific technique used to measure neuronal firing and network activity, providing quantitative data on the functional changes in neuronal activity in SMA mice.",
+        "passages": [
+            "Microelectrode array studies revealed significantly lower spontaneous firing and network activity in the cerebellum of SMA mice in both age groups, but it was more profound in the P11 group."
+        ],
+        "confidence_score": 0.95
+    },
+    "whole-cell patch-clamp": {
+        "reasoning": "Whole-cell patch-clamp is a well-established electrophysiological method used to study the function of neurons, allowing for detailed analysis of input resistance, capacitance, and action potential thresholds in specific neuron types.",
+        "passages": [
+            "Whole-cell patch-clamp was used to study the function of output neurons in both brain regions."
+        ],
+        "confidence_score": 0.9
+    }
+}

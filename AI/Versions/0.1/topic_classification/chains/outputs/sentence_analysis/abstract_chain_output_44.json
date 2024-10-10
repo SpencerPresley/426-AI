@@ -1,0 +1,30 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Economists largely agree that writing is fundamental to understanding and communicating economics and can serve as an effective way to teach students to 'think like economists.'",
+            "meaning": "Writing is essential for grasping and conveying economic concepts, and it helps in developing students' economic thinking skills.",
+            "reasoning": "The sentence states a consensus among economists regarding the importance of writing in economics education and its role in fostering critical thinking.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, only a small percentage of programs include writing-intensive courses, a major research paper, or a senior thesis, and even fewer devote class time to the writing process.",
+            "meaning": "Despite the acknowledged importance of writing, very few academic programs actually incorporate writing-focused assignments or dedicate time to teaching writing.",
+            "reasoning": "This sentence contrasts the previous one by highlighting the lack of implementation of writing in economics curricula, indicating a gap between theory and practice.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "This article provides a multi-dimensional classification of process-based writing assignments that are categorized according to two criteria: writing skill and economic understanding,",
+            "meaning": "The article introduces a classification system for writing assignments based on two key aspects: the development of writing skills and the comprehension of economic concepts.",
+            "reasoning": "The sentence outlines the main contribution of the article, indicating that it categorizes writing assignments in a structured way to aid educators.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "and outlines how economists can use these approaches in a range of economic courses that do and do not include a research paper.",
+            "meaning": "The article explains how the proposed writing assignment classifications can be applied in various economics courses, regardless of whether they involve a research paper.",
+            "reasoning": "This sentence emphasizes the practical application of the classification system, suggesting versatility in its use across different types of courses.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The abstract discusses the critical role of writing in economics education and presents a classification system for writing assignments to enhance student learning in this field.",
+    "detailed_summary": "The research paper highlights the consensus among economists about the importance of writing in understanding and teaching economics. Despite this agreement, it notes that very few academic programs actually incorporate writing-intensive courses or allocate time for writing instruction. The article introduces a classification system for process-based writing assignments, categorizing them based on writing skills and economic understanding. It further explains how these classifications can be applied across various economics courses, whether or not they include a research paper, thereby providing a framework for enhancing the teaching of economics through writing."
+}

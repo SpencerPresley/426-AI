@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "historical examination",
+        "process of community expansion"
+    ],
+    "historical examination": {
+        "reasoning": "Historical examination refers to the method used to analyze past events, contexts, and developments related to the Swaminarayan Sampradaya, which is essential for understanding its influence during the early colonial era.",
+        "passages": [
+            "Historically examining the process of community expansion in the region through aspects like patronage and cultural production"
+        ],
+        "confidence_score": 0.9
+    },
+    "process of community expansion": {
+        "reasoning": "The process of community expansion is a method that describes the specific way the Swaminarayan Sampradaya grew and exerted influence in Gujarat, highlighting the dynamics of local power and resources.",
+        "passages": [
+            "Historically examining the process of community expansion in the region through aspects like patronage and cultural production"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "This study's purpose is to examine whether resilience, conceptualized by Connor and Davidson (2003) as one's capacity to persevere and rebound under adversity, was a potential mitigating and/or moderating factor in the dynamic between both psychological distress and academic burnout, and student attrition.",
+            "meaning": "The study aims to investigate the role of resilience in influencing the relationship between psychological distress, academic burnout, and student dropout rates.",
+            "reasoning": "The sentence outlines the research focus on resilience and its potential effects on student challenges, indicating a clear research goal.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We concurrently distributed a survey containing a series of psychometric instruments to a convenience sample of 1,119 students pursuing various business majors at four geographically diverse U.S. universities.",
+            "meaning": "The researchers conducted a survey involving 1,119 business students from four different universities across the U.S. to gather data.",
+            "reasoning": "The sentence describes the methodology used to collect data for the study, emphasizing the sample size and diversity.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Via structural equations modeling analysis, we measured the associations between psychological distress, academic burnout, and departure intentions, and investigated whether student resilience levels are associated with lower distress, burnout, and departure intentions levels.",
+            "meaning": "The researchers employed structural equation modeling to analyze the relationships among psychological distress, academic burnout, student dropout intentions, and the impact of resilience.",
+            "reasoning": "This sentence details the analytical approach taken in the study, indicating the methods used to explore the relationships between the variables.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The results indicated significant positive associations between psychological distress and each of the elements of academic burnout, and significant positive associations between the academic burnout elements and departure intentions.",
+            "meaning": "The findings show that higher psychological distress correlates with increased academic burnout, which in turn relates to higher intentions to leave school.",
+            "reasoning": "This sentence summarizes key results, indicating clear relationships between the studied variables.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "However, while resilience did not moderate those associations, it did attenuate them through its direct negative associations with both psychological distress and the cynicism and academic inefficacy elements of academic burnout.",
+            "meaning": "Resilience did not change the strength of the relationships between distress, burnout, and dropout intentions, but it did reduce their impact by being negatively related to distress and certain burnout factors.",
+            "reasoning": "This sentence clarifies the role of resilience in the findings, indicating a nuanced relationship rather than a direct moderating effect.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Based on these findings, we discuss implications for business educators seeking to enhance individual resilience levels as a coping strategy to combat voluntary student turnover, and better prepare students for the demands of the workplace.",
+            "meaning": "The authors suggest that business educators should focus on improving students' resilience to help reduce dropout rates and better equip them for future challenges.",
+            "reasoning": "This sentence provides a practical application of the research findings, indicating how they can inform educational practices.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates the relationship between resilience, psychological distress, academic burnout, and student attrition, highlighting the importance of resilience in mitigating the negative impacts of distress and burnout on student retention.",
+    "detailed_summary": "This study explores the role of resilience, defined as the ability to recover from adversity, in the context of psychological distress, academic burnout, and student attrition among business students at four U.S. universities. A survey was distributed to a sample of 1,119 students, employing structural equation modeling to analyze the relationships between the variables. The results revealed that psychological distress is positively associated with academic burnout, which in turn correlates with increased intentions to leave school. While resilience did not moderate these relationships, it was found to lessen their impact by being inversely related to both psychological distress and certain aspects of academic burnout. The findings suggest that enhancing resilience could be a valuable strategy for educators to reduce student turnover and prepare students for workplace challenges."
+}

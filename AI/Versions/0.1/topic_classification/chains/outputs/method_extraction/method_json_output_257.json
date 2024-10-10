@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "snowball sampling",
+        "cross-sectional survey",
+        "correlational analysis",
+        "regression analysis"
+    ],
+    "snowball sampling": {
+        "reasoning": "Snowball sampling is a specific recruitment method used to gather participants, particularly useful in studies involving specific communities, such as Muslim college students in this case.",
+        "passages": [
+            "Seventy-three Muslim college students were recruited through snowball sampling in a cross-sectional survey in North America."
+        ],
+        "confidence_score": 0.95
+    },
+    "cross-sectional survey": {
+        "reasoning": "A cross-sectional survey is a method used for collecting data at a single point in time, allowing for the comparison of different groups, such as gender differences in this study.",
+        "passages": [
+            "Seventy-three Muslim college students were recruited through snowball sampling in a cross-sectional survey in North America."
+        ],
+        "confidence_score": 0.9
+    },
+    "correlational analysis": {
+        "reasoning": "Correlational analysis is a statistical method used to determine the relationship between variables, such as discrimination and the desire to hide one's Muslim identity, which is essential for understanding the data in this study.",
+        "passages": [
+            "Correlational and regression analyses revealed that for women but not men, discrimination was correlated with hiding one's Muslim identity in public."
+        ],
+        "confidence_score": 0.85
+    },
+    "regression analysis": {
+        "reasoning": "Regression analysis is a statistical technique used to understand the relationship between dependent and independent variables, providing insights into how discrimination affects identity concealment among genders.",
+        "passages": [
+            "Correlational and regression analyses revealed that for women but not men, discrimination was correlated with hiding one's Muslim identity in public."
+        ],
+        "confidence_score": 0.85
+    }
+}

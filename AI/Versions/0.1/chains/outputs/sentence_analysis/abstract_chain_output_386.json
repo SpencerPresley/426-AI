@@ -1,0 +1,60 @@
+{
+    "sentences": [
+        {
+            "sentence": "Social work, with its commitment to social justice, knowledge about cultural diversity, and respect for the dignity and worth of the individual, has much to contribute to the modern-day human rights debate.",
+            "meaning": "Social work has valuable insights and contributions to make regarding human rights due to its foundational principles.",
+            "reasoning": "The sentence outlines the core values of social work and suggests that these values are relevant to current discussions on human rights.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Many international social work scholars have articulated the view of social work as a human rights profession.",
+            "meaning": "Scholars in the field of social work globally recognize and promote the idea that social work is fundamentally linked to human rights.",
+            "reasoning": "The phrase 'articulated the view' suggests a consensus or significant discourse among scholars about the relationship between social work and human rights.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The profession's presence in this arena, however, has not always been apparent.",
+            "meaning": "Despite the connections between social work and human rights, the role of social work in human rights discussions has often been overlooked.",
+            "reasoning": "The use of 'not always been apparent' indicates a historical lack of visibility or involvement of social work in human rights issues.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Amid increasing global tensions and domestic challenges, equipping social work students with human rights knowledge and skills is critical.",
+            "meaning": "It is essential to prepare social work students with knowledge and abilities related to human rights due to current global and local issues.",
+            "reasoning": "The phrase 'increasing global tensions and domestic challenges' highlights the urgency and relevance of human rights education in social work.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The limited attention given to human rights in social work education, particularly in the United States, provides a unique opportunity to explore the human rights discourse occurring in academic circles.",
+            "meaning": "The lack of focus on human rights in U.S. social work education creates an opportunity for further investigation and discussion in academia.",
+            "reasoning": "The contrast between 'limited attention' and 'unique opportunity' suggests that the current gap can lead to valuable academic exploration.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "This paper presents a review of scholarly journal articles that explore the human rights discourse related to social work education in the United States.",
+            "meaning": "The paper summarizes existing research on how human rights are discussed within the context of social work education in the U.S.",
+            "reasoning": "The phrase 'presents a review' indicates that the paper synthesizes previous research findings on this topic.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Upon reviewing the literature, the following categories emerged: (1) general articles on integrating human rights into social work education; (2) pedagogical frameworks, models, and examples of incorporating human rights into social work education; and (3) measures and perceptions related to assessing the integration of human rights in social work education.",
+            "meaning": "The literature review identified three main areas of focus regarding the integration of human rights into social work education.",
+            "reasoning": "The structured list suggests a systematic approach to categorizing the findings from the literature review.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Findings indicate that the inclusion of human rights into social work education in the United States is in its infancy.",
+            "meaning": "The current state of integrating human rights into U.S. social work education is very early or underdeveloped.",
+            "reasoning": "The phrase 'in its infancy' conveys that the integration is still at a nascent stage and requires further development.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "It is recommended that social work programs in the United States be more intentional about integrating human rights content into the curricula to train culturally competent and globally minded social workers.",
+            "meaning": "The paper suggests that U.S. social work programs should purposefully include human rights topics in their curricula to better prepare students.",
+            "reasoning": "The use of 'recommended' indicates a call to action for educational institutions to improve their programs.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The abstract discusses the need for integrating human rights education into social work curricula in the United States, highlighting its importance for training competent social workers in a global context.",
+    "detailed_summary": "This research paper emphasizes the significant role that social work can play in the human rights debate due to its core values of social justice and respect for individuals. It notes that while many international scholars view social work as a human rights profession, its visibility in this area has been limited. Given the current global and domestic challenges, the authors stress the importance of equipping social work students with human rights knowledge. The paper reviews existing literature on the topic within U.S. social work education and identifies three key areas: general integration of human rights, pedagogical frameworks for teaching these concepts, and assessment measures for their incorporation. The findings reveal that the integration of human rights into social work education is still in its early stages, leading to the recommendation that programs should be more deliberate in including human rights content to prepare culturally competent and globally minded professionals."
+}

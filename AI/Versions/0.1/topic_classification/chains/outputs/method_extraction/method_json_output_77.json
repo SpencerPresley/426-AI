@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "controlled experiments",
+        "field experiment"
+    ],
+    "controlled experiments": {
+        "reasoning": "Controlled experiments are specific methods used to test the hypothesis regarding the influence of right-slanted fonts on consumer behavior in a controlled setting, allowing for the isolation of variables.",
+        "passages": [
+            "Five controlled experiments demonstrate that promotions advertised with right-slanted fonts can increase consumers' retailer visit and purchase intentions."
+        ],
+        "confidence_score": 0.95
+    },
+    "field experiment": {
+        "reasoning": "A field experiment is a method used to test the effect of right-slanted fonts in a real-world setting, specifically measuring the impact on email promotions, which adds ecological validity to the findings.",
+        "passages": [
+            "A field experiment demonstrates that right-slanted fonts can increase consumers' click through rate in email promotions."
+        ],
+        "confidence_score": 0.9
+    }
+}

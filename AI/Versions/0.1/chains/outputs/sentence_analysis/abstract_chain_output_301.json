@@ -1,0 +1,66 @@
+{
+    "sentences": [
+        {
+            "sentence": "Perceived job insecurity is a critical job stressor that creates the conditions for negative health and performance outcomes for workers while potentially increasing health-related costs for employers.",
+            "meaning": "Job insecurity is a significant source of stress that can lead to poor health and job performance, which may also raise costs for employers.",
+            "reasoning": "The sentence outlines the negative implications of perceived job insecurity on both employees' health and performance, as well as the financial impact on employers.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Sleep quality, an important proxy of health, has been understudied in relation to the impact of perceived job insecurity.",
+            "meaning": "The relationship between sleep quality and perceived job insecurity has not been sufficiently researched.",
+            "reasoning": "The sentence suggests that while sleep quality is a key indicator of health, its connection to job insecurity has not received enough attention in previous studies.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Using job stress concepts and a perseverative cognition model, this study examines the association between perceived job insecurity and subjective sleep quality while considering negative work spillover as a mediator.",
+            "meaning": "The study explores how perceived job insecurity affects sleep quality, using specific theoretical frameworks and looking at negative work spillover as a potential influencing factor.",
+            "reasoning": "The sentence indicates the theoretical basis for the research and identifies the main variables being studied, including the mediating effect of work spillover on the relationship.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "We expand our analysis to consider gender as a moderator of the job insecurity-sleep quality relationship, predicting the relationship will be stronger for men than for women.",
+            "meaning": "The researchers hypothesize that gender may influence the strength of the relationship between job insecurity and sleep quality, with men experiencing a stronger effect.",
+            "reasoning": "The sentence elaborates on the analysis by introducing gender as a variable that might affect the main relationship being studied.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Study 1 uses a nationally representative sample from the Midlife Development in the United States National Survey Refresher study consisting of 1031 working adults and a multi-group path analysis to test our hypotheses.",
+            "meaning": "The first study employs a large, diverse sample of working adults to examine the proposed hypotheses using a specific analytical method.",
+            "reasoning": "The sentence provides details about the study design, sample size, and methodology, which are critical for understanding the research context.",
+            "confidence_score": 0.93
+        },
+        {
+            "sentence": "Results show that negative work spillover mediates the relationship between perceived job insecurity and subjective sleep quality.",
+            "meaning": "The findings indicate that negative work experiences influence how job insecurity affects sleep quality.",
+            "reasoning": "This sentence summarizes a key result of the study, highlighting the mediating role of negative work spillover in the relationship between the two main variables.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Study 2 uses a sample of 152 working adults who participated in three biweekly surveys.",
+            "meaning": "The second study involves a smaller group of working adults surveyed multiple times to gather data.",
+            "reasoning": "The sentence details the methodology of the second study, including sample size and frequency of data collection.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The mediating role of negative work spillover is replicated in Study 2.",
+            "meaning": "The findings from the second study confirm that negative work spillover continues to mediate the relationship between job insecurity and sleep quality.",
+            "reasoning": "This sentence indicates that the results from the first study were consistent in the second study, reinforcing the earlier findings.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "In both studies, no gender moderation is found.",
+            "meaning": "The analysis did not reveal any significant differences in the job insecurity-sleep quality relationship based on gender.",
+            "reasoning": "This sentence summarizes a key finding that contradicts the initial hypothesis regarding gender as a moderator.",
+            "confidence_score": 0.94
+        },
+        {
+            "sentence": "Theoretical and methodological contributions, limitations and future research directions are discussed.",
+            "meaning": "The paper concludes by addressing its contributions to theory and methodology, as well as discussing limitations and suggestions for future research.",
+            "reasoning": "This sentence indicates the concluding remarks of the research, highlighting the importance of reflecting on the study's implications and areas for further investigation.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The abstract discusses the impact of perceived job insecurity on sleep quality, examining the mediating role of negative work spillover and the potential influence of gender, while confirming the findings across two studies.",
+    "detailed_summary": "This research investigates how perceived job insecurity, a significant source of stress, affects subjective sleep quality, which serves as an important health indicator. The study employs job stress concepts and a perseverative cognition model, focusing on negative work spillover as a mediator. It hypothesizes that the relationship between job insecurity and sleep quality may be moderated by gender, predicting a stronger effect for men. Two studies are conducted, with Study 1 utilizing a sample of 1031 working adults from a national survey and employing multi-group path analysis. The results indicate that negative work spillover mediates the relationship between perceived job insecurity and sleep quality. Study 2, involving 152 working adults surveyed biweekly, replicates these findings. However, neither study finds evidence of gender moderation in the relationship. The paper concludes with discussions on theoretical and methodological contributions, limitations, and future research directions."
+}

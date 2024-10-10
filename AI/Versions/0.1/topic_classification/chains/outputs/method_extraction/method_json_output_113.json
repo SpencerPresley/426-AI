@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "multi-dimensional nutritional geometry",
+        "direct analysis of nutritional ecology"
+    ],
+    "multi-dimensional nutritional geometry": {
+        "reasoning": "Multi-dimensional nutritional geometry is a specific analytical method used to assess the energy and macronutrient composition of the diets, indicating a structured approach to data analysis in the study.",
+        "passages": [
+            "We used multi-dimensional nutritional geometry to analyze energy and macronutrients (nonstructural carbohydrates, lipids, and protein) in the diets of wild capuchin monkeys"
+        ],
+        "confidence_score": 0.95
+    },
+    "direct analysis of nutritional ecology": {
+        "reasoning": "Direct analysis of nutritional ecology refers to the methodological approach taken to investigate the relationship between tooling and foraging success in non-human primates, highlighting the specific focus of the research.",
+        "passages": [
+            "the contribution of tooling to non-human primates' foraging success has never been investigated through a direct analysis of nutritional ecology"
+        ],
+        "confidence_score": 0.9
+    }
+}

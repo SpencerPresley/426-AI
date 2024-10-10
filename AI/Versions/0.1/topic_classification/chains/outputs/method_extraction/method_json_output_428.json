@@ -1,0 +1,68 @@
+{
+    "methods": [
+        "monitoring channel morphodynamics",
+        "vegetation variations assessment",
+        "aerial surveys with an Unmanned Aerial Vehicle (UAV)",
+        "Structure-from-Motion (SfM) and Multi-View-Stereo (MVS) algorithms",
+        "mapping of channel morphology",
+        "elevation assessment",
+        "GNSS survey",
+        "UAV-based photogrammetry approach"
+    ],
+    "monitoring channel morphodynamics": {
+        "reasoning": "Monitoring channel morphodynamics refers to the systematic observation of changes in channel shape and structure over time, which is a specific methodological approach used in the research.",
+        "passages": [
+            "we present a methodological approach for monitoring channel morphodynamics and vegetation variations over a time frame of six years"
+        ],
+        "confidence_score": 0.85
+    },
+    "vegetation variations assessment": {
+        "reasoning": "Assessment of vegetation variations involves measuring and analyzing changes in vegetation over time, which is a defined methodological process in this research.",
+        "passages": [
+            "we present a methodological approach for monitoring channel morphodynamics and vegetation variations over a time frame of six years"
+        ],
+        "confidence_score": 0.8
+    },
+    "aerial surveys with an Unmanned Aerial Vehicle (UAV)": {
+        "reasoning": "Aerial surveys with UAVs are a specific method used for high-resolution mapping, representing a clear technique for data collection in the study.",
+        "passages": [
+            "Aerial surveys with an Unmanned Aerial Vehicle (UAV) have been performed for the high-resolution mapping of a small tidal system."
+        ],
+        "confidence_score": 0.9
+    },
+    "Structure-from-Motion (SfM) and Multi-View-Stereo (MVS) algorithms": {
+        "reasoning": "SfM and MVS are specific algorithms used to reconstruct 3D geometry, indicating a methodological approach to data analysis in the research.",
+        "passages": [
+            "Structure-from-Motion (SfM) and Multi-View-Stereo (MVS) algorithms have been used to reconstruct the 3D geometry of the site."
+        ],
+        "confidence_score": 0.95
+    },
+    "mapping of channel morphology": {
+        "reasoning": "Mapping of channel morphology is a specific methodological task aimed at understanding the shape and features of channels, which is essential for the study's objectives.",
+        "passages": [
+            "The mapping of channel morphology and an elevation assessment on the mudflat were performed using orthomosaics, Digital Terrain Models (DTMs) and GNSS survey."
+        ],
+        "confidence_score": 0.85
+    },
+    "elevation assessment": {
+        "reasoning": "Elevation assessment involves measuring the height of landforms, which is a specific methodological process used to gather data on the physical characteristics of the site.",
+        "passages": [
+            "The mapping of channel morphology and an elevation assessment on the mudflat were performed using orthomosaics, Digital Terrain Models (DTMs) and GNSS survey."
+        ],
+        "confidence_score": 0.8
+    },
+    "GNSS survey": {
+        "reasoning": "GNSS survey is a precise method used for determining geographical locations, which is integral to the data collection process in this research.",
+        "passages": [
+            "The mapping of channel morphology and an elevation assessment on the mudflat were performed using orthomosaics, Digital Terrain Models (DTMs) and GNSS survey."
+        ],
+        "confidence_score": 0.9
+    },
+    "UAV-based photogrammetry approach": {
+        "reasoning": "The UAV-based photogrammetry approach is a specific methodology for capturing and analyzing aerial images, which is crucial for the evaluation of restoration interventions.",
+        "passages": [
+            "The UAV-based photogrammetry approach with GNSS RTK ground surveys can hence be replicated in similar sites all over the world to evaluate restoration interventions."
+        ],
+        "confidence_score": 0.88
+    }
+}

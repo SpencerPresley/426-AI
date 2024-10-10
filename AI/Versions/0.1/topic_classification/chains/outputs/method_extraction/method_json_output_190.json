@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "questionnaires",
+        "interviews",
+        "comparative analysis"
+    ],
+    "questionnaires": {
+        "reasoning": "Questionnaires are a specific method used for data collection, allowing the researchers to gather quantitative data from a large number of respondents in the two communities.",
+        "passages": [
+            "We conducted questionnaires (N = 421) and compared the responses of residents from the two communities and those of tourists in Preguicas."
+        ],
+        "confidence_score": 0.95
+    },
+    "interviews": {
+        "reasoning": "Interviews are a qualitative method used to gather in-depth information from a smaller group of participants, providing insights into the perceptions of residents regarding capuchins.",
+        "passages": [
+            "We also conducted interviews (N = 21) with residents of Preguicas to examine the influences of tourism, landscape change, and overlapping resource use on people's perceptions of capuchins."
+        ],
+        "confidence_score": 0.9
+    },
+    "comparative analysis": {
+        "reasoning": "Comparative analysis refers to the method of comparing the responses from different communities and tourists, which is essential for understanding the differences in perceptions.",
+        "passages": [
+            "We conducted questionnaires (N = 421) and compared the responses of residents from the two communities and those of tourists in Preguicas."
+        ],
+        "confidence_score": 0.85
+    }
+}

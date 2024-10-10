@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "survey data collection",
+        "validity and reliability analyses",
+        "covariance-based structural equation modeling"
+    ],
+    "survey data collection": {
+        "reasoning": "Survey data collection is the specific method used to gather information from respondents, providing a systematic approach to collecting data from firms.",
+        "passages": [
+            "The study is based on survey data collected from 225 firms, spread across several sectors in the USA and Europe."
+        ],
+        "confidence_score": 0.95
+    },
+    "validity and reliability analyses": {
+        "reasoning": "Validity and reliability analyses are methods used to assess the quality and consistency of the data collected, ensuring the findings are credible.",
+        "passages": [
+            "Validity and reliability analyses were performed using SPSS and AMOS;"
+        ],
+        "confidence_score": 0.9
+    },
+    "covariance-based structural equation modeling": {
+        "reasoning": "Covariance-based structural equation modeling is a statistical method used to test the hypotheses and analyze the relationships between variables in the research.",
+        "passages": [
+            "covariance-based structural equation modeling was used to test the hypothesis."
+        ],
+        "confidence_score": 0.92
+    }
+}

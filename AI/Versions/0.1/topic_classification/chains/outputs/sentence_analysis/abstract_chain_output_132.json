@@ -1,0 +1,30 @@
+{
+    "sentences": [
+        {
+            "sentence": "The goal of this paper is to investigate how deregulating foreign equity ownership influences a firm's innovation investment.",
+            "meaning": "The paper aims to explore the impact of allowing more foreign investment on a company's spending on innovation.",
+            "reasoning": "The sentence clearly states the objective of the research, focusing on the relationship between foreign equity ownership and innovation investment.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We attempt to answer this question using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations.",
+            "meaning": "The researchers use data from a specific sample of Korean manufacturing companies over a defined time period to analyze the issue.",
+            "reasoning": "The sentence provides details on the methodology, including the sample size, sector, time frame, and analytical technique employed.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Our findings suggest that foreign ownership and R&D investment exhibit an inverted U-shaped relationship because the incentives to monitor managers' decision-making processes initially play a greater role, but this role stagnates as the share owned by foreign investors becomes concentrated.",
+            "meaning": "The results indicate that there is a complex relationship between foreign ownership and R&D spending, where initial increases in foreign ownership enhance monitoring, but this effect diminishes when foreign ownership becomes too high.",
+            "reasoning": "The sentence describes the main findings of the research and explains the nature of the relationship observed, highlighting the role of monitoring by foreign investors.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "In addition, we consider firm heterogeneity and observe the negative moderation effects of firm age and the positive moderation effects of growth opportunity.",
+            "meaning": "The study also examines how different characteristics of firms affect the relationship between foreign ownership and innovation, finding that older firms tend to have a negative effect while firms with growth opportunities have a positive effect.",
+            "reasoning": "This sentence indicates that the researchers took into account various factors related to the firms, which influenced the main relationship being studied.",
+            "confidence_score": 0.8
+        }
+    ],
+    "overall_theme": "The research investigates the impact of deregulating foreign equity ownership on innovation investment in firms, revealing complex relationships influenced by firm characteristics.",
+    "detailed_summary": "This paper explores the relationship between deregulated foreign equity ownership and innovation investments in firms, specifically focusing on 530 Korean manufacturing firms from 1998 to 2003. Using generalised estimating equations, the researchers find that there is an inverted U-shaped relationship between foreign ownership and R&D investment. Initially, increased foreign ownership enhances the monitoring of management decisions, leading to higher innovation investments; however, this effect diminishes when foreign ownership becomes concentrated. Additionally, the study considers firm heterogeneity, revealing that older firms negatively moderate this relationship, while firms with growth opportunities positively moderate it. Overall, the research highlights the nuanced effects of foreign ownership on innovation, shaped by firm-specific factors."
+}

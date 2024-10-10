@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "vector error correction model",
+        "member survey data modeling",
+        "membership and meeting attendance analysis"
+    ],
+    "vector error correction model": {
+        "reasoning": "The vector error correction model (VECM) is a specific statistical technique used to analyze the relationship between variables over time, indicating a methodological approach to understanding membership and meeting attendance.",
+        "passages": [
+            "We estimate a vector error correction model (VECM) to identify the determinants of membership and meeting attendance"
+        ],
+        "confidence_score": 0.95
+    },
+    "member survey data modeling": {
+        "reasoning": "Modeling member survey data refers to the process of analyzing responses from surveys to understand behaviors related to membership and attendance, making it a clear methodological technique.",
+        "passages": [
+            "use member survey data to model membership and meeting attendance behavior"
+        ],
+        "confidence_score": 0.9
+    },
+    "membership and meeting attendance analysis": {
+        "reasoning": "Analyzing membership and meeting attendance provides insights into patterns and determinants of participation, which is a methodological focus of the research.",
+        "passages": [
+            "analyzing membership and meeting attendance to promote diversity in economics"
+        ],
+        "confidence_score": 0.85
+    }
+}

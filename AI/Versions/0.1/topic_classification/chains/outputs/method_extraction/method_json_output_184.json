@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "close reading",
+        "examination of works"
+    ],
+    "close reading": {
+        "reasoning": "Close reading is a specific analytical method that involves a detailed and critical interpretation of a text, which in this context refers to the analysis of Hito Steyerl's work.",
+        "passages": [
+            "the second part of this essay reserved for a close reading of the latter"
+        ],
+        "confidence_score": 0.9
+    },
+    "examination of works": {
+        "reasoning": "Examination of works refers to the specific method of analyzing and discussing particular artistic pieces, which is fundamental to the arguments made in the essay.",
+        "passages": [
+            "Grounding these claims is an examination of two particular works: On Construction of Griffith's Films (Harun Farocki, 2006) and Abstract (Hito Steyerl, 2012)"
+        ],
+        "confidence_score": 0.85
+    }
+}

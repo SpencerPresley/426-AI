@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "python script",
+        "habitual route identification"
+    ],
+    "python script": {
+        "reasoning": "The python script is a specific tool used to analyze and account for frequently used route segments, making it a concrete method employed in the research.",
+        "passages": [
+            "we created a python script, which accounted for frequently used route segments that constituted the habitual routes"
+        ],
+        "confidence_score": 0.9
+    },
+    "habitual route identification": {
+        "reasoning": "Habitual route identification refers to the process of determining the routes that elephants frequently use, which is a key methodological approach in understanding their navigation behavior.",
+        "passages": [
+            "To identify the elephants' habitual routes"
+        ],
+        "confidence_score": 0.85
+    }
+}

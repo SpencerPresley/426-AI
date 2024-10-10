@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "digital geolocation history data",
+        "Item Response Theory"
+    ],
+    "digital geolocation history data": {
+        "reasoning": "Digital geolocation history data refers to the specific data collected from restaurant check-ins, which is used to analyze customer behavior and preferences, making it a method of data collection in this research.",
+        "passages": [
+            "The current research utilizes digital geolocation history data from restaurant check-ins"
+        ],
+        "confidence_score": 0.9
+    },
+    "Item Response Theory": {
+        "reasoning": "Item Response Theory is a statistical method used to analyze data and identify patterns in preferences for mundane and exotic cuisines, making it a key analytical approach in the study.",
+        "passages": [
+            "along with Item Response Theory to identify mundane and exotic cuisines"
+        ],
+        "confidence_score": 0.85
+    }
+}

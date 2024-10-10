@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "comprehensive dataset sampling",
+        "brain-body co-variation inference",
+        "evolutionary pattern analysis"
+    ],
+    "comprehensive dataset sampling": {
+        "reasoning": "This method refers to the systematic collection of data from over 2,000 modern birds, fossil birds, and theropod dinosaurs, which is essential for conducting the research and drawing conclusions.",
+        "passages": [
+            "Using a comprehensive dataset sampling>2,000 modern birds, fossil birds, and theropod dinosaurs"
+        ],
+        "confidence_score": 0.95
+    },
+    "brain-body co-variation inference": {
+        "reasoning": "This method involves analyzing and inferring the patterns of co-variation between brain size and body size over evolutionary time, which is a specific analytical process in the study.",
+        "passages": [
+            "we infer patterns of brain-body co-variation in deep time"
+        ],
+        "confidence_score": 0.9
+    },
+    "evolutionary pattern analysis": {
+        "reasoning": "This method encompasses the examination of evolutionary trends and relationships, particularly regarding the changes in brain size relative to body size across different bird lineages.",
+        "passages": [
+            "major shifts occurred rapidly in the aftermath of the Cretaceous-Paleogene mass extinction within Neoaves"
+        ],
+        "confidence_score": 0.85
+    }
+}

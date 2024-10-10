@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "Although the body is central to health outcomes, the provider's body has been largely absent in the provider-patient relationship.",
+            "meaning": "The physical presence and condition of healthcare providers are important for health outcomes, yet these aspects are often overlooked in the dynamics of the provider-patient relationship.",
+            "reasoning": "The sentence contrasts the importance of the body in health outcomes with the neglect of the provider's body in interactions with patients.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Drawing upon semi-structured interviews with complementary and alternative medicine (CAM) providers (N = 17), this study examines how CAM providers use their body to characterize their work as healers.",
+            "meaning": "The research involves interviews with 17 CAM providers to explore how they perceive and utilize their own bodies in their healing practices.",
+            "reasoning": "The phrase 'semi-structured interviews' indicates a qualitative research method, and 'use their body' suggests a focus on the physicality of the providers in their roles.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The findings suggest the provider's self-reflexive awareness of their own body's illness and faith experiences informs their understanding of the patients' experience of health and disease.",
+            "meaning": "The results indicate that providers' awareness of their own health and beliefs influences how they perceive and relate to their patients' health experiences.",
+            "reasoning": "The term 'self-reflexive awareness' implies a deep understanding of one's own experiences, which is linked to understanding others' health conditions.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The study foregrounds the intersubjective nature of the provider-patient relationship as an embodied interaction in the mutual construction of therapeutic goals.",
+            "meaning": "The research emphasizes that the relationship between provider and patient is a shared, physical experience that contributes to setting and achieving health goals.",
+            "reasoning": "The term 'intersubjective' refers to shared understanding, and 'embodied interaction' highlights the physical aspect of this relationship.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Provider reflection on their own bodies to make sense of their patients' experiences emphasizes provider-patient coproduction of meaning and suggests ways for including the provider's self-reflexive awareness of their own body in a patient-centered healthcare relationship in ways that benefit both the patient and the provider.",
+            "meaning": "Providers reflecting on their own bodily experiences can enhance the shared understanding with patients, leading to a more effective and beneficial healthcare relationship for both parties.",
+            "reasoning": "The terms 'coproduction of meaning' and 'patient-centered healthcare relationship' indicate a collaborative approach to health that values both provider and patient experiences.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the role of CAM providers' physical presence and self-awareness in enhancing the provider-patient relationship and improving health outcomes.",
+    "detailed_summary": "This study explores the often-overlooked role of healthcare providers' bodies in the provider-patient relationship, particularly within the context of complementary and alternative medicine (CAM). Through semi-structured interviews with 17 CAM providers, the research examines how these providers utilize their own bodily experiences\u2014such as illness and faith\u2014to better understand their patients' health experiences. The findings highlight the intersubjective nature of the provider-patient relationship, emphasizing that both parties engage in a shared, embodied interaction that shapes therapeutic goals. The study advocates for the inclusion of providers' self-reflexive awareness in patient-centered healthcare, suggesting that this approach can enhance the healthcare experience and outcomes for both patients and providers."
+}

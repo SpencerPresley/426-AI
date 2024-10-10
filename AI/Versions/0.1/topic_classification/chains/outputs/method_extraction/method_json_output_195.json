@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "intersectional ethics",
+        "ethical deliberation heuristic",
+        "heuristic questions"
+    ],
+    "intersectional ethics": {
+        "reasoning": "Intersectional ethics is proposed as a new method for ethical deliberation, specifically designed to address the intersection of ethics and diversity in a professional context.",
+        "passages": [
+            "by suggesting the use of a new ethical deliberation heuristic: intersectional ethics"
+        ],
+        "confidence_score": 0.9
+    },
+    "ethical deliberation heuristic": {
+        "reasoning": "The ethical deliberation heuristic refers to the structured approach introduced in the article to facilitate ethical decision-making, making it a methodological framework for the research.",
+        "passages": [
+            "by suggesting the use of a new ethical deliberation heuristic"
+        ],
+        "confidence_score": 0.85
+    },
+    "heuristic questions": {
+        "reasoning": "The six heuristic questions are specific tools utilized within the intersectional ethics framework to guide ethical considerations, making them a methodological component of the study.",
+        "passages": [
+            "intersectional ethics utilizes six heuristic questions to consider positionality, social identity categories, dominant and non-dominant moral theories, professional mandates, and power"
+        ],
+        "confidence_score": 0.88
+    }
+}

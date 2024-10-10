@@ -1,0 +1,37 @@
+{
+    "methods": [
+        "relationship analysis",
+        "education factor creation",
+        "frequency, magnitude and exposure analysis",
+        "detailed analysis"
+    ],
+    "relationship analysis": {
+        "reasoning": "Relationship analysis refers to the method used to examine how different variables, such as education levels and components of the World Risk Index, are interconnected, which is a core part of the research.",
+        "passages": [
+            "By analysing relationships between level of education and components of the World Risk Index",
+            "we analysed relationships between the components of WRI"
+        ],
+        "confidence_score": 0.9
+    },
+    "education factor creation": {
+        "reasoning": "Creating an education factor independent of the World Risk Index is a specific methodological step taken to quantify the impact of education on natural hazard awareness, making it a distinct method.",
+        "passages": [
+            "created an education factor independent of WRI (based on PISA 2018 Science test results)"
+        ],
+        "confidence_score": 0.85
+    },
+    "frequency, magnitude and exposure analysis": {
+        "reasoning": "This method involves analyzing the frequency, magnitude, and exposure of natural hazards, which is essential for understanding their impact in relation to education.",
+        "passages": [
+            "analysed the frequency, magnitude and exposure of natural hazards of an extreme event character in selected countries"
+        ],
+        "confidence_score": 0.88
+    },
+    "detailed analysis": {
+        "reasoning": "A detailed analysis of 15 countries provides a specific methodological approach to examining the relationship between education and natural hazards, indicating a systematic exploration of the data.",
+        "passages": [
+            "A detailed analysis was performed for 15 countries representing the full global range of natural hazards"
+        ],
+        "confidence_score": 0.8
+    }
+}

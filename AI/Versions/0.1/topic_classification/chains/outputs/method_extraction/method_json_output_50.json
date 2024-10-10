@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "customer courtesy scale development",
+        "data collection",
+        "experimental data collection"
+    ],
+    "customer courtesy scale development": {
+        "reasoning": "The development of a customer courtesy scale is a specific methodological process used to measure the concept of customer courtesy among service employees, which is central to the research.",
+        "passages": [
+            "we developed a customer courtesy scale"
+        ],
+        "confidence_score": 0.9
+    },
+    "data collection": {
+        "reasoning": "Data collection refers to the process of gathering information from service employees in different contexts (Study 1 and Study 2), which is a fundamental part of the research methodology.",
+        "passages": [
+            "deployed it among service employees in the United States (Study 1) and hotel employees and their supervisors in East Asia (Study 2)"
+        ],
+        "confidence_score": 0.85
+    },
+    "experimental data collection": {
+        "reasoning": "Experimental data collection is a specific method used in Study 3 to test the causal model, indicating a structured approach to gathering data under controlled conditions.",
+        "passages": [
+            "we also collected experimental data (Study 3) to test our causal model"
+        ],
+        "confidence_score": 0.9
+    }
+}

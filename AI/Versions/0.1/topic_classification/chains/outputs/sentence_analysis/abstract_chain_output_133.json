@@ -1,0 +1,66 @@
+{
+    "sentences": [
+        {
+            "sentence": "The academic literature on emerging market multinational corporations (EMNCs) has classified several strategic options that EMNCs can adopt as part of their internationalization process.",
+            "meaning": "The existing research categorizes various strategies that multinational corporations from emerging markets can use to expand internationally.",
+            "reasoning": "The sentence introduces the context of the research, indicating that there is a body of literature that discusses strategic options for EMNCs.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Although this research stream does include examples of Indian companies, it has not adequately identified specific strategic practices followed by them as part of their internationalization process.",
+            "meaning": "While there are some references to Indian companies in the literature, the specific strategies they use for internationalization are not well-defined.",
+            "reasoning": "The sentence contrasts the existing literature with the gap that the research aims to address, highlighting the lack of detailed analysis of Indian firms.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Therefore, this article aims to identify specific firm competencies, home country advantages and strategic practices that Indian EMNCs adopt to achieve foreign market entry and internationalization.",
+            "meaning": "The purpose of the article is to explore and define the capabilities, advantages, and strategies that Indian EMNCs use to enter and expand in foreign markets.",
+            "reasoning": "The sentence clearly states the objective of the research, indicating a focus on Indian firms and their internationalization strategies.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The article adopts a multiple case study methodology supported by unstructured interviews to answer the research question.",
+            "meaning": "The research employs a case study approach, using interviews that are not structured in a rigid format to gather data.",
+            "reasoning": "The methodology is described, indicating how the research was conducted and the type of data collection used.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Using a combination of in-depth interviews and secondary data related to the case study in question, strategic practices of three Indian companies operating in different industry segments are identified and evaluated.",
+            "meaning": "The study analyzes data from interviews and existing information to assess the strategies of three Indian companies from various industries.",
+            "reasoning": "This elaborates on the methodology, specifying the nature of the data sources and the focus on three companies.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The results highlight that as part of their internationalization process, EMNCs from India adopt a combination of strategic practices that include strategic alliances, acquisitions, entry into targeted geographic markets, localized and innovative product offerings and niche market focus.",
+            "meaning": "Indian EMNCs utilize a mix of strategies such as partnerships, mergers, targeted market entry, tailored products, and focusing on niche markets to expand internationally.",
+            "reasoning": "The sentence summarizes the key findings of the research, detailing the specific strategies identified.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "This mix of strategic practices, in combination with high levels of corporate parenting, plays an important role in the ability of Indian EMNCs to internationalize successfully.",
+            "meaning": "The combination of these strategies and strong corporate governance significantly contributes to the successful international expansion of Indian EMNCs.",
+            "reasoning": "The sentence emphasizes the importance of both the strategies and the corporate structure in achieving successful internationalization.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This study contributes to the international business field by developing a better understanding of the internationalization process followed by emerging market multinational firms.",
+            "meaning": "The research adds value to the field of international business by clarifying how emerging market firms, particularly Indian EMNCs, approach internationalization.",
+            "reasoning": "The sentence highlights the significance of the study's contributions to existing knowledge in the field.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "In addition, as the article adopts a case study approach, specific business strategies adopted by Indian firms as part of their internationalization process are identified.",
+            "meaning": "The case study method allows for the detailed identification of particular strategies used by Indian firms in their international expansion.",
+            "reasoning": "This sentence reinforces the methodology's effectiveness in revealing specific strategies, emphasizing the practical implications of the research.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The study, therefore, provides a strategic roadmap for firms from emerging countries on how to internationalize successfully.",
+            "meaning": "The findings offer guidance for other firms from emerging markets on effective strategies for successful internationalization.",
+            "reasoning": "The conclusion draws on the implications of the research, suggesting that the insights gained can be useful for similar firms.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates the internationalization strategies of Indian emerging market multinational corporations, identifying specific practices and competencies that contribute to their success in foreign markets.",
+    "detailed_summary": "This research paper explores the internationalization process of emerging market multinational corporations (EMNCs), with a specific focus on Indian firms. It identifies a gap in the existing literature regarding the specific strategies employed by Indian EMNCs. The study aims to uncover the competencies, home country advantages, and strategic practices that these firms utilize to enter foreign markets. Employing a multiple case study methodology supported by unstructured interviews, the research evaluates the strategic practices of three Indian companies across different industries. Key findings reveal that Indian EMNCs adopt a diverse set of strategies, including strategic alliances, acquisitions, targeted market entries, innovative product offerings, and niche market focuses. The successful internationalization of these firms is attributed to this strategic mix and strong corporate governance. The study contributes to the field of international business by enhancing the understanding of how emerging market firms navigate the internationalization process and offers a strategic roadmap for other firms in similar contexts."
+}

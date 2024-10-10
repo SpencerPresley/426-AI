@@ -1,0 +1,48 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "The purpose of this paper is to evaluate the effect of internationalization on performance in family firms, as well as the potential impact of moderators on this relationship.",
+            "meaning": "The paper aims to assess how internationalization influences the performance of family businesses and how various factors might alter this effect.",
+            "reasoning": "The use of 'evaluate' suggests a systematic examination, and 'moderators' indicates that there are additional variables that could influence the primary relationship being studied.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This paper is a meta-analysis of the impact of internationalization on performance in family firms, as well as the role of several moderators shaping this relationship, based on 29 studies.",
+            "meaning": "The research utilizes a meta-analysis approach, synthesizing findings from 29 different studies to understand the effect of internationalization and the influence of moderators on family firm performance.",
+            "reasoning": "The term 'meta-analysis' implies a comprehensive review of existing research, and 'based on 29 studies' specifies the data source for the analysis.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The findings indicate a significant positive effect of internationalization on family firm performance.",
+            "meaning": "The results show that family firms tend to perform better when they engage in internationalization.",
+            "reasoning": "The phrase 'significant positive effect' suggests a strong statistical relationship that is beneficial for family firms when they expand internationally.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This relationship was stronger in family firms with lower family ownership.",
+            "meaning": "Family firms that have less family ownership experience a greater positive impact from internationalization on their performance.",
+            "reasoning": "The comparison of family ownership levels implies that ownership structure influences the effectiveness of internationalization.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Several methodological moderators were significant, such as the means of measuring performance and internationalization.",
+            "meaning": "Different methods used to assess performance and internationalization significantly affected the results of the study.",
+            "reasoning": "The term 'methodological moderators' indicates that the way research is conducted influences outcomes, highlighting the importance of measurement techniques.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "The results also point to several cultural moderators, such as individualism, masculinity, low uncertainty avoidance and short-term orientation, which positively influence the main effect.",
+            "meaning": "Cultural factors like individualism and masculinity enhance the positive relationship between internationalization and performance in family firms.",
+            "reasoning": "The mention of 'cultural moderators' suggests that societal values and norms can affect business outcomes, indicating a broader context for performance factors.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The authors provide discussions of the results, their practical and theoretical implications, as well as avenues for future research.",
+            "meaning": "The paper includes a comprehensive discussion about the significance of the findings and suggests directions for further studies.",
+            "reasoning": "The phrase 'practical and theoretical implications' indicates that the authors are addressing both real-world applications and academic contributions of the study.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the impact of internationalization on the performance of family firms, identifying significant positive effects and the role of various moderators in shaping this relationship.",
+    "detailed_summary": "This paper conducts a meta-analysis of 29 studies to evaluate how internationalization affects the performance of family firms, while also examining the influence of various moderators. The findings reveal a significant positive correlation between internationalization and firm performance, particularly pronounced in firms with lower family ownership. Methodological factors, such as the means of measuring performance and internationalization, were found to significantly impact results. Additionally, cultural factors like individualism and masculinity were identified as moderators that enhance the positive relationship between internationalization and performance. The authors discuss the implications of these results for both practice and theory, while also suggesting areas for future research."
+}

@@ -1,0 +1,42 @@
+{
+    "sentences": [
+        {
+            "sentence": "Increasingly, creating and delivering value through complex supply chain networks involves substantial risks.",
+            "meaning": "The process of generating and providing value within intricate supply chain networks is becoming more associated with significant risks.",
+            "reasoning": "The phrase 'creating and delivering value' suggests a focus on business operations, while 'involves substantial risks' indicates that these operations are facing increasing uncertainties.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, strategy development under business risk conditions is not well-understood.",
+            "meaning": "There is a lack of clarity or knowledge regarding how to formulate strategies when facing business risks.",
+            "reasoning": "The use of 'not well-understood' implies that current understanding or frameworks for strategy development in risky conditions are inadequate.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "This cross-country research examines how, under conditions of supply chain network risk, firms develop effective risk management practices.",
+            "meaning": "The research investigates the methods by which companies across different countries create effective strategies for managing risks associated with supply chain networks.",
+            "reasoning": "The phrase 'cross-country research' indicates a broad scope, while 'effective risk management practices' suggests a focus on practical applications.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Using a literature review and survey research of managers from global firms; we present a research model, and empirically test the hypothesized relationships.",
+            "meaning": "The authors utilized existing literature and conducted surveys with managers from international companies to develop and test a research framework.",
+            "reasoning": "The mention of 'literature review and survey research' indicates a methodological approach, while 'empirically test' suggests a scientific validation of their model.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The results show that under conditions of uncertainty, management decision-making is more likely to be cautious until visible forms of risks emerge, and prudent response mechanisms are put in place.",
+            "meaning": "Findings indicate that in uncertain situations, managers tend to be careful in their decisions until they can clearly identify risks and implement appropriate responses.",
+            "reasoning": "The terms 'cautious' and 'visible forms of risks' highlight a tendency for risk-averse behavior in management under uncertainty.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "This study identifies the crucial role of supply chain exploration and exploitation practices, and their influence in development of network risk management practices, leading to competitive financial outcomes.",
+            "meaning": "The research highlights the importance of both exploring new opportunities and exploiting existing resources in managing supply chain risks, which ultimately contributes to better financial performance.",
+            "reasoning": "The terms 'exploration and exploitation practices' suggest strategic approaches, while 'competitive financial outcomes' indicates the positive impact of these practices on business success.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The abstract discusses the significance of understanding and managing risks in complex supply chain networks, emphasizing the development of effective risk management strategies through research and empirical testing.",
+    "detailed_summary": "The research paper addresses the increasing risks associated with creating and delivering value in complex supply chain networks. It identifies a gap in the understanding of strategy development under business risk conditions. The study employs a cross-country approach, utilizing literature reviews and surveys of managers from global firms to explore how these companies develop effective risk management practices in the face of supply chain network risks. The findings reveal that management tends to adopt a cautious decision-making approach during uncertain times, waiting for visible risks to materialize before implementing prudent response strategies. Furthermore, the study emphasizes the vital role of supply chain exploration and exploitation practices in shaping network risk management, ultimately leading to improved financial outcomes for firms."
+}

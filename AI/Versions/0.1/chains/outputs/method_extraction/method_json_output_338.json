@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "semi-structured interviews",
+        "provider reflection"
+    ],
+    "semi-structured interviews": {
+        "reasoning": "Semi-structured interviews are a specific qualitative data collection method used to gather in-depth insights from participants, allowing for guided yet flexible conversations that can reveal nuanced understandings of the provider-patient relationship.",
+        "passages": [
+            "Drawing upon semi-structured interviews with complementary and alternative medicine (CAM) providers (N = 17)"
+        ],
+        "confidence_score": 0.95
+    },
+    "provider reflection": {
+        "reasoning": "Provider reflection refers to the method by which CAM providers engage in self-reflection regarding their own bodily experiences to better understand their patients' health experiences, making it a key process in the study's approach to exploring the provider-patient relationship.",
+        "passages": [
+            "The study foregrounds the intersubjective nature of the provider-patient relationship as an embodied interaction in the mutual construction of therapeutic goals.",
+            "Provider reflection on their own bodies to make sense of their patients' experiences emphasizes provider-patient coproduction of meaning"
+        ],
+        "confidence_score": 0.85
+    }
+}

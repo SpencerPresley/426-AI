@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "custom Monte Carlo sampler",
+        "posterior samplings",
+        "hierarchical inference"
+    ],
+    "custom Monte Carlo sampler": {
+        "reasoning": "The custom Monte Carlo sampler (The Joker) is a specific technique used to discover and characterize binary systems by analyzing radial velocities, which indicates a distinct methodological approach in the research.",
+        "passages": [
+            "We use a custom Monte Carlo sampler (The Joker) to perform discovery and characterization of binary systems through radial velocities"
+        ],
+        "confidence_score": 0.95
+    },
+    "posterior samplings": {
+        "reasoning": "Posterior samplings refer to the results generated from the Monte Carlo method, specifically in relation to Keplerian parameters, representing a method of data analysis used to interpret the binary systems.",
+        "passages": [
+            "We use it to generate posterior samplings in Keplerian parameters for 232,495 sources released in APOGEE Data Release 16"
+        ],
+        "confidence_score": 0.9
+    },
+    "hierarchical inference": {
+        "reasoning": "Hierarchical inference is a method employed to measure the long-period binary-star eccentricity distribution, indicating a structured approach to analyzing complex data relationships.",
+        "passages": [
+            "We also use the posterior samplings in a (toy) hierarchical inference to measure the long-period binary-star eccentricity distribution"
+        ],
+        "confidence_score": 0.85
+    }
+}

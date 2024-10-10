@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "statistically rigorous analysis",
+        "eigenvector continuation",
+        "sampling of the posterior probability distribution"
+    ],
+    "statistically rigorous analysis": {
+        "reasoning": "Statistically rigorous analysis refers to the methodical approach taken to incorporate various uncertainties, ensuring that the results are reliable and valid.",
+        "passages": [
+            "Our statistically rigorous analysis incorporates experimental error, computational method uncertainty, and the uncertainty due to truncation of the xEFT expansion at next-to-next-to-leading order."
+        ],
+        "confidence_score": 0.9
+    },
+    "eigenvector continuation": {
+        "reasoning": "Eigenvector continuation is a specific computational technique used for emulating no-core shell model calculations, indicating a methodological approach to the analysis of few-nucleon observables.",
+        "passages": [
+            "We use eigenvector continuation for fast and accurate emulation of no-core shell model calculations of the few-nucleon observables."
+        ],
+        "confidence_score": 0.95
+    },
+    "sampling of the posterior probability distribution": {
+        "reasoning": "Sampling of the posterior probability distribution is a statistical method used to estimate the distributions of parameters, which is a key part of the analysis in this research.",
+        "passages": [
+            "This facilitates sampling of the posterior probability distribution, allowing us to also determine the distributions of the parameters that quantify the truncation error."
+        ],
+        "confidence_score": 0.92
+    }
+}

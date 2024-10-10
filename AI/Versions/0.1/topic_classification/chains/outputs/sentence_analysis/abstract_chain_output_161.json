@@ -1,0 +1,72 @@
+{
+    "sentences": [
+        {
+            "sentence": "As organizations globalize, they are facing twin challenges of (1) how to develop actionable intelligence from the vast amount of data flowing into their organization and (2) how to effectively manage the increasing risks to their supply chain.",
+            "meaning": "Organizations are encountering two main challenges due to globalization: extracting useful insights from large data volumes and managing supply chain risks.",
+            "reasoning": "The sentence outlines the context of the research, focusing on the difficulties organizations face in the globalized environment.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Therefore, the purpose of this paper is to bring these two issues on a single platform to understand how firms can effectively predict supply chain risk by developing and using BDA capabilities, through an automated risk alert tool.",
+            "meaning": "The paper aims to integrate the challenges of data intelligence and supply chain risk management by exploring how big data analytics (BDA) can be utilized to predict risks via an automated tool.",
+            "reasoning": "The sentence clearly states the objective of the research, linking the two challenges and proposing a solution through BDA.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The authors used a questionnaire-based survey methodology supported by secondary data to collect information related to managerial perceptions on how firms can develop a risk alert tool by improving BDA capabilities.",
+            "meaning": "The research employed surveys and secondary data to gather insights from managers on enhancing BDA capabilities to create a risk alert tool.",
+            "reasoning": "This sentence describes the methodology used in the study, emphasizing the collection of managerial insights.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "A database of 213 senior and middle-level managers was developed and used to test the proposed hypothesis.",
+            "meaning": "The study involved a sample of 213 managers to validate the hypothesis regarding BDA capabilities and risk management.",
+            "reasoning": "It specifies the sample size and its purpose in the research, indicating a quantitative approach.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Using econometric techniques, the authors identify the conditions necessary for such an automated risk management tool to be effective.",
+            "meaning": "The authors applied econometric methods to determine the essential conditions for the effectiveness of the automated risk management tool.",
+            "reasoning": "This highlights the analytical methods used to derive conclusions about the risk management tool's effectiveness.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The results suggest that if organizations focus on developing an effective IT infrastructure supported by a strong BDA capability, they will be able to leverage these capabilities to develop an effective risk management tool.",
+            "meaning": "Organizations can create a successful risk management tool by enhancing their IT infrastructure and BDA capabilities.",
+            "reasoning": "This sentence summarizes the findings of the research, linking infrastructure and BDA capabilities to risk management success.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Moderating influences of Upstream and Downstream Supply Chain IT Infrastructure capabilities were also observed on different types of BDA capabilities within a firm.",
+            "meaning": "The study found that both upstream and downstream IT infrastructure capabilities affect various BDA capabilities within organizations.",
+            "reasoning": "This indicates the complexity of the relationships between different types of IT infrastructure and BDA capabilities.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "In conclusion, it was argued that the effectiveness of a risk alert tool is dependent on how well firms harness big data analytics capability.",
+            "meaning": "The paper concludes that the success of the risk alert tool relies on the firm's ability to effectively utilize big data analytics.",
+            "reasoning": "This sentence encapsulates the main conclusion of the research regarding the importance of BDA capabilities.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The value of the research stems from the fact that it uses managerial surveys to identify specific BDA capabilities that can enable firms to develop risk resilience capabilities.",
+            "meaning": "The research is valuable because it identifies specific BDA capabilities through surveys that help organizations build resilience against risks.",
+            "reasoning": "This emphasizes the practical implications of the research for organizations seeking to improve risk management.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "In addition, the article is one of the few empirical studies that aims to identify how firms can use BDA capabilities within a supply chain context to develop an automated risk alert tool.",
+            "meaning": "This study is notable for being one of the few that empirically examines the application of BDA in developing automated risk alert tools for supply chains.",
+            "reasoning": "It highlights the originality of the research within the academic literature.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The article, therefore, contributes to the literature that identifies the value of BDA capabilities within the context of supply chain risk management.",
+            "meaning": "The research adds to existing literature by demonstrating how BDA capabilities can enhance supply chain risk management.",
+            "reasoning": "This sentence summarizes the contribution of the research to the broader academic discourse.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research explores how organizations can leverage big data analytics capabilities to develop an automated risk alert tool for effective supply chain risk management amidst globalization challenges.",
+    "detailed_summary": "This paper addresses the dual challenges faced by organizations in a globalized environment: developing actionable insights from large data volumes and managing supply chain risks. It aims to integrate these issues by investigating how firms can use big data analytics (BDA) capabilities to predict risks through an automated risk alert tool. The authors conducted a questionnaire-based survey supported by secondary data to gather insights from 213 senior and middle-level managers regarding the development of such a tool. Employing econometric techniques, they identified the necessary conditions for the effectiveness of the automated risk management tool. The findings indicate that organizations can enhance their risk management by focusing on a robust IT infrastructure and strong BDA capabilities. The study also revealed the moderating effects of upstream and downstream supply chain IT infrastructure on various BDA capabilities. Ultimately, the research concludes that the effectiveness of a risk alert tool is contingent upon how well firms utilize BDA capabilities. This study is significant as it empirically identifies specific BDA capabilities that can foster risk resilience in supply chains, contributing valuable insights to the literature on supply chain risk management."
+}

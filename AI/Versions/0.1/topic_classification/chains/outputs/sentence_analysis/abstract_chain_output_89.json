@@ -1,0 +1,36 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Students with autism spectrum disorder (ASD) experience anxiety at higher rates than their neurotypical peers.",
+            "meaning": "Students with ASD have a greater prevalence of anxiety compared to students without ASD.",
+            "reasoning": "The sentence compares the anxiety levels of students with ASD to those who are neurotypical, indicating a significant difference in experiences.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "This can negatively impact school performance.",
+            "meaning": "The increased anxiety in students with ASD can lead to poorer academic outcomes.",
+            "reasoning": "The phrase 'negatively impact' suggests that there is a detrimental effect on school performance due to anxiety.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Anxiety symptoms for these students can be challenging to identify because they mimic diagnostic characteristics.",
+            "meaning": "Recognizing anxiety in students with ASD is difficult since their symptoms can resemble other ASD traits.",
+            "reasoning": "The use of 'mimic' indicates that anxiety symptoms can be confused with symptoms of ASD, complicating diagnosis.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "As key intervention team members, school-based mental health professionals can assist with identifying and addressing anxiety in students with autism.",
+            "meaning": "Mental health professionals in schools play a crucial role in recognizing and managing anxiety in students with ASD.",
+            "reasoning": "The term 'key intervention team members' highlights the importance of these professionals in the context of supporting students with autism.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Specific evidence-based strategies for school-based mental health professionals are detailed to support efforts to intervene successfully with students with autism who experience anxiety.",
+            "meaning": "The paper provides concrete strategies that mental health professionals can use to effectively help students with autism dealing with anxiety.",
+            "reasoning": "The phrase 'evidence-based strategies' implies that the strategies presented are backed by research, enhancing their credibility.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research addresses the heightened anxiety experienced by students with autism spectrum disorder and emphasizes the role of school-based mental health professionals in identifying and managing this anxiety through specific strategies.",
+    "detailed_summary": "This research paper discusses the prevalence of anxiety among students with autism spectrum disorder (ASD), noting that these students experience anxiety at higher rates than their neurotypical counterparts, which can adversely affect their academic performance. The identification of anxiety symptoms is complicated due to their resemblance to characteristics of ASD, presenting a challenge for educators and mental health professionals. The paper highlights the importance of school-based mental health professionals as essential members of intervention teams who can help identify and address anxiety in these students. Additionally, it outlines specific evidence-based strategies that these professionals can implement to effectively support students with autism who are experiencing anxiety, aiming to enhance their overall school experience and performance."
+}

@@ -1,0 +1,48 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise.",
+            "meaning": "The study investigates how team members' real skills and social standing affect their influence on team activities through the perception of their expertise.",
+            "reasoning": "The sentence clearly states the theoretical framework and the main variables being examined: actual expertise, social status, and perceived expertise.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams.",
+            "meaning": "The study also looks into when teams depend more on perceived expertise or social status to establish influence dynamics within the team.",
+            "reasoning": "The sentence specifies an additional focus of the research, which is the conditions affecting reliance on perceived expertise versus social status.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts.",
+            "meaning": "The researchers propose a model that suggests the importance of expertise and social status varies based on the type of conflicts within the group.",
+            "reasoning": "The sentence introduces a model that links the relevance of expertise and social status to different conflict scenarios within the team.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise.",
+            "meaning": "The study used survey data from student teams in South Korea and found that both real expertise and social status directly and indirectly influence team members through perceived expertise.",
+            "reasoning": "The sentence describes the methodology (survey data) and the key findings regarding the effects of actual expertise and social status.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise.",
+            "meaning": "The study found that at the beginning of team projects, social status influences perceived expertise, but later on, actual expertise becomes more influential.",
+            "reasoning": "The sentence provides a temporal distinction in the factors driving perceived expertise at different stages of the project.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low.",
+            "meaning": "The study discovered that perceived experts have more influence when there is high task conflict or low relationship conflict.",
+            "reasoning": "The sentence highlights specific conditions (task and relationship conflict) under which perceived experts exert more influence.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We discuss the implications of these findings for research and practice.",
+            "meaning": "The researchers will elaborate on how their findings can be applied in both academic research and practical settings.",
+            "reasoning": "The sentence indicates that the paper will cover the broader impact and applications of the research results.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research examines how team members' actual expertise and social status influence their perceived expertise and, consequently, their influence within the team, with a focus on the conditions under which these factors are more salient, particularly in relation to different types of intragroup conflicts.",
+    "detailed_summary": "The study draws on expectation states theory and expertise utilization literature to investigate the effects of team members' actual expertise and social status on their influence over team processes through perceived expertise. It explores the conditions under which teams rely on perceived expertise versus social status to determine influence relationships. A contingency model is presented, suggesting that the importance of expertise and social status varies based on the type of intragroup conflicts. Using multiwave survey data from 50 student project teams in South Korea, the study finds that both actual expertise and social status have direct and indirect effects on member influence through perceived expertise. It also reveals that social status drives perceived expertise at the early stages of team projects, while actual expertise becomes more influential at later stages. Additionally, perceived experts are more influential when task conflict is high or relationship conflict is low. The paper discusses the implications of these findings for both research and practical applications."
+}

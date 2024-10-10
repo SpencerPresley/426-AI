@@ -1,0 +1,66 @@
+{
+    "sentences": [
+        {
+            "sentence": "Over the past decade, increasing attention to the negative impacts of exclusionary discipline and disparities therein has led many state educational leaders to enact school discipline reforms.",
+            "meaning": "The awareness of the harmful effects of exclusionary discipline practices has prompted educational leaders to implement reforms in school discipline policies.",
+            "reasoning": "The phrase 'negative impacts of exclusionary discipline' indicates that these practices are harmful, and 'many state educational leaders to enact school discipline reforms' suggests a response to these concerns.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This study examined the response by school district leadership to a state's revision of guidelines for student codes of conduct.",
+            "meaning": "The research focuses on how school district leaders reacted to changes in state guidelines regarding student conduct.",
+            "reasoning": "The use of 'examined' indicates a thorough investigation, and 'response by school district leadership' implies an analysis of actions taken by these leaders in light of new guidelines.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This study leveraged longitudinal data on school district codes of conduct from the 2013-2014 to 2015-2016 school years across the state of Maryland.",
+            "meaning": "The research utilized data collected over multiple years regarding school district conduct codes in Maryland.",
+            "reasoning": "The term 'longitudinal data' signifies data collected over time, and specifying the years and location indicates the scope of the study.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Codes of conduct were coded in an iterative fashion according to a common set of infraction-response combinations.",
+            "meaning": "The conduct codes were analyzed repeatedly using a standardized method that links specific infractions to their corresponding responses.",
+            "reasoning": "The phrase 'coded in an iterative fashion' suggests a repeated process of classification, and 'common set of infraction-response combinations' indicates a systematic approach.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Using a pre-post analytic design, this study examined changes in districts' codified infractions, responses to infractions, and the overall tier of response.",
+            "meaning": "The research employed a methodology that compares data before and after the implementation of new guidelines to assess changes in discipline practices.",
+            "reasoning": "The term 'pre-post analytic design' suggests a comparison of two time points, and 'examined changes' indicates a focus on how practices evolved.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Furthermore, the study compared alignment between state guidelines and district codes of conduct while exploring variation in codified discipline across districts.",
+            "meaning": "The research also analyzed how well district conduct codes matched state guidelines and looked into differences in discipline practices among districts.",
+            "reasoning": "The word 'compared' indicates a direct evaluation of alignment, and 'variation in codified discipline across districts' suggests a broader investigation into differences.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Findings suggest that leaders in districts increased the number of response options available for most types of infractions, with the largest increases occurring for more serious infractions.",
+            "meaning": "The results indicate that school district leaders expanded the range of disciplinary responses, particularly for serious infractions.",
+            "reasoning": "The use of 'increased the number of response options' points to a positive change, and 'largest increases occurring for more serious infractions' specifies where these changes were most significant.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "While these increases tended to be driven by increases in the codification of less exclusionary responses, there were nevertheless sizeable increases in the availability of in-school suspension and removal/intervention.",
+            "meaning": "Although the expansion of options was mainly towards less exclusionary methods, there was still a notable rise in more punitive measures like in-school suspension.",
+            "reasoning": "The contrast between 'less exclusionary responses' and 'sizeable increases in the availability of in-school suspension' indicates a nuanced outcome of the reforms.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "In almost all cases, school districts reported distributions of response options that were at a higher tier level than that recommended by the state.",
+            "meaning": "Most school districts provided more severe disciplinary options than those suggested by state guidelines.",
+            "reasoning": "The phrase 'higher tier level than that recommended by the state' implies that districts are adopting stricter measures than advised.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Findings are discussed in the context of current efforts to reform school discipline and the implications of such reform for implementation by district and school leadership.",
+            "meaning": "The results are analyzed in relation to ongoing school discipline reform efforts and their impact on how districts and schools carry out these reforms.",
+            "reasoning": "The phrase 'discussed in the context of current efforts to reform school discipline' indicates a broader relevance of the findings to existing initiatives.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research investigates how school district leaders in Maryland responded to revised state guidelines for student conduct, focusing on changes in disciplinary practices and the implications of these reforms.",
+    "detailed_summary": "This study explores the impact of recent school discipline reforms initiated in response to concerns about exclusionary discipline practices. By analyzing longitudinal data from Maryland school districts between the 2013-2016 school years, the research examines how district leadership adapted their codes of conduct following state guideline revisions. Utilizing a pre-post analytic design, the study assesses changes in the types and tiers of infractions and responses, comparing district codes with state recommendations. The findings reveal that districts generally increased the variety of response options available, particularly for serious infractions, although they also retained some punitive measures like in-school suspension. Overall, the research highlights the complexities of implementing discipline reforms and their implications for school leadership."
+}

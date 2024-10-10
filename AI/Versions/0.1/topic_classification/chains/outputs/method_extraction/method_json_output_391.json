@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "study of idealized species",
+        "analysis of biased dispersal",
+        "determination of average time and location of the most recent common ancestor"
+    ],
+    "study of idealized species": {
+        "reasoning": "This method refers to the specific approach taken by the researchers to investigate the dynamics of dispersal in an idealized species, which is crucial for understanding the underlying biological processes.",
+        "passages": [
+            "We study an idealized species with non-overlapping generations in a finite linear habitat"
+        ],
+        "confidence_score": 0.85
+    },
+    "analysis of biased dispersal": {
+        "reasoning": "This method involves examining the effects of biased dispersal on the population dynamics within the habitat, which is a key focus of the research.",
+        "passages": [
+            "we find that a biased dispersal in the habitat reduces the average time to the most recent common ancestor"
+        ],
+        "confidence_score": 0.9
+    },
+    "determination of average time and location of the most recent common ancestor": {
+        "reasoning": "This method describes the specific calculation and analysis performed to ascertain the average time and location of the most recent common ancestor, which is central to the study's findings.",
+        "passages": [
+            "We determine the average time and location of the most recent common ancestor as a function of the larval dispersal statistics."
+        ],
+        "confidence_score": 0.95
+    }
+}

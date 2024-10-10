@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "logistic model",
+        "quadratic regression model"
+    ],
+    "logistic model": {
+        "reasoning": "The logistic model is a statistical method used to predict the probability of a certain event, in this case, customer loan defaults. It is a specific analytical approach employed in the research.",
+        "passages": [
+            "construct a logistic model to predict customers' default probability"
+        ],
+        "confidence_score": 0.95
+    },
+    "quadratic regression model": {
+        "reasoning": "The quadratic regression model is a statistical technique used to analyze the relationship between commission structure and profitability. It is a specific method used to derive insights from the data.",
+        "passages": [
+            "a quadratic regression model is established to determine the optimal commission structure to balance profitability with incentives from retail stores"
+        ],
+        "confidence_score": 0.9
+    }
+}

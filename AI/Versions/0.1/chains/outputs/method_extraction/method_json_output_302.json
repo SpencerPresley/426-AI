@@ -1,0 +1,17 @@
+{
+    "methods": [],
+    "public engagement framework": {
+        "reasoning": "The public engagement framework refers to the approach suggested for psychologists to recommit to public-facing work, indicating a methodological perspective on how psychology can interact with societal issues.",
+        "passages": [
+            "this special issue invites psychologists to embrace the challenge of recommitting to publicly engaged and public-facing psychology"
+        ],
+        "confidence_score": 0.85
+    },
+    "public psychology framework": {
+        "reasoning": "The public psychology framework is a conceptual approach introduced in the article, suggesting a methodology for addressing social issues through psychological knowledge.",
+        "passages": [
+            "the concept of public psychology"
+        ],
+        "confidence_score": 0.8
+    }
+}

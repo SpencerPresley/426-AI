@@ -1,0 +1,52 @@
+{
+    "methods": [
+        "cognitive analyses",
+        "auditory grouping",
+        "Weber's law",
+        "competitive decoys",
+        "multimodal communication",
+        "perceptual rescue"
+    ],
+    "cognitive analyses": {
+        "reasoning": "Cognitive analyses refer to the specific methodological approach used to examine the higher-level cognitive processes involved in mate choice, making it a key method in the review of studies.",
+        "passages": [
+            "Here we review studies in which cognitive analyses seem to play an important role"
+        ],
+        "confidence_score": 0.85
+    },
+    "auditory grouping": {
+        "reasoning": "Auditory grouping is a specific context in which cognitive analyses are applied to understand mate choice, indicating a methodological approach within the studies reviewed.",
+        "passages": [
+            "in the following contexts: auditory grouping"
+        ],
+        "confidence_score": 0.8
+    },
+    "Weber's law": {
+        "reasoning": "Weber's law is a principle that relates to sensory perception and decision-making, representing a methodological framework used to analyze mate choice decisions.",
+        "passages": [
+            "Weber's law"
+        ],
+        "confidence_score": 0.75
+    },
+    "competitive decoys": {
+        "reasoning": "Competitive decoys refer to a specific strategy or context analyzed in mate choice, indicating a method employed in the cognitive analyses of decision-making.",
+        "passages": [
+            "competitive decoys"
+        ],
+        "confidence_score": 0.7
+    },
+    "multimodal communication": {
+        "reasoning": "Multimodal communication is a context in which multiple sensory modalities are considered in mate choice, representing a methodological approach in the studies reviewed.",
+        "passages": [
+            "multimodal communication"
+        ],
+        "confidence_score": 0.75
+    },
+    "perceptual rescue": {
+        "reasoning": "Perceptual rescue is a specific cognitive strategy that may influence mate choice decisions, indicating a methodological focus in the analysis of these studies.",
+        "passages": [
+            "perceptual rescue"
+        ],
+        "confidence_score": 0.7
+    }
+}

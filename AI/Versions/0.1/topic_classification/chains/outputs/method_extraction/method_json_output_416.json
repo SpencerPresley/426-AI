@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "evidence-based practice project",
+        "CVD risk screening",
+        "Framingham CVD risk score calculator"
+    ],
+    "evidence-based practice project": {
+        "reasoning": "An evidence-based practice project is a structured method that synthesizes existing literature to inform and implement practices, making it a clear methodological approach used in the research.",
+        "passages": [
+            "An evidence-based practice (EBP) project synthesized the literature and implemented CVD risk screening for commercial drivers examined in an occupational practice setting."
+        ],
+        "confidence_score": 0.9
+    },
+    "CVD risk screening": {
+        "reasoning": "CVD risk screening is a specific method used to assess the cardiovascular health of individuals, particularly commercial drivers in this context, and involves direct measurement and evaluation of risk factors.",
+        "passages": [
+            "implemented CVD risk screening for commercial drivers examined in an occupational practice setting."
+        ],
+        "confidence_score": 0.95
+    },
+    "Framingham CVD risk score calculator": {
+        "reasoning": "The Framingham CVD risk score calculator is a specific tool used for calculating cardiovascular disease risk, representing a methodological approach to assessing the health status of the population studied.",
+        "passages": [
+            "Using the non-laboratory Framingham CVD risk score calculator, over 90% of drivers were screened during mandated medical examinations"
+        ],
+        "confidence_score": 0.92
+    }
+}

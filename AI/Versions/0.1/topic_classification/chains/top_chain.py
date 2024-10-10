@@ -9,7 +9,7 @@ import os
 load_dotenv()
 
 llm = ChatOpenAI(
-    model="gpt-4o",
+    model="gpt-4o-mini",
     openai_api_key=os.getenv("OPENAI_API_KEY"),
     streaming=True,
     temperature=0.0,
@@ -56,11 +56,11 @@ def print_top_classification_output(top_classification_output: TopClassification
     print(json.dumps(top_classification_output, indent=4))
 
 def get_json_outputs(i):
-    with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/method_json_output_{i}.json", "r") as f:
+    with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/method_extraction/method_json_output_{i}.json", "r") as f:
         method_json_output = json.load(f)
-    with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/abstract_chain_output_{i}.json", "r") as f:
+    with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/sentence_analysis/abstract_chain_output_{i}.json", "r") as f:
         abstract_chain_output = json.load(f)
-    with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/summary_chain_output_{i}.json", "r") as f:
+    with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/summary/summary_chain_output_{i}.json", "r") as f:
         abstract_summary_output = json.load(f)
     return method_json_output, abstract_chain_output, abstract_summary_output
 
@@ -131,11 +131,13 @@ def process_top_classification_chain(abstracts: List[str], taxonomy):
             })
             print(json.dumps(top_classification_output, indent=4))
             top_classification_outputs.append(top_classification_output)
-            
+            with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/top_classification/top_classification_output_{i}.json", "w") as f:
+                json.dump(top_classification_output, f, indent=4)
+                
         except Exception as e:
             print(f"Error: {type(e).__name__}: {str(e)}")
             import traceback
             traceback.print_exc()
 
-    with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/top_classification_outputs.json", "w") as f:
+    with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/top_classification/top_classification_outputs.json", "w") as f:
         json.dump(top_classification_outputs, f, indent=4)

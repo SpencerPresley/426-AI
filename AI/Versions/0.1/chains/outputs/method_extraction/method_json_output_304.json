@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "experiential demonstration",
+        "physiocratic principles examination"
+    ],
+    "experiential demonstration": {
+        "reasoning": "Experiential demonstration refers to the specific method employed to provide practical evidence of physiocratic principles, aiming to persuade critics through real-world applications.",
+        "passages": [
+            "these trials were significant for their attempt to offer an experiential demonstration aimed at persuading doubters and silencing critics"
+        ],
+        "confidence_score": 0.9
+    },
+    "physiocratic principles examination": {
+        "reasoning": "The examination of physiocratic principles involves analyzing and evaluating the theoretical framework of physiocracy, which is a methodological approach in the context of this research.",
+        "passages": [
+            "This article examines attempts to demonstrate the truth of physiocratic principles in eighteenth-century Baden"
+        ],
+        "confidence_score": 0.85
+    }
+}

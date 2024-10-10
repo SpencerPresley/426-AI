@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "evaluative analysis",
+        "visual representation examination",
+        "contextual understanding"
+    ],
+    "evaluative analysis": {
+        "reasoning": "Evaluative analysis refers to the method of assessing and interpreting the images of contraband slaves published in the newspapers, which is central to the research objective.",
+        "passages": [
+            "This article evaluates the images of contraband slaves published in Harper's Weekly and Frank Leslie's Illustrated Newspaper during the Civil War."
+        ],
+        "confidence_score": 0.9
+    },
+    "visual representation examination": {
+        "reasoning": "This method involves studying the changes in visual representation of African Americans over time, particularly in the context of emancipation and military service.",
+        "passages": [
+            "The visual representation of African Americans dramatically changed as emancipation unfolded and black Union military service expanded."
+        ],
+        "confidence_score": 0.85
+    },
+    "contextual understanding": {
+        "reasoning": "Contextual understanding refers to the method of analyzing the historical and cultural contexts (like blackface minstrelsy and scientific racism) that influence the depiction of African Americans in the newspapers.",
+        "passages": [
+            "Blackface minstrelsy, scientific racism, and racialized printed materials depicting African Americans are used as context to understand the images in the two illustrated newspapers."
+        ],
+        "confidence_score": 0.8
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "synthesis of hydrophilic BTzBP ligand",
+        "study of the effect of adding water-soluble groups"
+    ],
+    "synthesis of hydrophilic BTzBP ligand": {
+        "reasoning": "The synthesis of a hydrophilic BTzBP ligand is a specific process that describes how the researchers created a new chemical compound, which is a key methodological step in their research.",
+        "passages": [
+            "Herein, we show the synthesis of a hydrophilic BTzBP ligand featuring cationic water solubilizing groups attached to the bipyridal rings."
+        ],
+        "confidence_score": 0.95
+    },
+    "study of the effect of adding water-soluble groups": {
+        "reasoning": "Studying the effect of adding water-soluble groups onto extractant ligands is a methodological approach that investigates how these modifications influence the performance of the ligands in partitioning elements, making it a clear methodological focus.",
+        "passages": [
+            "The effect of adding water-soluble groups onto extractant ligands has been extensively studied to facilitate the efficient partitioning of 4f and transuranic 5f elements for the treatment of spent nuclear fuel."
+        ],
+        "confidence_score": 0.9
+    }
+}

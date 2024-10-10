@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "time-resolved spectra analysis",
+        "k-d tree selection"
+    ],
+    "time-resolved spectra analysis": {
+        "reasoning": "Time-resolved spectra analysis is the specific method used to collect and examine the variations in radial velocity of stars over time, which is crucial for understanding their dynamics in the Sagittarius dwarf spheroidal galaxy.",
+        "passages": [
+            "We use time-resolved spectra from the Apache Point Observatory Galactic Evolution Experiment (APOGEE) to examine the distribution of radial velocity (RV) variations in 249 stars"
+        ],
+        "confidence_score": 0.95
+    },
+    "k-d tree selection": {
+        "reasoning": "K-d tree selection is a method used to identify and select Milky Way stars with similar stellar parameters to those of the Sagittarius members, representing a specific algorithmic approach to data selection in the research.",
+        "passages": [
+            "We select Milky Way (MW) stars that have stellar parameters (log(g), T-eff, and [Fe/H]) similar to those of the Sagittarius members by means of a k-d tree of dimension 3."
+        ],
+        "confidence_score": 0.9
+    }
+}

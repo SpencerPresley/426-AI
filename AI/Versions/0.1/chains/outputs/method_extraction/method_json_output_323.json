@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "electronic linguistic analysis",
+        "critical discourse analysis",
+        "mixed-methods approach"
+    ],
+    "electronic linguistic analysis": {
+        "reasoning": "Electronic linguistic analysis refers to the use of a specific tool (Docuscope) to analyze language patterns in writing samples, which is a clear methodological process for data analysis.",
+        "passages": [
+            "Using an electronic linguistic analysis tool (Docuscope), we identified patterns in the writing samples from 2,061 applicants"
+        ],
+        "confidence_score": 0.95
+    },
+    "critical discourse analysis": {
+        "reasoning": "Critical discourse analysis is a specific analytical method employed to interpret the role of gender in candidates' portrayals, making it a key methodological approach in the study.",
+        "passages": [
+            "and applied critical discourse analysis to determine the role gender plays in candidates' portrayals of themselves"
+        ],
+        "confidence_score": 0.9
+    },
+    "mixed-methods approach": {
+        "reasoning": "A mixed-methods approach indicates the combination of qualitative and quantitative research methods used to analyze language differences, representing the overall methodological framework of the study.",
+        "passages": [
+            "This mixed-methods approach revealed that language use differs significantly between male and female applicants."
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "paired sample"
+    ],
+    "paired sample": {
+        "reasoning": "The term 'paired sample' refers to a specific methodological approach where data is collected from two related groups (in this case, legal secretaries and their managers) to examine the relationship between variables.",
+        "passages": [
+            "Based on a paired sample of 161 legal secretaries and their managers"
+        ],
+        "confidence_score": 0.85
+    }
+}

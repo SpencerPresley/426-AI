@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "adaptation model",
+        "analysis of data from the Health and Retirement Study"
+    ],
+    "adaptation model": {
+        "reasoning": "The adaptation model is a specific theoretical framework proposed to analyze how labor supply adjustments are influenced by a spouse's health evolution after a health shock, making it a key methodological approach in the research.",
+        "passages": [
+            "by proposing an adaptation model where the long-term labor supply adjustment of an individual is allowed to depend on her spouse's health evolution after the initial shock"
+        ],
+        "confidence_score": 0.9
+    },
+    "analysis of data from the Health and Retirement Study": {
+        "reasoning": "This refers to the specific method of analyzing longitudinal data collected from the Health and Retirement Study, which is crucial for understanding the labor supply responses over time.",
+        "passages": [
+            "Analysis of the 1996-2012 data from the Health and Retirement Study (HRS) suggests that in the short run, both husbands and wives change their labor supply very little when their spouses become ill"
+        ],
+        "confidence_score": 0.95
+    }
+}

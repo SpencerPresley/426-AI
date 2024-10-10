@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "experience sampling methods",
+        "polynomial regression"
+    ],
+    "experience sampling methods": {
+        "reasoning": "Experience sampling methods are a specific data collection technique that involves gathering data from participants in real-time about their feelings and experiences throughout the day, which is essential for examining the effects of affect balance on well-being.",
+        "passages": [
+            "We use experience sampling methods and polynomial regression to test the notion that daily PA and NA at work, along with their interactive and nonlinear effects, predict employee well-being after work."
+        ],
+        "confidence_score": 0.95
+    },
+    "polynomial regression": {
+        "reasoning": "Polynomial regression is a statistical analysis technique used to model the relationship between variables, in this case, to analyze how daily PA and NA, along with their interactions, predict well-being outcomes.",
+        "passages": [
+            "We use experience sampling methods and polynomial regression to test the notion that daily PA and NA at work, along with their interactive and nonlinear effects, predict employee well-being after work."
+        ],
+        "confidence_score": 0.9
+    }
+}

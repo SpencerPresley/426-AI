@@ -1,0 +1,84 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "The purpose of this paper is to examine how firms can develop business risk resilience from supply chain disruption events, by developing big data analytics (BDA) capabilities within their organization.",
+            "meaning": "The paper aims to investigate ways in which companies can enhance their ability to withstand risks associated with supply chain disruptions by leveraging big data analytics.",
+            "reasoning": "The sentence clearly states the objective of the research, focusing on business risk resilience and the role of BDA capabilities.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The authors test whether BDA mediates the impact of institutional response to supply chain disruption events, and information technology infrastructure capabilities (ITICs), on firm's ability to develop risk resilience from supply chain disruption events.",
+            "meaning": "The researchers are investigating if BDA serves as a mediator between how organizations respond to supply chain disruptions and their IT capabilities, impacting their risk resilience.",
+            "reasoning": "The use of 'test' indicates a hypothesis-driven approach, and the terms 'mediates' and 'impact' suggest a focus on relationships between variables.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The study is based on survey data collected from 225 firms, spread across several sectors in the USA and Europe.",
+            "meaning": "The research utilizes survey data from 225 companies across various industries in the USA and Europe.",
+            "reasoning": "This sentence provides information about the data source and the geographical and industrial scope of the study.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The respondents are primarily senior and middle management professionals who have experience within the information technology (IT) and supply chain domain.",
+            "meaning": "The survey participants are mainly experienced professionals in management roles within IT and supply chain sectors.",
+            "reasoning": "The sentence specifies the qualifications of the respondents, indicating the relevance of their insights to the study.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Validity and reliability analyses were performed using SPSS and AMOS; and covariance-based structural equation modeling was used to test the hypothesis.",
+            "meaning": "The researchers conducted statistical analyses to ensure the reliability and validity of their data using specific software tools and employed structural equation modeling for hypothesis testing.",
+            "reasoning": "The mention of specific methodologies and tools indicates a rigorous approach to data analysis.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The analysis reveals two significant findings.",
+            "meaning": "The results of the analysis highlight two key outcomes from the study.",
+            "reasoning": "The phrase 'significant findings' suggests that the results are important and noteworthy.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "First, the authors observe that institutional experience with managing supply chain disruption events has a negative impact on firm's ability to develop business risk resilience.",
+            "meaning": "The research found that having prior experience in handling supply chain disruptions may actually hinder a firm's capacity to build resilience against future risks.",
+            "reasoning": "The word 'negative impact' indicates an unexpected or counterintuitive result, which is significant in the context of the study.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, if the organizations adopt BDA capabilities, it enables them to effectively utilize resident firm knowledge and develop supply chain risk resilience capacity.",
+            "meaning": "Organizations that implement BDA capabilities can better leverage their existing knowledge to enhance their resilience to supply chain risks.",
+            "reasoning": "The use of 'however' suggests a contrast to the previous finding, indicating that BDA can mitigate the negative impact of institutional experience.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The results further suggest that BDA positively adds to an organization's existing IT capabilities.",
+            "meaning": "The findings indicate that BDA enhances the current IT capabilities of an organization.",
+            "reasoning": "The phrase 'positively adds' implies that BDA is beneficial and complements existing resources.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The analysis shows that BDA mediates the impact of ITIC on the organization's ability to develop risk resilience to supply chain disruption events.",
+            "meaning": "The study demonstrates that BDA serves as a mediator in the relationship between IT infrastructure capabilities and the ability to build resilience against supply chain disruptions.",
+            "reasoning": "The sentence reiterates the mediation role of BDA, reinforcing its importance in the context of IT capabilities.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This study is one of the few works that empirically validate the important role that BDA capabilities play in enabling firms develop business risk resilience from supply chain disruption events.",
+            "meaning": "This research contributes to the limited literature by providing empirical evidence of the critical role of BDA in fostering resilience against supply chain disruptions.",
+            "reasoning": "The phrase 'one of the few works' emphasizes the novelty and significance of the study's findings.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The study further provides a counterpoint to the existing perspective within the supply chain risk management literature that institutional experience of managing past supply chain disruption events prepares the organization to deal with future disruption events.",
+            "meaning": "The findings challenge the prevailing belief that past experience with supply chain disruptions equips organizations for future challenges.",
+            "reasoning": "The term 'counterpoint' indicates a contrasting viewpoint, highlighting the study's contribution to the discourse in the field.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This paper adds to our understanding of how, by adopting BDA capabilities, firms can develop supply chain risk resilience from disruption events.",
+            "meaning": "The research enhances knowledge about the relationship between BDA adoption and the development of resilience against supply chain disruptions.",
+            "reasoning": "The phrase 'adds to our understanding' suggests that the study provides new insights into an important area of research.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research explores the role of big data analytics in enhancing firms' resilience to supply chain disruptions, challenging existing beliefs about the impact of past experiences on future preparedness.",
+    "detailed_summary": "This paper investigates how firms can build resilience against business risks stemming from supply chain disruptions through the development of big data analytics (BDA) capabilities. The authors examine the mediating role of BDA in the relationship between institutional responses to disruptions and information technology infrastructure capabilities (ITICs), focusing on the implications for risk resilience. Based on survey data from 225 firms across various sectors in the USA and Europe, the study's respondents include senior and middle management professionals with expertise in IT and supply chain management. The researchers employed validity and reliability analyses, along with covariance-based structural equation modeling, to test their hypotheses. The findings reveal two critical insights: firstly, that institutional experience with managing disruptions negatively affects a firm's resilience; and secondly, that adopting BDA capabilities allows organizations to leverage existing knowledge effectively, enhancing their risk resilience. Additionally, the study finds that BDA contributes positively to IT capabilities and mediates the relationship between ITIC and resilience development. This research is notable for its empirical validation of the critical role of BDA in fostering resilience, challenging the prevailing view that past experience prepares firms for future disruptions, and ultimately enriching the understanding of the interplay between BDA and supply chain risk resilience."
+}

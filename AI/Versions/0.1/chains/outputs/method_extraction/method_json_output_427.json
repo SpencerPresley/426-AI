@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "survival model techniques",
+        "panel data analysis"
+    ],
+    "survival model techniques": {
+        "reasoning": "Survival model techniques are a specific statistical method used to analyze the timing of events, in this case, the manipulation of sales factor weights by states, making it a clear methodological approach.",
+        "passages": [
+            "We apply survival model techniques to a panel of state-level data for the years 1985-2012."
+        ],
+        "confidence_score": 0.95
+    },
+    "panel data analysis": {
+        "reasoning": "Panel data analysis refers to the method of analyzing data that involves multiple subjects over time, which is crucial for understanding the dynamics of sales factor weight manipulation across different states.",
+        "passages": [
+            "We apply survival model techniques to a panel of state-level data for the years 1985-2012."
+        ],
+        "confidence_score": 0.9
+    }
+}

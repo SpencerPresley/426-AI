@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "novel model of acute DPN in zebrafish",
+        "beta-cell ablation",
+        "metronidazole treatment",
+        "experimental design"
+    ],
+    "novel model of acute DPN in zebrafish": {
+        "reasoning": "This represents a method as it describes the specific approach taken to study diabetic peripheral neuropathy using a zebrafish model, which is a unique methodological choice for this research.",
+        "passages": [
+            "We provide a novel model of acute DPN in zebrafish (Danio rerio) larvae."
+        ],
+        "confidence_score": 0.95
+    },
+    "beta-cell ablation": {
+        "reasoning": "Beta-cell ablation is a specific technique used in the study to induce hyperglycemia, which is essential for the experimental setup to investigate the effects of DPN.",
+        "passages": [
+            "treated with metronidazole (MTZ) for 48 h and checked for beta-cell ablation 7 dpf."
+        ],
+        "confidence_score": 0.9
+    },
+    "metronidazole treatment": {
+        "reasoning": "Metronidazole treatment is a method used to achieve beta-cell ablation in the zebrafish model, making it a crucial part of the experimental methodology.",
+        "passages": [
+            "Beginning 5 days postfertilization (dpf), zebrafish expressing nitroreductase in their pancreatic beta-cells were treated with metronidazole (MTZ) for 48 h."
+        ],
+        "confidence_score": 0.92
+    },
+    "experimental design": {
+        "reasoning": "Experimental design refers to the overall methodological framework used to conduct the research, including the setup and the intended proof of concept regarding beta-cell ablation and hyperglycemia.",
+        "passages": [
+            "In experimental design, this was meant to serve as proof of concept that beta-cell ablation and hyperglycemia are possible at this time point."
+        ],
+        "confidence_score": 0.85
+    }
+}

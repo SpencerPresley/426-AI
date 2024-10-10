@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "fractal system",
+        "sociolinguistic processes",
+        "dynamic construction",
+        "semiotic data analysis"
+    ],
+    "fractal system": {
+        "reasoning": "The fractal system represents a specific conceptual framework used to analyze and discuss the complexities of human survival and collective learning in the context of the research.",
+        "passages": [
+            "lay out a fractal system in which the related sociolinguistic processes play out"
+        ],
+        "confidence_score": 0.85
+    },
+    "sociolinguistic processes": {
+        "reasoning": "Sociolinguistic processes refer to the specific methodologies employed to examine how language and social interaction influence collective learning and survival.",
+        "passages": [
+            "we argue that collective learning - and thus survival - is a sociolinguistic phenomenon"
+        ],
+        "confidence_score": 0.8
+    },
+    "dynamic construction": {
+        "reasoning": "Dynamic construction describes the ongoing processes through which participants actively shape their understanding of circumstances, representing a methodological approach to data interpretation.",
+        "passages": [
+            "discuss the processes through which participants dynamically construct and update their chronotopic images"
+        ],
+        "confidence_score": 0.75
+    },
+    "semiotic data analysis": {
+        "reasoning": "Semiotic data analysis refers to the examination of material and semiotic data as part of the research methodology, focusing on how meaning is created and understood.",
+        "passages": [
+            "interact with material and semiotic data coming from multiple scales/centers"
+        ],
+        "confidence_score": 0.8
+    }
+}

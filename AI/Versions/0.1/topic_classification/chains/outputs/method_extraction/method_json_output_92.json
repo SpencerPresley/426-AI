@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "cross-sectional survey",
+        "stratified-random sampling"
+    ],
+    "cross-sectional survey": {
+        "reasoning": "A cross-sectional survey is a method used to collect data at a single point in time from a population, which in this case is the direct care workers in hospitals and LTCFs, allowing for the comparison of turnover intention.",
+        "passages": [
+            "A cross-sectional survey with the stratified-random sampling method."
+        ],
+        "confidence_score": 0.95
+    },
+    "stratified-random sampling": {
+        "reasoning": "Stratified-random sampling is a method used to ensure that different subgroups within the population (in this case, DCWs from hospitals and LTCFs) are adequately represented in the sample, which is crucial for the validity of the study's findings.",
+        "passages": [
+            "A cross-sectional survey with the stratified-random sampling method."
+        ],
+        "confidence_score": 0.9
+    }
+}

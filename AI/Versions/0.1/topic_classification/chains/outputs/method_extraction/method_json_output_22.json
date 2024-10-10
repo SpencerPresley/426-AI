@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "event study",
+        "further analysis"
+    ],
+    "event study": {
+        "reasoning": "An event study is a specific methodological approach used to assess the impact of particular events on firm value, which is clearly defined in the context of this research.",
+        "passages": [
+            "Results from an event study of 152 announcements of mobile payments show an increase in firm value by an average of 1.03%"
+        ],
+        "confidence_score": 0.95
+    },
+    "further analysis": {
+        "reasoning": "Further analysis refers to the additional examination of data to uncover deeper insights about the factors affecting firm value, indicating a methodological step taken after the initial event study.",
+        "passages": [
+            "Further analysis reveals characteristics of mobile payments that can augment this change in firm value."
+        ],
+        "confidence_score": 0.85
+    }
+}

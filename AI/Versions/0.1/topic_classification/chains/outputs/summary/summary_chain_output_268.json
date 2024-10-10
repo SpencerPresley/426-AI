@@ -1,0 +1,8 @@
+{
+    "summary": "This research paper investigates the counterproductive effects of federal regulations on state-level mortality rates in the United States. It highlights that certain regulations may inadvertently lead to increased mortality risk rather than reducing it. The authors utilize a unique dataset covering the years 2000 to 2014 to quantitatively analyze the relationship between federal regulation and mortality rates. Their findings indicate that a 1% increase in federal regulation correlates with a mortality increase of 0.53% to 1.35%. The study also discusses a financial threshold, revealing that expenditures exceeding $38.6 million per life saved could further increase mortality risk. This research contributes significantly to the existing literature by providing empirical evidence that can assist policymakers in evaluating the impact of regulations on public health.",
+    "reasoning": "The summary captures the main idea of the research, focusing on the investigation of the relationship between federal regulations and mortality rates, as well as the implications for public policy. It avoids detailing specific methodologies used in the study, instead emphasizing the findings and their significance in the context of existing literature.",
+    "feedback": {
+        "methodologies_feedback": "The analysis is correct and sufficient, I have no feedback at this time.",
+        "abstract_sentence_analysis_feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+    }
+}

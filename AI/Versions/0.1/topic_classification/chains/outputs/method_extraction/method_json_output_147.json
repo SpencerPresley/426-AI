@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "decision tree analysis",
+        "multivariate information metric",
+        "robustness checks",
+        "portfolio analysis"
+    ],
+    "decision tree analysis": {
+        "reasoning": "Decision tree analysis is a specific analytical method used to model decision-making processes, which is central to the research on how analysts revise target prices.",
+        "passages": [
+            "Based on the decision tree analysis"
+        ],
+        "confidence_score": 0.9
+    },
+    "multivariate information metric": {
+        "reasoning": "The development of the multivariate information metric, Internal Relevance (IR), represents a specific method for quantifying the relationship between forecast revisions and target price adjustments.",
+        "passages": [
+            "we develop a new multivariate information metric, Internal Relevance (IR), to measure the extent to which the revisions of analysts' consensus earnings and sales forecasts are incorporated into the revisions of consensus target prices"
+        ],
+        "confidence_score": 0.95
+    },
+    "robustness checks": {
+        "reasoning": "Robustness checks are a methodological approach used to validate the findings by testing their consistency under various conditions, making it a key aspect of the analysis.",
+        "passages": [
+            "These results remain consistent across a series of robustness checks"
+        ],
+        "confidence_score": 0.85
+    },
+    "portfolio analysis": {
+        "reasoning": "Portfolio analysis refers to the method employed to evaluate the effectiveness of IR in screening stocks for improved trading profitability, indicating a specific analytical approach.",
+        "passages": [
+            "we perform portfolio analysis to show that IR can be used to screen stocks to improve trading profitability"
+        ],
+        "confidence_score": 0.9
+    }
+}

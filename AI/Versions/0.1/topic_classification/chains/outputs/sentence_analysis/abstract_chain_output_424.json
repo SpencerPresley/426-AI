@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "ObjectiveTo understand college students' perceptions and understanding of wellness.",
+            "meaning": "The research aims to explore how college students perceive and comprehend the concept of wellness.",
+            "reasoning": "The use of 'Objective' indicates a clear goal of the study, which is to investigate students' views on wellness.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "ParticipantsA convenience sample of 20 undergraduate students (age 20.6 +/- 2.2 years) at a private liberal arts university in Southern California who recently completed a general education health and wellness course.",
+            "meaning": "The study involved 20 undergraduate students from a specific university who had recently taken a health and wellness course.",
+            "reasoning": "The phrase 'convenience sample' suggests a non-random selection of participants, and the details about the course provide context for their knowledge of wellness.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "MethodFive focus group sessions were conducted to explore perceptions of wellness among undergraduate college students.",
+            "meaning": "The researchers used five focus group discussions as their method to gather data on students' perceptions of wellness.",
+            "reasoning": "The term 'focus group sessions' indicates a qualitative research approach aimed at gathering in-depth insights.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Data was analyzed, themed, and coded.",
+            "meaning": "The data collected from the focus groups underwent a systematic analysis to identify themes and codes.",
+            "reasoning": "The terms 'analyzed, themed, and coded' are standard procedures in qualitative research for organizing and interpreting data.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "ResultsA thematic analysis of the descriptions of wellness revealed 2 higher-ordered themes as whole-person and wellbeing, and 3 lower-ordered themes of balance, interconnectedness, and personalized in relation to participants' understanding of wellness.",
+            "meaning": "The analysis identified two main themes related to wellness and three sub-themes that illustrate students' understanding.",
+            "reasoning": "The structure of 'higher-ordered' and 'lower-ordered' themes indicates a hierarchical categorization of the findings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "ConclusionsThe importance of balance between wellness dimensions and the acknowledgment of the interconnectedness of wellness dimensions are related to quality of life and life satisfaction.",
+            "meaning": "The study concludes that recognizing the balance and interconnectedness of wellness aspects is crucial for improving quality of life and satisfaction.",
+            "reasoning": "The use of 'importance' and 'related to' suggests a significant relationship between wellness understanding and life quality.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "A deeper insight is needed to better understand the perceptions of wellness in this population to provide more effective interventions.",
+            "meaning": "The researchers suggest that further exploration of wellness perceptions is necessary to create better health interventions for students.",
+            "reasoning": "The phrase 'deeper insight' indicates a need for more comprehensive research, while 'effective interventions' implies a practical application of the findings.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This can be achieved through the development of enhanced pedagogy, which may improve student health.",
+            "meaning": "Improving teaching methods related to wellness education could lead to better health outcomes for students.",
+            "reasoning": "The term 'enhanced pedagogy' suggests an improvement in educational approaches, linking it to health benefits.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research investigates college students' perceptions of wellness through focus groups, revealing significant themes that highlight the need for better educational approaches to improve student health.",
+    "detailed_summary": "The study aims to understand how college students perceive and understand wellness, involving a convenience sample of 20 undergraduate students from a private liberal arts university in Southern California who had recently completed a health and wellness course. Five focus group sessions were conducted to explore these perceptions, and the data collected was systematically analyzed to identify themes. The results revealed two higher-ordered themes\u2014whole-person and wellbeing\u2014and three lower-ordered themes: balance, interconnectedness, and personalized approaches to wellness. The conclusions emphasize the importance of balancing wellness dimensions and recognizing their interconnectedness, which are linked to quality of life and life satisfaction. The researchers advocate for deeper insights into students' perceptions to develop more effective health interventions, suggesting that enhanced pedagogical methods could improve student health outcomes."
+}

@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "As of 2018, there were more than 44.7 million immigrants residing, both lawfully and unlawfully, in the United States.",
+            "meaning": "In 2018, the United States had a significant population of immigrants, exceeding 44.7 million, including those who are legally and illegally present.",
+            "reasoning": "This sentence provides a statistical fact about the immigrant population in the U.S., indicating the scale and complexity of immigration issues.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Understanding the attitudes of U.S. citizens towards immigrants is necessary because of the impact that attitudes can have on policy development and the subsequent national treatment of immigrants based on those policies.",
+            "meaning": "It is important to comprehend how U.S. citizens feel about immigrants since these attitudes influence policymaking and how immigrants are treated in the nation.",
+            "reasoning": "The sentence emphasizes the connection between public attitudes and the resulting policies that affect immigrants, highlighting the importance of studying these attitudes.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This article utilizes a framework of national identity which suggests that this construct is comprised of three separate elements: nativism, emotionality, and behavior.",
+            "meaning": "The research article applies a national identity framework that includes three components: nativism, emotional responses, and behaviors related to immigration.",
+            "reasoning": "The sentence outlines the theoretical framework used in the research, specifying the key elements that shape national identity in relation to immigration.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Using U.S. citizen response data from three waves of the National Identity module of the International Social Survey Programme (ISSP) from 1995, 2003, and 2013, multivariate linear regressions were used to explore the relationship between this framework and attitudes towards immigrants.",
+            "meaning": "The study analyzed data from U.S. citizens collected in three different years to investigate how national identity relates to attitudes towards immigrants using statistical methods.",
+            "reasoning": "This sentence describes the methodology of the research, including the data sources and the analytical approach taken to address the research question.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Findings indicated that there were statistically significant relationships between respondents' perceptions of national identity and attitudes towards immigrants.",
+            "meaning": "The results showed that there is a meaningful correlation between how individuals view national identity and their attitudes toward immigrants.",
+            "reasoning": "This sentence summarizes the key findings of the research, highlighting the significance of the relationship explored in the study.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates the relationship between U.S. citizens' perceptions of national identity and their attitudes towards immigrants, utilizing historical survey data and statistical analysis.",
+    "detailed_summary": "The abstract discusses the significant presence of over 44.7 million immigrants in the United States as of 2018 and emphasizes the importance of understanding U.S. citizens' attitudes towards these immigrants due to their influence on immigration policy and treatment. The article employs a framework of national identity, which consists of nativism, emotionality, and behavior, to analyze these attitudes. It utilizes response data from the National Identity module of the International Social Survey Programme (ISSP) across three different years\u20141995, 2003, and 2013\u2014applying multivariate linear regressions to examine the relationship between national identity and attitudes towards immigrants. The findings reveal statistically significant connections between how respondents perceive national identity and their attitudes towards immigrants, suggesting that national identity plays a crucial role in shaping public opinion on immigration."
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "multisource data collection",
+        "two waves data collection"
+    ],
+    "multisource data collection": {
+        "reasoning": "Multisource data collection refers to the method of gathering data from various sources, which in this case helps to analyze the effects of customer incivility on employee performance from different perspectives.",
+        "passages": [
+            "Using multisource data collected through two waves in a shopping mall"
+        ],
+        "confidence_score": 0.9
+    },
+    "two waves data collection": {
+        "reasoning": "Two waves data collection indicates a specific methodology where data is collected at two different time points, allowing for a longitudinal analysis of the relationship between customer incivility and employee service performance.",
+        "passages": [
+            "Using multisource data collected through two waves in a shopping mall"
+        ],
+        "confidence_score": 0.85
+    }
+}

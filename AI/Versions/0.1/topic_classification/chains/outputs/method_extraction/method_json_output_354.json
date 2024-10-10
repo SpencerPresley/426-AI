@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "materials examination",
+        "holistic picture painting",
+        "dual portrait analysis"
+    ],
+    "materials examination": {
+        "reasoning": "Materials examination refers to the analysis of written documents about Jien, which is a specific method used to gather insights into his life and motivations.",
+        "passages": [
+            "Using materials written by and about him, I examine Jien's rise to prominence..."
+        ],
+        "confidence_score": 0.9
+    },
+    "holistic picture painting": {
+        "reasoning": "Holistic picture painting describes the approach taken to integrate various aspects of Jien's life, suggesting a method of synthesizing information to form a comprehensive understanding.",
+        "passages": [
+            "to paint a more holistic picture of his life."
+        ],
+        "confidence_score": 0.85
+    },
+    "dual portrait analysis": {
+        "reasoning": "Dual portrait analysis refers to the examination of Jien's identity as both a cleric and a politician, indicating a methodological approach to understanding his character from multiple perspectives.",
+        "passages": [
+            "Yet the divided portrait of Jien refracted by different academic disciplines obscures Jien's life and motivations."
+        ],
+        "confidence_score": 0.8
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "single-molecule total internal reflection fluorescence",
+        "optical trapping",
+        "fluorescence approaches",
+        "ATP-dependent 5' to 3' translocase activity"
+    ],
+    "single-molecule total internal reflection fluorescence": {
+        "reasoning": "This method is employed to visualize single molecules, allowing for the observation of RPA and Pif1 interactions at a molecular level, which is critical for understanding their dynamics.",
+        "passages": [
+            "Using single-molecule total internal reflection fluorescence and optical trapping combined with fluorescence approaches"
+        ],
+        "confidence_score": 0.9
+    },
+    "optical trapping": {
+        "reasoning": "Optical trapping is a technique used to manipulate microscopic objects using laser light, which in this context allows for the precise control of RPA and Pif1 during experiments.",
+        "passages": [
+            "Using single-molecule total internal reflection fluorescence and optical trapping combined with fluorescence approaches"
+        ],
+        "confidence_score": 0.85
+    },
+    "fluorescence approaches": {
+        "reasoning": "Fluorescence approaches refer to techniques that utilize fluorescence to study molecular interactions, which are integral to the experiments conducted in this research.",
+        "passages": [
+            "Using single-molecule total internal reflection fluorescence and optical trapping combined with fluorescence approaches"
+        ],
+        "confidence_score": 0.8
+    },
+    "ATP-dependent 5' to 3' translocase activity": {
+        "reasoning": "This refers to the specific biochemical activity of Pif1 that drives the directional movement along ssDNA, which is a key mechanism analyzed in the study.",
+        "passages": [
+            "Pif1 can use its ATP-dependent 5' to 3' translocase activity to chemomechanically push a single human RPA (hRPA) heterotrimer directionally along ssDNA"
+        ],
+        "confidence_score": 0.95
+    }
+}

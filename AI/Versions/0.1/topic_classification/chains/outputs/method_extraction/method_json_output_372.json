@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "estimation of property values",
+        "analysis of agricultural productivity"
+    ],
+    "estimation of property values": {
+        "reasoning": "Estimation of property values refers to the specific method used to assess the contributions of different types of land (forested, newly-deforested, and long-deforested) to total property values, which is a clear methodological approach in the research.",
+        "passages": [
+            "This paper estimates the contributions of forested, newly-deforested, and long-deforested land to total property values reported by smallholders in established agrarian settlements in the western Brazilian Amazon."
+        ],
+        "confidence_score": 0.95
+    },
+    "analysis of agricultural productivity": {
+        "reasoning": "Analysis of agricultural productivity refers to the method of examining how agricultural productivity changes over time for individual farmers, which is crucial for understanding the impact of deforestation on land use.",
+        "passages": [
+            "There is little evidence on how agricultural productivity in the tropics changes over time for individual farmers, because regional development processes confound changes in land productivity when aggregate data are used."
+        ],
+        "confidence_score": 0.9
+    }
+}

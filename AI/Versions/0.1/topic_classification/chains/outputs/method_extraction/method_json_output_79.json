@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "near-infrared spectroscopic observations",
+        "radial velocity measurements",
+        "orbital parameter derivation"
+    ],
+    "near-infrared spectroscopic observations": {
+        "reasoning": "Near-infrared spectroscopic observations are a specific method used to gather data about the stellar parameters of the binary star system, indicating the approach taken to study the components of Draco C1.",
+        "passages": [
+            "From near-infrared spectroscopic observations taken by the Apache Point Observatory Galactic Evolution Experiment (APOGEE-2)"
+        ],
+        "confidence_score": 0.95
+    },
+    "radial velocity measurements": {
+        "reasoning": "Radial velocity measurements are a method used to track the motion of the binary star system and are essential for determining the orbital parameters, making it a crucial methodological aspect of the research.",
+        "passages": [
+            "with 43 radial velocity measurements from APOGEE spanning an observational baseline of more than 3 yr"
+        ],
+        "confidence_score": 0.9
+    },
+    "orbital parameter derivation": {
+        "reasoning": "Orbital parameter derivation refers to the analytical method used to calculate the precise orbital parameters of the binary star system, based on the collected data, thus representing a key methodological process.",
+        "passages": [
+            "we report precise orbital parameters for the binary system"
+        ],
+        "confidence_score": 0.85
+    }
+}

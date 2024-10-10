@@ -1,0 +1,54 @@
+{
+    "methods": [
+        "autoregulated blood flow restriction",
+        "non-autoregulated blood flow restriction",
+        "Delfi Personalized Tourniquet System",
+        "ultrasonic scan",
+        "applanation tonometry",
+        "blood pressure acquisition"
+    ],
+    "autoregulated blood flow restriction": {
+        "reasoning": "Autoregulated blood flow restriction is a specific method used in the study to apply pressure during resistance exercise, allowing for controlled variations in pressure based on individual responses.",
+        "passages": [
+            "the acute effects of autoregulated and non-autoregulated applied pressures during blood flow restriction resistance exercise",
+            "Following a randomized autoregulated or non-autoregulated blood flow restriction familiarization session"
+        ],
+        "confidence_score": 0.95
+    },
+    "non-autoregulated blood flow restriction": {
+        "reasoning": "Non-autoregulated blood flow restriction is another specific method employed during the resistance exercise, contrasting with the autoregulated approach, thus forming part of the experimental design.",
+        "passages": [
+            "the acute effects of autoregulated and non-autoregulated applied pressures during blood flow restriction resistance exercise",
+            "Following a randomized autoregulated or non-autoregulated blood flow restriction familiarization session"
+        ],
+        "confidence_score": 0.95
+    },
+    "Delfi Personalized Tourniquet System": {
+        "reasoning": "The Delfi Personalized Tourniquet System is the specific equipment used for applying blood flow restriction, representing a methodological tool critical for the experiment.",
+        "passages": [
+            "using the Delfi Personalized Tourniquet System"
+        ],
+        "confidence_score": 0.9
+    },
+    "ultrasonic scan": {
+        "reasoning": "Ultrasonic scan is a method employed to measure arterial stiffness, providing a specific technique for data collection in the study.",
+        "passages": [
+            "Testing before and post-session included an ultrasonic scan of the carotid artery"
+        ],
+        "confidence_score": 0.85
+    },
+    "applanation tonometry": {
+        "reasoning": "Applanation tonometry is a specific technique used to assess arterial stiffness, making it a crucial method for data analysis in the study.",
+        "passages": [
+            "Testing before and post-session included... applanation tonometry"
+        ],
+        "confidence_score": 0.85
+    },
+    "blood pressure acquisition": {
+        "reasoning": "Blood pressure acquisition is a method of measuring participants' blood pressure before and after the exercise sessions, representing a standard procedure in physiological research.",
+        "passages": [
+            "Testing before and post-session included... blood pressure acquisition"
+        ],
+        "confidence_score": 0.8
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "methods": [
+        "mark-recapture study",
+        "density measurement",
+        "spatial genetic structure analysis"
+    ],
+    "mark-recapture study": {
+        "reasoning": "The mark-recapture study is a specific method used to monitor the population of the dark-eyed junco over an 11-year period, allowing researchers to gather data on dispersal rates and distances.",
+        "passages": [
+            "In an 11-year mark-recapture study on a passerine, the dark-eyed junco"
+        ],
+        "confidence_score": 0.95
+    },
+    "density measurement": {
+        "reasoning": "Density measurement refers to the specific process of assessing the number of individuals in a given area, which is crucial for understanding its effect on dispersal and spatial genetic structure.",
+        "passages": [
+            "we tested whether density affected dispersal distance and/or fine-scale spatial genetic structure",
+            "we found that density still did affect spatial genetic structure"
+        ],
+        "confidence_score": 0.9
+    },
+    "spatial genetic structure analysis": {
+        "reasoning": "Spatial genetic structure analysis is a method used to evaluate the genetic relationships among individuals in relation to their spatial distribution, which is a key focus of the research.",
+        "passages": [
+            "we found significant positive spatial genetic structure at low densities",
+            "indicating high levels of dispersal"
+        ],
+        "confidence_score": 0.92
+    }
+}

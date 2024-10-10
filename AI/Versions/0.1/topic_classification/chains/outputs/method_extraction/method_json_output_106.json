@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "critique",
+        "previous research",
+        "experiences helping children"
+    ],
+    "critique": {
+        "reasoning": "Critique refers to the method of analyzing and evaluating the existing standards and practices in mathematics education, providing insights into their effectiveness and areas for improvement.",
+        "passages": [
+            "In this critique, experiences helping children work toward the Grade 6 Common Core statistics expectations are used"
+        ],
+        "confidence_score": 0.85
+    },
+    "previous research": {
+        "reasoning": "Previous research is a method as it involves reviewing and synthesizing existing studies to inform the critique and recommendations presented in the abstract.",
+        "passages": [
+            "in conjunction with previous research to identify ways in which the Grades 4-6 standards might be supplemented or revised"
+        ],
+        "confidence_score": 0.8
+    },
+    "experiences helping children": {
+        "reasoning": "Experiences helping children refers to practical methods or interventions applied in educational settings to support students' understanding of statistical concepts, making it a relevant methodological approach.",
+        "passages": [
+            "experiences helping children work toward the Grade 6 Common Core statistics expectations"
+        ],
+        "confidence_score": 0.75
+    }
+}

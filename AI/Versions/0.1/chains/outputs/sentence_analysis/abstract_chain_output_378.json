@@ -1,0 +1,42 @@
+{
+    "sentences": [
+        {
+            "sentence": "In the cause-related marketing (CM) literature, transparent communication of donation amounts (e.g., monetary donation quantifiers) has been shown to positively impact the effectiveness of CM campaigns.",
+            "meaning": "Clear communication about how much is being donated can enhance the success of marketing campaigns that are linked to social causes.",
+            "reasoning": "The sentence discusses findings from existing research on cause-related marketing, emphasizing the importance of transparency in donation amounts to improve campaign effectiveness.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In practice, however, many firms communicate their donation contributions in more ambiguous terms (e.g., descriptive quantifiers).",
+            "meaning": "Despite the research findings, many companies still use vague language to describe their donations rather than being specific.",
+            "reasoning": "The contrast between research findings and actual business practices indicates a gap that the authors aim to address in their studies.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Across three studies, the authors demonstrate when using monetary quantifiers is less beneficial, due to consumers' skepticism of firm motives.",
+            "meaning": "The research reveals situations where specifying donation amounts can backfire because consumers may doubt the intentions of the companies.",
+            "reasoning": "The authors are indicating that there are conditions under which transparency can lead to negative perceptions, specifically related to consumer skepticism.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Study 1 shows that the presence of a CM promotion positively affects perceptions of price fairness.",
+            "meaning": "The first study indicates that having a cause-related marketing promotion can improve how fair consumers perceive prices to be.",
+            "reasoning": "This suggests that CM promotions may enhance consumer attitudes towards pricing, likely because they feel their purchases contribute to a good cause.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Study 2 provides evidence that donation quantifier formats operate uniquely and impact price fairness through skepticism.",
+            "meaning": "The second study finds that different ways of presenting donation amounts can have distinct effects on how consumers view price fairness, mediated by their skepticism.",
+            "reasoning": "This indicates that the format of the donation information is crucial in shaping consumer perceptions, particularly in relation to their doubts about company motives.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Finally, Study 3 demonstrates ways in which practitioners can manage consumer skepticism, which affect perceptions of price fairness and ultimately purchase intent.",
+            "meaning": "The third study offers strategies for businesses to alleviate consumer skepticism, thereby improving their perceptions of price fairness and increasing their likelihood to buy.",
+            "reasoning": "This suggests practical implications for firms looking to enhance their CM campaigns by addressing consumer concerns directly.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research explores the complex relationship between donation communication in cause-related marketing and consumer perceptions, particularly focusing on skepticism and price fairness.",
+    "detailed_summary": "The abstract discusses the importance of clear communication regarding donation amounts in cause-related marketing (CM) and its positive impact on campaign effectiveness. However, it highlights a disconnect, as many firms use ambiguous language when discussing their contributions. The authors conduct three studies to investigate when monetary quantifiers might be less effective due to consumer skepticism about firms' motives. Study 1 finds that CM promotions can enhance perceptions of price fairness. Study 2 reveals that different formats of donation quantifiers uniquely influence price fairness, mediated by skepticism. Finally, Study 3 presents strategies for practitioners to mitigate consumer skepticism, thereby improving perceptions of price fairness and increasing purchase intent. Overall, the research emphasizes the need for careful communication strategies in CM to foster trust and enhance consumer responses."
+}

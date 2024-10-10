@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "DNA methylation analysis",
+        "methylation-sensitive amplified fragment length polymorphism"
+    ],
+    "DNA methylation analysis": {
+        "reasoning": "DNA methylation analysis refers to the examination of the frequency of DNA methylation, which is a specific method used to assess epigenetic modifications in the study.",
+        "passages": [
+            "frequency of DNA methylation was analyzed using a methylation-sensitive amplified fragment length polymorphism protocol"
+        ],
+        "confidence_score": 0.9
+    },
+    "methylation-sensitive amplified fragment length polymorphism": {
+        "reasoning": "Methylation-sensitive amplified fragment length polymorphism (MS-AFLP) is a specific technique used for analyzing DNA methylation patterns, making it a clear methodological process in the research.",
+        "passages": [
+            "frequency of DNA methylation was analyzed using a methylation-sensitive amplified fragment length polymorphism protocol"
+        ],
+        "confidence_score": 0.95
+    }
+}

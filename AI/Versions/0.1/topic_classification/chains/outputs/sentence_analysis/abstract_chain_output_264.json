@@ -1,0 +1,48 @@
+{
+    "sentences": [
+        {
+            "sentence": "Education could play a role in decreasing and mitigating damages caused by natural disaster.",
+            "meaning": "The study suggests that education may help reduce the negative impacts of natural disasters.",
+            "reasoning": "The phrase 'decreasing and mitigating damages' indicates that education is seen as a potential solution to lessen the effects of disasters.",
+            "confidence": 0.9
+        },
+        {
+            "sentence": "By analysing relationships between level of education and components of the World Risk Index, this study demonstrated an education's role in natural hazard awareness and mitigation.",
+            "meaning": "The research explores how education levels correlate with the World Risk Index, showing that education contributes to awareness and management of natural hazards.",
+            "reasoning": "The connection between education and the World Risk Index implies that higher education levels may lead to better awareness and preparedness for natural disasters.",
+            "confidence": 0.85
+        },
+        {
+            "sentence": "For this purpose, we analysed relationships between the components of WRI, created an education factor independent of WRI (based on PISA 2018 Science test results), analysed the frequency, magnitude and exposure of natural hazards of an extreme event character in selected countries and analysed the relationships between the education factor and WRI components among the countries.",
+            "meaning": "The authors conducted a comprehensive analysis involving the World Risk Index components, an independent education factor derived from PISA results, and the characteristics of natural hazards in various countries.",
+            "reasoning": "The sentence outlines the methodology, indicating a multi-faceted approach to understanding the interplay between education and natural disaster risks.",
+            "confidence": 0.9
+        },
+        {
+            "sentence": "A detailed analysis was performed for 15 countries representing the full global range of natural hazards (frequency, magnitude and exposure to droughts, earthquakes, hurricanes, floods (not related to hurricanes), mass movements, volcanic eruptions, and tsunamis) and level of education.",
+            "meaning": "The study focused on 15 diverse countries to assess the global spectrum of natural hazards and their relationship with education levels.",
+            "reasoning": "The mention of various natural hazards and the selection of 15 countries suggests a thorough examination of how education impacts disaster awareness across different contexts.",
+            "confidence": 0.95
+        },
+        {
+            "sentence": "We found that the education factor (ranked and normalised to the maximal value among the considered countries) has significant negative correlation with the following WRI parameters: the Natural Hazard Factor (relative vulnerability, based on the difference between the relative and calculated WRI, ranked and normalised to the maximal value of WRI differences), susceptibility, lack of coping capacities and lack of adaptive capacities (all ranked and normalised to the maximal value).",
+            "meaning": "The study discovered a significant negative relationship between the education factor and several World Risk Index parameters, indicating that higher education is linked to lower vulnerability and better coping abilities.",
+            "reasoning": "The statistical analysis described shows that as education increases, vulnerability and other negative factors decrease, highlighting education's protective role.",
+            "confidence": 0.9
+        },
+        {
+            "sentence": "Results indicated that countries at low risk tend to be over-aware while countries at high risk are under-aware of natural hazards.",
+            "meaning": "The findings suggest that less vulnerable countries have a heightened awareness of risks, whereas more vulnerable countries lack sufficient awareness.",
+            "reasoning": "The contrasting awareness levels in different risk categories highlight a potential gap in education or communication regarding natural hazards.",
+            "confidence": 0.85
+        },
+        {
+            "sentence": "Education can significantly increase awareness of natural hazards and reduce their impact.",
+            "meaning": "The study concludes that improving education can lead to greater awareness of natural disasters and subsequently lessen their adverse effects.",
+            "reasoning": "The statement summarizes the main finding that education is a crucial factor in enhancing preparedness and response to natural disasters.",
+            "confidence": 0.9
+        }
+    ],
+    "overall_theme": "The research explores the relationship between education levels and natural disaster awareness, demonstrating that education plays a crucial role in mitigating the impacts of natural hazards.",
+    "detailed_summary": "This study investigates how education influences awareness and mitigation of natural disasters by analyzing its relationship with the World Risk Index (WRI). The authors created an independent education factor based on PISA 2018 Science test results and examined its correlation with various components of the WRI across 15 countries that exhibit a wide range of natural hazards. The analysis revealed a significant negative correlation between the education factor and several WRI parameters, indicating that higher education levels are associated with lower vulnerability and better coping capacities. The findings also highlighted that countries with lower risk are often more aware of natural hazards, while those at higher risk tend to lack awareness. Ultimately, the research concludes that enhancing education can significantly improve awareness of natural hazards and reduce their overall impact."
+}

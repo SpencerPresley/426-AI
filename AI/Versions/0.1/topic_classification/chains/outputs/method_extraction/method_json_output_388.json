@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "preinstruction interview",
+        "video footage analysis",
+        "postinstruction interview with stimulated recall",
+        "qualitative content analysis"
+    ],
+    "preinstruction interview": {
+        "reasoning": "The preinstruction interview is a specific method used to gather insights about the teaching knowledge instructors have before they implement their lessons, making it a clear data collection technique.",
+        "passages": [
+            "We used a preinstruction interview, video footage of a target class session, and a postinstruction interview with stimulated recall to elicit the teaching knowledge participants used."
+        ],
+        "confidence_score": 0.9
+    },
+    "video footage analysis": {
+        "reasoning": "Video footage analysis refers to the method of examining recorded class sessions to understand the teaching practices and knowledge in action, thus representing a specific analytical approach.",
+        "passages": [
+            "We used a preinstruction interview, video footage of a target class session, and a postinstruction interview with stimulated recall to elicit the teaching knowledge participants used."
+        ],
+        "confidence_score": 0.85
+    },
+    "postinstruction interview with stimulated recall": {
+        "reasoning": "This method involves conducting interviews after instruction with a technique that prompts participants to recall their thoughts and decisions during the lesson, providing insights into their teaching knowledge.",
+        "passages": [
+            "We used a preinstruction interview, video footage of a target class session, and a postinstruction interview with stimulated recall to elicit the teaching knowledge participants used."
+        ],
+        "confidence_score": 0.9
+    },
+    "qualitative content analysis": {
+        "reasoning": "Qualitative content analysis is a method used to systematically describe and interpret the teaching knowledge employed by instructors, forming a key part of the research's analytical framework.",
+        "passages": [
+            "we conducted qualitative content analysis to describe and contrast teaching knowledge employed by instructors implementing active learning"
+        ],
+        "confidence_score": 0.95
+    }
+}

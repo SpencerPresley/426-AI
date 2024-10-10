@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "Kurt Lewin's change theory",
+        "Plan-Do-Study-Act (PDSA) cycle",
+        "standardization of the workflow process",
+        "chart completion"
+    ],
+    "Kurt Lewin's change theory": {
+        "reasoning": "Kurt Lewin's change theory is a specific theoretical framework used to guide the implementation of changes in the workflow process, making it a methodological approach in the study.",
+        "passages": [
+            "This quality improvement project adapted Kurt Lewin's change theory and the Plan-Do-Study-Act (PDSA) cycle for implementation."
+        ],
+        "confidence_score": 0.85
+    },
+    "Plan-Do-Study-Act (PDSA) cycle": {
+        "reasoning": "The PDSA cycle is a structured method used for continuous improvement in quality management, indicating a specific procedural approach utilized in the project.",
+        "passages": [
+            "This quality improvement project adapted Kurt Lewin's change theory and the Plan-Do-Study-Act (PDSA) cycle for implementation."
+        ],
+        "confidence_score": 0.9
+    },
+    "standardization of the workflow process": {
+        "reasoning": "Standardization of the workflow process refers to the specific method employed to improve the efficiency of the hospice admission process, making it a clear methodological intervention.",
+        "passages": [
+            "Standardization of the workflow process included assigning an urgency level to the hospice referral and deactivation (close) of the electronic medical record (EMR) chart."
+        ],
+        "confidence_score": 0.8
+    },
+    "chart completion": {
+        "reasoning": "Chart completion is a specific procedural step in the workflow process that is essential for signaling the completion of the admission process, thus representing a method in the research.",
+        "passages": [
+            "deactivation (close) of the electronic medical record (EMR) chart, signaling completion of the workflow process."
+        ],
+        "confidence_score": 0.75
+    }
+}

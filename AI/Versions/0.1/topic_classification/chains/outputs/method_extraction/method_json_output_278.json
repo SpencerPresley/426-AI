@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "univariate analysis",
+        "bivariate analysis"
+    ],
+    "univariate analysis": {
+        "reasoning": "Univariate analysis is a specific statistical method used to analyze and summarize data for a single variable, which helps in understanding the distribution and characteristics of sociodemographic group memberships in the study.",
+        "passages": [
+            "a series of univariate and bivariate analyses were used to determine associations between sociodemographic group membership and access to health services"
+        ],
+        "confidence_score": 0.9
+    },
+    "bivariate analysis": {
+        "reasoning": "Bivariate analysis is a method that examines the relationship between two variables, which is crucial for assessing how sociodemographic factors relate to access to health services among sexual minority populations.",
+        "passages": [
+            "a series of univariate and bivariate analyses were used to determine associations between sociodemographic group membership and access to health services"
+        ],
+        "confidence_score": 0.9
+    }
+}

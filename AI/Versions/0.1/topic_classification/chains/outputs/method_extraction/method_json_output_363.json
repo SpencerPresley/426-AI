@@ -1,0 +1,52 @@
+{
+    "methods": [
+        "purposive and snowball sampling",
+        "semi-structured interview protocol",
+        "thematic analysis",
+        "member validation",
+        "participant voice",
+        "researcher self-awareness"
+    ],
+    "purposive and snowball sampling": {
+        "reasoning": "Purposive and snowball sampling are specific techniques used to recruit participants who are knowledgeable about Ayurvedic protocols, ensuring that the sample is relevant to the research question.",
+        "passages": [
+            "Ayurvedic physicians (N = 10) from India were recruited through purposive and snowball sampling."
+        ],
+        "confidence_score": 0.95
+    },
+    "semi-structured interview protocol": {
+        "reasoning": "The semi-structured interview protocol is a method for data collection that allows for guided but flexible conversations, enabling the researcher to gather detailed qualitative data on Ayurvedic practices.",
+        "passages": [
+            "A semi-structured interview protocol was employed to gather qualitative data focusing on the Ayurvedic protocol employed to treat CP patients."
+        ],
+        "confidence_score": 0.9
+    },
+    "thematic analysis": {
+        "reasoning": "Thematic analysis is a specific method used to analyze qualitative data by identifying and interpreting patterns or themes within the data collected from interviews.",
+        "passages": [
+            "The interviews were audio-recorded, professionally transcribed, and thematically analyzed."
+        ],
+        "confidence_score": 0.85
+    },
+    "member validation": {
+        "reasoning": "Member validation is a method used to enhance the reliability and validity of qualitative research by allowing participants to review and confirm the findings derived from their interviews.",
+        "passages": [
+            "Member validation, participant voice, and researcher self-awareness were employed to strengthen reliability and validity."
+        ],
+        "confidence_score": 0.8
+    },
+    "participant voice": {
+        "reasoning": "Participant voice refers to the method of ensuring that the perspectives and experiences of the participants are represented and considered in the research findings.",
+        "passages": [
+            "Member validation, participant voice, and researcher self-awareness were employed to strengthen reliability and validity."
+        ],
+        "confidence_score": 0.75
+    },
+    "researcher self-awareness": {
+        "reasoning": "Researcher self-awareness is a methodological approach that involves the researcher reflecting on their own biases and influences in the research process, contributing to the credibility of the findings.",
+        "passages": [
+            "Member validation, participant voice, and researcher self-awareness were employed to strengthen reliability and validity."
+        ],
+        "confidence_score": 0.7
+    }
+}

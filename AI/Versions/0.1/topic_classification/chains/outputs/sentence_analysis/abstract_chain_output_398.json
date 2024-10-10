@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "With regard to the issue of the differences of the sexes, our study focuses on traditional games in Kabylie, taken and defined as part of the field of motor praxiology.",
+            "meaning": "The study examines how traditional games in Kabylie relate to gender differences, framed within the discipline of motor praxiology.",
+            "reasoning": "The sentence introduces the main focus of the research, which is the intersection of gender and traditional games, and specifies the theoretical framework being used.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "A discipline inspired by the work of Pierre Parlebas.",
+            "meaning": "Motor praxiology is a field that draws from the theories and concepts developed by Pierre Parlebas.",
+            "reasoning": "This sentence provides context for the theoretical framework mentioned earlier, establishing a connection to an established scholar.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "We will attempt through a field survey, to identify and interpret the meaning and distribution of the traditional games played by the women of Kabylie.",
+            "meaning": "The researchers plan to conduct a field survey to explore the significance and prevalence of traditional games among Kabylie women.",
+            "reasoning": "The intent to conduct a field survey indicates a methodological approach to understand the cultural practices of women in Kabylie.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "From this perspective, the analysis of the internal logics of the practices are related to the system of interactions between players and their environment.",
+            "meaning": "The study will analyze how the internal dynamics of traditional games are connected to the interactions between the players and their surroundings.",
+            "reasoning": "This indicates a focus on the contextual and environmental factors that influence game practices, emphasizing the complexity of social interactions.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "This reveals valuable information on the structures underlying traditional games, and their ethno-motor characteristics as well as the world of ethnology of this vast mountainous region of Kabylie.",
+            "meaning": "The research uncovers important insights into the foundational structures of traditional games and their cultural significance in Kabylie.",
+            "reasoning": "The sentence highlights the broader implications of the study, linking traditional games to cultural and ethnological aspects of the Kabylie region.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "By analyzing 92 traditional games played in the region of Kabylie allowed us to highlight on the one hand the cultural specificity, and on the other the richness of the socio-cultural aspects of this region.",
+            "meaning": "The analysis of 92 traditional games showcases both the unique cultural elements and the diverse socio-cultural dimensions of Kabylie.",
+            "reasoning": "The specific number of games analyzed adds credibility to the research and emphasizes the thoroughness of the cultural examination.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "By examining how a game constitutes a cultural identity element of a geographical space, we explain the meaning of sport culture and identity of the Kabylie, by focusing particularly on the place of women and the indicators that reveal the relationships between men and women and distinguish the distribution of female and male roles.",
+            "meaning": "The study explores how traditional games contribute to the cultural identity of Kabylie, particularly concerning gender roles and relations.",
+            "reasoning": "This sentence ties the research back to the themes of gender and cultural identity, indicating a nuanced approach to understanding social dynamics in Kabylie.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This also allows an understanding of the nature of traditional sports and their differentiation in terms of socialization between boys and girls.",
+            "meaning": "The findings will help clarify how traditional sports vary in their socialization effects on boys and girls.",
+            "reasoning": "This sentence suggests that the research will contribute to knowledge about gender differences in the context of traditional sports socialization.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research investigates the interplay between gender and traditional games in Kabylie, using motor praxiology to analyze cultural identity and social dynamics.",
+    "detailed_summary": "This study explores the differences between sexes through the lens of traditional games in Kabylie, employing the discipline of motor praxiology, inspired by Pierre Parlebas. A field survey aims to identify and interpret the significance and distribution of these games among women in Kabylie. The analysis focuses on the interactions between players and their environment, revealing insights into the underlying structures and ethno-motor characteristics of traditional games. By examining 92 traditional games, the research highlights the cultural specificity and socio-cultural richness of the region. It further explains how these games serve as elements of cultural identity, particularly regarding gender roles, and provides an understanding of traditional sports' nature and their socialization impact on boys and girls."
+}

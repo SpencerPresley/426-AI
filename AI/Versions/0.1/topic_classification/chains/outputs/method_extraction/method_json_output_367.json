@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "Heckman selection model"
+    ],
+    "Heckman selection model": {
+        "reasoning": "The Heckman selection model is a statistical technique used to correct for sample selection bias, indicating a specific methodological approach employed in the research.",
+        "passages": [
+            "Using a Heckman selection model to correct for sample selection bias"
+        ],
+        "confidence_score": 0.95
+    }
+}

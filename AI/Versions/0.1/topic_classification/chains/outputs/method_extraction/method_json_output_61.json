@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "observation",
+        "monitoring methods"
+    ],
+    "observation": {
+        "reasoning": "Observation is a method used to gather data on the behavior of the Common Terns and Least Terns during the usurpation event, providing firsthand insight into the interactions between the species.",
+        "passages": [
+            "We report an observation of a Common Tern pair usurping the Least Tern nest and brooding the Least Tern chicks."
+        ],
+        "confidence_score": 0.9
+    },
+    "monitoring methods": {
+        "reasoning": "Monitoring methods refer to the systematic approaches needed to observe and analyze the behaviors and interactions of the bird species over time, as suggested by the need for different methods to elucidate the causes of usurpations.",
+        "passages": [
+            "the need for different monitoring methods to elucidate the causes of usurpations."
+        ],
+        "confidence_score": 0.85
+    }
+}

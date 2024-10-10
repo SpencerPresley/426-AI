@@ -1,0 +1,21 @@
+{
+    "methods": [
+        "draw-a-scientist tests (DASTs)",
+        "numerical grading scheme"
+    ],
+    "draw-a-scientist tests (DASTs)": {
+        "reasoning": "Draw-a-scientist tests (DASTs) are a specific method employed to assess students' perceptions of scientists before and after participation in astronomy clubs and camps, making it a clear methodological approach.",
+        "passages": [
+            "This paper presents the first results from draw-a-scientist tests (DASTs) over five years that were used to measure the effect of 8-10 week long astronomy clubs and week long summer camps on 3 rd-5 th grade elementary school students' perceptions of scientists.",
+            "We facilitated these DASTs prior to these clubs or camps, which provide a baseline for a student's initial conception of scientists, and once at the end, to determine whether their conception changed, possibly as a result of their involvement."
+        ],
+        "confidence_score": 0.95
+    },
+    "numerical grading scheme": {
+        "reasoning": "The numerical grading scheme is a specific technique used to quantify the presence of various features in the drawn scientist and their activities, which is essential for analyzing the results of the DASTs.",
+        "passages": [
+            "In total we analyze 89 pairs of DASTs using a numerical grading scheme designed to quantify the presence of various features in the drawn scientist and their activities."
+        ],
+        "confidence_score": 0.9
+    }
+}

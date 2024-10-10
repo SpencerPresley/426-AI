@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "literature survey",
+        "empirical literature review",
+        "analysis of entry and start-up regulation",
+        "review of occupational licensure literature",
+        "review of financial regulation research"
+    ],
+    "literature survey": {
+        "reasoning": "A literature survey is a method used to systematically gather and analyze existing studies and findings on a particular topic, which in this case is the relationship between regulation and income inequality.",
+        "passages": [
+            "This article therefore surveys the growing empirical literature that studies whether regulation ultimately exacerbates income inequality."
+        ],
+        "confidence_score": 0.9
+    },
+    "empirical literature review": {
+        "reasoning": "An empirical literature review involves examining and synthesizing research findings from various studies to draw conclusions about a specific issue, which the article does regarding regulation and its effects.",
+        "passages": [
+            "Beginning with the literature on entry and start-up regulation, we find that these rules, as predicted by Stigler, limit entry and dampen entrepreneurship."
+        ],
+        "confidence_score": 0.85
+    },
+    "analysis of entry and start-up regulation": {
+        "reasoning": "The analysis of entry and start-up regulation refers to the examination of specific regulatory policies and their impacts on competition and entrepreneurship, which is a methodological focus of the article.",
+        "passages": [
+            "we find that these rules, as predicted by Stigler, limit entry and dampen entrepreneurship."
+        ],
+        "confidence_score": 0.8
+    },
+    "review of occupational licensure literature": {
+        "reasoning": "This refers to the method of reviewing existing studies on occupational licensure and its effects, which is a specific approach taken in the research to understand barriers in labor markets.",
+        "passages": [
+            "We also review the literature on occupational licensure."
+        ],
+        "confidence_score": 0.75
+    },
+    "review of financial regulation research": {
+        "reasoning": "The review of financial regulation research involves examining studies related to financial regulations and their impacts, which represents a methodological approach within the article.",
+        "passages": [
+            "Finally, we review research on financial regulation, in which studies have shown that some financial regulations are associated with less entrepreneurship and higher income inequality."
+        ],
+        "confidence_score": 0.75
+    }
+}

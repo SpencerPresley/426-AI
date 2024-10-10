@@ -1,0 +1,54 @@
+{
+    "sentences": [
+        {
+            "sentence": "This study aims to provide an empirical test of an existing theoretical model depicting the governance modes used by international franchisors when entering international markets.",
+            "meaning": "The research intends to validate a theoretical framework that describes how international franchisors manage their operations in foreign markets.",
+            "reasoning": "The phrase 'empirical test' indicates that the study will use data to assess the validity of the theoretical model, which focuses on governance modes in international franchising.",
+            "confidence": 0.9
+        },
+        {
+            "sentence": "Using a unique panel data set of 222 market expansions by US firms over a seven-year period, this paper tests hypotheses regarding the factors affecting the franchisors' choice of governance modes when entering foreign markets.",
+            "meaning": "The study analyzes data from 222 instances of US firms expanding into new markets over seven years to explore what influences their governance mode decisions.",
+            "reasoning": "The mention of 'unique panel data set' and 'tests hypotheses' indicates a structured approach to examining specific factors in decision-making processes.",
+            "confidence": 0.95
+        },
+        {
+            "sentence": "Franchisors use governance modes with lower levels of control when faced with environmental uncertainties due to corruption, economic downturns and when the geographic distance is large.",
+            "meaning": "Franchisors tend to opt for less controlling governance strategies in situations characterized by corruption, economic instability, and significant geographic separation.",
+            "reasoning": "The sentence outlines conditions under which franchisors prefer lower control, suggesting a strategic adaptation to external challenges.",
+            "confidence": 0.9
+        },
+        {
+            "sentence": "Moreover, the franchise system assets and its local market assets also affect the choice of governance modes.",
+            "meaning": "The characteristics of the franchising system and the local market resources influence how franchisors decide on their governance strategies.",
+            "reasoning": "The use of 'affect' implies a causal relationship, indicating that both system and market assets play a role in governance mode selection.",
+            "confidence": 0.85
+        },
+        {
+            "sentence": "Firms need to balance the costs of environmental uncertainty with the need to safeguard the firm's capabilities and resources using governance modes with appropriate levels of control.",
+            "meaning": "Companies must find a compromise between managing risks associated with uncertain environments and protecting their internal resources through suitable governance strategies.",
+            "reasoning": "The term 'balance' suggests a trade-off that firms must navigate, highlighting the strategic nature of governance mode selection.",
+            "confidence": 0.9
+        },
+        {
+            "sentence": "This balance changes as the franchise company gains more experience in the local market and as once-emerging markets continue to develop.",
+            "meaning": "The required balance between risk management and resource protection evolves as franchisors become more familiar with local conditions and as markets mature.",
+            "reasoning": "The phrase 'changes as' indicates that the dynamics of governance mode choice are influenced by experience and market development.",
+            "confidence": 0.85
+        },
+        {
+            "sentence": "This research identified additional governance modes used by franchisors compared to previous studies.",
+            "meaning": "The study discovered new types of governance modes that franchisors utilize, which were not recognized in earlier research.",
+            "reasoning": "The word 'additional' signifies that the research expands the understanding of governance modes beyond existing literature.",
+            "confidence": 0.9
+        },
+        {
+            "sentence": "Using multiple theoretical perspectives, the study supported significant portions of the Jell-Ojobor and Windsperger (2014) model of franchisor governance mode choice.",
+            "meaning": "The research employed various theoretical frameworks to validate key aspects of a prior model concerning how franchisors choose governance modes.",
+            "reasoning": "The phrase 'supported significant portions' suggests that the findings align well with established theories, reinforcing their relevance.",
+            "confidence": 0.95
+        }
+    ],
+    "overall_theme": "The research examines how international franchisors select governance modes when entering foreign markets, influenced by environmental uncertainties, market characteristics, and the franchisor's experience.",
+    "detailed_summary": "This study empirically tests a theoretical model of governance modes used by international franchisors in foreign markets. Utilizing a unique dataset of 222 market expansions by US firms over seven years, it investigates the factors that influence franchisors' governance choices. The findings reveal that franchisors prefer modes with lower control in uncertain environments marked by corruption, economic downturns, and significant geographic distance. Additionally, both franchise system assets and local market resources impact these choices. The research emphasizes the need for firms to balance the costs of uncertainty with the protection of their capabilities, noting that this balance evolves with experience and market development. Furthermore, the study identifies new governance modes not previously documented and validates significant aspects of the Jell-Ojobor and Windsperger (2014) governance model using multiple theoretical perspectives."
+}

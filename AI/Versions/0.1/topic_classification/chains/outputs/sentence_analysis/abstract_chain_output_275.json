@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "This study examined the impact of a nursing course redesign from traditional face-to-face to a hybrid format on student outcomes, workload allocation, and associated costs.",
+            "meaning": "The research investigates how changing a nursing course from in-person to a hybrid model affects students' performance, the distribution of workload among faculty, and the costs involved.",
+            "reasoning": "The sentence outlines the scope of the study, specifying the focus on educational outcomes, workload, and costs, which are key variables in educational research.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In this quasi-experimental study, baccalaureate students received either traditional (n = 47) or hybrid delivery (n = 46); each group had equal degree-type representation.",
+            "meaning": "The research utilized a quasi-experimental design involving two groups of baccalaureate students: one receiving traditional instruction and the other receiving hybrid instruction, with similar degree types represented in both groups.",
+            "reasoning": "The terminology 'quasi-experimental' indicates a study design that lacks random assignment, and the numerical values (n = 47 and n = 46) clarify the sample sizes for each group.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Average exam scores were analyzed using an independent Rest, with no significant differences found between groups.",
+            "meaning": "The researchers compared the average exam scores of the two groups using an independent statistical test and found no notable differences in performance.",
+            "reasoning": "The mention of 'independent Rest' likely refers to an independent t-test, a common statistical method for comparing means between two groups.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Faculty workload decreased by one third, and there was a 16.6 percent reduction in overall costs to implement the course.",
+            "meaning": "The redesign of the course resulted in a significant reduction in faculty workload and a notable decrease in the costs associated with running the course.",
+            "reasoning": "Quantitative reductions (one third for workload and 16.6% for costs) provide concrete evidence of the efficiency gained through the redesign.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Course redesign can be effective for reducing faculty workload and costs while achieving course outcomes.",
+            "meaning": "The findings suggest that redesigning courses can lead to lower workload and costs for faculty without compromising educational objectives.",
+            "reasoning": "The use of 'can be effective' implies that the study supports the idea that redesigns yield positive results in specific areas.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research highlights the benefits of redesigning nursing courses from traditional to hybrid formats, showing potential improvements in faculty workload and cost-efficiency while maintaining student performance.",
+    "detailed_summary": "This research investigates the effects of transitioning a nursing course from a traditional face-to-face format to a hybrid model. Utilizing a quasi-experimental design, the study involved two groups of baccalaureate students, one receiving traditional instruction and the other hybrid instruction, with equal representation in degree types. The analysis of average exam scores revealed no significant differences between the two groups, indicating that student performance was maintained. Additionally, the study found that faculty workload decreased by one third and overall course implementation costs reduced by 16.6%. These results suggest that course redesign can effectively lower faculty workload and costs while still achieving desired educational outcomes."
+}

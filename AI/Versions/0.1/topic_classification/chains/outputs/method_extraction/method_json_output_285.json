@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "acute lower leg heating",
+        "randomized treatment sessions",
+        "water bath immersion",
+        "Doppler ultrasound",
+        "six-minute walk distance measurement"
+    ],
+    "acute lower leg heating": {
+        "reasoning": "Acute lower leg heating is the primary intervention tested in the study, representing the specific treatment method applied to the participants.",
+        "passages": [
+            "we tested the hypothesis that acute lower leg heating (LLH) increases postheating popliteal artery blood flow"
+        ],
+        "confidence_score": 0.95
+    },
+    "randomized treatment sessions": {
+        "reasoning": "Randomized treatment sessions refer to the methodological design of the study, indicating how participants were assigned to different treatment conditions.",
+        "passages": [
+            "participated in 3 randomized treatment sessions (2-7 days apart)"
+        ],
+        "confidence_score": 0.9
+    },
+    "water bath immersion": {
+        "reasoning": "Water bath immersion is the specific technique used to apply the heating treatment to the lower legs of participants, making it a clear methodological approach.",
+        "passages": [
+            "bilateral LLH conducted via water bath immersion (42 degrees C; similar to 40-cm depth) for either 15 or 45 minutes"
+        ],
+        "confidence_score": 0.92
+    },
+    "Doppler ultrasound": {
+        "reasoning": "Doppler ultrasound is the technique used to measure popliteal artery blood flow, representing a specific method for data collection in the study.",
+        "passages": [
+            "Popliteal artery blood flow (Doppler ultrasound) and arterial pressure were measured before and after LLH"
+        ],
+        "confidence_score": 0.93
+    },
+    "six-minute walk distance measurement": {
+        "reasoning": "Six-minute walk distance measurement is a specific assessment method used to evaluate exercise capacity in patients, making it a key method in the study.",
+        "passages": [
+            "Six-minute walk distance was measured on the control day and each experimental day 35 minutes post-LLH"
+        ],
+        "confidence_score": 0.91
+    }
+}

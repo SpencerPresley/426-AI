@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "quantum multiplication",
+        "endomorphism"
+    ],
+    "quantum multiplication": {
+        "reasoning": "Quantum multiplication refers to a specific mathematical operation applied within the context of the Grassmannian, indicating a method of manipulating algebraic structures in the research.",
+        "passages": [
+            "the quantum multiplication by the first Chern class c(1)(Gr(k, n))"
+        ],
+        "confidence_score": 0.85
+    },
+    "endomorphism": {
+        "reasoning": "Endomorphism describes a specific type of function or mapping within the vector space context, which is a methodological approach to studying the properties of the Grassmannian.",
+        "passages": [
+            "induces an endomorphism (c) over cap (1) of the finite-dimensional vector space QH*(Gr(k, n))(vertical bar q=1)"
+        ],
+        "confidence_score": 0.8
+    }
+}

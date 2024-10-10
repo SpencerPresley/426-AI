@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "empirical setting",
+        "institution-based view",
+        "competitive strategy literature"
+    ],
+    "empirical setting": {
+        "reasoning": "An empirical setting refers to the specific context or case used for research, which in this case is the market reforms enacted in Korea following the Asian Financial Crisis. This indicates a methodological approach to grounding the research in real-world events.",
+        "passages": [
+            "We utilise the market reforms enacted in Korea following the Asian Financial Crisis of 1997 as an empirical setting"
+        ],
+        "confidence_score": 0.9
+    },
+    "institution-based view": {
+        "reasoning": "The institution-based view is a theoretical framework that guides the analysis of how institutions influence firm behavior, making it a method in the sense that it provides a lens through which the research is conducted.",
+        "passages": [
+            "to show why an institution-based view is crucial to understanding the factors that incentivize firms to innovate"
+        ],
+        "confidence_score": 0.85
+    },
+    "competitive strategy literature": {
+        "reasoning": "The competitive strategy literature refers to the body of work that informs the analysis of how market reforms and competition influence innovation. This is a methodological approach as it provides a theoretical background for the research.",
+        "passages": [
+            "we draw on the competitive strategy literature to investigate how market reforms - combined with industry competition and firm-specific factors - affect innovation-related investments"
+        ],
+        "confidence_score": 0.88
+    }
+}

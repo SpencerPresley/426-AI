@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "ecosystem identification",
+        "historical analysis",
+        "institutional support examination"
+    ],
+    "ecosystem identification": {
+        "reasoning": "Ecosystem identification refers to the method of recognizing and defining the entrepreneurial ecosystem that supported tech start-ups, which is a specific analytical process employed in the research.",
+        "passages": [
+            "This article identifies the entrepreneurial ecosystem that supported key tech start-ups on the San Francisco Peninsula prior to the 1960s"
+        ],
+        "confidence_score": 0.85
+    },
+    "historical analysis": {
+        "reasoning": "Historical analysis involves examining past events and developments, which is a methodological approach used to show how the entrepreneurial ecosystem evolved over time.",
+        "passages": [
+            "shows how the ecosystem developed and how it evolved."
+        ],
+        "confidence_score": 0.8
+    },
+    "institutional support examination": {
+        "reasoning": "Institutional support examination refers to the method of analyzing the role of various institutions in supporting the development of Silicon Valley's start-ups, which is a key aspect of the research.",
+        "passages": [
+            "Without such institutional support, there would be no Silicon Valley as we know it."
+        ],
+        "confidence_score": 0.75
+    }
+}

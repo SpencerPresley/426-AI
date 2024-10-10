@@ -1,0 +1,37 @@
+{
+    "methods": [
+        "data release",
+        "survey",
+        "spectroscopy",
+        "value-added catalogs"
+    ],
+    "data release": {
+        "reasoning": "Data release refers to the process of making collected data available to the public, which is a key methodological step in the context of this research.",
+        "passages": [
+            "This paper documents the seventeenth data release (DR17) from the Sloan Digital Sky Surveys"
+        ],
+        "confidence_score": 0.95
+    },
+    "survey": {
+        "reasoning": "Survey refers to the systematic collection of data from a specific population, which is a core methodology in this research involving the Mapping Nearby Galaxies.",
+        "passages": [
+            "the complete release of the Mapping Nearby Galaxies at Apache Point Observatory (MaNGA) survey, which reached its goal of surveying over 10,000 nearby galaxies"
+        ],
+        "confidence_score": 0.9
+    },
+    "spectroscopy": {
+        "reasoning": "Spectroscopy is a technique used to analyze the light spectra from stars, which is essential for the observations made in this research.",
+        "passages": [
+            "publicly releases infrared spectra of over 650,000 stars",
+            "New single-fiber optical spectroscopy released in DR17"
+        ],
+        "confidence_score": 0.85
+    },
+    "value-added catalogs": {
+        "reasoning": "Value-added catalogs refer to additional datasets that enhance the primary data, representing a methodological approach to present and organize the findings.",
+        "passages": [
+            "DR17 includes 25 new or updated value-added catalogs"
+        ],
+        "confidence_score": 0.8
+    }
+}

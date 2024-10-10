@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "regulatory restrictions examination",
+        "state regulatory heterogeneity analysis"
+    ],
+    "regulatory restrictions examination": {
+        "reasoning": "Regulatory restrictions examination refers to the specific process of analyzing the number of federal and state regulations affecting various animal protein industries, which is a key methodological approach in this study.",
+        "passages": [
+            "This study examines the number of federal and state regulatory restrictions affecting the beef, pork, poultry, sheep, goat, and seafood industries"
+        ],
+        "confidence_score": 0.9
+    },
+    "state regulatory heterogeneity analysis": {
+        "reasoning": "State regulatory heterogeneity analysis is the method used to investigate the differences in state restrictions related to animal protein products, indicating a specific analytical approach employed in the research.",
+        "passages": [
+            "We also examine state regulatory heterogeneity associated with animal protein products"
+        ],
+        "confidence_score": 0.85
+    }
+}

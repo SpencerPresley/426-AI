@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "Rape-Victim Empathy Scale",
+        "Sexual Experiences Survey-Short Form Victimization"
+    ],
+    "Rape-Victim Empathy Scale": {
+        "reasoning": "The Rape-Victim Empathy Scale is a specific tool used to measure empathy levels towards rape victims, making it a clear method for data collection in the study.",
+        "passages": [
+            "completed the Rape-Victim Empathy Scale"
+        ],
+        "confidence_score": 0.95
+    },
+    "Sexual Experiences Survey-Short Form Victimization": {
+        "reasoning": "The Sexual Experiences Survey-Short Form Victimization is a standardized questionnaire used to assess personal sexual victimization experiences, which is a methodological approach for gathering relevant data.",
+        "passages": [
+            "completed the Sexual Experiences Survey-Short Form Victimization"
+        ],
+        "confidence_score": 0.95
+    }
+}

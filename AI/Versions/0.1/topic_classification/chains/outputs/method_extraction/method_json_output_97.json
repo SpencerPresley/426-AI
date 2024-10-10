@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "quasi-experimental evaluation approaches",
+        "matching-based methods",
+        "generalized synthetic control (GSC) method"
+    ],
+    "quasi-experimental evaluation approaches": {
+        "reasoning": "Quasi-experimental evaluation approaches are specific methodologies used to assess the impact of management plans on deforestation, indicating a structured method of analysis.",
+        "passages": [
+            "We provide estimates from two quasi-experimental evaluation approaches based on the generalization of the difference-in-differences estimator"
+        ],
+        "confidence_score": 0.85
+    },
+    "matching-based methods": {
+        "reasoning": "Matching-based methods are a specific statistical technique used for analyzing time-series cross-sectional data, representing a clear methodological approach in the study.",
+        "passages": [
+            "matching-based methods for time-series crosssectional data analysis"
+        ],
+        "confidence_score": 0.9
+    },
+    "generalized synthetic control (GSC) method": {
+        "reasoning": "The generalized synthetic control (GSC) method is a specific analytical technique employed to evaluate the effectiveness of management plans, making it a clear method used in the research.",
+        "passages": [
+            "the generalized synthetic control (GSC) method"
+        ],
+        "confidence_score": 0.9
+    }
+}

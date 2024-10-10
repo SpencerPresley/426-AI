@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "data compilation and comparison",
+        "phylogenetically independent scaling analysis",
+        "comparative approaches"
+    ],
+    "data compilation and comparison": {
+        "reasoning": "Data compilation and comparison refers to the systematic gathering and evaluation of data on various aspects of auditory morphology, hearing sensitivity, and call-dominant frequency across multiple species. This process is essential for the research as it forms the basis for the findings presented.",
+        "passages": [
+            "Here, we compile and compare data on various aspects of auditory morphology, hearing sensitivity, and call-dominant frequency across 81 species of anurans."
+        ],
+        "confidence_score": 0.9
+    },
+    "phylogenetically independent scaling analysis": {
+        "reasoning": "Phylogenetically independent scaling analysis is a specific analytical technique used to assess the scaling effects of body size on the measured features, allowing researchers to account for evolutionary relationships among the species studied.",
+        "passages": [
+            "We find robust, phylogenetically independent scaling effects of body size for all features measured."
+        ],
+        "confidence_score": 0.85
+    },
+    "comparative approaches": {
+        "reasoning": "Comparative approaches refer to the methodology employed to analyze the data across different species, which is a fundamental aspect of the research design aimed at understanding evolutionary patterns.",
+        "passages": [
+            "motivate further data collection and analysis using comparative approaches across the numerous anuran species."
+        ],
+        "confidence_score": 0.8
+    }
+}

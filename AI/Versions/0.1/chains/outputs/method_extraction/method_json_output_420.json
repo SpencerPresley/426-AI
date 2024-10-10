@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "difference-in-differences (DD)",
+        "triple differences (DDD)"
+    ],
+    "difference-in-differences (DD)": {
+        "reasoning": "Difference-in-differences (DD) is a specific statistical method used to estimate the causal effect of a treatment by comparing the changes in outcomes over time between a population that is enrolled in a program and a population that is not.",
+        "passages": [
+            "Using difference-in-differences (DD) and triple differences (DDD) strategies"
+        ],
+        "confidence_score": 0.9
+    },
+    "triple differences (DDD)": {
+        "reasoning": "Triple differences (DDD) is another statistical method that extends DD by adding another layer of comparison, allowing for a more robust analysis of the treatment effects by incorporating additional dimensions.",
+        "passages": [
+            "Using difference-in-differences (DD) and triple differences (DDD) strategies"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "sentences": [
+        {
+            "sentence": "In this article, I argue for a chronotopic-scalar system of images and resolutions in the analysis of language use in general and multilingual practices in particular.",
+            "meaning": "The author proposes a new analytical framework called a chronotopic-scalar system to study language use and multilingualism.",
+            "reasoning": "The phrase 'chronotopic-scalar system' suggests a structured approach that considers both time (chrono) and space (topos) in understanding language dynamics.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Drawing on data from Iranian Azerbaijanis, I argue that availability and accessibility of linguistic/semiotic resources, and their categorizations as languages or language varieties, are constrained by participants' chronotopization histories.",
+            "meaning": "The author uses data from Iranian Azerbaijanis to show that people's access to linguistic resources is influenced by their historical experiences of time and space.",
+            "reasoning": "The term 'chronotopization histories' indicates that personal and cultural histories shape how individuals perceive and categorize languages.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "That is, the scaled images participants develop through socialization about different time-space frames and the peoples, relations, discourses, and resources therein guide their language use both from and about particular contexts.",
+            "meaning": "Socialization shapes individuals' perceptions of language in relation to specific social contexts, influencing how they use language.",
+            "reasoning": "The phrase 'scaled images' refers to the mental frameworks formed through social interactions that dictate language usage in various contexts.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "I discuss the utility of spatiotemporal understandings of repertoires of resources and normalcies in capturing the variability, dynamicity, and complexity of semiotic practices and also in addressing the controversies among scholars regarding the 'realness' of languages and hybridity of multilingual practices.",
+            "meaning": "The author emphasizes the importance of understanding the spatial and temporal aspects of language resources to address debates about language authenticity and multilingualism.",
+            "reasoning": "The mention of 'variability, dynamicity, and complexity' suggests that language practices are fluid and influenced by context, which ties into the broader scholarly debates.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Through decentralizing language(s) and foregrounding context(s) and contextualization, I argue, the chronotope enables us to analyze not only social actors' hybrid utilization of semiotic resources in meaning-making processes, but also their language ideologies and language-ideological practices, which rely heavily on the perceptions of languages as discrete systems.",
+            "meaning": "The author argues that by focusing on context rather than viewing languages as fixed entities, we can better understand how people use language and their beliefs about it.",
+            "reasoning": "The term 'decentralizing language(s)' indicates a shift away from traditional views of language as separate systems, highlighting the importance of context in language use.",
+            "confidence_score": 0.92
+        }
+    ],
+    "overall_theme": "The research presents a novel framework for analyzing language use, particularly in multilingual contexts, emphasizing the influence of historical and social factors on language perception and utilization.",
+    "detailed_summary": "This research article introduces a chronotopic-scalar system to analyze language use, particularly in multilingual settings, drawing on data from Iranian Azerbaijanis. It posits that the availability and categorization of linguistic resources are shaped by individuals' historical experiences related to time and space. The author argues that socialization creates 'scaled images' that guide language use within specific contexts. Furthermore, the article highlights the significance of understanding the spatial and temporal dimensions of language resources to address ongoing debates about the authenticity of languages and the nature of multilingual practices. By decentralizing the concept of language and focusing on context, the study aims to provide insights into how individuals use language and form ideologies about it, challenging the notion of languages as discrete systems."
+}

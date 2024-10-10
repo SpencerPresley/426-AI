@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "collective leadership model",
+        "case studies",
+        "online narratives and teaching resources"
+    ],
+    "collective leadership model": {
+        "reasoning": "The collective leadership model is a specific framework proposed by the authors, detailing a structured approach with defined dimensions to address environmental problems, thus representing a method for leadership development.",
+        "passages": [
+            "We outline a new collective leadership model with six dimensions, Inquire, Connect, Engage, Strategize, Empower, and Reflect"
+        ],
+        "confidence_score": 0.9
+    },
+    "case studies": {
+        "reasoning": "Case studies are a methodological approach used to illustrate the application of the collective leadership model, providing concrete examples of how the model can be implemented in practice.",
+        "passages": [
+            "show through a series of case studies how each of these leadership dimensions can be used to create positive and lasting change for people and their environments"
+        ],
+        "confidence_score": 0.85
+    },
+    "online narratives and teaching resources": {
+        "reasoning": "The introduction of online narratives and teaching resources represents a method for disseminating knowledge and facilitating the application of the collective leadership model in educational contexts.",
+        "passages": [
+            "introduce a series of companion online narratives and teaching resources designed to facilitate the use of this collective leadership model in classrooms"
+        ],
+        "confidence_score": 0.8
+    }
+}

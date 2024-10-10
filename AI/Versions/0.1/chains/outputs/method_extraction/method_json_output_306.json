@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "Malaise traps",
+        "sampling",
+        "biomass examination",
+        "regional comparison"
+    ],
+    "Malaise traps": {
+        "reasoning": "Malaise traps are a specific technique used for insect sampling, allowing researchers to collect insects effectively over a set period.",
+        "passages": [
+            "We sampled insects with Malaise traps during 2019-2021 (N = 1041 samples)"
+        ],
+        "confidence_score": 0.95
+    },
+    "sampling": {
+        "reasoning": "Sampling refers to the process of collecting data or specimens from a population, which in this case involves collecting insect samples to study their responses to temperature.",
+        "passages": [
+            "We sampled insects with Malaise traps during 2019-2021 (N = 1041 samples)"
+        ],
+        "confidence_score": 0.9
+    },
+    "biomass examination": {
+        "reasoning": "Examining biomass is a method of analyzing the amount of living organisms in a given area, which is crucial for understanding the relationship between insect populations and temperature.",
+        "passages": [
+            "examined the biomass of insects in relation to temperature and time of season"
+        ],
+        "confidence_score": 0.92
+    },
+    "regional comparison": {
+        "reasoning": "Regional comparison involves analyzing differences in insect responses to temperature across various geographic locations, which is a methodological approach in this study.",
+        "passages": [
+            "We found strong regional differences in the phenology of insects and their response to temperature"
+        ],
+        "confidence_score": 0.88
+    }
+}

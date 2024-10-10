@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "difference-in-differences design",
+        "proxy measures"
+    ],
+    "difference-in-differences design": {
+        "reasoning": "The difference-in-differences design is a specific methodological approach used to assess the impact of a treatment or intervention by comparing the changes in outcomes over time between a population that is enrolled in a treatment and a population that is not.",
+        "passages": [
+            "This study employs a difference-in-differences design"
+        ],
+        "confidence_score": 0.95
+    },
+    "proxy measures": {
+        "reasoning": "Proxy measures refer to the specific techniques used to estimate or represent constructs that are not directly observable, indicating a methodological approach to the research.",
+        "passages": [
+            "this study inevitably employs proxy measures for both"
+        ],
+        "confidence_score": 0.9
+    }
+}

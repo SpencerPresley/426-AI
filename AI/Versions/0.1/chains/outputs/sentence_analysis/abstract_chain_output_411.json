@@ -1,0 +1,42 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "This study evaluates the influence of resilience as a potential coping strategy to help reduce student departure from the accounting major.",
+            "meaning": "The study investigates how resilience may help students remain in the accounting major by acting as a coping mechanism.",
+            "reasoning": "The use of 'evaluates' indicates a systematic investigation, and 'potential coping strategy' suggests a focus on resilience's role in addressing student retention.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We collected data from 443 accounting majors at four geographically disbursed U.S. universities using a battery of psychometric instruments.",
+            "meaning": "The researchers gathered data from a sample of 443 accounting students across four different U.S. universities using various psychological assessment tools.",
+            "reasoning": "The phrase 'collected data' indicates a research method, and 'battery of psychometric instruments' specifies the tools used for measurement.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "With these data, we analyzed the relations between role stressors, psychological health, burnout, and departure intentions, and assessed the extent to which individual resilience levels served as a positive influence by enhancing health, and diminishing burnout and departure intentions.",
+            "meaning": "The analysis focused on how role stressors relate to psychological health, burnout, and intentions to leave the major, while also examining how resilience positively impacts health and reduces burnout and departure intentions.",
+            "reasoning": "The sentence outlines the analytical framework and the variables of interest, emphasizing resilience's role in the context of student retention.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We found sources of role stress to have significant negative associations with psychological health, and significant positive associations with academic burnout (direct), and departure intentions (indirect).",
+            "meaning": "The study identified that role stressors negatively affect psychological health and directly increase academic burnout, which indirectly raises the likelihood of students leaving the major.",
+            "reasoning": "The terms 'negative associations' and 'positive associations' indicate the nature of the relationships found in the analysis.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "However, resilience counteracted those associations through its direct positive association with psychological health, and direct negative association with burnout.",
+            "meaning": "Resilience mitigates the negative effects of role stressors by promoting better psychological health and reducing burnout.",
+            "reasoning": "The use of 'counteracted' suggests that resilience plays a protective role against the previously mentioned negative associations.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Resilience also had a significant indirect negative association with departure intentions through its direct associations with psychological health (positive) and burnout (negative).",
+            "meaning": "Resilience indirectly reduces the likelihood of students leaving the major by positively influencing psychological health and negatively affecting burnout.",
+            "reasoning": "The phrase 'indirect negative association' indicates that resilience influences departure intentions through its effects on other variables.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research examines how resilience can serve as a coping strategy to improve psychological health and reduce burnout and departure intentions among accounting majors.",
+    "detailed_summary": "This study investigates the role of resilience in reducing student departure from the accounting major by evaluating its influence as a coping strategy. Data were collected from 443 accounting majors across four U.S. universities using various psychometric tools. The analysis focused on the relationships between role stressors, psychological health, burnout, and departure intentions, while also assessing the positive effects of individual resilience levels. The findings revealed that role stressors negatively impacted psychological health and positively correlated with burnout and departure intentions. Resilience was found to counteract these negative associations by enhancing psychological health and reducing burnout, ultimately leading to a decrease in departure intentions. Thus, the study highlights the importance of resilience in promoting student retention in accounting programs."
+}

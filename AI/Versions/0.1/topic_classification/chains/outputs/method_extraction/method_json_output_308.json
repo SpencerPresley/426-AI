@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "narrative examination",
+        "entrepreneurial processes analysis",
+        "entrepreneurial lens application"
+    ],
+    "narrative examination": {
+        "reasoning": "Narrative examination refers to the method of analyzing the historical and contextual aspects of the canning industry through the experiences of its founders, which is a specific approach to understanding the industry's development.",
+        "passages": [
+            "The narrative examines key aspects of the industry's context including the growth in demand for preserved foods, the resources of the Chesapeake region, and the development of food preservation technology."
+        ],
+        "confidence_score": 0.85
+    },
+    "entrepreneurial processes analysis": {
+        "reasoning": "Entrepreneurial processes analysis is the method used to investigate the characteristics and actions of entrepreneurs in the context of the canning industry, providing a structured way to understand their impact on economic growth.",
+        "passages": [
+            "Using the five characteristics of entrepreneurial processes, the importance of entrepreneurs in the development of the economic growth of Baltimore's early canning industry is examined."
+        ],
+        "confidence_score": 0.9
+    },
+    "entrepreneurial lens application": {
+        "reasoning": "The application of an entrepreneurial lens refers to using a specific perspective to analyze the development of firms and industries, which is a methodological approach in this study.",
+        "passages": [
+            "Using an entrepreneurial lens offers a closer insight into the development of firms and their industries."
+        ],
+        "confidence_score": 0.8
+    }
+}

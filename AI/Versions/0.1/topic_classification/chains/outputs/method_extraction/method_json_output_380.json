@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "global estimation",
+        "exposure event analysis",
+        "protection assessment"
+    ],
+    "global estimation": {
+        "reasoning": "Global estimation refers to the method used to assess the protective effects of mangroves and coastal elevation on economic activity on a worldwide scale, indicating a comprehensive approach to data analysis.",
+        "passages": [
+            "We estimate this protection from mangroves and coastal elevation globally"
+        ],
+        "confidence_score": 0.9
+    },
+    "exposure event analysis": {
+        "reasoning": "Exposure event analysis involves examining both 'direct' and 'indirect' exposure events related to cyclone impacts, which is a specific methodological approach to understanding the effects of environmental factors on economic activity.",
+        "passages": [
+            "examining both 'direct' and 'indirect' exposure events (<100 km vs.<greater than or equal to>100 km distance from a cyclone's 'eye')"
+        ],
+        "confidence_score": 0.85
+    },
+    "protection assessment": {
+        "reasoning": "Protection assessment is the method used to evaluate how mangroves and elevation provide shelter to economic activities from cyclone exposure, indicating a specific evaluative process in the research.",
+        "passages": [
+            "We find that higher elevation (>= 50 m) or wide mangroves (>= 10 m seaward width) alone shelter economic activity from indirect cyclone exposure"
+        ],
+        "confidence_score": 0.88
+    }
+}

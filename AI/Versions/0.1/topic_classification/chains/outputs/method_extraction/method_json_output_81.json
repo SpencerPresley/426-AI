@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "soil treatment",
+        "biopesticide application",
+        "LC50 determination",
+        "artificial burying",
+        "choice tests"
+    ],
+    "soil treatment": {
+        "reasoning": "Soil treatment refers to the specific method used to apply biopesticides to the soil where the larvae pupate, which is a crucial step in the experimental design.",
+        "passages": [
+            "Wandering larvae of E. grisescens were allowed to pupate in soil treated with each biopesticide"
+        ],
+        "confidence_score": 0.9
+    },
+    "biopesticide application": {
+        "reasoning": "Biopesticide application is the method of using commercial biopesticides based on specific fungi to control pest populations, which is central to the research.",
+        "passages": [
+            "we hypothesized that soil treatment with the two commercial biopesticides (Shuiguxin (R)) based on Metarhizium anisopliae and Beauveria bassiana could reduce the survivorship and fitness of E. grisescens"
+        ],
+        "confidence_score": 0.95
+    },
+    "LC50 determination": {
+        "reasoning": "LC50 determination is a specific method used to quantify the concentration of biopesticides that results in 50% mortality of the target pest, which is a standard procedure in toxicology studies.",
+        "passages": [
+            "the concentrations of M. anisopliae (Shuiguxin (R)) and B. bassiana (Shuiguxin (R)) that produced the 50% mortality values (LC50) were 2.9 x 10(6) and 1.6 x 10(7) conidia/g soil, respectively"
+        ],
+        "confidence_score": 0.93
+    },
+    "artificial burying": {
+        "reasoning": "Artificial burying describes the experimental procedure used to test the effects of biopesticide-treated soil on the emergence success of the pest, making it a defined method in the study.",
+        "passages": [
+            "Artificial burying the pupae using soil treated with M. anisopliae (Shuiguxin (R)) and B. bassiana (Shuiguxin (R)) also significantly reduced emergence success of E. grisescens"
+        ],
+        "confidence_score": 0.88
+    },
+    "choice tests": {
+        "reasoning": "Choice tests are a method employed to evaluate the behavioral response of E. grisescens to different soil treatments, providing insights into the effectiveness of the biopesticides.",
+        "passages": [
+            "In addition, choice tests showed that soil treated with the high concentration of M. anisopliae (Shuiguxin (R)) or B. bassiana (Shuiguxin (R)) had repellent effects on pupating E. grisescens"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "methods": [
+        "survey",
+        "longitudinal examination",
+        "mediational analysis"
+    ],
+    "survey": {
+        "reasoning": "Survey is a method used to collect data from participants regarding their responses to everyday stressors, which is a fundamental aspect of the research design.",
+        "passages": [
+            "Study 1 (n = 122) surveyed undergraduates' response to everyday stressors",
+            "Study 2 (n = 105) examined undergraduates' adjustment to the 11 September 2001 terrorist attacks"
+        ],
+        "confidence_score": 0.95
+    },
+    "longitudinal examination": {
+        "reasoning": "Longitudinal examination refers to the method of studying participants over time, specifically at 1 and 3 months post-attack, allowing for the observation of changes in well-being.",
+        "passages": [
+            "Study 2 (n = 105) examined undergraduates' adjustment to the 11 September 2001 terrorist attacks at 1 and 3 months post-attack"
+        ],
+        "confidence_score": 0.9
+    },
+    "mediational analysis": {
+        "reasoning": "Mediational analysis is a method used to understand the relationships between relinquishing control, avoidant coping, and psychological well-being, indicating the analytical approach taken in the study.",
+        "passages": [
+            "avoidant coping mediated relations to psychological well-being",
+            "relinquishing control was associated with worse T1 psychological well-being, which was mediated by avoidant coping"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "moderated regression model",
+        "data collection"
+    ],
+    "moderated regression model": {
+        "reasoning": "The moderated regression model is a specific statistical technique used to analyze the relationship between variables, in this case, self-leadership, coping skills, and stress among college students.",
+        "passages": [
+            "analyzed using a moderated regression model"
+        ],
+        "confidence_score": 0.95
+    },
+    "data collection": {
+        "reasoning": "Data collection refers to the systematic gathering of information from participants, which is essential for conducting the research and understanding the variables involved.",
+        "passages": [
+            "Data from 643 full-time undergraduate students attending a 4-year public university in the mid-Atlantic region were collected in February 2017"
+        ],
+        "confidence_score": 0.9
+    }
+}

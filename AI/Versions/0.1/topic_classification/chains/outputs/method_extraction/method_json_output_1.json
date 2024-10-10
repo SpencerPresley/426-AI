@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "movement pattern assessment",
+        "foraging optimization analysis"
+    ],
+    "movement pattern assessment": {
+        "reasoning": "Movement pattern assessment refers to the specific analysis of gorillas' travel behaviors, including linearity, distance, and speed, which is a methodological approach to understanding their foraging decisions.",
+        "passages": [
+            "we examined movement patterns-such as linearity, distance, and speed of traveling-to assess whether gorillas optimize travel when reaching out-of-sight valued resources."
+        ],
+        "confidence_score": 0.92
+    },
+    "foraging optimization analysis": {
+        "reasoning": "Foraging optimization analysis involves evaluating how gorillas adjust their travel based on the availability and type of food, which indicates a methodological approach to understanding their spatial memory and decision-making processes.",
+        "passages": [
+            "suggesting they are able to optimize foraging based on spatial knowledge of their resources."
+        ],
+        "confidence_score": 0.88
+    }
+}

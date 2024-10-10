@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "thematic analysis",
+        "phone interviews"
+    ],
+    "thematic analysis": {
+        "reasoning": "Thematic analysis is a method used to analyze qualitative data by identifying patterns and themes within the data collected from interviews, making it a core part of the research methodology.",
+        "passages": [
+            "Data were analyzed via thematic analysis."
+        ],
+        "confidence_score": 0.95
+    },
+    "phone interviews": {
+        "reasoning": "Phone interviews are a specific method of data collection used to gather qualitative information from parents about their experiences, which is essential for understanding their perspectives.",
+        "passages": [
+            "interviewed via phone about their early parenting experiences."
+        ],
+        "confidence_score": 0.9
+    }
+}

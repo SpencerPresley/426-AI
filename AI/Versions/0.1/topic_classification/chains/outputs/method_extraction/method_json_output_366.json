@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "cumulative abnormal return calculation",
+        "ordinary least squares regressions",
+        "robustness check"
+    ],
+    "cumulative abnormal return calculation": {
+        "reasoning": "Cumulative abnormal return calculation is a method used to quantify the impact of corporate label changes on shareholder reactions over a specified event window, providing a clear analytical approach to measure financial performance.",
+        "passages": [
+            "the authors first calculate the cumulative abnormal return (CAR) with the two-day event window [-1,0]"
+        ],
+        "confidence_score": 0.95
+    },
+    "ordinary least squares regressions": {
+        "reasoning": "Ordinary least squares regressions is a statistical method employed to analyze the relationship between firm size, firm age, and cumulative abnormal return, allowing for the testing of hypotheses regarding these variables.",
+        "passages": [
+            "the authors test the impacts of firm size and age on CAR with ordinary least squares regressions"
+        ],
+        "confidence_score": 0.9
+    },
+    "robustness check": {
+        "reasoning": "Robustness check refers to the method of validating the results by testing with different parameters, ensuring the reliability and consistency of the findings in the study.",
+        "passages": [
+            "the authors test using a different event window and different measures as well"
+        ],
+        "confidence_score": 0.85
+    }
+}

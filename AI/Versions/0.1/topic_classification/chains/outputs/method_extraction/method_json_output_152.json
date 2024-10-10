@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "qualitative thematic framing",
+        "semistructured interviews",
+        "purposive and snowball sampling"
+    ],
+    "qualitative thematic framing": {
+        "reasoning": "Qualitative thematic framing is a method used to analyze and interpret qualitative data, focusing on identifying and understanding themes within patient communications about pain.",
+        "passages": [
+            "Method: Qualitative thematic framing examining semistructured interviews of a purposive and snowball sample of CAM patients"
+        ],
+        "confidence_score": 0.9
+    },
+    "semistructured interviews": {
+        "reasoning": "Semistructured interviews are a specific technique used for data collection, allowing for guided yet flexible conversations that can elicit detailed information about patient experiences.",
+        "passages": [
+            "examining semistructured interviews of a purposive and snowball sample of CAM patients"
+        ],
+        "confidence_score": 0.95
+    },
+    "purposive and snowball sampling": {
+        "reasoning": "Purposive and snowball sampling are specific sampling techniques used to recruit participants based on specific characteristics and referrals, which is crucial for qualitative research.",
+        "passages": [
+            "a purposive and snowball sample of CAM patients (N = 13; 850 double-spaced pages)"
+        ],
+        "confidence_score": 0.85
+    }
+}

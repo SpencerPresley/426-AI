@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "longitudinal data analysis",
+        "iterative coding",
+        "pre-post analytic design",
+        "comparative analysis"
+    ],
+    "longitudinal data analysis": {
+        "reasoning": "Longitudinal data analysis refers to the examination of data collected over multiple time points, which allows researchers to observe changes and trends over time, making it a key methodological approach in this study.",
+        "passages": [
+            "This study leveraged longitudinal data on school district codes of conduct from the 2013-2014 to 2015-2016 school years across the state of Maryland."
+        ],
+        "confidence_score": 0.95
+    },
+    "iterative coding": {
+        "reasoning": "Iterative coding is a specific method used to systematically categorize qualitative data, in this case, the school district codes of conduct, which is essential for analyzing the responses to infractions.",
+        "passages": [
+            "Codes of conduct were coded in an iterative fashion according to a common set of infraction-response combinations."
+        ],
+        "confidence_score": 0.9
+    },
+    "pre-post analytic design": {
+        "reasoning": "Pre-post analytic design is a methodological approach used to evaluate changes before and after an intervention, which is crucial for assessing the impact of the revised guidelines on school district responses.",
+        "passages": [
+            "Using a pre-post analytic design, this study examined changes in districts' codified infractions, responses to infractions, and the overall tier of response."
+        ],
+        "confidence_score": 0.9
+    },
+    "comparative analysis": {
+        "reasoning": "Comparative analysis involves examining differences and similarities between entities, in this case, comparing alignment between state guidelines and district codes of conduct, which is a methodological step in the research.",
+        "passages": [
+            "Furthermore, the study compared alignment between state guidelines and district codes of conduct while exploring variation in codified discipline across districts."
+        ],
+        "confidence_score": 0.85
+    }
+}

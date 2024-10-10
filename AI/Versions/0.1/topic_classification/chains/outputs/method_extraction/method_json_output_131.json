@@ -1,0 +1,30 @@
+{
+    "methods": [
+        "standardized patient experiences",
+        "toolkits",
+        "toolkit activities"
+    ],
+    "standardized patient experiences": {
+        "reasoning": "Standardized patient experiences (SPEs) are a specific method used to simulate real-life scenarios where students can practice their skills in a controlled environment, making it a clear methodological approach in the study.",
+        "passages": [
+            "students completed toolkits with standardized patient experiences (SPEs) to practice core skill sets",
+            "Use of SPEs and toolkit activities can bridge the gap between classroom/clinical and real world settings"
+        ],
+        "confidence_score": 0.95
+    },
+    "toolkits": {
+        "reasoning": "Toolkits are a method for providing structured resources that students use to practice and develop their skills, thus representing an organized approach to skill development in the study.",
+        "passages": [
+            "students completed toolkits with standardized patient experiences (SPEs) to practice core skill sets",
+            "Use of SPEs and toolkit activities can bridge the gap between classroom/clinical and real world settings"
+        ],
+        "confidence_score": 0.9
+    },
+    "toolkit activities": {
+        "reasoning": "Toolkit activities refer to the specific exercises or tasks included in the toolkits, which are designed to facilitate the practical application of the skills being taught, making it a method of implementation.",
+        "passages": [
+            "Use of SPEs and toolkit activities can bridge the gap between classroom/clinical and real world settings"
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "data analysis of green power consumption",
+        "stakeholder management exploration"
+    ],
+    "data analysis of green power consumption": {
+        "reasoning": "This method involves examining the data related to the green power consumed by firms participating in the GPP program, which is a specific process used to derive conclusions from the research.",
+        "passages": [
+            "Using the data for the green power consumed by firms that are participating in the GPP program in the United States"
+        ],
+        "confidence_score": 0.9
+    },
+    "stakeholder management exploration": {
+        "reasoning": "This method refers to the investigation of how firms manage their stakeholders through green management practices, which is a specific approach taken in the research.",
+        "passages": [
+            "they become more likely to engage in stakeholder management in the form of green management practices"
+        ],
+        "confidence_score": 0.85
+    }
+}

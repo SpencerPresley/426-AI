@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "field survey",
+        "analysis of traditional games"
+    ],
+    "field survey": {
+        "reasoning": "A field survey is a specific method used to gather data directly from the environment where traditional games are played, allowing researchers to collect firsthand information about the practices and interactions in Kabylie.",
+        "passages": [
+            "we will attempt through a field survey, to identify and interpret the meaning and distribution of the traditional games played by the women of Kabylie."
+        ],
+        "confidence_score": 0.9
+    },
+    "analysis of traditional games": {
+        "reasoning": "The analysis of traditional games refers to the systematic examination of the 92 games played in Kabylie, which is a method used to uncover cultural specificities and socio-cultural aspects.",
+        "passages": [
+            "By analyzing 92 traditional games played in the region of Kabylie allowed us to highlight on the one hand the cultural specificity, and on the other the richness of the socio-cultural aspects of this region."
+        ],
+        "confidence_score": 0.85
+    }
+}

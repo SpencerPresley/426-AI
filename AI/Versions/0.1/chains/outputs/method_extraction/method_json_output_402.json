@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "meta-analysis",
+        "cross-cultural comparison",
+        "mediation analysis"
+    ],
+    "meta-analysis": {
+        "reasoning": "Meta-analysis is a specific statistical method used to combine results from multiple studies to identify patterns or effects, which is the primary methodology employed in this research.",
+        "passages": [
+            "This meta-analysis found that the emotional intelligence-organizational citizenship behavior relationship is stronger in long-term oriented and restraint cultures."
+        ],
+        "confidence_score": 0.95
+    },
+    "cross-cultural comparison": {
+        "reasoning": "Cross-cultural comparison refers to the method of analyzing how different cultural contexts affect the relationships being studied, which is a central focus of the research.",
+        "passages": [
+            "However, this relationship does not differ between individualistic and collectivistic cultures, masculine and feminine cultures, high uncertainty avoidance and low uncertainty avoidance cultures, and high power distance and low power distance cultures."
+        ],
+        "confidence_score": 0.9
+    },
+    "mediation analysis": {
+        "reasoning": "Mediation analysis is a method used to examine the mechanisms through which one variable influences another, specifically the role of state positive and negative affect in the relationships studied.",
+        "passages": [
+            "Emotional intelligence-organizational citizenship behavior/counterproductive work behavior relationships are mediated by both state positive affect and state negative affect."
+        ],
+        "confidence_score": 0.85
+    }
+}

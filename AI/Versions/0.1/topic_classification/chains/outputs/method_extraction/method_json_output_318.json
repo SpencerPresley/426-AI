@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "metes and bounds witness tree locations",
+        "correspondence analysis"
+    ],
+    "metes and bounds witness tree locations": {
+        "reasoning": "Metes and bounds witness tree locations refer to a specific historical method used to identify and describe land parcels based on tree locations during colonial land subdivision, which is crucial for understanding historical biogeographic relationships.",
+        "passages": [
+            "This study utilized metes and bounds witness tree locations and descriptions produced during colonial land subdivision"
+        ],
+        "confidence_score": 0.9
+    },
+    "correspondence analysis": {
+        "reasoning": "Correspondence analysis is a statistical technique used to analyze relationships between categorical variables, in this case, to reveal habitat partitioning among witness tree species based on soil drainage characteristics.",
+        "passages": [
+            "Using correspondence analysis, we reveal habitat partitioning among witness tree species based on soil drainage characteristics"
+        ],
+        "confidence_score": 0.95
+    }
+}

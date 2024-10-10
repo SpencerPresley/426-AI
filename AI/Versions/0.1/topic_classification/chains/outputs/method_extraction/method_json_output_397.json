@@ -1,0 +1,45 @@
+{
+    "methods": [
+        "in vitro behaviors examination",
+        "glial line microfluidic device",
+        "Elliott's B Solution (EBS) application",
+        "chemotaxis measurement",
+        "neurite explant extension measurement"
+    ],
+    "in vitro behaviors examination": {
+        "reasoning": "The examination of in vitro behaviors refers to the specific experimental method used to study the actions and characteristics of glial Schwann cells and spinal cord explants in a controlled environment.",
+        "passages": [
+            "The current study examined in vitro behaviors of glial Schwann cells (ShC) and spinal cord explants (SCE) within a CSF replacement solution"
+        ],
+        "confidence_score": 0.95
+    },
+    "glial line microfluidic device": {
+        "reasoning": "The glial line microfluidic device is a specific experimental setup used to create defined chemical microenvironments, which is crucial for the study's methodology.",
+        "passages": [
+            "used EBS to create defined chemical microenvironments of extracellular factors within a glial line (gLL) microfluidic device"
+        ],
+        "confidence_score": 0.9
+    },
+    "Elliott's B Solution (EBS) application": {
+        "reasoning": "The application of Elliott's B Solution is a specific method for providing a CSF replacement solution in experiments, highlighting how the researchers manipulated their experimental conditions.",
+        "passages": [
+            "used widely in the treatment of NS disorders",
+            "Our tests used EBS to create defined chemical microenvironments"
+        ],
+        "confidence_score": 0.92
+    },
+    "chemotaxis measurement": {
+        "reasoning": "Chemotaxis measurement refers to the specific technique used to assess the movement of Schwann cells in response to concentration gradients of brain-derived growth factor, which is a methodological focus of the study.",
+        "passages": [
+            "Our data indicates that ShC undergo significant chemotaxis toward high and low concentration gradients of BDNF"
+        ],
+        "confidence_score": 0.88
+    },
+    "neurite explant extension measurement": {
+        "reasoning": "This method involves measuring the growth of neurites from spinal cord explants, providing quantitative data on the biological response under different experimental conditions.",
+        "passages": [
+            "SCE cultured with EBS solutions facilitated measurement of neurite explant extension commensurate with reported in vivo measurements"
+        ],
+        "confidence_score": 0.9
+    }
+}

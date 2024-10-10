@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "framework of national identity",
+        "multivariate linear regressions",
+        "U.S. citizen response data"
+    ],
+    "framework of national identity": {
+        "reasoning": "The framework of national identity is a specific theoretical approach used to analyze and interpret the attitudes of U.S. citizens towards immigrants, making it a methodological focus of the research.",
+        "passages": [
+            "This article utilizes a framework of national identity which suggests that this construct is comprised of three separate elements: nativism, emotionality, and behavior."
+        ],
+        "confidence_score": 0.85
+    },
+    "multivariate linear regressions": {
+        "reasoning": "Multivariate linear regressions are a statistical method employed to analyze the relationship between the framework of national identity and attitudes towards immigrants, indicating the analytical approach used in the research.",
+        "passages": [
+            "multivariate linear regressions were used to explore the relationship between this framework and attitudes towards immigrants."
+        ],
+        "confidence_score": 0.9
+    },
+    "U.S. citizen response data": {
+        "reasoning": "U.S. citizen response data refers to the specific data collected from respondents, which is crucial for the analysis of attitudes towards immigrants, thereby representing a method of data collection.",
+        "passages": [
+            "Using U.S. citizen response data from three waves of the National Identity module of the International Social Survey Programme (ISSP) from 1995, 2003, and 2013"
+        ],
+        "confidence_score": 0.8
+    }
+}

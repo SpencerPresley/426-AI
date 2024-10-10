@@ -1,0 +1,46 @@
+{
+    "methods": [
+        "smart cart",
+        "SPARKvue app",
+        "flyby measurements",
+        "Helmholtz coil",
+        "Biot-Savart law verification"
+    ],
+    "smart cart": {
+        "reasoning": "The smart cart is a specific tool used in the experiments to replace traditional laboratory equipment, representing a methodological approach to conducting the experiments with enhanced convenience and cost-effectiveness.",
+        "passages": [
+            "the smart cart and the free SPARKvue app for the smart cart by carrying out flyby measurements of the magnetic field of a Helmholtz coil",
+            "The use of the smart cart in this report obviates the need for using the accelerometer"
+        ],
+        "confidence_score": 0.9
+    },
+    "SPARKvue app": {
+        "reasoning": "The SPARKvue app is a specific application used in conjunction with the smart cart to facilitate the experiments, indicating a methodological choice for data collection and analysis.",
+        "passages": [
+            "the free SPARKvue app for the smart cart",
+            "The eponymous smart cart broadcasts its precise location wirelessly over Bluetooth"
+        ],
+        "confidence_score": 0.85
+    },
+    "flyby measurements": {
+        "reasoning": "Flyby measurements refer to a specific experimental technique used to measure the magnetic field, indicating a methodological approach to data collection.",
+        "passages": [
+            "by carrying out flyby measurements of the magnetic field of a Helmholtz coil"
+        ],
+        "confidence_score": 0.8
+    },
+    "Helmholtz coil": {
+        "reasoning": "The Helmholtz coil is a specific experimental apparatus used to generate a uniform magnetic field, representing a methodological component of the experiments conducted.",
+        "passages": [
+            "to generate and measure a uniform magnetic field over a wide central region"
+        ],
+        "confidence_score": 0.75
+    },
+    "Biot-Savart law verification": {
+        "reasoning": "The verification of the Biot-Savart law is a specific analytical process employed in the experiments to validate theoretical principles, indicating a methodological focus.",
+        "passages": [
+            "In addition to the single circular coil verification of the Biot-Savart law"
+        ],
+        "confidence_score": 0.7
+    }
+}

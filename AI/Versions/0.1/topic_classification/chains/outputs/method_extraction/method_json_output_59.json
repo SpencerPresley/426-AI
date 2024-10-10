@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "Perron-Frobenius theory",
+        "graph-theoretic proofs"
+    ],
+    "Perron-Frobenius theory": {
+        "reasoning": "Perron-Frobenius theory is a mathematical framework that is used to analyze eigenvalues and eigenvectors of non-negative matrices, which is relevant in the context of proving conjecture O.",
+        "passages": [
+            "Perron-Frobenius theory reduces our proofs to be graph-theoretic in nature."
+        ],
+        "confidence_score": 0.9
+    },
+    "graph-theoretic proofs": {
+        "reasoning": "Graph-theoretic proofs refer to the specific analytical approach taken to demonstrate the validity of conjecture O for certain classes of varieties, indicating a methodological process in the research.",
+        "passages": [
+            "Perron-Frobenius theory reduces our proofs to be graph-theoretic in nature."
+        ],
+        "confidence_score": 0.85
+    }
+}

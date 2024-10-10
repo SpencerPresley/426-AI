@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "research study",
+        "exploring students' perceptions"
+    ],
+    "research study": {
+        "reasoning": "The term 'research study' refers to the systematic investigation conducted to gather data on students' perceptions regarding OAER, which is a methodological approach to understanding the issue.",
+        "passages": [
+            "This article discusses a research study which explored students' perceptions of using an Open/Alternative Educational Resource (OAER)"
+        ],
+        "confidence_score": 0.85
+    },
+    "exploring students' perceptions": {
+        "reasoning": "Exploring students' perceptions is a specific method of qualitative inquiry used to understand how students view the use of OAER in their education, making it a distinct methodological approach.",
+        "passages": [
+            "which explored students' perceptions of using an Open/Alternative Educational Resource (OAER)"
+        ],
+        "confidence_score": 0.8
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "methods": [
+        "Bayesian framework",
+        "parameter estimation",
+        "chiral effective field theory",
+        "case studies",
+        "posterior probability density function",
+        "Gaussian processes"
+    ],
+    "Bayesian framework": {
+        "reasoning": "The Bayesian framework is a specific approach used for parameter estimation, indicating a methodological process for analyzing data within the context of effective field theories.",
+        "passages": [
+            "We recently developed a Bayesian framework for parameter estimation in general effective field theories."
+        ],
+        "confidence_score": 0.95
+    },
+    "parameter estimation": {
+        "reasoning": "Parameter estimation is a core methodological aspect of the research, referring to the techniques employed to derive values for specific parameters within the model.",
+        "passages": [
+            "we present selected results from using that framework to estimate parameters"
+        ],
+        "confidence_score": 0.9
+    },
+    "chiral effective field theory": {
+        "reasoning": "Chiral effective field theory (chi EFT) is the theoretical framework within which the research is conducted, and it involves specific methods for deriving potentials and analyzing scattering data.",
+        "passages": [
+            "with a nucleon-nucleon (NN) potential derived using chiral effective field theory (chi EFT)"
+        ],
+        "confidence_score": 0.85
+    },
+    "case studies": {
+        "reasoning": "The term 'case studies' refers to specific examples examined within the research, indicating a methodological approach to illustrate the application of the Bayesian framework.",
+        "passages": [
+            "We present two case studies where our Bayesian machinery illuminates physics issues."
+        ],
+        "confidence_score": 0.8
+    },
+    "posterior probability density function": {
+        "reasoning": "The posterior probability density function (pdf) is a statistical method used to represent the uncertainty in parameter estimates, demonstrating a specific analytical technique employed in the study.",
+        "passages": [
+            "the two-dimensional posterior probability density function (pdf) for the fourth-order s-wave LECs obtained from the Nijmegen PWA93 phase shifts"
+        ],
+        "confidence_score": 0.85
+    },
+    "Gaussian processes": {
+        "reasoning": "Gaussian processes are a statistical method used for modeling correlations in data, representing a specific approach to enhance the robustness of parameter estimation.",
+        "passages": [
+            "pointing the way to the use of Gaussian processes to more generally model the correlation structure."
+        ],
+        "confidence_score": 0.8
+    }
+}

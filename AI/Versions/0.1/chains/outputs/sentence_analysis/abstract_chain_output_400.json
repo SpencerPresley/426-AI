@@ -1,0 +1,30 @@
+{
+    "sentences": [
+        {
+            "sentence": "This paper investigates how market-oriented reforms affect firm incentives to innovate.",
+            "meaning": "The research focuses on the impact of market-oriented reforms on the motivation of firms to engage in innovation.",
+            "reasoning": "The use of the word 'investigates' indicates a study or analysis, while 'market-oriented reforms' and 'firm incentives to innovate' clearly outline the primary subjects of the research.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "We utilise the market reforms enacted in Korea following the Asian Financial Crisis of 1997 as an empirical setting to show why an institution-based view is crucial to understanding the factors that incentivize firms to innovate.",
+            "meaning": "The authors use the specific case of Korea's market reforms post-1997 crisis to demonstrate the importance of an institution-based perspective in understanding innovation incentives.",
+            "reasoning": "The phrase 'empirical setting' suggests the study is grounded in real-world examples, and 'institution-based view' implies a theoretical framework that is essential for analyzing the relationship between reforms and innovation.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Additionally, we draw on the competitive strategy literature to investigate how market reforms - combined with industry competition and firm-specific factors - affect innovation-related investments.",
+            "meaning": "The research incorporates existing literature on competitive strategy to explore the interaction between market reforms, competition, and specific characteristics of firms in relation to their investment in innovation.",
+            "reasoning": "The phrase 'draw on the competitive strategy literature' indicates that previous research is being utilized to frame the current investigation, while the mention of 'industry competition and firm-specific factors' highlights additional variables being considered.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "Our findings suggest that market reforms positively influence both innovation input and output, but these associations are contingent on firm-specific factors.",
+            "meaning": "The results indicate that market reforms have a beneficial effect on both the resources allocated to innovation (input) and the results achieved from it (output), though this effect varies depending on individual firm characteristics.",
+            "reasoning": "The terms 'positively influence' and 'contingent on firm-specific factors' clarify that while there is a general positive trend, the degree of impact is not uniform across all firms.",
+            "confidence_score": 0.93
+        }
+    ],
+    "overall_theme": "The research explores the relationship between market-oriented reforms and firm innovation incentives, emphasizing the importance of an institution-based view and the role of competitive dynamics.",
+    "detailed_summary": "This research paper examines how market-oriented reforms influence the incentives for firms to innovate, specifically analyzing the reforms implemented in Korea after the 1997 Asian Financial Crisis. The authors argue that an institution-based perspective is critical for understanding the factors that motivate firms to pursue innovation. They also integrate insights from competitive strategy literature to assess how these reforms, along with industry competition and firm-specific characteristics, impact investments in innovation. The findings reveal that while market reforms generally enhance both the inputs and outputs of innovation, the extent of this influence varies based on specific attributes of the firms involved."
+}

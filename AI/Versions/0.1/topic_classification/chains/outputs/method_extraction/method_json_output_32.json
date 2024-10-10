@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "evaluation of investor perceptions",
+        "analysis of corporate behaviors",
+        "evidence provision"
+    ],
+    "evaluation of investor perceptions": {
+        "reasoning": "Evaluating investor perceptions is a method because it describes the process of assessing how investors view corporate behaviors, particularly in the context of conflict between tax avoidance and CSR.",
+        "passages": [
+            "We evaluate investor perceptions when these corporate behaviors are in conflict"
+        ],
+        "confidence_score": 0.9
+    },
+    "analysis of corporate behaviors": {
+        "reasoning": "Analyzing corporate behaviors refers to the method of examining the interplay between tax avoidance and CSR, which is central to understanding their economic outcomes.",
+        "passages": [
+            "the joint influence of tax avoidance and Corporate Social Responsibility on economic outcomes"
+        ],
+        "confidence_score": 0.85
+    },
+    "evidence provision": {
+        "reasoning": "Providing evidence is a method as it indicates the systematic approach taken to support the findings regarding the effects of tax avoidance and CSR on investment intentions.",
+        "passages": [
+            "We provide evidence that not only do a firm's policies related to CSR and tax avoidance result in diverse investment intentions"
+        ],
+        "confidence_score": 0.8
+    }
+}

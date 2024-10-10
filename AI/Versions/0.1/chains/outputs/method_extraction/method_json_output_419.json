@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "literature review",
+        "design-based research",
+        "empirical data illustration"
+    ],
+    "literature review": {
+        "reasoning": "A literature review is a systematic method used to gather and synthesize existing research on a topic, which is essential for establishing a theoretical framework.",
+        "passages": [
+            "we begin by reviewing existing literature"
+        ],
+        "confidence_score": 0.9
+    },
+    "design-based research": {
+        "reasoning": "Design-based research is a specific methodology that involves iterative design and testing of educational interventions, which is used to gather data and insights in the context of this study.",
+        "passages": [
+            "We illustrate the two cycles using empirical data from design-based research"
+        ],
+        "confidence_score": 0.95
+    },
+    "empirical data illustration": {
+        "reasoning": "Illustrating findings with empirical data is a method used to support theoretical claims and demonstrate the practical implications of the research.",
+        "passages": [
+            "We illustrate the two cycles using empirical data"
+        ],
+        "confidence_score": 0.85
+    }
+}

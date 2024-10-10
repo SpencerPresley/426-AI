@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "written comments collection",
+        "qualitative analysis",
+        "discourse analysis"
+    ],
+    "written comments collection": {
+        "reasoning": "Written comments collection refers to the systematic gathering of qualitative feedback from students as part of the evaluation process, making it a specific method of data collection in the research.",
+        "passages": [
+            "In this study, written comments were collected as part of the regular evaluation of a community health nursing course over four semesters."
+        ],
+        "confidence_score": 0.95
+    },
+    "qualitative analysis": {
+        "reasoning": "Qualitative analysis is the method used to interpret and understand the collected written comments, focusing on the meanings and themes present in the data.",
+        "passages": [
+            "students emphasized the authority of the textbook and framed the course as preparation for the National Council Licensure Examination (NCLEX).",
+            "Instructor efforts to focus on critical analysis of social issues were met with confusion, suspicion, and resistance."
+        ],
+        "confidence_score": 0.9
+    },
+    "discourse analysis": {
+        "reasoning": "Discourse analysis is a method employed to examine student comments in relation to different levels of discourse, providing a framework for understanding the context and implications of the feedback.",
+        "passages": [
+            "Student comments were further analyzed in relation to 3 levels of discourse: the student/teacher level, the nursing-education level, and the social-historical level."
+        ],
+        "confidence_score": 0.85
+    }
+}

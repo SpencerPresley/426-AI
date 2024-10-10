@@ -1,0 +1,24 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "This article evaluates how firms are able to enhance the effectiveness of their Risk Management Infrastructure (RMI) by using Big Data Analytics (BDA) to improve their risk resilience capability.",
+            "meaning": "The article examines how companies can improve their risk management systems through the application of big data analytics.",
+            "reasoning": "The use of 'evaluates' indicates an analysis of a process or concept, and 'enhance the effectiveness' implies a focus on improvement. The mention of 'Risk Management Infrastructure' and 'Big Data Analytics' specifies the areas of focus.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "A theoretical model is developed and the corresponding hypothesis is tested through a survey instrument and quantitative analysis.",
+            "meaning": "The authors created a theoretical framework and tested their hypothesis using surveys and quantitative methods.",
+            "reasoning": "The terms 'theoretical model' and 'hypothesis' indicate a structured approach to research, while 'survey instrument and quantitative analysis' describe the methods used for testing.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "The results show that if firms adopt BDA capabilities then it positively moderates the impact of RMI on risk resilience, improving the effectiveness of a risk management infrastructure.",
+            "meaning": "The findings suggest that implementing big data analytics enhances the relationship between risk management infrastructure and risk resilience.",
+            "reasoning": "The use of 'results show' indicates findings from the research, and the phrase 'positively moderates' suggests an enhancement of the relationship between the two concepts discussed.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research focuses on the relationship between Big Data Analytics and Risk Management Infrastructure, highlighting how BDA can improve risk resilience in firms.",
+    "detailed_summary": "The abstract discusses a study that investigates how firms can improve their Risk Management Infrastructure (RMI) by leveraging Big Data Analytics (BDA) to enhance their capability to withstand risks. A theoretical model was created to guide the research, and the hypothesis was tested using surveys and quantitative analysis. The results indicate that the adoption of BDA significantly enhances the effectiveness of RMI by positively influencing risk resilience, suggesting that firms can benefit from integrating BDA into their risk management strategies."
+}

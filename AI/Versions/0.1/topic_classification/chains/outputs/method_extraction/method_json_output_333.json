@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "case study",
+        "primary and secondary data analysis",
+        "strategies for achieving hegemonic disposition"
+    ],
+    "case study": {
+        "reasoning": "The case study method is employed to explore the specific instance of the LTTE, allowing for an in-depth analysis of the strategies and implications of their actions.",
+        "passages": [
+            "These research questions are explored by treating Sri Lanka's LTTE as a case study."
+        ],
+        "confidence_score": 0.9
+    },
+    "primary and secondary data analysis": {
+        "reasoning": "This refers to the methods of data collection and analysis used in the research, indicating that both original and existing data were utilized to support the findings.",
+        "passages": [
+            "Primary and secondary data formed the basis of the analysis."
+        ],
+        "confidence_score": 0.95
+    },
+    "strategies for achieving hegemonic disposition": {
+        "reasoning": "The strategies outlined represent specific approaches that the LTTE employed to gain influence and control within the Tamil community, making them a methodological focus of the research.",
+        "passages": [
+            "The LTTE used three strategies to achieve a hegemonic disposition within the Tamil community. They are: (1) elimination of rival groups, (2) incorporation of some groups, and (3) battlefield efficacy."
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "investigation of market liberalisation",
+        "analysis of U-shaped relationship",
+        "moderation analysis"
+    ],
+    "investigation of market liberalisation": {
+        "reasoning": "This method refers to the specific approach taken to examine how market liberalisation affects a firm's strategy regarding technology exploration, indicating a clear research process.",
+        "passages": [
+            "This paper investigates the impact of market liberalisation on a firm's strategy of technology exploration in South Korea."
+        ],
+        "confidence_score": 0.9
+    },
+    "analysis of U-shaped relationship": {
+        "reasoning": "This method describes the analytical approach taken to understand the nature of the relationship between market liberalisation and technology exploration, indicating a specific type of data analysis.",
+        "passages": [
+            "We find that there is a U-shaped relationship between market liberalisation and technology exploration."
+        ],
+        "confidence_score": 0.85
+    },
+    "moderation analysis": {
+        "reasoning": "This method involves examining how different factors, such as financial slack and industry concentration, influence the primary relationship being studied, which is a common analytical technique in research.",
+        "passages": [
+            "we find that financial slack and industry concentration negatively moderate the curvilinear relationship between market liberalisation and technology exploration, while business group positively moderates this relationship."
+        ],
+        "confidence_score": 0.88
+    }
+}

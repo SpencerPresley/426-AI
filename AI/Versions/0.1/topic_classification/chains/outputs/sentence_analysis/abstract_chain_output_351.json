@@ -1,0 +1,60 @@
+{
+    "sentences": [
+        {
+            "sentence": "Objective: To examine unique relations of three distinct dimensions of desirability of control with psychological and physical well-being and coping.",
+            "meaning": "The study aims to investigate how three specific aspects of the desire for control relate to psychological and physical health and coping mechanisms.",
+            "reasoning": "The sentence outlines the goal of the research, indicating a focus on the connections between control dimensions and well-being.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Design: Study 1 (n = 122) surveyed undergraduates' response to everyday stressors, and Study 2 (n = 105) examined undergraduates' adjustment to the 11 September 2001 terrorist attacks at 1 and 3 months post-attack.",
+            "meaning": "The research includes two studies: the first assesses how undergraduates respond to daily stress, while the second looks at their adjustment following the September 11 attacks over time.",
+            "reasoning": "The sentence describes the methodology and participant details, indicating the different contexts in which the studies were conducted.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Main outcome measures included psychological distress, perceived stress, rumination, health behaviors, alcohol use and active vs. avoidant coping.",
+            "meaning": "The study measured various outcomes related to mental and physical health, including stress, coping strategies, and behaviors like alcohol consumption.",
+            "reasoning": "This sentence lists the specific outcomes that the research focused on, indicating the breadth of psychological and health factors considered.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Study 1 Results: Self- and other-control were associated with active coping, whereas relinquishing control was linked with avoidant coping.",
+            "meaning": "In the first study, both self-control and control over others correlated with proactive coping strategies, while giving up control was related to passive coping.",
+            "reasoning": "This sentence summarizes the findings of Study 1, highlighting the relationship between different types of control and coping styles.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Only relinquishing control was uniquely linked with outcomes, including worse psychological and physical well-being and alcohol use; avoidant coping mediated relations to psychological well-being.",
+            "meaning": "The act of relinquishing control was specifically related to poorer health outcomes and increased alcohol use, with avoidant coping acting as a mediator for psychological well-being.",
+            "reasoning": "This sentence emphasizes the negative impact of relinquishing control while noting the mediating role of coping strategies.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Study 2 Results: Again, self-control was associated with active coping whereas relinquishing control was linked with avoidant coping.",
+            "meaning": "Similar to Study 1, the second study also found that self-control related to proactive coping and relinquishing control related to passive coping.",
+            "reasoning": "This sentence reiterates the consistent findings across both studies regarding the relationship between control and coping styles.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Self-control was associated with enhanced psychological well-being at T1 and increases in well-being over time; by contrast, relinquishing control was associated with worse T1 psychological well-being, which was mediated by avoidant coping.",
+            "meaning": "Self-control contributed to better psychological health initially and improved over time, while relinquishing control was linked to poorer initial well-being, mediated by avoidant coping.",
+            "reasoning": "This sentence elaborates on the results of Study 2, providing insights into the temporal effects of control on well-being.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Conclusion: This is the first study to examine the unique contribution of each DOC dimension with outcomes.",
+            "meaning": "The research is pioneering in exploring how each dimension of desirability of control uniquely affects health outcomes.",
+            "reasoning": "This sentence highlights the novelty of the research contributions to the field.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Self-control and relinquishing control showed divergent relations to psychological well-being, mediated by different coping pathways.",
+            "meaning": "The study found that self-control and relinquishing control have opposing effects on psychological health, influenced by different coping strategies.",
+            "reasoning": "This sentence summarizes the main findings regarding how the two types of control affect well-being through coping mechanisms.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates how different dimensions of desirability of control relate to psychological and physical well-being, revealing distinct effects of self-control and relinquishing control mediated by coping strategies.",
+    "detailed_summary": "The research aims to explore the relationships between three dimensions of desirability of control and their impact on psychological and physical well-being, as well as coping strategies. It consists of two studies: Study 1 involved 122 undergraduates assessing their responses to everyday stressors, while Study 2 involved 105 undergraduates examining their adjustment to the September 11 attacks over time. Key outcomes measured included psychological distress, perceived stress, rumination, health behaviors, alcohol use, and coping styles. The results indicated that self-control and control over others were linked to active coping, while relinquishing control was associated with avoidant coping. Notably, relinquishing control was uniquely connected to poorer health outcomes and increased alcohol use, with avoidant coping mediating its effects on psychological well-being. In Study 2, similar results were found, with self-control enhancing psychological well-being over time, whereas relinquishing control correlated with lower initial well-being, again mediated by avoidant coping. This research is significant as it is the first to examine the unique contributions of each dimension of desirability of control, demonstrating that self-control and relinquishing control have opposing effects on psychological health through different coping pathways."
+}

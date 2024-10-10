@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "Rape-Victim and Rape-Perpetrator Empathy Scales",
+        "Sexual Experiences Survey-Short Form Victimization and Perpetration",
+        "categorization of participants"
+    ],
+    "Rape-Victim and Rape-Perpetrator Empathy Scales": {
+        "reasoning": "This scale is a specific tool used to measure empathy levels towards victims and perpetrators of rape, indicating a methodological approach to data collection in the study.",
+        "passages": [
+            "completed the Rape-Victim and Rape-Perpetrator Empathy Scales (Smith and Frieze 2003)"
+        ],
+        "confidence_score": 0.95
+    },
+    "Sexual Experiences Survey-Short Form Victimization and Perpetration": {
+        "reasoning": "This survey is a specific instrument used to assess experiences of sexual victimization and perpetration, representing a structured method for data collection.",
+        "passages": [
+            "completed the Sexual Experiences Survey-Short Form Victimization and Perpetration (Koss et al. 2007)"
+        ],
+        "confidence_score": 0.95
+    },
+    "categorization of participants": {
+        "reasoning": "Categorization of participants into groups based on their sexual aggression experience is a methodological approach that facilitates analysis of the relationship between empathy and experience.",
+        "passages": [
+            "Participants were categorized into four sexual aggression experience groups, which included 'nonexperienced', 'victimization-only', 'perpetration-only', and 'overlapping'"
+        ],
+        "confidence_score": 0.9
+    }
+}

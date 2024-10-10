@@ -1,0 +1,37 @@
+{
+    "methods": [
+        "squat protocols",
+        "randomized counter-balanced order",
+        "indirect calorimetry",
+        "two-way non-rebreathing mask"
+    ],
+    "squat protocols": {
+        "reasoning": "Squat protocols are the specific experimental conditions under which the muscle contractions were performed, making it a key methodological approach in the study.",
+        "passages": [
+            "The purpose of the current investigation was to examine the effect of contraction order on metabolic responses by comparing monophasic concentric and eccentric squats versus a protocol incorporating alternated concentric and eccentric repetitions.",
+            "Twelve recreationally active men (21.1 +/- 1.1yr) performed three nearly identical squat protocols on separate days."
+        ],
+        "confidence_score": 0.95
+    },
+    "randomized counter-balanced order": {
+        "reasoning": "Randomized counter-balanced order refers to the methodological design used to control for potential confounding variables by varying the order of the protocols, ensuring that results are not biased by the sequence of trials.",
+        "passages": [
+            "The experimental trials were performed once weekly in a randomized, counter-balanced order."
+        ],
+        "confidence_score": 0.9
+    },
+    "indirect calorimetry": {
+        "reasoning": "Indirect calorimetry is a specific technique used to measure oxygen consumption and metabolic rates during the exercise protocols, making it a crucial method for data collection in this research.",
+        "passages": [
+            "expired gases were collected using a two-way non-rebreathing mask and oxygen consumption quantified with indirect calorimetry."
+        ],
+        "confidence_score": 0.95
+    },
+    "two-way non-rebreathing mask": {
+        "reasoning": "The two-way non-rebreathing mask is a specific apparatus used in the study to collect expired gases, representing a methodological tool for assessing metabolic responses.",
+        "passages": [
+            "expired gases were collected using a two-way non-rebreathing mask."
+        ],
+        "confidence_score": 0.85
+    }
+}

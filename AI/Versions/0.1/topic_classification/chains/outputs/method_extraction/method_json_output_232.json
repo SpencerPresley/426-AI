@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "latent class model",
+        "regression models"
+    ],
+    "latent class model": {
+        "reasoning": "The latent class model is a statistical method used to classify software vendors into distinct categories based on their characteristics, which is a specific analytical approach employed in the research.",
+        "passages": [
+            "At first, we use the latent class model to classify the software vendors into three categories"
+        ],
+        "confidence_score": 0.9
+    },
+    "regression models": {
+        "reasoning": "Regression models are used to estimate the relationships between software vulnerability and application security risk, making it a specific analytical method applied in the study.",
+        "passages": [
+            "then employ regression models to estimate relationships between software vulnerability and application security risk for each of the three categories of the software vendors"
+        ],
+        "confidence_score": 0.95
+    }
+}

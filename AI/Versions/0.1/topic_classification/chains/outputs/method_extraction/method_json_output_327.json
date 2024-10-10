@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "Body-Esteem Scale",
+        "Sexual Experiences Survey-Short Form Victimization"
+    ],
+    "Body-Esteem Scale": {
+        "reasoning": "The Body-Esteem Scale is a specific tool used to measure participants' body-esteem levels, making it a clear method of data collection in this study.",
+        "passages": [
+            "Participants included undergraduate women (n = 750) who completed the Body-Esteem Scale (Franzoi & Shields, 1984)"
+        ],
+        "confidence_score": 0.95
+    },
+    "Sexual Experiences Survey-Short Form Victimization": {
+        "reasoning": "The Sexual Experiences Survey-Short Form Victimization is a specific survey instrument utilized to assess the history of sexual victimization among participants, thus representing a method of data collection.",
+        "passages": [
+            "completed the Sexual Experiences Survey-Short Form Victimization (Koss et al., 2007)"
+        ],
+        "confidence_score": 0.95
+    }
+}

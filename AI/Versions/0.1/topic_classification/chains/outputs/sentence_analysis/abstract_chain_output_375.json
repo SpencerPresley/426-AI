@@ -1,0 +1,30 @@
+{
+    "sentences": [
+        {
+            "sentence": "Intersectionality was developed by legal scholar Kimberle Williams Crenshaw in the late 1980s to broaden legal and epistemological frameworks for peoples at the intersection of multiple oppressions, such as racism and sexism.",
+            "meaning": "The concept of intersectionality, created by Kimberle Williams Crenshaw, aims to expand legal and knowledge frameworks to better understand the experiences of individuals facing multiple forms of oppression, including racism and sexism.",
+            "reasoning": "The sentence provides historical context about the origin of intersectionality and its purpose in addressing complex social issues.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The theory has since proliferated and grown across many international academic and public contexts.",
+            "meaning": "Intersectionality has gained widespread recognition and application in various academic fields and public discussions globally.",
+            "reasoning": "The use of 'proliferated' indicates that the theory has spread significantly, suggesting its relevance beyond its original context.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This article examines intersectionality in Crenshaw's original formulation to argue for theoretical and political insights when intersectionality is applied to the multiply minoritized position of Sikhs in the US and India.",
+            "meaning": "The article analyzes Crenshaw's initial concept of intersectionality to highlight its relevance and implications for understanding the experiences of Sikhs, who face multiple forms of marginalization in both the US and India.",
+            "reasoning": "The sentence outlines the focus of the article and its specific application of intersectionality to a particular group, indicating a critical examination of its original formulation.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "I argue for six theoretical formations that can illuminate what I term intersectional Sikhism: intragroup solidarity, intergroup alliances, postsecularism, untranslatability, precarity, and intellectual intersectionality.",
+            "meaning": "The author proposes six theoretical concepts that help explain the unique experiences of Sikhs through the lens of intersectionality, collectively referred to as intersectional Sikhism.",
+            "reasoning": "The use of 'argue for' suggests a presentation of new ideas or frameworks, and the list of terms indicates specific areas of focus within the broader concept of intersectional Sikhism.",
+            "confidence_score": 0.88
+        }
+    ],
+    "overall_theme": "The research explores the application of intersectionality, as originally formulated by Crenshaw, to the specific experiences of Sikhs in the US and India, proposing new theoretical frameworks for understanding their unique position of marginalization.",
+    "detailed_summary": "This research paper discusses the concept of intersectionality, which was introduced by Kimberle Williams Crenshaw in the late 1980s to enhance legal and epistemological perspectives for individuals experiencing multiple forms of oppression, including racism and sexism. The theory has since expanded into various academic and public domains worldwide. The author of the article focuses on Crenshaw's original ideas and applies them to the experiences of Sikhs in both the US and India, who are considered multiply minoritized. The paper proposes six theoretical formations\u2014intrgroup solidarity, intergroup alliances, postsecularism, untranslatability, precarity, and intellectual intersectionality\u2014that together create a framework termed intersectional Sikhism, which seeks to deepen the understanding of the Sikh experience through the lens of intersectionality."
+}

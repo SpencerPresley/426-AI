@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "panel dataset analysis"
+    ],
+    "panel dataset analysis": {
+        "reasoning": "Panel dataset analysis refers to the specific method employed to examine the relationship between natural resource rents and new business formation across multiple countries and time periods, allowing for the investigation of changes over time and differences between countries.",
+        "passages": [
+            "using a panel dataset of 28 African countries covering the period 2002-2014"
+        ],
+        "confidence_score": 0.9
+    }
+}

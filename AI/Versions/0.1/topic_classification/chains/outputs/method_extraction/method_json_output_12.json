@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "exploratory factor analysis",
+        "purposive sampling"
+    ],
+    "exploratory factor analysis": {
+        "reasoning": "Exploratory factor analysis is a statistical method used to identify underlying relationships between measured variables, which is critical for developing the scale mentioned in the study.",
+        "passages": [
+            "This study aims to conduct the initial phase of scale development, an exploratory factor analysis."
+        ],
+        "confidence_score": 0.95
+    },
+    "purposive sampling": {
+        "reasoning": "Purposive sampling is a method used to select participants based on specific characteristics, which in this case involves selecting BSW and MSW students for the study.",
+        "passages": [
+            "Using a purposive sample of over 200 BSW and MSW students in one university"
+        ],
+        "confidence_score": 0.9
+    }
+}

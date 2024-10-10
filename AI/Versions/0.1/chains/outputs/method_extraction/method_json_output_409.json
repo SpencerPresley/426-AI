@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "logistic regression",
+        "decomposing method"
+    ],
+    "logistic regression": {
+        "reasoning": "Logistic regression is a statistical method used to determine the relationship between stock ownership and the use of social networks, making it a clear methodological approach for analyzing the data.",
+        "passages": [
+            "To determine the relationship between stock ownership and using the social network, logistic regression was used."
+        ],
+        "confidence_score": 0.95
+    },
+    "decomposing method": {
+        "reasoning": "The decomposing method is utilized to isolate the effect of using social networks on stock ownership, representing a specific analytical technique employed in the study.",
+        "passages": [
+            "In order to isolate the effect of using hs on stock ownership, a decomposing method was adopted."
+        ],
+        "confidence_score": 0.9
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "experiments"
+    ],
+    "experiments": {
+        "reasoning": "Experiments are a specific method used to test hypotheses in a controlled manner, allowing for the examination of the effects of different types of imagery on arousal levels.",
+        "passages": [
+            "We conduct three experiments to test this proposition."
+        ],
+        "confidence_score": 0.95
+    }
+}

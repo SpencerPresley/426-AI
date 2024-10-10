@@ -1,0 +1,38 @@
+{
+    "methods": [
+        "randomized controlled trial",
+        "resistance training",
+        "validated measurements",
+        "exercise regimen"
+    ],
+    "randomized controlled trial": {
+        "reasoning": "A randomized controlled trial is a specific experimental method used to determine the effects of the resistance training interventions on arterial stiffness by randomly assigning participants to different groups.",
+        "passages": [
+            "This study sought to determine the association between 2 common resistance training models and indices of arterial stiffness.",
+            "Using a randomized controlled trial with validated measurements of arterial stiffness"
+        ],
+        "confidence_score": 0.95
+    },
+    "resistance training": {
+        "reasoning": "Resistance training refers to the specific intervention implemented in the study, involving different training models to assess their effects on arterial stiffness.",
+        "passages": [
+            "Some reports indicate that resistance training increases indices of arterial stiffness, whereas others report no association.",
+            "Subjects randomized to the resistance training groups were required to perform whole-body strength training exercises 3-5 days a week for 12 weeks."
+        ],
+        "confidence_score": 0.9
+    },
+    "validated measurements": {
+        "reasoning": "Validated measurements refer to the specific techniques employed to assess arterial stiffness, ensuring the accuracy and reliability of the data collected.",
+        "passages": [
+            "Using a randomized controlled trial with validated measurements of arterial stiffness"
+        ],
+        "confidence_score": 0.85
+    },
+    "exercise regimen": {
+        "reasoning": "The exercise regimen outlines the specific procedures and protocols followed during the resistance training intervention, detailing how the training was structured.",
+        "passages": [
+            "The exercise regimen consisted of 2-3 sets of 3-8 repetitions (80-90% of 1 repetition maximum [1RM]) for the HI group and 3-4 sets of 10-15 repetitions (50-70% of 1RM) for the HV group."
+        ],
+        "confidence_score": 0.9
+    }
+}

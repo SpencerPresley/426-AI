@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "meta-analysis"
+    ],
+    "meta-analysis": {
+        "reasoning": "Meta-analysis is a specific research method used to systematically evaluate and synthesize results from multiple studies, providing a comprehensive understanding of the relationship between emotional intelligence and service quality.",
+        "passages": [
+            "This meta-analysis tests the claims that EI improves service quality."
+        ],
+        "confidence_score": 0.95
+    }
+}

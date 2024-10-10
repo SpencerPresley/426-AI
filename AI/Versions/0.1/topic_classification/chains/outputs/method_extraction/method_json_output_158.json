@@ -1,0 +1,37 @@
+{
+    "methods": [
+        "FITT-VP principles",
+        "International Physical Activity Questionnaire-Short Form",
+        "MET-minutes calculation",
+        "baseline evaluation"
+    ],
+    "FITT-VP principles": {
+        "reasoning": "The FITT-VP principles provide a structured method for evaluating physical activity levels by assessing frequency, intensity, time, type, volume, and progression, making it a specific methodological framework used in the research.",
+        "passages": [
+            "describe physical activity (PA) via the frequency, intensity, time, type, volume, and progression (FITT-VP) principles of Native Americans (NA)",
+            "evaluate PA levels utilizing FITT-VP principles"
+        ],
+        "confidence_score": 0.95
+    },
+    "International Physical Activity Questionnaire-Short Form": {
+        "reasoning": "This questionnaire is a validated tool used to assess physical activity levels in participants, representing a specific methodology for data collection in the study.",
+        "passages": [
+            "The International Physical Activity Questionnaire-Short Form assessed frequency (days per week), intensity (walking, moderate, vigorous), and time (minutes per day)"
+        ],
+        "confidence_score": 0.9
+    },
+    "MET-minutes calculation": {
+        "reasoning": "Calculating total MET-minutes is a specific method used to quantify physical activity volume over a set period, which is essential for evaluating activity levels in the study.",
+        "passages": [
+            "The total MET-minutes for the previous 7 d provided the volume of activity"
+        ],
+        "confidence_score": 0.85
+    },
+    "baseline evaluation": {
+        "reasoning": "Baseline evaluation refers to the initial assessment method used to gather data from participants as part of the OPREVENT2 study, indicating a specific methodological approach.",
+        "passages": [
+            "Recruitment and evaluation (n = 586) took place as part of the OPREVENT2 study baseline evaluation"
+        ],
+        "confidence_score": 0.8
+    }
+}

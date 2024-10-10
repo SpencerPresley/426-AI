@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "calculation of characteristic polynomial",
+        "quantum multiplication",
+        "Frobenius-Perron dimension"
+    ],
+    "calculation of characteristic polynomial": {
+        "reasoning": "The calculation of the characteristic polynomial is a specific mathematical process used to analyze the properties of the linear operators in the context of quantum cohomology.",
+        "passages": [
+            "We will calculate the characteristic polynomial of the linear operators induced by quantum multiplication in H center dot(OG)"
+        ],
+        "confidence_score": 0.9
+    },
+    "quantum multiplication": {
+        "reasoning": "Quantum multiplication refers to the specific operation being analyzed within the quantum cohomology framework, representing a method of interaction among the elements of H center dot(OG).",
+        "passages": [
+            "the linear operators induced by quantum multiplication in H center dot(OG)"
+        ],
+        "confidence_score": 0.85
+    },
+    "Frobenius-Perron dimension": {
+        "reasoning": "The Frobenius-Perron dimension is a specific mathematical concept used to describe the dimensions in the context of quantum cohomology, thus representing a method of dimensional analysis.",
+        "passages": [
+            "the Frobenius-Perron dimension"
+        ],
+        "confidence_score": 0.8
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "staggered passage analysis"
+    ],
+    "staggered passage analysis": {
+        "reasoning": "Staggered passage analysis refers to the method of examining the timing of the enactment of constituency statutes across different U.S. states, which serves as a natural experiment to assess the impact of stakeholder orientation on corporate tax avoidance.",
+        "passages": [
+            "Using the staggered passage of constituency statutes across U.S. states between 1983 and 2006"
+        ],
+        "confidence_score": 0.9
+    }
+}

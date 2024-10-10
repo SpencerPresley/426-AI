@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "data collection",
+        "quality assessment",
+        "statistical analysis"
+    ],
+    "data collection": {
+        "reasoning": "Data collection refers to the systematic gathering of information on newly hired assistant professors, which is a fundamental method for conducting the research.",
+        "passages": [
+            "We collected data on all newly hired assistant professors of management in research-intensive (R1) universities in the USA between 2010 and 2021."
+        ],
+        "confidence_score": 0.95
+    },
+    "quality assessment": {
+        "reasoning": "Quality assessment involves evaluating the quality of the universities into which first hires are placed, which is essential for understanding the research question.",
+        "passages": [
+            "We focus on the quality of the university into which first hires are placed and examine whether first-job placement quality is lower for individuals who were born in East, South and Southeast Asia."
+        ],
+        "confidence_score": 0.9
+    },
+    "statistical analysis": {
+        "reasoning": "Statistical analysis is implied in the examination of relationships between publication records and placement quality, which is a methodological approach to interpreting the data.",
+        "passages": [
+            "We find that the quality and quantity of publication record are positively related to the quality of the placement."
+        ],
+        "confidence_score": 0.85
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "Salmonella prevalence determination",
+        "correlation assessment",
+        "genetic relatedness examination",
+        "pulsed-field gel electrophoresis"
+    ],
+    "Salmonella prevalence determination": {
+        "reasoning": "Salmonella prevalence determination refers to the specific method used to measure the occurrence of Salmonella in free-living aquatic turtles, which is a critical process in the research.",
+        "passages": [
+            "In 2012-2013, Salmonella prevalence was determined for free-living aquatic turtles in man-made ponds in Clarke and Oconee Counties, in northern Georgia (USA)"
+        ],
+        "confidence_score": 0.95
+    },
+    "correlation assessment": {
+        "reasoning": "Correlation assessment involves analyzing the relationship between various ecological and demographic factors and the prevalence of Salmonella, which is a methodological approach used in the study.",
+        "passages": [
+            "the correlation between species, basking ecology, demographics (age/sex), season, or landcover with prevalence was assessed"
+        ],
+        "confidence_score": 0.9
+    },
+    "genetic relatedness examination": {
+        "reasoning": "Genetic relatedness examination refers to the method used to analyze the genetic similarities between turtle isolates and human isolates, providing insight into transmission pathways.",
+        "passages": [
+            "The genetic relatedness between turtle and archived, human isolates, as well as, other archived animal and water isolates reported from this study area was examined"
+        ],
+        "confidence_score": 0.85
+    },
+    "pulsed-field gel electrophoresis": {
+        "reasoning": "Pulsed-field gel electrophoresis is a specific laboratory technique used to separate DNA fragments, which was employed to match turtle isolates with human isolates, indicating its role as a method in the research.",
+        "passages": [
+            "Importantly, 85% of the turtle isolates matched pulsed-field gel electrophoresis patterns of human isolates"
+        ],
+        "confidence_score": 0.92
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "We give a formula in terms of Young diagrams to calculate the minimum positive integer d such that q(d) appears in the quantum product of two Schubert classes for the submaximal isotropic Grassmannians in types B and C.",
+            "meaning": "The authors present a mathematical formula that involves Young diagrams to find a specific integer related to quantum products in a particular mathematical context.",
+            "reasoning": "The mention of Young diagrams and quantum products indicates a focus on combinatorial and algebraic geometry concepts, specifically in relation to Schubert classes and Grassmannians.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We do this by studying curve neighborhoods.",
+            "meaning": "The authors approach the problem by investigating the concept of curve neighborhoods.",
+            "reasoning": "The phrase 'studying curve neighborhoods' suggests a method or technique being used to derive the formula mentioned in the previous sentence.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "We compute curve neighborhoods in several combinatorial models including k-strict partitions and a set of partitions where their inclusion is compatible with the Bruhat order.",
+            "meaning": "The authors calculate curve neighborhoods using different combinatorial structures, specifically k-strict partitions and partitions that respect the Bruhat order.",
+            "reasoning": "The mention of 'combinatorial models' and specific types of partitions indicates the mathematical context in which the authors are working, suggesting a detailed exploration of these structures.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research focuses on deriving a formula related to quantum products in the context of Schubert classes and Grassmannians, utilizing combinatorial methods involving Young diagrams and curve neighborhoods.",
+    "detailed_summary": "The abstract presents a study that aims to derive a formula involving Young diagrams to identify the minimum positive integer d such that q(d) is found within the quantum product of two Schubert classes in the submaximal isotropic Grassmannians, specifically in types B and C. The authors employ the technique of studying curve neighborhoods to achieve this goal. They compute these neighborhoods across various combinatorial models, including k-strict partitions and partitions that align with the Bruhat order. This research contributes to the understanding of the interplay between combinatorial structures and algebraic geometry within the specified mathematical frameworks."
+}

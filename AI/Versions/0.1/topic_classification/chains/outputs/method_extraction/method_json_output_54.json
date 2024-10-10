@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "tilted beta-binomial distribution",
+        "data analysis",
+        "modeling success/failure data"
+    ],
+    "tilted beta-binomial distribution": {
+        "reasoning": "The tilted beta-binomial distribution is a specific statistical distribution introduced in the research, which is used to analyze binary success/failure data, making it a clear method employed in the study.",
+        "passages": [
+            "We examine a new overdispersed statistical distribution for this type of data which is particularly suited to 'big data' contexts.",
+            "The distribution, called the tilted beta-binomial distribution, has a number of attractive properties with regard to tractability and interpretability."
+        ],
+        "confidence_score": 0.95
+    },
+    "data analysis": {
+        "reasoning": "Data analysis refers to the process of applying statistical methods to interpret data, which is a fundamental aspect of the research presented in the abstract.",
+        "passages": [
+            "We apply the distribution to the analysis of Maryland population data from the 2010 U.S. Census."
+        ],
+        "confidence_score": 0.9
+    },
+    "modeling success/failure data": {
+        "reasoning": "Modeling success/failure data describes the methodological approach taken to apply the tilted beta-binomial distribution to the specific type of data, indicating a clear methodological focus.",
+        "passages": [
+            "provides new options for modeling success/failure data."
+        ],
+        "confidence_score": 0.85
+    }
+}

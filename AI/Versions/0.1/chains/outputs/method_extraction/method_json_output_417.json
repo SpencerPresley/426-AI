@@ -1,0 +1,12 @@
+{
+    "methods": [
+        "event study analysis"
+    ],
+    "event study analysis": {
+        "reasoning": "Event study analysis is a specific method used to assess the impact of particular events on stock market returns, making it central to the research's investigation of political contributions and stock performance.",
+        "passages": [
+            "our event study analysis with three news announcements finds that financial institutions that made political action committee (PAC) contributions indeed enjoyed higher stock returns when TARP was proposed and eventually approved."
+        ],
+        "confidence_score": 0.95
+    }
+}

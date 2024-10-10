@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "quasi-experimental research study",
+        "pretest-posttest design",
+        "follow-up design",
+        "six-week OHPP",
+        "multivariate analysis of variance (MANOVA)"
+    ],
+    "quasi-experimental research study": {
+        "reasoning": "A quasi-experimental research study is a specific methodological approach that allows for the comparison of outcomes between an experimental group and a control group without random assignment, making it a clear method used in the research.",
+        "passages": [
+            "This is a quasi-experimental research study consisting of two groups"
+        ],
+        "confidence_score": 0.95
+    },
+    "pretest-posttest design": {
+        "reasoning": "The pretest-posttest design is a specific method that involves measuring outcomes before and after an intervention, which is critical for assessing the effectiveness of the oral hygiene promoting program.",
+        "passages": [
+            "a pretest, a posttest and a follow-up design"
+        ],
+        "confidence_score": 0.9
+    },
+    "follow-up design": {
+        "reasoning": "The follow-up design is a method used to assess the long-term effects of an intervention, indicating how outcomes were measured over time after the initial intervention.",
+        "passages": [
+            "a pretest, a posttest and a follow-up design"
+        ],
+        "confidence_score": 0.85
+    },
+    "six-week OHPP": {
+        "reasoning": "The six-week OHPP (oral hygiene promoting program) is a specific intervention implemented in the study, representing a methodological approach to improving oral hygiene among students.",
+        "passages": [
+            "29 experimental group participants who completed the six-week OHPP using a smartphone endomicroscope"
+        ],
+        "confidence_score": 0.9
+    },
+    "multivariate analysis of variance (MANOVA)": {
+        "reasoning": "MANOVA is a statistical method used to analyze the differences in multiple dependent variables across groups, which is a core analytical technique employed in the study.",
+        "passages": [
+            "the comparison data for oral health behaviors...were statistically analyzed by using multivariate analysis of variance (MANOVA)"
+        ],
+        "confidence_score": 0.95
+    }
+}

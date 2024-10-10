@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "analysis of natural soundscapes",
+        "female mate choice testing",
+        "broadcasting natural calls",
+        "altering densities of natural calls"
+    ],
+    "analysis of natural soundscapes": {
+        "reasoning": "This method involves quantifying the variation in soundscapes, which is a specific analytical process used to understand the acoustic environment.",
+        "passages": [
+            "We quantified this variation by analyzing natural soundscapes with the mid-frequency cover index"
+        ],
+        "confidence_score": 0.9
+    },
+    "female mate choice testing": {
+        "reasoning": "This method refers to the experimental procedure used to assess the preferences of female tungara frogs in response to different acoustic stimuli.",
+        "passages": [
+            "We then tested female mate choice in the tungara frog (Physalaernus pustulasus) in varying types of background chorus noise."
+        ],
+        "confidence_score": 0.95
+    },
+    "broadcasting natural calls": {
+        "reasoning": "This method describes the specific process of using recorded calls as stimuli in the experiment, which is a key aspect of the methodology.",
+        "passages": [
+            "We broadcast two natural tungara frog calls as a stimulus"
+        ],
+        "confidence_score": 0.85
+    },
+    "altering densities of natural calls": {
+        "reasoning": "This method involves manipulating the acoustic environment by changing the duty cycles of natural calls, which is a specific technique used in the research.",
+        "passages": [
+            "and altered the densities (duty cycles) of natural calls from conspecifics and heterospecifics to form the different types of chorus noise."
+        ],
+        "confidence_score": 0.8
+    }
+}

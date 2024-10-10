@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "16S rRNA gene sequencing",
+        "carbon isotope analysis",
+        "mixing models"
+    ],
+    "16S rRNA gene sequencing": {
+        "reasoning": "16S rRNA gene sequencing is a specific molecular technique used to analyze and quantify the community composition of gut microbiota, making it a clear methodological approach in this research.",
+        "passages": [
+            "We conducted an experiment on Mus musculus using 16S rRNA gene sequencing"
+        ],
+        "confidence_score": 0.95
+    },
+    "carbon isotope analysis": {
+        "reasoning": "Carbon isotope analysis is a method used to measure the contribution of carbohydrate carbon to the synthesis of essential amino acids, representing a specific analytical technique employed in the study.",
+        "passages": [
+            "using carbon isotope analysis of essential amino acids (AA(ESS)) to quantify the community composition of gut microbiota"
+        ],
+        "confidence_score": 0.9
+    },
+    "mixing models": {
+        "reasoning": "Mixing models are statistical approaches used to estimate the contribution of different sources, in this case, the microbial contribution of essential amino acids to mouse muscle, thus serving as a methodological tool in the analysis.",
+        "passages": [
+            "Mixing models estimated that the microbial contribution of AA(ESS) to mouse muscle varied from less than 5% to approximately 60%"
+        ],
+        "confidence_score": 0.85
+    }
+}

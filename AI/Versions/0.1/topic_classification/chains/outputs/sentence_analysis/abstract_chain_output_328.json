@@ -1,0 +1,48 @@
+{
+    "sentences": [
+        {
+            "sentence": "In this study, we partition the joint provision of nonaudit services (NAS) into audit-related, tax, and all other services, and examine whether these services have varying impacts on independence-in-appearance, as measured by earnings response coefficients, over an extended period following the enactment of SOX.",
+            "meaning": "The research investigates how different types of nonaudit services affect the perceived independence of auditors over time after the Sarbanes-Oxley Act (SOX) was enacted.",
+            "reasoning": "The sentence outlines the main objective of the study and specifies the types of services being analyzed, as well as the context (post-SOX) in which these services are evaluated.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Prior research examining independence-in-appearance generally focuses on the years surrounding SOX and uses an aggregate NAS measure despite anecdotal and experimental evidence that there may be heterogeneity in how investors perceive different types of NAS.",
+            "meaning": "Previous studies mainly looked at the period around the enactment of SOX and treated all nonaudit services as a single category, ignoring the possibility that investors may view different types of services differently.",
+            "reasoning": "The sentence contrasts the current study's approach with that of prior research, highlighting a gap in understanding investor perceptions of various NAS types.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "We first show, consistent with prior research, that an aggregate measure of NAS does not, on average, significantly influence earnings response coefficients.",
+            "meaning": "The study confirms previous findings that the overall amount of nonaudit services does not have a meaningful effect on how investors respond to earnings announcements.",
+            "reasoning": "This sentence indicates a validation of earlier research results while setting the stage for a more nuanced analysis of individual service types.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We then partition NAS fees by type and provide evidence that investors have negative perceptions of audit-related NAS and positive perceptions of tax NAS, and that these two effects cancel out one another in aggregate.",
+            "meaning": "The research finds that while audit-related nonaudit services are viewed negatively by investors, tax-related services are viewed positively, leading to an overall neutral perception when combined.",
+            "reasoning": "This sentence presents the core findings of the study regarding the differing investor perceptions of various NAS types and their overall impact when aggregated.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Further investigation reveals that our results are driven by firms with high levels of accruals and smaller firms, which further corroborates our findings.",
+            "meaning": "The analysis indicates that the observed effects on investor perceptions are particularly strong in companies that have high accruals and smaller-sized firms.",
+            "reasoning": "This suggests that certain characteristics of firms influence how NAS impacts investor perceptions, adding depth to the findings.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "We also find that measures of financial dependence fail to fully capture the channels through which NAS influences investor perceptions.",
+            "meaning": "The research indicates that existing measures of financial dependence do not adequately explain how nonaudit services affect how investors view a company's independence.",
+            "reasoning": "This sentence implies that the relationship between NAS and investor perceptions is more complex than previously understood.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Lastly, we provide evidence that perceptions of tax NAS are, in part, driven by their effect on a firm's tax strategies.",
+            "meaning": "The study suggests that how investors perceive tax-related nonaudit services is influenced by the impact these services have on a company's tax planning and strategies.",
+            "reasoning": "This indicates a specific mechanism through which tax NAS is interpreted positively by investors, linking it to broader financial strategies.",
+            "confidence_score": 0.85
+        }
+    ],
+    "overall_theme": "The research investigates the differentiated impact of various types of nonaudit services on investor perceptions of auditor independence, particularly in the context of the Sarbanes-Oxley Act.",
+    "detailed_summary": "This study partitions nonaudit services (NAS) into three categories: audit-related, tax, and other services, to explore their distinct impacts on independence-in-appearance as measured by earnings response coefficients following the enactment of the Sarbanes-Oxley Act (SOX). It critiques prior research for using an aggregate NAS measure and failing to account for the varying investor perceptions of different NAS types. The findings reveal that while an aggregate measure does not significantly affect earnings response coefficients, audit-related NAS is viewed negatively by investors, whereas tax NAS is perceived positively, resulting in an overall neutral effect when combined. The results are particularly influenced by firms with high accruals and smaller firms. Additionally, the study highlights that existing measures of financial dependence do not fully explain the effects of NAS on investor perceptions and suggests that the positive perception of tax NAS is linked to its impact on a firm's tax strategies."
+}

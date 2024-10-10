@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "RNA-seq data analysis",
+        "genomic identification",
+        "heterologous system demonstration"
+    ],
+    "RNA-seq data analysis": {
+        "reasoning": "RNA-seq data analysis is a method used to identify differentially expressed GPCRs between life cycle stages of the nematode, providing a clear approach to understanding gene expression related to parasitism.",
+        "passages": [
+            "we then used life cycle stage-specific RNA-seq data to identify differentially expressed GPCRs between the free-living infective L3 (iL3) and subsequent parasitic stages"
+        ],
+        "confidence_score": 0.95
+    },
+    "genomic identification": {
+        "reasoning": "Genomic identification refers to the process of identifying all potential GPCRs encoded in the genome of Ancylostoma ceylanicum, which is a critical step in understanding the genetic basis of host recognition.",
+        "passages": [
+            "we set out to uncover candidate GPCRs required by a hookworm to recognise its host. First, we identified all potential Ancylostoma ceylanicum GPCRs encoded in the genome"
+        ],
+        "confidence_score": 0.9
+    },
+    "heterologous system demonstration": {
+        "reasoning": "The demonstration of a heterologous system involves using Caenorhabditis elegans to examine the expression patterns of candidate host signal chemoreceptors from hookworm, representing a methodological approach to study gene expression in a different organism.",
+        "passages": [
+            "we demonstrate proof of principal that Caenorhabditis elegans can be used as a heterologous system to examine the expression pattern of candidate host signal chemoreceptors (CRs) from hookworm"
+        ],
+        "confidence_score": 0.85
+    }
+}

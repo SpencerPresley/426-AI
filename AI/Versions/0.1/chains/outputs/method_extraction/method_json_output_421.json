@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "in vivo testing",
+        "oral administration",
+        "developmental origins of adult obesity model"
+    ],
+    "in vivo testing": {
+        "reasoning": "In vivo testing refers to the experimentation conducted within a living organism, which is a specific method used to assess the effects of DOSS on the offspring in this study.",
+        "passages": [
+            "In vivo testing of DOSS was performed in a developmental origins of adult obesity model."
+        ],
+        "confidence_score": 0.95
+    },
+    "oral administration": {
+        "reasoning": "Oral administration is a specific method of delivering the substance (DOSS) to the subjects (pregnant mice), indicating how the treatment was applied in the study.",
+        "passages": [
+            "Pregnant mice were orally administered vehicle control or DOSS at times and doses comparable to stool softener use during human pregnancy."
+        ],
+        "confidence_score": 0.9
+    },
+    "developmental origins of adult obesity model": {
+        "reasoning": "The developmental origins of adult obesity model is a specific experimental design used to investigate the long-term effects of early exposure to DOSS on obesity in offspring.",
+        "passages": [
+            "In vivo testing of DOSS was performed in a developmental origins of adult obesity model."
+        ],
+        "confidence_score": 0.85
+    }
+}

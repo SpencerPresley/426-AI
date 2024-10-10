@@ -1,0 +1,42 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "Within the last decade, research has focussed on corporate social responsibility (CSR) practices as a strategic tool that enables firms to improve stakeholder perception, brand image and corporate reputation.",
+            "meaning": "Recent studies have emphasized the importance of CSR practices in enhancing how firms are viewed by stakeholders and improving their overall image.",
+            "reasoning": "The sentence highlights the trend in research over the past ten years regarding the strategic benefits of CSR, indicating its significance in business.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "However, one area that remains understudied is the role played by CSR practices in managing corporate reputation under conditions of supply chain risk.",
+            "meaning": "There is a gap in research concerning how CSR affects corporate reputation specifically in the context of risks associated with supply chains.",
+            "reasoning": "The use of 'however' indicates a contrast to the previous statement, pointing out a specific lack of focus in existing literature.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "To answer this research question, we conduct a literature review and develop the corresponding hypothesis.",
+            "meaning": "The authors aim to address the identified gap by reviewing existing literature and formulating a hypothesis.",
+            "reasoning": "This sentence outlines the methodology that the researchers are employing to explore the role of CSR in the context of supply chain risk.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We test our hypothesis using quantitative analysis of both primary and secondary data collected from organizations dispersed globally.",
+            "meaning": "The researchers are validating their hypothesis through quantitative methods, utilizing data gathered from various organizations around the world.",
+            "reasoning": "The mention of 'quantitative analysis' and 'primary and secondary data' indicates a structured approach to testing their hypothesis.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "The results highlight that under conditions of supply chain network disruption risk, CSR practices play an important role in enabling firms to manage the negative impact of such risk drivers on corporate reputation.",
+            "meaning": "The findings suggest that CSR practices are crucial for firms to mitigate the adverse effects of supply chain disruptions on their reputation.",
+            "reasoning": "The use of 'highlight' indicates a significant finding, and the sentence connects CSR practices directly to reputation management in the context of risk.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The study further suggests that CSR practices positively impact supply chain risk management (SCRM) practices and are a necessary condition for SCRM practices to be effective in improving corporate reputation of organizations.",
+            "meaning": "The research indicates that CSR practices not only aid in managing supply chain risks but are also essential for the effectiveness of those risk management strategies in enhancing corporate reputation.",
+            "reasoning": "The phrase 'necessary condition' emphasizes the critical role of CSR in the effectiveness of SCRM, linking it back to corporate reputation.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the impact of corporate social responsibility practices on managing corporate reputation in the face of supply chain risks, revealing a significant relationship between CSR and effective risk management.",
+    "detailed_summary": "This research paper explores the under-explored area of corporate social responsibility (CSR) as a strategic tool for managing corporate reputation amidst supply chain risks. It begins by noting the increasing focus on CSR in enhancing stakeholder perception and brand image over the past decade. However, it identifies a gap in literature regarding CSR's role in reputation management specifically during supply chain disruptions. To address this, the authors conduct a literature review and formulate a hypothesis, which they test through quantitative analysis of primary and secondary data sourced from global organizations. The results indicate that CSR practices are vital for firms to mitigate the negative impacts of supply chain disruptions on their corporate reputation. Furthermore, the study concludes that CSR practices not only enhance supply chain risk management (SCRM) but are also essential for the effectiveness of these practices in improving organizational reputation."
+}

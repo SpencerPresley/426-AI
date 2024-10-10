@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "tracking issues",
+        "updating guidelines",
+        "risk assessment"
+    ],
+    "tracking issues": {
+        "reasoning": "Tracking issues refers to the method used to monitor and assess the use and effectiveness of the guidelines by ASM members over time, which is a specific process in the research.",
+        "passages": [
+            "Use of and issues with the guidelines by ASM members have been tracked by various means since publication"
+        ],
+        "confidence_score": 0.85
+    },
+    "updating guidelines": {
+        "reasoning": "Updating guidelines is a method because it describes the process undertaken by the task force to revise the existing guidelines based on new information and feedback.",
+        "passages": [
+            "the Education Board of the American Society for Microbiology charged this task force with updating the guidelines based on the accumulated information"
+        ],
+        "confidence_score": 0.9
+    },
+    "risk assessment": {
+        "reasoning": "Risk assessment is a specific methodological approach added to the updated guidelines, indicating a structured process for evaluating potential hazards in teaching laboratories.",
+        "passages": [
+            "sections on risk assessment and service animals in the teaching laboratory have been added"
+        ],
+        "confidence_score": 0.8
+    }
+}

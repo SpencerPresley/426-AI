@@ -1,0 +1,66 @@
+{
+    "sentences": [
+        {
+            "sentence": "Purpose Drawing on the literature regarding the social network and stock investment, this paper aims to focus on the use of the social network on stock ownership decisions at individual levels.",
+            "meaning": "The paper's aim is to examine how social networks influence individual decisions about stock ownership, based on existing literature.",
+            "reasoning": "The sentence explicitly states the purpose of the research and indicates that it builds on previous studies related to social networks and stock investment.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "This paper also attempts to shed light on potential mediators of the relationship between the social network and stock ownership.",
+            "meaning": "The research seeks to identify factors that might influence how social networks affect stock ownership.",
+            "reasoning": "The use of 'shed light on' suggests an exploratory approach to understanding the complexities of the relationship mentioned.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Design/methodology/approach To determine the relationship between stock ownership and using the social network, logistic regression was used.",
+            "meaning": "The research employs logistic regression analysis to study the connection between stock ownership and social network usage.",
+            "reasoning": "The phrase 'design/methodology/approach' indicates the research methods, and logistic regression is a statistical method suitable for this type of analysis.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "In order to isolate the effect of using hs on stock ownership, a decomposing method was adopted.",
+            "meaning": "A specific analytical technique was used to separate the impact of social network usage on stock ownership from other factors.",
+            "reasoning": "The term 'decomposing method' implies a detailed analysis that focuses on isolating variables to determine their specific effects.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Findings The findings provide evidence of the positive contribution of the use of social networks in stock ownership.",
+            "meaning": "The results indicate that using social networks positively influences individuals' decisions to own stocks.",
+            "reasoning": "The phrase 'provide evidence of the positive contribution' suggests a clear, affirmative result from the research.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Personal characteristics, such as household net worth, homeownership, education level and risk tolerance, may play a vital role in influencing individuals' decisions regarding stock investment.",
+            "meaning": "Factors like wealth, property ownership, education, and risk appetite significantly affect how individuals make stock investment choices.",
+            "reasoning": "The use of 'may play a vital role' indicates that these characteristics are important but not definitively proven within the study.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "In addition, this study contributes to our understanding of income's mediating role in stock investment decisions.",
+            "meaning": "The research highlights how income may act as a mediator in the relationship between social networks and stock investment choices.",
+            "reasoning": "The term 'mediating role' implies that income influences the effect of social networks on stock ownership, adding depth to the analysis.",
+            "confidence_score": 0.8
+        },
+        {
+            "sentence": "Originality/value First, the authors contribute theoretically by drawing from the assumptions of social networking contagion theory, social influence theory, and social capital theory.",
+            "meaning": "The authors provide theoretical contributions by integrating established social theories into their analysis.",
+            "reasoning": "The mention of specific theories indicates a scholarly approach to grounding the research in existing literature.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Second, we explored potential mediators of the relationship between the social network and stock ownership.",
+            "meaning": "The research examines various factors that could mediate the relationship between social networks and stock ownership.",
+            "reasoning": "This reiterates the earlier point about investigating mediators, emphasizing the exploratory nature of the study.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Third, this study complements the literature in incorporating the social network in business, financial professionals to be exact.",
+            "meaning": "The research adds to existing literature by focusing specifically on the role of social networks in the context of financial professionals.",
+            "reasoning": "The term 'complements the literature' suggests that the study enhances current understanding by providing new insights.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research explores how social networks influence individual stock ownership decisions, identifies mediating factors, and contributes to theoretical frameworks in finance and social networking.",
+    "detailed_summary": "This research paper investigates the impact of social networks on individual stock ownership decisions, building on existing literature in the field. It aims to identify mediators that influence this relationship and utilizes logistic regression and decomposing methods for analysis. Findings indicate a positive relationship between social network usage and stock ownership, with personal characteristics such as household net worth, education, and risk tolerance playing significant roles. Additionally, the study highlights the mediating effect of income on stock investment decisions. The authors contribute to theoretical understanding by integrating concepts from social networking contagion theory, social influence theory, and social capital theory, while also addressing the specific context of financial professionals within the literature."
+}

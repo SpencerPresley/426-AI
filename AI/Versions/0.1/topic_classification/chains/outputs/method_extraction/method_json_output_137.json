@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "online survey",
+        "structural equation modeling",
+        "PROCESS Model 14"
+    ],
+    "online survey": {
+        "reasoning": "The online survey is a specific method used to collect data from participants, providing a clear procedural approach to gathering responses relevant to the research.",
+        "passages": [
+            "data were collected during the first week of May 2020 using an online survey"
+        ],
+        "confidence_score": 0.95
+    },
+    "structural equation modeling": {
+        "reasoning": "Structural equation modeling (SEM) is a statistical technique used to test the hypothesized relationships between variables in the study, making it a core analytical method.",
+        "passages": [
+            "The hypothesized model was tested using structural equation modeling (SEM) techniques, specifically Mplus 8"
+        ],
+        "confidence_score": 0.9
+    },
+    "PROCESS Model 14": {
+        "reasoning": "PROCESS Model 14 is a specific analytical tool used to validate the initial findings of the study through bootstrapping, thus representing a methodological approach to data analysis.",
+        "passages": [
+            "The authors validated their initial findings using PROCESS Model 14 with 5,000 boot-strapped samples and a 95% confidence interval"
+        ],
+        "confidence_score": 0.85
+    }
+}

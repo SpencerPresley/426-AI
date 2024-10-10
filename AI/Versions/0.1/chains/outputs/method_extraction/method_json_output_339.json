@@ -1,0 +1,52 @@
+{
+    "methods": [
+        "culturally tailored nurse-driven educational intervention",
+        "pre-posttest",
+        "repeated measures non-experimental design",
+        "convenience sampling",
+        "workshop",
+        "surveys"
+    ],
+    "culturally tailored nurse-driven educational intervention": {
+        "reasoning": "This keyword refers to the specific approach used to educate participants about advance directives and advance care planning, making it a clear method employed in the study.",
+        "passages": [
+            "the impact of a culturally tailored nurse-driven educational intervention on the relationship between attitudes toward ADs and AD completion and ACP discussions"
+        ],
+        "confidence_score": 0.95
+    },
+    "pre-posttest": {
+        "reasoning": "Pre-posttest is a method used to measure the change in attitudes before and after the intervention, indicating a specific procedure for data collection.",
+        "passages": [
+            "Participants completed surveys before and after the workshop"
+        ],
+        "confidence_score": 0.9
+    },
+    "repeated measures non-experimental design": {
+        "reasoning": "This design indicates that the same subjects are measured multiple times, which is a specific methodological approach used in the research.",
+        "passages": [
+            "Pre-posttest, repeated measures non-experimental design"
+        ],
+        "confidence_score": 0.85
+    },
+    "convenience sampling": {
+        "reasoning": "Convenience sampling refers to the method of selecting participants based on availability, which is a specific technique used in the study's participant recruitment.",
+        "passages": [
+            "A convenience sample of Chinese Americans participated"
+        ],
+        "confidence_score": 0.8
+    },
+    "workshop": {
+        "reasoning": "The workshop is a specific format of intervention through which the educational content was delivered, representing a method of engagement with participants.",
+        "passages": [
+            "culturally tailored nurse led AD and ACP workshop in English and Mandarin"
+        ],
+        "confidence_score": 0.85
+    },
+    "surveys": {
+        "reasoning": "Surveys are a specific method used for data collection to assess participants' attitudes before and after the intervention, making it a clear methodological tool.",
+        "passages": [
+            "Participants completed surveys before and after the workshop and at one-month follow-up"
+        ],
+        "confidence_score": 0.9
+    }
+}

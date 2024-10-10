@@ -1,0 +1,48 @@
+{
+    "sentences": [
+        {
+            "sentence": "Numerous states have altered the sales factor weight in their corporate income tax (CIT) apportionment formulas.",
+            "meaning": "Many states have changed how much sales factor contributes to their corporate income tax calculations.",
+            "reasoning": "The sentence discusses changes made by various states regarding their tax calculations, specifically focusing on the sales factor component.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "We are among the first to examine which political and economic factors are important in determining whether and when states manipulate sales factor weights.",
+            "meaning": "The authors are pioneering a study on the political and economic influences that affect states' decisions to change sales factor weights.",
+            "reasoning": "The authors position their research as novel, indicating they are exploring previously unexamined influences on tax policy changes.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "We apply survival model techniques to a panel of state-level data for the years 1985-2012.",
+            "meaning": "The research utilizes survival analysis methods on data collected from states over a 27-year period.",
+            "reasoning": "Survival model techniques are statistical methods used to analyze time until an event occurs, which is relevant in studying changes in tax policies over time.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Our most striking result is that a higher CIT rate is associated with faster movement to a higher sales factor weight.",
+            "meaning": "The study finds that when corporate income tax rates are higher, states tend to increase their sales factor weights more quickly.",
+            "reasoning": "This indicates a correlation between tax rates and policy adjustments, suggesting strategic behavior by states in response to tax burdens.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Perhaps indicating that, for economic development, states use sales factor manipulation in lieu of reducing CIT rates broadly, or alternatively, that states raise sales factor weights to compensate for higher statutory CIT rates.",
+            "meaning": "States might adjust sales factor weights as a strategy for economic growth instead of lowering overall corporate income tax rates, or to offset the effects of higher tax rates.",
+            "reasoning": "The wording suggests possible motivations behind the observed behavior, hinting at strategic economic considerations.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Results also indicate that stronger growth in the CIT base and in non-corporate tax revenues hasten sales factor weight increases.",
+            "meaning": "An increase in the corporate income tax base and non-corporate tax revenues leads to quicker adjustments in sales factor weights.",
+            "reasoning": "The relationship suggests that financial health in other areas influences tax policy decisions, promoting quicker adjustments.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Democratic control of the state government and gubernatorial election years are also important in the timing of sales factor manipulation.",
+            "meaning": "The political landscape, specifically Democratic governance and election cycles, plays a significant role in when states change their sales factor weights.",
+            "reasoning": "This implies that political factors can influence tax policy timing, adding a layer of complexity to the analysis.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the political and economic factors influencing state decisions to manipulate sales factor weights in corporate income tax calculations, revealing significant correlations with tax rates, economic conditions, and political control.",
+    "detailed_summary": "This research paper explores the dynamics of how states adjust their sales factor weights in corporate income tax (CIT) apportionment formulas. It is among the first studies to identify the political and economic factors that influence these decisions. Using survival model techniques applied to state-level data from 1985 to 2012, the authors find that higher CIT rates correlate with quicker adjustments to higher sales factor weights. This suggests that states may prefer to manipulate sales factors for economic development rather than broadly reducing CIT rates, or they may adjust sales factors to offset the impact of higher tax rates. Additionally, the study finds that increases in the CIT base and non-corporate tax revenues accelerate the adjustments in sales factor weights. Political factors, such as Democratic control of state governments and the timing of gubernatorial elections, also significantly affect when these changes occur. Overall, the research highlights the complex interplay between tax policy, economic conditions, and political influences in shaping state tax strategies."
+}

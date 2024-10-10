@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "convenience sampling",
+        "paper-and-pencil survey",
+        "2 x 2 ANOVA"
+    ],
+    "convenience sampling": {
+        "reasoning": "Convenience sampling refers to the specific method used to select participants for the study, which in this case involved undergraduate women who had an exclusive current partner.",
+        "passages": [
+            "A convenience sample of undergraduate women with an exclusive current partner (n = 412; 99 percent unmarried) at a U.S. public university"
+        ],
+        "confidence_score": 0.9
+    },
+    "paper-and-pencil survey": {
+        "reasoning": "The paper-and-pencil survey is the method used for data collection, indicating how participants responded to the measures of sexual satisfaction and victimization.",
+        "passages": [
+            "anonymously responded via paper-and-pencil to the Global Measure of Sexual Satisfaction and the Sexual Experiences Survey-Short Form Victimization"
+        ],
+        "confidence_score": 0.95
+    },
+    "2 x 2 ANOVA": {
+        "reasoning": "The 2 x 2 ANOVA is a statistical method used to analyze the data collected, specifically to examine the effects of the independent variables on the dependent variable of sexual satisfaction.",
+        "passages": [
+            "A 2 x 2 ANOVA revealed that current-partner SVE was associated with lower SSCP (F (1, 410) = 7.38, p = .007, partial n2 = .018)"
+        ],
+        "confidence_score": 0.92
+    }
+}

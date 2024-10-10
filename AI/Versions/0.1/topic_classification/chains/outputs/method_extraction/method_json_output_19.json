@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "microgenetic research",
+        "design-based research"
+    ],
+    "microgenetic research": {
+        "reasoning": "Microgenetic research is a specific method used to closely observe and analyze the development of students' vocabulary use over time, providing insights into their learning processes.",
+        "passages": [
+            "we conducted microgenetic research to examine the vocabulary use of four students before, during, and after lessons"
+        ],
+        "confidence_score": 0.95
+    },
+    "design-based research": {
+        "reasoning": "Design-based research is a methodological approach that involves iterative design and testing of educational interventions, which is essential for the context of developing curriculum and standards in this study.",
+        "passages": [
+            "lessons from a cycle of design-based research attending to probability vocabulary"
+        ],
+        "confidence_score": 0.9
+    }
+}

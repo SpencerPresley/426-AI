@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "qualitative multisite case study",
+        "data analysis",
+        "eliciting student thinking",
+        "using technology (animations)"
+    ],
+    "qualitative multisite case study": {
+        "reasoning": "A qualitative multisite case study is a specific research design used to explore the decisions of prospective teachers in various settings, providing a structured approach to data collection and analysis.",
+        "passages": [
+            "Within a qualitative multisite case study, we analyzed data for how PTs took up student thinking within instructional decisions"
+        ],
+        "confidence_score": 0.95
+    },
+    "data analysis": {
+        "reasoning": "Data analysis refers to the systematic examination of collected data to identify patterns and insights, which is a critical methodological step in understanding how prospective teachers respond to student thinking.",
+        "passages": [
+            "we analyzed data for how PTs took up student thinking within instructional decisions"
+        ],
+        "confidence_score": 0.9
+    },
+    "eliciting student thinking": {
+        "reasoning": "Eliciting student thinking is a specific pedagogical method used by teachers to engage students and inform instructional decisions, representing a key aspect of the teaching practice examined in the study.",
+        "passages": [
+            "the decisions prospective teachers made within the elementary context specific to shared teaching practice in mathematics and science instruction - elicit and use evidence of student thinking"
+        ],
+        "confidence_score": 0.85
+    },
+    "using technology (animations)": {
+        "reasoning": "Using technology (animations) is a method employed to support prospective teachers' learning and instructional decisions, indicating a specific approach to enhancing teaching practice.",
+        "passages": [
+            "Results highlight the benefit of using technology (i.e. animations) as a tool to support PTs' learning of instructional decisions and pedagogical moves"
+        ],
+        "confidence_score": 0.8
+    }
+}

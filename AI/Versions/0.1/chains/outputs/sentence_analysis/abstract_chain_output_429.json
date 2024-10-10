@@ -1,0 +1,36 @@
+{
+    "sentence_analysis": [
+        {
+            "sentence": "We examined body-esteem and self-esteem based on rape experience, rape labeling status (yes; no) and recency of rape (recently, within past year; earlier, between age 14 and the past year).",
+            "meaning": "The study investigates the relationship between body-esteem and self-esteem in relation to experiences of rape, how victims label their experience, and how recent the experience was.",
+            "reasoning": "The sentence outlines the scope of the research, specifying the variables involved: body-esteem, self-esteem, rape experience, labeling status, and recency of the rape.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Undergraduate women (n = 1,005) completed the Body-Esteem Scale, Rosenberg Self-Esteem Scale, and Sexual Experiences Survey.",
+            "meaning": "A total of 1,005 undergraduate women participated in the study by completing specific psychological assessments.",
+            "reasoning": "This sentence provides details about the sample size and the assessment tools used to measure body-esteem and self-esteem, indicating a quantitative approach.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Women raped within the past year (recently) reported lower levels of both body-esteem and self-esteem than those raped over a year ago (earlier) and nonvictims, but women raped earlier did not differ from nonvictims.",
+            "meaning": "Recent rape victims exhibited significantly lower body-esteem and self-esteem compared to those who experienced rape more than a year ago and those who were not victims, while earlier victims showed similar self-esteem levels to nonvictims.",
+            "reasoning": "The sentence presents comparative findings regarding self-esteem and body-esteem across different groups, highlighting the impact of the timing of the rape experience.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Rape labeling status was not significant.",
+            "meaning": "The way women labeled their rape experience did not have a significant effect on body-esteem or self-esteem.",
+            "reasoning": "This indicates that the perception or categorization of the experience by the victims did not influence their self-esteem or body-esteem levels.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Findings identify lower body-esteem, in addition to lower self-esteem, as correlates of recent rape.",
+            "meaning": "The study concludes that recent experiences of rape are associated with lower levels of both body-esteem and self-esteem.",
+            "reasoning": "This sentence summarizes the key findings of the research, emphasizing the correlation between recent rape and diminished self-perception.",
+            "confidence_score": 0.95
+        }
+    ],
+    "overall_theme": "The research investigates the impact of recent rape on body-esteem and self-esteem in undergraduate women, highlighting significant differences between recent victims and nonvictims.",
+    "detailed_summary": "This research paper examines the effects of rape experiences on body-esteem and self-esteem among undergraduate women, focusing on factors such as the recency of the rape and how victims label their experiences. A total of 1,005 women participated in the study, completing validated scales to measure body-esteem and self-esteem. The findings reveal that women who experienced rape within the past year reported significantly lower levels of both body-esteem and self-esteem compared to those who were raped earlier and nonvictims. Interestingly, women who were raped earlier did not show significant differences in self-esteem levels compared to nonvictims. Furthermore, the labeling status of the rape did not significantly affect the outcomes. Ultimately, the study identifies recent rape as a critical factor associated with diminished body-esteem and self-esteem."
+}

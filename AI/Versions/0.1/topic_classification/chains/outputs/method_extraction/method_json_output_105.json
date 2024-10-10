@@ -1,0 +1,29 @@
+{
+    "methods": [
+        "clinical presentation",
+        "symptom triad analysis",
+        "surgical resection"
+    ],
+    "clinical presentation": {
+        "reasoning": "Clinical presentation refers to the specific observations and symptoms noted in the patient, which are critical for diagnosing the condition. It is a method of gathering patient data to understand the case better.",
+        "passages": [
+            "A 53-year-old woman presented with a recent onset of headaches with aura.",
+            "The patient had the typical triad of symptoms"
+        ],
+        "confidence_score": 0.85
+    },
+    "symptom triad analysis": {
+        "reasoning": "Symptom triad analysis involves examining the three distinct groups of symptoms the patient exhibited. This method helps in identifying the nature of the condition and its potential complications.",
+        "passages": [
+            "The patient had the typical triad of symptoms, namely (i) obstructive (light headedness, near syncope, dyspnea, chest pain), (ii) embolic (transient ischemic attacks - TIA, peripheral arterial claudication), and (iii) constitutional (fever, malaise, weight loss)."
+        ],
+        "confidence_score": 0.9
+    },
+    "surgical resection": {
+        "reasoning": "Surgical resection is the method used to remove the myxoma, which was pivotal in resolving the patient's symptoms. It is a specific procedure employed in the treatment of the condition.",
+        "passages": [
+            "the aura and headaches were resolved following resection of the myxoma."
+        ],
+        "confidence_score": 0.95
+    }
+}

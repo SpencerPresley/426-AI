@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "transect sampling",
+        "pitfall traps",
+        "baseline data collection"
+    ],
+    "transect sampling": {
+        "reasoning": "Transect sampling refers to the systematic method of collecting data along predefined lines (transects) in different habitats, which is a specific process used in the research to compare ant species in different environments.",
+        "passages": [
+            "We paired 5 transects of 100 m in forest habitats with 5 transects in dune and grassland habitats"
+        ],
+        "confidence_score": 0.9
+    },
+    "pitfall traps": {
+        "reasoning": "Pitfall traps are a specific technique used for capturing ground-dwelling insects, including ants, and are explicitly mentioned as the method for collecting data in the study.",
+        "passages": [
+            "with pitfall traps set every 10 m along each transect"
+        ],
+        "confidence_score": 0.95
+    },
+    "baseline data collection": {
+        "reasoning": "Baseline data collection refers to the systematic gathering of initial data on ant species richness, which serves as a foundational reference for future studies and is a specific methodological approach used in the research.",
+        "passages": [
+            "Our research provides baseline data on ant species richness for this temperate barrier island"
+        ],
+        "confidence_score": 0.85
+    }
+}

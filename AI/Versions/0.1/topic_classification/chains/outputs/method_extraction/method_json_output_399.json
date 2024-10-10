@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "China General Social Survey",
+        "multivariate analyses"
+    ],
+    "China General Social Survey": {
+        "reasoning": "The China General Social Survey is the specific dataset used for the study, which is essential for gathering the relevant data on homeownership among urban Chinese households.",
+        "passages": [
+            "This study uses data from the 2010 to 2015 China General Social Survey to investigate factors related to homeownership among urban Chinese households"
+        ],
+        "confidence_score": 0.95
+    },
+    "multivariate analyses": {
+        "reasoning": "Multivariate analyses refer to the statistical techniques applied to examine the relationships between multiple variables, which is a key methodological approach in this research.",
+        "passages": [
+            "Multivariate analyses were applied to the full sample, never married sample, never married women sample and never married men sample respectively."
+        ],
+        "confidence_score": 0.9
+    }
+}

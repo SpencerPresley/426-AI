@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "measurement of business activity",
+        "regulation measurement",
+        "empirical evidence analysis"
+    ],
+    "measurement of business activity": {
+        "reasoning": "This method refers to the specific approach used to quantify business activities, which is essential for analyzing the relationship between regulation and entrepreneurship.",
+        "passages": [
+            "when measuring business activity with metrics common to the dynamism literature, researchers fail to find a significant association between regulation and startup activity."
+        ],
+        "confidence_score": 0.9
+    },
+    "regulation measurement": {
+        "reasoning": "This method involves the specific techniques used to quantify and assess regulations, which is crucial for understanding their impact on entrepreneurship.",
+        "passages": [
+            "After ruling out differences in unit of measure, industry aggregation, and regulation measurement"
+        ],
+        "confidence_score": 0.85
+    },
+    "empirical evidence analysis": {
+        "reasoning": "This method refers to the process of collecting and analyzing data to provide empirical support for the relationship between regulations and job creation rates across different industries.",
+        "passages": [
+            "we do find empirical evidence that the relationship between regulations and job creation rates varies across industries."
+        ],
+        "confidence_score": 0.88
+    }
+}

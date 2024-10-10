@@ -1,0 +1,44 @@
+{
+    "methods": [
+        "radiological examination",
+        "analog imaging",
+        "CT imaging",
+        "visual comparison",
+        "qualitative assessment"
+    ],
+    "radiological examination": {
+        "reasoning": "Radiological examination refers to the use of imaging techniques to analyze human remains, serving as a method for identification in forensic pathology.",
+        "passages": [
+            "Radiological examination, more specifically analog imaging, is more cost-effective and has been widely used in the medical examiner setting as a means of identification."
+        ],
+        "confidence_score": 0.9
+    },
+    "analog imaging": {
+        "reasoning": "Analog imaging is a specific technique within radiological examination that has been employed for the identification of human remains, making it a method of data collection.",
+        "passages": [
+            "more specifically analog imaging, is more cost-effective and has been widely used in the medical examiner setting as a means of identification."
+        ],
+        "confidence_score": 0.85
+    },
+    "CT imaging": {
+        "reasoning": "CT imaging represents a modern imaging modality that has been introduced into forensic settings for identifying human remains, indicating its role as a methodological approach.",
+        "passages": [
+            "In the United States, CT imaging is a fairly new imaging modality in the forensic setting"
+        ],
+        "confidence_score": 0.88
+    },
+    "visual comparison": {
+        "reasoning": "Visual comparison is a method used to identify human remains by comparing antemortem and postmortem images, highlighting a specific approach taken in the study.",
+        "passages": [
+            "This study demonstrates that identification of human remains using visual comparison could be performed with ease by a forensic pathologist with limited CT experience."
+        ],
+        "confidence_score": 0.92
+    },
+    "qualitative assessment": {
+        "reasoning": "Qualitative assessment refers to the evaluation of cases based on subjective judgment rather than numerical measurement, representing a methodological approach to analyzing the identification results.",
+        "passages": [
+            "The results were qualitatively assessed by a forensic pathologist and a nonmedically trained intern"
+        ],
+        "confidence_score": 0.87
+    }
+}

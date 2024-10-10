@@ -1,0 +1,36 @@
+{
+    "methods": [
+        "inquiry-based teaching approach",
+        "engineering challenges implementation",
+        "teacher reflections documentation",
+        "engineering activities execution"
+    ],
+    "inquiry-based teaching approach": {
+        "reasoning": "The inquiry-based teaching approach is a specific educational method employed to facilitate learning through exploration and questioning, making it a core methodology in this study.",
+        "passages": [
+            "The purpose of this study was to implement engineering challenges in a preschool classroom framed in an inquiry-based teaching approach"
+        ],
+        "confidence_score": 0.9
+    },
+    "engineering challenges implementation": {
+        "reasoning": "Implementing engineering challenges refers to the specific actions taken to introduce structured engineering tasks in the classroom, which is a clear methodological process in the research.",
+        "passages": [
+            "The purpose of this study was to implement engineering challenges in a preschool classroom"
+        ],
+        "confidence_score": 0.85
+    },
+    "teacher reflections documentation": {
+        "reasoning": "Documenting teacher reflections is a method used to gather qualitative data on the experiences and insights of the teacher, providing valuable information on the implementation process.",
+        "passages": [
+            "to document teacher reflections and lessons learned"
+        ],
+        "confidence_score": 0.8
+    },
+    "engineering activities execution": {
+        "reasoning": "The execution of engineering activities refers to the practical application of the engineering tasks within the classroom setting, which is an essential part of the method employed in the study.",
+        "passages": [
+            "wherein, four engineering activities were implemented in the classroom over a four-week period"
+        ],
+        "confidence_score": 0.88
+    }
+}

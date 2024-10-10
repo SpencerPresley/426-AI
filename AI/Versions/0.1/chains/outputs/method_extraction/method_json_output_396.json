@@ -1,0 +1,28 @@
+{
+    "methods": [
+        "Big Data Analytics",
+        "survey instrument",
+        "quantitative analysis"
+    ],
+    "Big Data Analytics": {
+        "reasoning": "Big Data Analytics is a specific technique used by firms to enhance their Risk Management Infrastructure, representing a methodological approach to improving risk resilience capabilities.",
+        "passages": [
+            "by using Big Data Analytics (BDA) to improve their risk resilience capability"
+        ],
+        "confidence_score": 0.9
+    },
+    "survey instrument": {
+        "reasoning": "The survey instrument is a method used to collect data for testing the theoretical model and hypothesis, indicating a structured approach to data gathering.",
+        "passages": [
+            "the corresponding hypothesis is tested through a survey instrument"
+        ],
+        "confidence_score": 0.85
+    },
+    "quantitative analysis": {
+        "reasoning": "Quantitative analysis refers to the statistical methods employed to analyze the data collected from the survey, making it a critical methodological process for evaluating the results.",
+        "passages": [
+            "and quantitative analysis"
+        ],
+        "confidence_score": 0.88
+    }
+}

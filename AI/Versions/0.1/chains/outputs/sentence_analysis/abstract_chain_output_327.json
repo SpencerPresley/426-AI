@@ -1,0 +1,42 @@
+{
+    "sentences": [
+        {
+            "sentence": "Almost no research exists examining the relationship between body-esteem and sexual victimization experience in adulthood.",
+            "meaning": "There is a lack of studies that explore how body-esteem relates to experiences of sexual victimization in adult individuals.",
+            "reasoning": "The sentence highlights a gap in the existing literature, indicating that this is an under-researched area.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "The current study contributes to the literature by examining body-esteem based on type of sexual victimization experience (i.e., none, sexual contact, attempted sexual coercion, sexual coercion, attempted rape, rape).",
+            "meaning": "This study aims to fill the research gap by analyzing how different types of sexual victimization affect body-esteem.",
+            "reasoning": "The sentence explicitly states the purpose of the study and lists the types of sexual victimization being considered.",
+            "confidence_score": 0.95
+        },
+        {
+            "sentence": "Participants included undergraduate women (n = 750) who completed the Body-Esteem Scale (Franzoi & Shields, 1984) and the Sexual Experiences Survey-Short Form Victimization (Koss et al., 2007), and had either no history of sexual victimization experience or experience within the past year.",
+            "meaning": "The study involved 750 undergraduate women who were assessed for body-esteem and sexual victimization history using specific scales.",
+            "reasoning": "This sentence provides details about the sample size, demographic, and the tools used for assessment, which are crucial for understanding the methodology.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Women with no sexual victimization experience did not differ from women with sexual contact experience, but both groups reported higher body-esteem than women with coercion, attempted coercion, and rape experience.",
+            "meaning": "Women without sexual victimization and those with sexual contact experience had similar body-esteem levels, which were higher than those who experienced coercion or rape.",
+            "reasoning": "This sentence presents comparative results among different groups regarding body-esteem levels, indicating a trend based on victimization experience.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "These three latter groups did not differ from one another, but each reported lower body-esteem than women with attempted rape experience, who reported higher body-esteem than those with no experience.",
+            "meaning": "The groups that experienced coercion or rape had similar body-esteem levels, but those who faced attempted rape had higher body-esteem than both these groups and those without any victimization experience.",
+            "reasoning": "This sentence clarifies the relationships between the groups and their body-esteem, further elaborating on the findings.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "Findings are preliminary but suggest that body-esteem may be negatively associated with some types of sexual victimization experience (attempted and completed coercion, rape), but not others (sexual contact, attempted rape), and escaping rape may increase positive feelings toward one's body.",
+            "meaning": "The initial findings indicate a negative correlation between body-esteem and certain sexual victimization experiences, while some experiences do not have the same effect; additionally, avoiding rape may enhance body-esteem.",
+            "reasoning": "This sentence summarizes the implications of the findings, indicating both negative and positive associations between body-esteem and different types of victimization.",
+            "confidence_score": 0.9
+        }
+    ],
+    "overall_theme": "The research investigates the relationship between body-esteem and various types of sexual victimization experiences among undergraduate women, revealing complex associations.",
+    "detailed_summary": "The abstract discusses a study that addresses the lack of research on the relationship between body-esteem and sexual victimization in adulthood. The study involved 750 undergraduate women who were assessed using the Body-Esteem Scale and the Sexual Experiences Survey-Short Form Victimization. The results showed that women with no sexual victimization experience and those with sexual contact experience had similar and higher body-esteem compared to those who experienced coercion or rape. The groups that faced coercion, attempted coercion, and rape did not differ in body-esteem levels, but those with attempted rape had higher body-esteem than the others. The findings suggest that body-esteem is negatively associated with certain types of sexual victimization, while escaping rape may lead to improved body-esteem. Overall, the research contributes valuable insights into the interplay between body-esteem and sexual victimization experiences."
+}

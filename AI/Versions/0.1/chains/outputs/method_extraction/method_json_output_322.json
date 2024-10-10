@@ -1,0 +1,20 @@
+{
+    "methods": [
+        "16S rRNA amplicon sequencing",
+        "random forest linear regression analysis"
+    ],
+    "16S rRNA amplicon sequencing": {
+        "reasoning": "16S rRNA amplicon sequencing is a specific method used for identifying and analyzing microbial communities based on their genetic material, which is crucial for understanding the succession of soil microbial communities in this study.",
+        "passages": [
+            "using 16S rRNA amplicon sequences"
+        ],
+        "confidence_score": 0.95
+    },
+    "random forest linear regression analysis": {
+        "reasoning": "Random forest linear regression analysis is a statistical method used to identify important taxa driving the trajectories toward reference conditions, making it a key analytical approach in this research.",
+        "passages": [
+            "Random forest linear regression analysis was used to identify important taxa driving the trajectories toward reference conditions"
+        ],
+        "confidence_score": 0.9
+    }
+}
