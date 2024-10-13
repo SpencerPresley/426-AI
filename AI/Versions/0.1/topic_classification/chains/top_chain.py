@@ -1,7 +1,7 @@
 import json
 from langchain.schema.runnable import RunnablePassthrough, RunnableParallel
 from .prompts.top import top_classification_parser, method_json_format, sentence_analysis_json_example, json_structure, TopClassificationOutput, chat_prompt, topic_system_prompt, human_message_prompt
-from typing import List
+from typing import List, Dict
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 import os
@@ -140,4 +140,82 @@ def process_top_classification_chain(abstracts: List[str], taxonomy):
             traceback.print_exc()
 
     with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/top_classification/top_classification_outputs.json", "w") as f:
+        json.dump(top_classification_outputs, f, indent=4)
+
+def process_top_classification_chain_map(abstracts: Dict[str, str], taxonomy):
+    categories = taxonomy.get_top_categories()
+    # print(categories)
+    # input("Press Enter to continue...")
+    top_classification_outputs: List[TopClassificationOutput] = {}
+    
+    json_classification_form = """
+        {
+            "classifications": [
+                {
+                    "abstract": "<abstract>",
+                    "categories": [
+                        "<first category you decided to classify the abstract into>",
+                        "<second category you decided to classify the abstract into>"
+                        ...
+                    ],
+                    "reasoning": "<reasoning for the classification>",
+                    "confidence_score": <confidence score float value between 0 and 1>
+                },
+                {
+                    "abstract": "<abstract>",
+                    "categories": [
+                        "<first category you decided to classify the abstract into>",
+                        "<second category you decided to classify the abstract into>"
+                        ...
+                    ],
+                    "reasoning": "<reasoning for the classification>",
+                    "confidence_score": <confidence score float value between 0 and 1>
+                }
+            ],
+            "reflection": "<reflection on parts you struggled with and why, and what could help alleviate that>",
+            "feedback": [
+                {
+                    "assistant_name": "<name of the assistant you are providing feedback to>",
+                    "feedback": "<feedback for the assistant>"
+                },
+                {
+                    "assistant_name": "<name of the assistant you are providing feedback to>",
+                    "feedback": "<feedback for the assistant>"
+                },
+                ...
+            ]
+        }
+    """
+
+    for i, (title, abstract) in enumerate(abstracts.items()):
+        method_json_output, abstract_chain_output, abstract_summary_output = get_json_outputs(i)
+        
+        # print(f"ABSTRACT: {abstract}")
+        # input("Press Enter to continue...")
+        
+        try:
+            top_classification_chain = create_top_classification_chain(categories=categories, method_json_format=method_json_format, sentence_analysis_json_example=sentence_analysis_json_example, json_structure=json_structure, method_json_output=method_json_output, abstract_chain_output=abstract_chain_output, abstract_summary_output=abstract_summary_output, abstract=abstract, chat_prompt=chat_prompt, json_classification_form=json_classification_form)
+            top_classification_output = top_classification_chain.invoke({
+                "abstract": abstract,
+                "categories": categories,
+                "method_json_output": method_json_output,
+                "abstract_chain_output": abstract_chain_output,
+                "abstract_summary_output": abstract_summary_output,
+                "method_json_format": method_json_format,
+                "sentence_analysis_json_example": sentence_analysis_json_example,
+                "json_structure": json_structure,
+                "json_classification_format": json_classification_form,
+                "categories_list_2": categories
+            })
+            print(json.dumps(top_classification_output, indent=4))
+            top_classification_outputs [title] = top_classification_output
+            # with open(f"{os.path.dirname(os.path.abspath(__file__))}/outputs/top_classification/top_classification_output_{i}.json", "w") as f:
+            #     json.dump({title: top_classification_output}, f, indent=4)
+                
+        except Exception as e:
+            print(f"Error: {type(e).__name__}: {str(e)}")
+            import traceback
+            traceback.print_exc()
+
+    with open("outputs/top_classification/top_classification_outputs.json", "w") as f:
         json.dump(top_classification_outputs, f, indent=4)
