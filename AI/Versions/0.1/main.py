@@ -1,30 +1,33 @@
 from chains.main_chain import process_abstracts
 import os
 import json
-abstracts = []
+from data.paper_metadata_model import Abstract
+from data.paper_metadata_model import abstracts
 
-data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
-abstracts_file = os.path.join(data_dir, "ALL_ABSTRACTS.json")
-with open(abstracts_file, "r") as f:
-    raw_abstracts = json.load(f)["abstracts"]
-
-abstracts = []
-for abstract in raw_abstracts:
-    if abstract == "" or abstract == None:
-        continue
-    abstracts.append(abstract)
-
-print(abstracts[13])
-input("Press Enter to continue...")
-
-print(len(abstracts))
-# print(len(abstracts))
-print(f"abstract left = {len(abstracts) - 296}")
-abstracts = abstracts[296:]
 # print(abstracts)
-print(len(abstracts))
+# input("Press Enter to continue...")
+# abstracts = []
 
+# # data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+# # abstracts_file = os.path.join(data_dir, "ALL_ABSTRACTS.json")
+# # with open(abstracts_file, "r") as f:
+# #     raw_abstracts = json.load(f)["abstracts"]
 
+# # abstracts = []
+# # for abstract in raw_abstracts:
+# #     if abstract == "" or abstract == None:
+# #         continue
+# #     abstracts.append(abstract)
+
+# # print(abstracts[13])
+# # input("Press Enter to continue...")
+
+# # print(len(abstracts))
+# # # print(len(abstracts))
+# # print(f"abstract left = {len(abstracts) - 296}")
+# # abstracts = abstracts[296:]
+# # # print(abstracts)
+# # print(len(abstracts))
 
 
 json_structure = """
@@ -78,4 +81,9 @@ setence_analysis_json_example = """
     }
 """
 
-process_abstracts(abstracts, json_structure, method_json_format, setence_analysis_json_example, index=296)
+process_abstracts(
+    abstracts,
+    json_structure,
+    method_json_format,
+    setence_analysis_json_example,
+)

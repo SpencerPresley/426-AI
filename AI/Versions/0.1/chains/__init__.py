@@ -4,14 +4,10 @@ from .chain_prompts import (
     method_extraction_prompt,
     abstract_analysis_prompt,
     abstract_summary_system_template,
-    chat_prompt
+    chat_prompt,
 )
 
-from .util_chains import (
-    llm,
-    method_chain,
-    abstract_chain
-)
+from .util_chains import llm, method_chain, abstract_chain
 
 from .utils import json_print_to_file
 
@@ -28,5 +24,5 @@ __all__ = [
     "method_chain",
     "abstract_chain",
     "json_print_to_file",
-    "process_abstracts"
+    "process_abstracts",
 ]

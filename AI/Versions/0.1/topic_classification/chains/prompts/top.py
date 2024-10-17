@@ -1,13 +1,19 @@
-
 from pydantic import BaseModel
 from typing import List, Dict, Union
 from langchain_core.output_parsers import JsonOutputParser, PydanticOutputParser
 from langchain_core.prompts import PromptTemplate
-from langchain.prompts import PromptTemplate, ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
+from langchain.prompts import (
+    PromptTemplate,
+    ChatPromptTemplate,
+    SystemMessagePromptTemplate,
+    HumanMessagePromptTemplate,
+)
+
 
 class Feedback(BaseModel):
     assistant_name: str
     feedback: str
+
 
 class Classification(BaseModel):
     abstract: str
@@ -15,10 +21,12 @@ class Classification(BaseModel):
     reasoning: str
     confidence_score: float
 
+
 class TopClassificationOutput(BaseModel):
     classifications: List[Classification]
     reflection: str
     feedback: List[Feedback]
+
 
 method_json_format = """
     {
@@ -69,6 +77,39 @@ json_structure = """
             "abstract_sentence_analysis_feedback": "Feedback for the abstract sentence analysis assistant"
         }
     }
+"""
+
+taxonomy_example = """
+'Education': {
+    'Education leadership and administration': [
+        'Educational leadership and administration, general',
+        "Higher education and community college administration",
+        "Education leadership and administration nec"
+    ],
+    'Education research': [
+        'Curriculum and instruction',
+        'Educational assessment, evaluation, and research methods',
+        'Educational/ instructional technology and media design',
+        'Higher education evaluation and research',
+        'Student counseling and personnel services',
+        'Education research nec'
+    ],
+    "Teacher education": [
+        "Adult, continuing, and workforce education and development",
+        "Bilingual, multilingual, and multicultural education",
+        "Mathematics teacher education",
+        "Music teacher education",
+        "Special education and teaching",
+        "STEM educational methods",
+        "Teacher education, science and engineering",
+        "Teacher education, specific levels and methods",
+        "Teacher education, specific subject areas"
+    ],
+    "Education, other": [
+        "Education, general",
+        "Education nec"
+    ]
+}
 """
 
 top_classification_system_message = PromptTemplate(
@@ -144,13 +185,22 @@ top_classification_system_message = PromptTemplate(
     Again, here is the list of categories you can classify the abstract into:
     {categories_list_2}
     
+    
+    
+    IMPORTANT: Your classifications are focused on THE THEMES OF THE RESEARCH DESCRIBED IN THE ABSTRACT. The categories you are being provided are ACADEMIC RESEARCH CATEGORIES, this means something like education involves RESEARCH AROUND education, not just the art of education.
+    
+    For example, here is a full block item from the taxonomy:
+    ```json
+    {taxonomy_example}
+    ```
+    
     IMPORTANT: Do not classify based on the specific methods used to conduct the research, the use of methods is only relevant if it is the main focus of the research or if it helps obtain more contextual understanding of the abstract. The classifications should be representative of the core theme behind the research, as in what the research is doing but not how it is doing it.
     IMPORTANT: Your output should always be a JSON object following the provided structure, if you do not follow the provided structure and/ or do not provide a JSON object, you have failed.
     IMPORTANT: Do not include the markdown json code block notation in your response. Simply return the JSON object.
 """
 )
 
-top_classification_parser = JsonOutputParser(pydantic_object=TopClassificationOutput)
+top_classification_parser = PydanticOutputParser(pydantic_object=TopClassificationOutput)
 pytdantic_parser = PydanticOutputParser(pydantic_object=TopClassificationOutput)
 
 from langchain.prompts import PromptTemplate
@@ -158,28 +208,30 @@ from langchain.prompts import PromptTemplate
 # topic_classication_prompt = PromptTemplate.from_template(
 #     template="""
 #     {top_classification_system_message}
-    
+
 #     Abstract:
 #     {abstract}
 #     """,
 #     input_variables=[
-#         "method_json_format", 
-#         "sentence_analysis_json_example", 
-#         "json_structure", 
-#         "categories", 
-#         "method_json_output", 
-#         "abstract_chain_output", 
-#         "abstract_summary_output", 
-#         "top_classification_system_message", 
+#         "method_json_format",
+#         "sentence_analysis_json_example",
+#         "json_structure",
+#         "categories",
+#         "method_json_output",
+#         "abstract_chain_output",
+#         "abstract_summary_output",
+#         "top_classification_system_message",
 #         "abstract"
 #     ]
 # )
 
 
-topic_system_prompt = SystemMessagePromptTemplate.from_template(top_classification_system_message.template)
-human_message_prompt = HumanMessagePromptTemplate.from_template("## Original Abstract: \n{abstract}")
-chat_prompt = ChatPromptTemplate.from_messages([
-    topic_system_prompt,
-    human_message_prompt
-])
-
+topic_system_prompt = SystemMessagePromptTemplate.from_template(
+    top_classification_system_message.template
+)
+human_message_prompt = HumanMessagePromptTemplate.from_template(
+    "## Original Abstract: \n{abstract}"
+)
+chat_prompt = ChatPromptTemplate.from_messages(
+    [topic_system_prompt, human_message_prompt]
+)

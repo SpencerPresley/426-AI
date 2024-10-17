@@ -8,5 +8,5 @@ __all__ = [
     "SentenceDetails",
     "AbstractThemes",
     "Feedback",
-    "AbstractSummary"
+    "AbstractSummary",
 ]

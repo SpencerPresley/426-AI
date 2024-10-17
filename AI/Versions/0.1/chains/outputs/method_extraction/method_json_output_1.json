@@ -1,20 +1,12 @@
 {
     "methods": [
-        "movement pattern assessment",
-        "foraging optimization analysis"
+        "generalised estimating equations"
     ],
-    "movement pattern assessment": {
-        "reasoning": "Movement pattern assessment refers to the specific analysis of gorillas' travel behaviors, including linearity, distance, and speed, which is a methodological approach to understanding their foraging decisions.",
+    "generalised estimating equations": {
+        "reasoning": "Generalised estimating equations (GEE) is a statistical method used to analyze correlated data, making it a specific analytical approach employed in the research to assess the relationship between foreign equity ownership and innovation investment.",
         "passages": [
-            "we examined movement patterns-such as linearity, distance, and speed of traveling-to assess whether gorillas optimize travel when reaching out-of-sight valued resources."
+            "using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations"
         ],
-        "confidence_score": 0.92
-    },
-    "foraging optimization analysis": {
-        "reasoning": "Foraging optimization analysis involves evaluating how gorillas adjust their travel based on the availability and type of food, which indicates a methodological approach to understanding their spatial memory and decision-making processes.",
-        "passages": [
-            "suggesting they are able to optimize foraging based on spatial knowledge of their resources."
-        ],
-        "confidence_score": 0.88
+        "confidence_score": 0.95
     }
 }

@@ -1,4 +1,9 @@
-from langchain.prompts import PromptTemplate, ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
+from langchain.prompts import (
+    PromptTemplate,
+    ChatPromptTemplate,
+    SystemMessagePromptTemplate,
+    HumanMessagePromptTemplate,
+)
 from langchain_core.messages import SystemMessage
 from parsers import method_parser, abstract_sentence_parser
 
@@ -257,23 +262,28 @@ abstract_summary_system_template = PromptTemplate(
 method_extraction_prompt = PromptTemplate(
     template="{system_prompt}\n\nAbstract:\n{abstract}\n",
     input_variables=["system_prompt", "abstract"],
-    partial_variables={"format_instructions": method_parser.get_format_instructions()}
+    partial_variables={"format_instructions": method_parser.get_format_instructions()},
 )
 
 abstract_analysis_system_prompt = SystemMessage(
     content=ABSTRACT_SENTENCE_ANALYSIS_SYSTEM_TEMPLATE,
-    input_variables=["setence_analysis_json_example"]
+    input_variables=["setence_analysis_json_example"],
 )
 
 abstract_analysis_prompt = PromptTemplate(
-   template="{abstract_analysis_system_prompt}\n\n## Abstract: \n{abstract}\n",
-   input_variables=["abstract_analysis_system_prompt.content", "abstract"],
-   partial_variables={"format_instructions": abstract_sentence_parser.get_format_instructions()}
+    template="{abstract_analysis_system_prompt}\n\n## Abstract: \n{abstract}\n",
+    input_variables=["abstract_analysis_system_prompt.content", "abstract"],
+    partial_variables={
+        "format_instructions": abstract_sentence_parser.get_format_instructions()
+    },
 )
 
-system_message_prompt = SystemMessagePromptTemplate.from_template(abstract_summary_system_template.template)
-human_message_prompt = HumanMessagePromptTemplate.from_template("## Original Abstract: \n{abstract}")
-chat_prompt = ChatPromptTemplate.from_messages([
-    system_message_prompt,
-    human_message_prompt
-])
+system_message_prompt = SystemMessagePromptTemplate.from_template(
+    abstract_summary_system_template.template
+)
+human_message_prompt = HumanMessagePromptTemplate.from_template(
+    "## Original Abstract: \n{abstract}"
+)
+chat_prompt = ChatPromptTemplate.from_messages(
+    [system_message_prompt, human_message_prompt]
+)

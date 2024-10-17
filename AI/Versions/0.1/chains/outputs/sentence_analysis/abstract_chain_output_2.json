@@ -1,54 +1,30 @@
 {
     "sentences": [
         {
-            "sentence": "Kindergarten through second-grade elementary schools that best serve students with dyslexia have principals who are knowledgeable about dyslexia and understand the best practices for providing intervention for students with dyslexia.",
-            "meaning": "Effective elementary schools for dyslexic students are led by informed principals.",
-            "reasoning": "The sentence establishes a direct link between principal knowledge of dyslexia and the effectiveness of schools in serving dyslexic students.",
+            "sentence": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities.",
+            "meaning": "The research investigates how managers' views of employees' commitment to the organization affect their evaluations of those employees' potential for career advancement.",
+            "reasoning": "The phrase 'perceived organizational commitment' suggests that the study focuses on managers' subjective views rather than objective measures, and 'career growth opportunities' indicates the context of the assessment.",
             "confidence_score": 0.9
         },
         {
-            "sentence": "In this study, three styles of leadership were examined to understand the implication that leadership has on intervention for dyslexia: transformational, instructional, and integrated leadership.",
-            "meaning": "The study investigates how different leadership styles affect dyslexia intervention.",
-            "reasoning": "The sentence outlines the focus of the study, specifying the leadership styles being analyzed.",
+            "sentence": "Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization.",
+            "meaning": "The study involved 161 pairs of legal secretaries and their managers, revealing that managers interpret employees' positive behaviors as indicators of their emotional attachment to the organization.",
+            "reasoning": "The terms 'paired sample' and 'results indicated' imply a research methodology, while 'attitudes and behaviors' and 'cues' suggest a link between observable employee actions and managers' perceptions.",
             "confidence_score": 0.85
         },
         {
-            "sentence": "However, many students in elementary schools have difficulty learning to read despite good leadership by the principal, with 5-20% of students being diagnosed with dyslexia.",
-            "meaning": "A significant number of elementary students struggle with reading, even with effective leadership, and a notable percentage are diagnosed with dyslexia.",
-            "reasoning": "This highlights a gap between leadership effectiveness and student outcomes, emphasizing the prevalence of dyslexia.",
-            "confidence_score": 0.9
+            "sentence": "In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities.",
+            "meaning": "Employees who are viewed as highly committed by their managers are likely to have better chances for both meaningful and organizationally supported career advancement.",
+            "reasoning": "The phrase 'enhanced content and structural career growth opportunities' implies that commitment leads to more favorable career prospects, indicating a positive correlation.",
+            "confidence_score": 0.88
         },
         {
-            "sentence": "While these students need phonetic, multisensory intervention to build necessary reading skills, this study found that many principals lack knowledge of this specialized instruction.",
-            "meaning": "Dyslexic students require specific instructional methods, but many principals are unaware of these methods.",
-            "reasoning": "The sentence contrasts the needs of dyslexic students with the knowledge gap among principals.",
-            "confidence_score": 0.85
-        },
-        {
-            "sentence": "The purpose of this research was to explore variables that determine the school-based level of appropriate intervention for students with dyslexia.",
-            "meaning": "The research aims to identify factors that influence effective intervention for dyslexic students in schools.",
-            "reasoning": "This sentence clearly states the objective of the research.",
-            "confidence_score": 0.9
-        },
-        {
-            "sentence": "A questionnaire assessing leadership skills, knowledge, and beliefs about dyslexia, preparation in reading disorders and/or dyslexia received from degree programs and professional development, and services provided to students with dyslexia was given to K-2 principals serving in schools across the United States.",
-            "meaning": "K-2 principals across the U.S. were surveyed about their leadership skills and knowledge related to dyslexia.",
-            "reasoning": "The sentence describes the methodology used in the study, detailing the survey's content and target group.",
-            "confidence_score": 0.9
-        },
-        {
-            "sentence": "Results indicated that regardless of leadership style, principals who have greater knowledge and more correct beliefs about dyslexia provide more appropriate school-based services for students with dyslexia.",
-            "meaning": "Principals' knowledge and beliefs about dyslexia are more crucial than their leadership style in determining the quality of services for dyslexic students.",
-            "reasoning": "The sentence summarizes the key finding of the study, emphasizing the importance of knowledge over leadership style.",
-            "confidence_score": 0.95
-        },
-        {
-            "sentence": "Eight detailed K-2 principal/practitioner recommendations are included based upon this key finding.",
-            "meaning": "The study offers eight specific recommendations for principals based on the research findings.",
-            "reasoning": "This concludes the abstract by indicating practical applications of the research results.",
+            "sentence": "Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+            "meaning": "The connection between how committed managers think their employees are and the employees' actual career growth is more pronounced for those employees who are also seen as dedicated to their careers.",
+            "reasoning": "The comparison of 'highly committed' versus 'less committed' employees suggests a nuanced relationship that highlights the importance of dual commitment in career advancement.",
             "confidence_score": 0.9
         }
     ],
-    "overall_theme": "The research investigates the impact of principal knowledge and beliefs on the effectiveness of dyslexia intervention in elementary schools, emphasizing the need for informed leadership regardless of leadership style.",
-    "detailed_summary": "This study focuses on the role of school leadership in providing effective intervention for students with dyslexia in kindergarten through second grade. It examines three leadership styles\u2014transformational, instructional, and integrated\u2014to understand their implications for dyslexia intervention. Despite effective leadership, a significant percentage of students struggle with reading, with 5-20% diagnosed with dyslexia, highlighting a critical gap. The research identifies that while phonetic and multisensory interventions are necessary for dyslexic students, many principals lack the requisite knowledge of these methods. The study's purpose is to explore factors influencing the level of appropriate intervention in schools. A questionnaire was distributed to K-2 principals across the United States, assessing their leadership skills, knowledge, and beliefs about dyslexia. The findings reveal that principals with a deeper understanding of dyslexia provide better services, regardless of their leadership style. The study concludes with eight recommendations for principals to enhance their support for students with dyslexia, based on the key finding that knowledge and beliefs are crucial for effective intervention."
+    "overall_theme": "The research explores the influence of managers' perceptions of employee commitment on career advancement opportunities, emphasizing the importance of employee attitudes and behaviors.",
+    "detailed_summary": "This study investigates how managers' perceptions of organizational commitment influence their assessments of employees' career growth opportunities. Utilizing a paired sample of 161 legal secretaries and their managers, the findings reveal that managers interpret employees' positive behaviors, such as strong extra-role performance and work engagement, as indicators of their commitment to the organization. Employees who are viewed as highly committed not only enjoy improved career growth prospects but also benefit more when their career commitment aligns with their organizational commitment. The study underscores the significance of both employee commitment to the organization and their career in shaping career advancement opportunities."
 }

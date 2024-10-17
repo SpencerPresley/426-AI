@@ -1,18 +1,48 @@
 {
     "sentence_analysis": [
         {
-            "sentence": "We describe how we used puppets as tools to draw 9 to 10-year-old students into conversations about probability.",
-            "meaning": "The authors explain their approach of using puppets to engage young students in discussions related to probability.",
-            "reasoning": "The phrase 'draw 9 to 10-year-old students into conversations' indicates an intention to engage a specific age group in a particular subject matter, which is probability, through the use of puppets.",
+            "sentence": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise.",
+            "meaning": "The research investigates how the real expertise and social status of team members affect their influence on team dynamics, particularly through the lens of perceived expertise.",
+            "reasoning": "The mention of 'expectation states theory' and 'expertise utilization literature' indicates a theoretical framework guiding the analysis of influence, suggesting a focus on how expertise and status interplay in team settings.",
             "confidence_score": 0.9
         },
         {
-            "sentence": "Puppets supported classroom discourse by putting forth probabilistic arguments for critique, introducing extreme and unusual examples of concepts, and introducing an element of surprise.",
-            "meaning": "The use of puppets facilitated discussions in the classroom by presenting arguments related to probability, showcasing unique examples, and adding an unexpected element to the learning process.",
-            "reasoning": "The sentence outlines specific ways in which puppets contributed to classroom discussions, namely through critique, unique examples, and surprise, indicating their multifaceted role in enhancing learning.",
-            "confidence_score": 0.95
+            "sentence": "We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams.",
+            "meaning": "The study looks into the situations that dictate whether teams prioritize perceived expertise or social status when assessing influence among members.",
+            "reasoning": "The use of 'conditions' implies a contextual analysis, indicating that the impact of perceived expertise and social status varies depending on specific circumstances within teams.",
+            "confidence_score": 0.85
+        },
+        {
+            "sentence": "To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts.",
+            "meaning": "The authors propose a model that outlines how the importance of expertise and social status is influenced by different types of conflicts that arise within teams.",
+            "reasoning": "The term 'contingency model' suggests a structured approach to understanding the dynamics of influence and conflict, indicating that the relationship is not fixed but rather conditional.",
+            "confidence_score": 0.88
+        },
+        {
+            "sentence": "Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise.",
+            "meaning": "The research utilizes survey data from student teams to demonstrate that real expertise and social status impact team influence, both directly and indirectly, via perceived expertise.",
+            "reasoning": "The specificity of the data source and the mention of 'direct and indirect effects' indicates a thorough empirical investigation into the relationships being studied.",
+            "confidence_score": 0.9
+        },
+        {
+            "sentence": "Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise.",
+            "meaning": "The findings reveal that in the initial phases of projects, social status influences perceived expertise, while in later phases, actual expertise takes precedence.",
+            "reasoning": "The differentiation between early and later stages suggests a dynamic shift in influence determinants over time, highlighting the evolving nature of team interactions.",
+            "confidence_score": 0.92
+        },
+        {
+            "sentence": "Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low.",
+            "meaning": "The research concludes that perceived experts have greater influence in scenarios characterized by high task conflict or low relationship conflict.",
+            "reasoning": "The contrast between task and relationship conflict highlights the conditions under which perceived expertise is most effective, suggesting practical implications for team management.",
+            "confidence_score": 0.87
+        },
+        {
+            "sentence": "We discuss the implications of these findings for research and practice.",
+            "meaning": "The authors will elaborate on the significance of their results for both academic research and practical applications in team settings.",
+            "reasoning": "The phrase 'discuss the implications' indicates a forward-looking perspective, emphasizing the relevance of the findings beyond the study itself.",
+            "confidence_score": 0.85
         }
     ],
-    "overall_theme": "The research explores the effectiveness of using puppets as interactive tools to engage elementary school students in learning about probability.",
-    "detailed_summary": "This research paper discusses the innovative use of puppets as educational tools to engage 9 to 10-year-old students in discussions about probability. The authors highlight how puppets not only facilitate classroom discourse by presenting probabilistic arguments for critique but also enrich the learning experience by introducing extreme and unusual examples of concepts. Additionally, the element of surprise introduced by the puppets captures students' attention and enhances their involvement in the subject matter. Overall, the study emphasizes the positive impact of interactive and unexpected teaching methods on student engagement and understanding of probability."
+    "overall_theme": "The research investigates the interplay between actual expertise and social status in determining influence within teams, emphasizing the role of perceived expertise and the impact of intragroup conflicts.",
+    "detailed_summary": "This study examines how team members' actual expertise and social status affect their influence over team processes through perceived expertise, guided by expectation states theory and expertise utilization literature. It explores the conditions under which teams prioritize perceived expertise or social status, presenting a contingency model that links the importance of these factors to types of intragroup conflicts. Utilizing multiwave survey data from 50 student project teams at a national research institute in South Korea, the findings reveal that both actual expertise and social status have direct and indirect effects on member influence through perceived expertise. Notably, social status drives perceived expertise in the early stages of projects, while actual expertise becomes more significant in later stages. Additionally, perceived experts are more influential in high task conflict situations or low relationship conflict scenarios. The authors conclude by discussing the implications of these findings for future research and practical applications in team dynamics."
 }

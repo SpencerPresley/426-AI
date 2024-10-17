@@ -1,0 +1,166 @@
+[
+    {
+        "classifications": [
+            {
+                "abstract": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise. We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams. To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts. Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise. Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise. Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low. We discuss the implications of these findings for research and practice.",
+                "categories": [
+                    "Social sciences",
+                    "Business"
+                ],
+                "reasoning": "The abstract primarily deals with the interaction between team dynamics, social status, and perceived expertise, which are central themes in social sciences as they relate to human behavior, group processes, and social structures. Additionally, the context of team dynamics and influence in a project setting is also relevant to business research, as it involves organizational behavior and management practices within teams.",
+                "confidence_score": 0.95
+            }
+        ],
+        "reflection": "The classification of this abstract was relatively straightforward as it clearly fits into the domains of social sciences and business. The focus on team dynamics, social status, and expertise utilization aligns well with these categories. However, the challenge was ensuring that the classification was not influenced by the specific methodologies used in the study but rather focused on the broader themes of research. Ensuring a clear distinction between methodology and thematic content can be improved by always referring back to the core research questions and objectives.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The methodologies assistant has correctly identified the relevant methods used in the research. However, it would be beneficial to provide a more detailed explanation of how 'classroom discourse' specifically applies to the study's context. Overall, the identification is relevant, and the confidence scores are well-supported by the passages."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis provided by this assistant is thorough and aligns well with the overall theme and specific meanings of the sentences. The detailed summary captures the essence of the abstract accurately, and there are no areas for improvement at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The summary assistant has done an excellent job capturing the main ideas of the abstract. The reasoning provided is clear, and the summary reflects the core focus of the research without being bogged down by methodological specifics. There is no additional feedback necessary as the work is sufficient."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise. We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams. To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts. Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise. Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise. Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low. We discuss the implications of these findings for research and practice.",
+                "categories": [
+                    "Sociology, demography, and population studies",
+                    "Social sciences, other"
+                ],
+                "reasoning": "The abstract focuses on the dynamics of influence within team processes, examining how perceived expertise, actual expertise, and social status affect team interactions and decision-making. This relates to 'Sociology, demography, and population studies' because it investigates social dynamics and status within groups. Additionally, the research fits 'Social sciences, other' as it explores complex social behaviors and relationships in a structured setting using theoretical frameworks and empirical data, which do not fit into more specific social science categories provided.",
+                "confidence_score": 0.85
+            }
+        ],
+        "reflection": "I struggled a bit with determining whether the study should be classified under 'Sociology, demography, and population studies' or just 'Social sciences, other' due to its focus on team dynamics and influence processes. The abstract blends elements of social psychology and sociology, making it challenging to pinpoint the exact classification. Understanding the specific focus on social status and expertise within group interactions helped clarify the classification.",
+        "feedback": [
+            {
+                "assistant_name": "methodologies",
+                "feedback": "The methodologies assistant correctly identified the use of surveys as a method, but the focus on 'expectation states theory' and 'expertise utilization literature' could be emphasized more as they form the theoretical framework, not just the methodology."
+            },
+            {
+                "assistant_name": "abstract_sentence_analysis",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract_summary",
+                "feedback": "The summary was accurate and captured the key elements of the research effectively. It highlighted the balance between expertise and social status in team dynamics, which is central to the study's theme."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise. We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams. To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts. Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise. Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise. Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low. We discuss the implications of these findings for research and practice.",
+                "categories": [
+                    "Sociology, general"
+                ],
+                "reasoning": "The abstract explores social dynamics within teams, specifically focusing on how social status and perceived expertise influence team processes. It draws on sociological theories like expectation states theory to understand these dynamics. The focus on team member interactions, social status, and how expertise is perceived and utilized aligns well with the sociology domain, particularly in understanding group behavior and influence.",
+                "confidence_score": 0.85
+            }
+        ],
+        "reflection": "I initially struggled with determining whether the abstract should be classified under 'Sociology, general' or 'Sociology, demography, and population studies nec'. The abstract does not focus on population studies or demography but rather on social interactions within teams, making 'Sociology, general' the appropriate category. Better clarity in distinguishing between general sociology and more specific subfields could help alleviate this confusion in future classifications.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies",
+                "feedback": "The identification of methodologies such as 'puppets as tools' and 'classroom discourse' seems unrelated to the current abstract. It appears there was a mix-up with a different abstract. The methodology assistant needs to ensure the correct abstract is being analyzed."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary",
+                "feedback": "The provided summary seems to relate to a different abstract. Ensure that the correct abstract is being summarized to avoid confusion and misclassification."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise. We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams. To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts. Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise. Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise. Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low. We discuss the implications of these findings for research and practice.",
+                "categories": [
+                    "Social sciences nec"
+                ],
+                "reasoning": "The abstract deals with examining the dynamics within teams, focusing on how actual expertise and social status influence team processes. It uses theoretical frameworks like expectation states theory and expertise utilization literature, which are rooted in social science research. The study investigates the effects of perceived expertise on influence relationships within teams, considering different types of intragroup conflicts. These themes are closely related to social sciences as they deal with understanding human behavior and social interactions within group settings. The study's focus on team dynamics, influence, and conflict aligns it with the 'Social sciences nec' category.",
+                "confidence_score": 0.9
+            }
+        ],
+        "reflection": "I found it challenging to ensure that the classification was focused solely on the themes of the research rather than the specific methods used. The abstract contains elements that could fall under multiple categories, but the core theme relates to team dynamics and social interactions, which aligns with social sciences. It would be helpful to have more detailed guidance on distinguishing between closely related categories.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The methodologies assistant correctly identified relevant methods related to the study. However, the focus should be on understanding the methods' contribution to the research theme rather than categorizing based on methods alone. The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The sentence-level analysis provided clear insights into each part of the abstract, which assisted in understanding the overall theme. The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The summary assistant effectively captured the essence of the abstract and highlighted the main points. The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise. We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams. To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts. Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise. Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise. Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low. We discuss the implications of these findings for research and practice.",
+                "categories": [
+                    "Business administration and management"
+                ],
+                "reasoning": "The research focuses on understanding team dynamics, specifically the influence of expertise and social status on team processes, which are crucial aspects of business administration and management. The study provides insights into how these factors affect team performance and decision-making, fitting well within the realm of business management research.",
+                "confidence_score": 0.85
+            }
+        ],
+        "reflection": "I found it challenging to determine the appropriate classification because the abstract blends elements of sociology, psychology, and business management. However, the focus on team processes and influence dynamics aligns more closely with business administration and management, which guided my decision. Further clarity on how these themes fit within the given categories would help alleviate similar challenges.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies",
+                "feedback": "The methodologies identified were not directly relevant to the classification task since the abstract focuses more on team dynamics than on specific educational methods. However, the identification was correct and supported by strong reasoning and passages."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary",
+                "feedback": "The summary accurately captures the essence of the abstract and aligns with the main research focus on team influence dynamics, providing a clear overview without unnecessary detail on methodologies. No further feedback is needed."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise. We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams. To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts. Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise. Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise. Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low. We discuss the implications of these findings for research and practice.",
+                "categories": [
+                    "Organizational leadership"
+                ],
+                "reasoning": "The abstract focuses on the dynamics of influence within teams, exploring how actual expertise and social status impact team processes and perceived expertise. The research highlights how these factors interact with intragroup conflicts and influence relationships in team settings. This aligns with 'Organizational leadership' as it pertains to understanding and managing team dynamics and influence within organizations.",
+                "confidence_score": 0.9
+            }
+        ],
+        "reflection": "The main challenge was determining whether the focus on team dynamics and influence based on expertise and social status falls strictly under 'Organizational leadership' or if it could also relate to broader business management categories. The specificity of the research on team influence and the theoretical framework used guided the classification towards 'Organizational leadership'.",
+        "feedback": [
+            {
+                "assistant_name": "methodologies",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract_sentence_analysis",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract_summary",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    }
+]

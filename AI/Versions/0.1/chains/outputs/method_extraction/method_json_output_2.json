@@ -1,44 +1,12 @@
 {
     "methods": [
-        "questionnaire",
-        "assessment of leadership skills",
-        "evaluation of knowledge and beliefs about dyslexia",
-        "analysis of professional development preparation",
-        "services provision evaluation"
+        "paired sample analysis"
     ],
-    "questionnaire": {
-        "reasoning": "The questionnaire is a specific method used to collect data from K-2 principals regarding their leadership skills and knowledge about dyslexia, serving as a structured approach to gather information for the study.",
+    "paired sample analysis": {
+        "reasoning": "Paired sample analysis is a specific statistical method used to compare two related groups, which in this case refers to the assessments of managers and the corresponding perceptions of employees. This method is crucial for understanding the relationship between perceived organizational commitment and career growth opportunities.",
         "passages": [
-            "A questionnaire assessing leadership skills, knowledge, and beliefs about dyslexia, preparation in reading disorders and/or dyslexia received from degree programs and professional development, and services provided to students with dyslexia was given to K-2 principals serving in schools across the United States."
+            "Based on a paired sample of 161 legal secretaries and their managers"
         ],
-        "confidence_score": 0.95
-    },
-    "assessment of leadership skills": {
-        "reasoning": "Assessing leadership skills is a methodological approach used to evaluate the principals' capabilities in relation to their effectiveness in providing interventions for students with dyslexia.",
-        "passages": [
-            "A questionnaire assessing leadership skills, knowledge, and beliefs about dyslexia..."
-        ],
-        "confidence_score": 0.85
-    },
-    "evaluation of knowledge and beliefs about dyslexia": {
-        "reasoning": "Evaluating knowledge and beliefs about dyslexia is a method that focuses on understanding how principals' perceptions influence their intervention strategies, making it a critical aspect of the research methodology.",
-        "passages": [
-            "A questionnaire assessing leadership skills, knowledge, and beliefs about dyslexia..."
-        ],
-        "confidence_score": 0.85
-    },
-    "analysis of professional development preparation": {
-        "reasoning": "Analyzing the preparation received from degree programs and professional development is a method used to investigate how educational background impacts principals' effectiveness in supporting students with dyslexia.",
-        "passages": [
-            "preparation in reading disorders and/or dyslexia received from degree programs and professional development..."
-        ],
-        "confidence_score": 0.8
-    },
-    "services provision evaluation": {
-        "reasoning": "Evaluating the services provided to students with dyslexia is a method that assesses the practical implications of principals' knowledge and beliefs, linking their leadership to the outcomes for students.",
-        "passages": [
-            "services provided to students with dyslexia was given to K-2 principals..."
-        ],
-        "confidence_score": 0.8
+        "confidence_score": 0.9
     }
 }
