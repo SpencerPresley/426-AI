@@ -66,7 +66,7 @@ def process_abstracts(
     json_structure: str,
     method_json_format: str,
     setence_analysis_json_example: str,
-    index: int = 0
+    index: int = 0,
 ):
 
     for i, abstract in enumerate(abstracts):

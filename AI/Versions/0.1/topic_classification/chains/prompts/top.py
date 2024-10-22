@@ -200,7 +200,9 @@ top_classification_system_message = PromptTemplate(
 """
 )
 
-top_classification_parser = PydanticOutputParser(pydantic_object=TopClassificationOutput)
+top_classification_parser = PydanticOutputParser(
+    pydantic_object=TopClassificationOutput
+)
 pytdantic_parser = PydanticOutputParser(pydantic_object=TopClassificationOutput)
 
 from langchain.prompts import PromptTemplate

@@ -1,8 +1,10 @@
 import json
 import sys
 import os
+
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from data.paper_metadata_model import abstracts
+
 print(abstracts)
 input("Press Enter to continue...")
 # abstracts = []

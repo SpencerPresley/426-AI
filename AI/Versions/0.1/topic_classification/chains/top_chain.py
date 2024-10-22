@@ -32,9 +32,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 print("Initializing LLM...")
 llm = GoogleGenerativeAI(
-    model="gemini-1.5-pro",
-    google_api_key=google_api_key,
-    streaming=True
+    model="gemini-1.5-pro", google_api_key=google_api_key, streaming=True
 )
 print("LLM initialized.")
 
@@ -124,7 +122,9 @@ def get_json_outputs(i):
     return method_json_output, abstract_chain_output, abstract_summary_output
 
 
-def process_top_classification_chain(abstracts: List[str], taxonomy, parent_category=None):
+def process_top_classification_chain(
+    abstracts: List[str], taxonomy, parent_category=None
+):
     print("Processing top classification chain...")
     print("Getting top categories...")
     categories = taxonomy.get_top_categories()
@@ -173,8 +173,11 @@ def process_top_classification_chain(abstracts: List[str], taxonomy, parent_cate
     """
     print("Json classification form created.")
 
-    abstract_cat_dict = {abstract_i: {'top': None, 'mid': None, 'low': None} for abstract_i in range(len(abstracts))}
-    
+    abstract_cat_dict = {
+        abstract_i: {"top": None, "mid": None, "low": None}
+        for abstract_i in range(len(abstracts))
+    }
+
     print("Processing top classification chain...")
     for i, abstract in enumerate(abstracts):
         print(f"Processing abstract {i+1} of {len(abstracts)}...")
@@ -190,7 +193,7 @@ def process_top_classification_chain(abstracts: List[str], taxonomy, parent_cate
         try:
             low_level_classified = False
             while not low_level_classified:
-                level_for_file = 'top_classification_output_'
+                level_for_file = "top_classification_output_"
                 top_classification_chain = create_top_classification_chain(
                     categories=categories,
                     method_json_format=method_json_format,
@@ -234,10 +237,9 @@ def process_top_classification_chain(abstracts: List[str], taxonomy, parent_cate
                     )
                     json.dump(top_classification_output, f, indent=4)
                 print("File written.")
-            
+
             print("Accessing top categories for each classification...")
 
-                
         except Exception as e:
             print(f"Error: {type(e).__name__}: {str(e)}")
             import traceback

@@ -1,0 +1,58 @@
+{
+    "abstract_0": {
+        "Social sciences": {
+            "Sociology, demography, and population studies": {
+                "Sociology, general": {}
+            },
+            "Social sciences, other": {
+                "Social sciences nec": {}
+            }
+        },
+        "Business": {
+            "Business administration and management": {
+                "Organizational leadership": {}
+            }
+        }
+    },
+    "abstract_1": {
+        "Business": {
+            "Business administration and management": {
+                "Business management and administration": {}
+            }
+        },
+        "Social sciences": {
+            "Economics": {
+                "Development economics and international development": {},
+                "Economics, general": {}
+            },
+            "Public policy analysis": {
+                "Public policy analysis, general": {}
+            }
+        }
+    },
+    "abstract_2": {
+        "Social sciences": {
+            "Sociology, demography, and population studies": {
+                "Sociology, general": {}
+            }
+        },
+        "Business": {
+            "Business administration and management": {
+                "Business management and administration": {},
+                "Organizational leadership": {}
+            }
+        }
+    },
+    "abstract_3": {
+        "Business": {
+            "Business administration and management": {
+                "Business management and administration": {}
+            }
+        },
+        "Social sciences": {
+            "Social sciences, other": {
+                "Social sciences nec": {}
+            }
+        }
+    }
+}
