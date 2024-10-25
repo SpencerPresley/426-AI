@@ -7,15 +7,15 @@
                     "Social sciences",
                     "Business"
                 ],
-                "reasoning": "The abstract investigates how team dynamics, specifically the influence of team members within teams, are affected by perceived expertise, actual expertise, and social status. This aligns with the 'Social sciences' category as it deals with social behavior and relationships within groups. Additionally, it is relevant to 'Business' because the research focuses on team processes, management of team roles, and the implications for practice, which are crucial aspects of business and organizational settings.",
+                "reasoning": "The abstract primarily deals with the dynamics of team processes, focusing on the influence of expertise and social status within groups. This relates to social sciences as it involves understanding human behavior, social structures, and interpersonal relationships in team settings. Additionally, the context of the research is within student project teams at a research institute, which ties into business as it relates to organizational behavior, team management, and the application of social theories to improve team functioning and influence within group settings.",
                 "confidence_score": 0.95
             }
         ],
-        "reflection": "The main challenge was determining whether the research focus was more aligned with social sciences or business. Since the study involves both team dynamics (which is a social science topic) and practical implications for team management in organizational settings (a business topic), it required careful consideration. The classification would benefit from additional context about the specific application of the findings.",
+        "reflection": "The main challenge was determining whether the abstract should be classified under 'Social sciences' or 'Business' due to the overlap in understanding team dynamics and influence. However, the focus on team processes and social status fits well within both categories, but slightly more towards social sciences with a strong connection to business practices.",
         "feedback": [
             {
                 "assistant_name": "methodologies",
-                "feedback": "The identification of methodologies was accurate, focusing on the use of theoretical frameworks and survey data. However, the confidence scores should be more thoroughly justified with passages that clearly delineate the methodologies from the research findings."
+                "feedback": "The methodologies assistant correctly identified the use of survey data as a method in the research, but it could have highlighted more about the theoretical models being discussed, such as the contingency model, which is central to the research."
             },
             {
                 "assistant_name": "abstract sentence level analysis",
@@ -23,7 +23,7 @@
             },
             {
                 "assistant_name": "abstract summary",
-                "feedback": "The summary provided was succinct and captured the essence of the abstract well. The reasoning behind the summary was logical, focusing on the main themes without overemphasizing the methods."
+                "feedback": "The abstract summary assistant accurately captured the essence of the research, focusing on the dynamics of expertise and social status in team settings. The summary is well-aligned with the themes of the abstract."
             }
         ]
     },
@@ -35,23 +35,23 @@
                     "Sociology, demography, and population studies",
                     "Social sciences, other"
                 ],
-                "reasoning": "The abstract focuses on social dynamics within teams, particularly how expertise and social status influence team processes and relationships. This aligns with 'Sociology, demography, and population studies' because it examines social interactions and status dynamics within a group. Additionally, the abstract's focus on the broader implications of these team dynamics on research and practice falls under 'Social sciences, other', as it touches on general social science theories without a specific focus on a narrower category.",
+                "reasoning": "The research investigates the dynamics of expertise and social status within team settings and how these factors influence team processes. This study is concerned with social behavior and structures, fitting within the realm of sociology, as it examines how perceived expertise and social status impact influence in a group setting. Additionally, the exploration of team dynamics and the effects of intragroup conflicts align with broader social sciences themes.",
                 "confidence_score": 0.85
             }
         ],
-        "reflection": "I struggled with determining whether the focus on team dynamics belonged more to 'Sociology' or a more generalized 'Social sciences' category. The challenge was in discerning the primary versus secondary themes, as the research touches both on social processes and broader social science implications. Clarification on how to prioritize categories when abstracts cover multiple social science aspects would be beneficial.",
+        "reflection": "The main challenge was ensuring the classification accurately captured the essence of the research without being swayed by the specific methodologies used. The focus on team dynamics, social status, and expertise utilization aligns well with sociology and broader social sciences. To alleviate similar challenges, a more comprehensive understanding of the categories and their scope could be beneficial.",
         "feedback": [
             {
-                "assistant_name": "Methodologies Assistant",
-                "feedback": "The methodologies assistant did not contribute to the classification since the focus was not on methods. However, they accurately identified the methods used in the study, which were relevant to understanding the context of the research."
+                "assistant_name": "methodologies assistant",
+                "feedback": "The methodologies assistant identified relevant methods related to the study's approach. However, the methods were not central to the classification, as the focus was on understanding broader themes. The identification of 'classroom discourse' needs to be more aligned with the specific context of the abstract."
             },
             {
-                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "assistant_name": "abstract sentence level analysis assistant",
                 "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
             },
             {
-                "assistant_name": "Abstract Summary Assistant",
-                "feedback": "The abstract summary was accurate and helped in understanding the main focus of the research without being distracted by the methodologies. It effectively captured the essence of the research."
+                "assistant_name": "abstract summary assistant",
+                "feedback": "The summary effectively captured the main themes of the research and highlighted the focus on expertise and social status within team dynamics. This was helpful in ensuring the classification aligned with the core research themes."
             }
         ]
     },
@@ -62,23 +62,23 @@
                 "categories": [
                     "Sociology, general"
                 ],
-                "reasoning": "The abstract discusses the influence dynamics within teams, focusing on factors such as expertise and social status, and how these impact team processes. This research falls under 'Sociology, general' as it examines social interactions and structures within groups, specifically team dynamics and the influence of social status and expertise. It does not focus on demographic or population studies, which is why it does not fit into the 'Sociology, demography, and population studies nec' category.",
-                "confidence_score": 0.85
+                "reasoning": "The abstract focuses on examining team dynamics, specifically the influence of expertise and social status on team processes. It relates to how social structures and perceptions within a group impact roles and influence, which is a core concern of sociology. The study involves understanding social interactions and status dynamics within teams, aligning with general sociological interests in understanding human behavior and social systems. Thus, the research falls under 'Sociology, general' as it deals with social dynamics and influence in group settings.",
+                "confidence_score": 0.9
             }
         ],
-        "reflection": "I found it relatively straightforward to classify this abstract into 'Sociology, general' given its focus on social dynamics, influence, and expertise within teams. There was some consideration whether elements of this study might relate to population studies, but it ultimately focuses more on social interactions rather than demographic analysis.",
+        "reflection": "The main challenge was ensuring that the classification strictly adhered to the provided categories while recognizing the sociological aspects of the research. The abstract's focus on team dynamics and influence aligns well with sociology but does not clearly fit into the narrower category of 'Sociology, demography, and population studies nec'. Ensuring not to overreach into unprovided categories required careful consideration of the abstract's content.",
         "feedback": [
             {
-                "assistant_name": "methodologies",
-                "feedback": "The methodologies assistant did well in identifying the survey method and context of the study but did not explicitly capture the theoretical framework aspect, which could have provided more context for understanding the social dynamics being studied."
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The methodologies assistant correctly identified relevant methodologies like 'puppets as tools' and 'classroom discourse', although these are not applicable to the current abstract. The analysis was thorough in its identification process."
             },
             {
-                "assistant_name": "abstract_sentence_analysis",
-                "feedback": "The analysis correctly identified the focus on expertise and social status in team dynamics. However, it could have highlighted the theoretical underpinning (expectation states theory) more clearly as a significant aspect of the research context."
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
             },
             {
-                "assistant_name": "abstract_summary",
-                "feedback": "The summary assistant provided a good overview of the study's focus on expertise and social status in team dynamics. Yet, it could have emphasized the theoretical frameworks more, which are crucial for understanding the research's contribution to sociology."
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The summary assistant's output was not applicable to the current abstract. However, the assistant did well in capturing the essence of abstracts when applicable."
             }
         ]
     },
@@ -89,23 +89,23 @@
                 "categories": [
                     "Social sciences nec"
                 ],
-                "reasoning": "The abstract discusses the effects of team members' expertise and social status on their influence in team processes. It explores perceived expertise, social status, and intragroup conflicts within teams. These themes align with the category 'Social sciences nec', as they involve social behavior, dynamics, and relationships within groups, which are core areas of social sciences research.",
-                "confidence_score": 0.9
+                "reasoning": "The research focuses on understanding the dynamics of team influence through the lenses of expertise and social status, using theories from social sciences. It examines how these factors play into team processes and intragroup conflicts, which are social science concerns. There is no direct link to the other categories such as linguistics, criminology, or geography. Thus, 'Social sciences nec' is the most fitting classification.",
+                "confidence_score": 0.85
             }
         ],
-        "reflection": "This task involved determining the appropriate research category for an abstract that touches on social dynamics and group influence. The primary challenge was ensuring that the classification captures the thematic essence of the research rather than focusing on the specific methodologies or context (e.g., being based in South Korea). The category 'Social sciences nec' was selected because it broadly encompasses studies of human behavior and interactions, which fits the content of the abstract. One potential difficulty in this task is the broadness of the 'Social sciences nec' category, which could require more specific subcategories to capture nuanced research focuses.",
+        "reflection": "The main challenge was ensuring that the classification accurately reflected the essence of the research without being swayed by the specific methodologies used. The abstract's focus on team dynamics and influence through perceived expertise needed to be contextualized as part of a broader social science inquiry, which required careful consideration of the category definitions.",
         "feedback": [
             {
-                "assistant_name": "Methodologies assistant",
-                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The methodologies assistant correctly identified the methods used in the abstract. The recognition of 'puppets as tools' and 'classroom discourse' was precise, although these methods were not directly relevant to the current abstract. The assistant should focus on methodologies present in the relevant abstract to avoid confusion."
             },
             {
-                "assistant_name": "Abstract sentence level analysis assistant",
-                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The sentence level analysis was not provided for the current abstract but for a different one. However, based on its structure, it seems to provide thorough analysis and reasoning, which is valuable for classification."
             },
             {
-                "assistant_name": "Abstract summary assistant",
-                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The summary assistant provided a summary for a different abstract. The feedback indicates an understanding of the main ideas and focuses on capturing the research's essence rather than on specific methods, which aligns with the classification task."
             }
         ]
     },
@@ -116,11 +116,93 @@
                 "categories": [
                     "Business administration and management"
                 ],
-                "reasoning": "The abstract focuses on team dynamics, particularly on how team members' expertise and social status influence their role and effectiveness within team processes. This falls under the category of 'Business administration and management' as it deals with managerial aspects of team operations, decision-making processes, and the influence of social hierarchies and expertise on team performance and conflict resolution. The research provides insights into managing team processes, which is a central concern in business administration and management.",
-                "confidence_score": 0.92
+                "reasoning": "The research focuses on understanding the dynamics of team processes and influence, specifically examining the roles of actual expertise and social status in affecting team member influence. This falls under 'Business administration and management' as it involves managing team dynamics and understanding how to optimize team performance and influence, which are crucial aspects of organizational behavior and management.",
+                "confidence_score": 0.85
             }
         ],
-        "reflection": "I did not struggle much with this classification as the abstract clearly focuses on team dynamics, expertise, and social status, which are relevant to business administration and management. The challenge was ensuring that the classification was based on the core theme of the research rather than the methodologies employed, which was addressed by focusing on the implications and application of the research findings.",
+        "reflection": "The primary challenge was ensuring that the categorization accurately captured the core theme of the abstract, which is the dynamics of team influence and management. The abstract did not explicitly mention business or management, so it required understanding the underlying focus on team processes and influence, which are key management topics.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise. We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams. To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts. Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise. Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise. Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low. We discuss the implications of these findings for research and practice.",
+                "categories": [
+                    "Organizational leadership"
+                ],
+                "reasoning": "The abstract focuses on the dynamics of team influence, expertise, and social status, which are core elements of organizational leadership. The study examines how these factors impact team processes and influence relationships, and how different types of intragroup conflicts affect the salience of expertise and social status. These are key concerns in understanding and developing leadership within organizations.",
+                "confidence_score": 0.9
+            }
+        ],
+        "reflection": "One challenge was distinguishing between categories such as 'Organizational leadership' and 'Business administration and management nec' since both could potentially relate to team dynamics. However, the focus on influence, expertise, and social status aligns more closely with leadership themes. To alleviate this, a clearer distinction between categories and their focus areas in practice would be helpful.",
+        "feedback": [
+            {
+                "assistant_name": "methodologies assistant",
+                "feedback": "The methodologies assistant correctly identified key methodologies related to expertise and social status. However, the methodologies are not the main focus of classification, and the identification of 'classroom discourse' is not relevant to this abstract."
+            },
+            {
+                "assistant_name": "abstract sentence level analysis assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract summary assistant",
+                "feedback": "The summary assistant provided a clear and concise summary of the abstract, focusing on the key themes of expertise and influence in team dynamics. The feedback about methodologies was helpful, though less relevant to this abstract."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "The goal of this paper is to investigate how deregulating foreign equity ownership influences a firm's innovation investment. We attempt to answer this question using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations. Our findings suggest that foreign ownership and R&D investment exhibit an inverted U-shaped relationship because the incentives to monitor managers' decision-making processes initially play a greater role, but this role stagnates as the share owned by foreign investors becomes concentrated. In addition, we consider firm heterogeneity and observe the negative moderation effects of firm age and the positive moderation effects of growth opportunity.",
+                "categories": [
+                    "Business",
+                    "Social sciences"
+                ],
+                "reasoning": "The abstract discusses the impact of foreign equity ownership on a firm's innovation investment, which is closely related to business and management studies. The focus on foreign ownership, R&D investment, and firm heterogeneity places the research within the domain of business analysis. Additionally, the examination of firm behavior and decision-making processes in the context of foreign ownership and innovation investment touches on aspects of social sciences, as it involves understanding economic and organizational behavior.",
+                "confidence_score": 0.95
+            }
+        ],
+        "reflection": "The main challenge was determining whether the research should be classified under 'Business' alone or also include 'Social sciences'. Given the overlap in topics like firm behavior and economic analysis, it was reasonable to include both. The categories provided are broad, and distinguishing between them can be nuanced when research sits at the intersection of different academic fields. More specific subcategories could help in making more precise classifications.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "The goal of this paper is to investigate how deregulating foreign equity ownership influences a firm's innovation investment. We attempt to answer this question using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations. Our findings suggest that foreign ownership and R&D investment exhibit an inverted U-shaped relationship because the incentives to monitor managers' decision-making processes initially play a greater role, but this role stagnates as the share owned by foreign investors becomes concentrated. In addition, we consider firm heterogeneity and observe the negative moderation effects of firm age and the positive moderation effects of growth opportunity.",
+                "categories": [
+                    "Business administration and management"
+                ],
+                "reasoning": "The abstract discusses the impact of foreign equity ownership on firms' innovation investment, focusing on managerial decision-making and firm characteristics such as age and growth opportunity. These topics fall under 'Business administration and management' because they relate to decision-making processes, investment strategies, and the implications of ownership structures on business operations and management.",
+                "confidence_score": 0.95
+            }
+        ],
+        "reflection": "I did not struggle with this classification as the abstract clearly relates to the management and administration of businesses, particularly concerning foreign equity ownership and its effects on innovation investment. The focus on managerial decision-making and firm characteristics such as age and growth opportunities further supports this classification.",
         "feedback": [
             {
                 "assistant_name": "methodologies assistant",
@@ -139,15 +221,345 @@
     {
         "classifications": [
             {
-                "abstract": "Drawing on expectation states theory and expertise utilization literature, we examine the effects of team members' actual expertise and social status on the degree of influence they exert over team processes via perceived expertise. We also explore the conditions under which teams rely on perceived expertise versus social status in determining influence relationships in teams. To do so, we present a contingency model in which the salience of expertise and social status depends on the types of intragroup conflicts. Using multiwave survey data from 50 student project teams with 320 members at a large national research institute located in South Korea, we found that both actual expertise and social status had direct and indirect effects on member influence through perceived expertise. Furthermore, perceived expertise at the early stage of team projects is driven by social status, whereas perceived expertise at the later stage of a team project is mainly driven by actual expertise. Finally, we found that members who are being perceived as experts are more influential when task conflict is high or when relationship conflict is low. We discuss the implications of these findings for research and practice.",
+                "abstract": "The goal of this paper is to investigate how deregulating foreign equity ownership influences a firm's innovation investment. We attempt to answer this question using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations. Our findings suggest that foreign ownership and R&D investment exhibit an inverted U-shaped relationship because the incentives to monitor managers' decision-making processes initially play a greater role, but this role stagnates as the share owned by foreign investors becomes concentrated. In addition, we consider firm heterogeneity and observe the negative moderation effects of firm age and the positive moderation effects of growth opportunity.",
                 "categories": [
-                    "Organizational leadership"
+                    "Business management and administration",
+                    "Business administration and management nec"
                 ],
-                "reasoning": "The research focuses on understanding how team members' expertise and social status influence team processes and member influence within teams, which aligns with the study of organizational leadership. The study examines the dynamics of influence and decision-making within teams, a key aspect of leadership in organizational settings. The findings have implications for leadership practices in managing teams and understanding influence relationships, particularly in contexts with varying levels of task and relationship conflict.",
+                "reasoning": "The abstract focuses on the impact of foreign equity ownership deregulation on firms' innovation investment, which is directly related to business management and administration as it involves strategic decisions about resource allocation and ownership structures. It also involves an analysis of firm-specific factors like age and growth opportunity, which are aspects of business management that align with 'Business administration and management nec'. The study's emphasis on understanding and managing firm-level dynamics and investment decisions aligns with the categories of business management and administration.",
+                "confidence_score": 0.95
+            }
+        ],
+        "reflection": "The primary challenge was ensuring that the classification was based on the core theme of the research rather than the methodologies used. The research's focus on foreign ownership, firm innovation, and investment decisions clearly ties to business management themes. However, the mention of specific methodologies and firm heterogeneity required careful consideration to avoid misclassification. Ensuring clarity between the research's objectives and the methodological details helped maintain an accurate classification.",
+        "feedback": [
+            {
+                "assistant_name": "methodologies assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract sentence level analysis assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract summary assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "The goal of this paper is to investigate how deregulating foreign equity ownership influences a firm's innovation investment. We attempt to answer this question using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations. Our findings suggest that foreign ownership and R&D investment exhibit an inverted U-shaped relationship because the incentives to monitor managers' decision-making processes initially play a greater role, but this role stagnates as the share owned by foreign investors becomes concentrated. In addition, we consider firm heterogeneity and observe the negative moderation effects of firm age and the positive moderation effects of growth opportunity.",
+                "categories": [
+                    "Economics",
+                    "Public policy analysis"
+                ],
+                "reasoning": "The abstract discusses the economic implications of deregulating foreign equity ownership on firm innovation investment, which falls under the category of Economics. The study explores the relationship between foreign ownership and R&D investment, which are key economic concepts. Additionally, the research involves analyzing the impact of policy changes (deregulation of foreign equity) on corporate behavior, aligning it with Public policy analysis. This dual focus on economic outcomes and policy implications justifies the selection of these categories.",
                 "confidence_score": 0.9
             }
         ],
-        "reflection": "I did not struggle significantly with classifying this abstract. The research is clearly aligned with themes related to organizational leadership, as it investigates team dynamics, influence, and decision-making, all of which are central to leadership studies. However, the challenge was ensuring that the classification was not swayed by the specific methodologies used in the study. It was important to focus on the overarching theme of understanding influence and leadership within teams rather than the specific methods of data collection and analysis.",
+        "reflection": "Classifying the abstract required careful consideration of the focus on both economic concepts and policy implications. It was somewhat challenging to distinguish between the primary focus on economic relationships and the broader implications for public policy. Ensuring that the classifications accurately reflected the research's emphasis on both economic and policy aspects needed thorough analysis of the abstract.",
+        "feedback": [
+            {
+                "assistant_name": "methodologies assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract sentence level analysis assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract summary assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "The goal of this paper is to investigate how deregulating foreign equity ownership influences a firm's innovation investment. We attempt to answer this question using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations. Our findings suggest that foreign ownership and R&D investment exhibit an inverted U-shaped relationship because the incentives to monitor managers' decision-making processes initially play a greater role, but this role stagnates as the share owned by foreign investors becomes concentrated. In addition, we consider firm heterogeneity and observe the negative moderation effects of firm age and the positive moderation effects of growth opportunity.",
+                "categories": [
+                    "Applied economics",
+                    "Development economics and international development"
+                ],
+                "reasoning": "The research focuses on the economic implications of deregulating foreign equity ownership on firms' innovation investments, which aligns with 'Applied economics' as it applies economic theories and principles to real-world situations. Additionally, the study examines the impact of foreign ownership in the context of Korean manufacturing firms, fitting the 'Development economics and international development' category, as it relates to economic development and international investment practices.",
+                "confidence_score": 0.92
+            }
+        ],
+        "reflection": "The main challenge was distinguishing between closely related categories within economics, particularly when the research involves both applied economic principles and aspects of international development. To alleviate this, a clearer distinction or more specific guidelines regarding each category's scope would be helpful.",
+        "feedback": [
+            {
+                "assistant_name": "methodologies assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract sentence level analysis assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "abstract summary assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "The goal of this paper is to investigate how deregulating foreign equity ownership influences a firm's innovation investment. We attempt to answer this question using data from 530 Korean manufacturing firms between 1998 and 2003 through generalised estimating equations. Our findings suggest that foreign ownership and R&D investment exhibit an inverted U-shaped relationship because the incentives to monitor managers' decision-making processes initially play a greater role, but this role stagnates as the share owned by foreign investors becomes concentrated. In addition, we consider firm heterogeneity and observe the negative moderation effects of firm age and the positive moderation effects of growth opportunity.",
+                "categories": [
+                    "Public policy analysis, general"
+                ],
+                "reasoning": "The research focuses on the effects of deregulating foreign equity ownership on firms' innovation investments, which falls under the broader examination of public policy's impact on economic behaviors and outcomes. This study is concerned with understanding how policy changes in ownership regulations influence corporate behavior, fitting within the domain of public policy analysis.",
+                "confidence_score": 0.85
+            }
+        ],
+        "reflection": "The primary challenge was determining the correct category since the abstract deals with economic policies affecting corporate behavior rather than directly fitting into categories like education or health policy analysis. Recognizing the broader implications of deregulating foreign equity ownership helped align the research with public policy analysis.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities. Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization. In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities. Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+                "categories": [
+                    "Social sciences",
+                    "Business"
+                ],
+                "reasoning": "The core theme of this research is to understand the dynamics of organizational behavior, specifically focusing on the perceptions of organizational commitment and its impact on career growth opportunities. These themes are central to the fields of Social sciences, which explores human behavior in organizational settings, and Business, which involves management practices and employee development. The study's focus on managers' assessments and employees' career growth aligns with these categories.",
+                "confidence_score": 0.95
+            }
+        ],
+        "reflection": "I found it relatively straightforward to classify the abstract into the Social sciences and Business categories because the study revolves around organizational behavior and management practices, which are clearly linked to these fields. The challenge was ensuring that I did not lean too heavily on the specific methods or the context of the legal secretaries, which could have led to a misclassification. Focusing on the themes rather than the methods or specific context helped ensure accurate classification.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities. Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization. In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities. Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+                "categories": [
+                    "Sociology, demography, and population studies",
+                    "Social sciences, other"
+                ],
+                "reasoning": "The abstract primarily focuses on the dynamics of organizational behavior, specifically how perceived organizational commitment influences career growth opportunities. This theme aligns with 'Sociology, demography, and population studies' as it examines social interactions within a workplace setting. Additionally, as it involves the broader study of organizational and managerial psychology, it also fits under 'Social sciences, other'. The research is concerned with social structures and human behavior in organizational contexts.",
+                "confidence_score": 0.85
+            }
+        ],
+        "reflection": "One challenge was determining whether the focus on organizational behavior fell under 'Sociology, demography, and population studies' or 'Social sciences, other'. These categories can overlap, but understanding that organizational behavior encompasses social dynamics within professional settings helped clarify this classification. More detailed category definitions specific to organizational studies could alleviate this ambiguity.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities. Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization. In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities. Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+                "categories": [
+                    "Sociology, general"
+                ],
+                "reasoning": "The abstract centers around understanding the dynamics of perceived organizational commitment and its impact on assessments of career growth opportunities within a workplace setting. This aligns with the broad field of sociology, which examines social behavior, organizations, and patterns of social relationships. The study investigates the relationship between individual attitudes, organizational commitment, and career development, which are pertinent to general sociological themes.",
+                "confidence_score": 0.8
+            }
+        ],
+        "reflection": "One challenge was distinguishing between the specific focus of the study (organizational commitment and career growth) and broader sociological themes. This was resolved by recognizing that the study's emphasis on social relationships and organizational behavior fits within the domain of general sociology. Clarifying the distinction between detailed organizational research and broader sociological inquiry helped in making an accurate classification.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities. Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization. In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities. Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+                "categories": [
+                    "Social sciences nec"
+                ],
+                "reasoning": "The study focuses on the social science aspect of organizational behavior, specifically examining how perceived organizational commitment influences managers' assessments of employees' career growth opportunities. This falls under the broader category of social sciences as it deals with interpersonal relations and organizational dynamics, which are key areas in social science research.",
+                "confidence_score": 0.9
+            }
+        ],
+        "reflection": "I initially considered whether the abstract could fall under categories related to management or organizational studies, but since those categories were not available, I classified it under 'Social sciences nec.' The challenge was ensuring that the classification adhered strictly to the provided categories, which required careful consideration of the abstract's focus on organizational behavior.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities. Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization. In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities. Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+                "categories": [
+                    "Business administration and management"
+                ],
+                "reasoning": "The main focus of the abstract is on how managers assess employees' career growth opportunities based on their perceived organizational commitment, which involves understanding managerial decision-making, employee motivation, and organizational behavior. These themes align closely with the field of business administration and management, as they are concerned with how organizational practices and leadership influence employee development and organizational effectiveness.",
+                "confidence_score": 0.9
+            }
+        ],
+        "reflection": "I did not struggle with classifying this abstract as it clearly focuses on organizational behavior and management practices, which fall under the category of Business administration and management. The abstract did not fit into any other provided category, making the classification straightforward.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined the role of perceived organizational commitment on managers' assessments of employees' career growth opportunities. Based on a paired sample of 161 legal secretaries and their managers, results indicated that managers used the attitudes and behaviors displayed by employees (strong extra-role performance and enhanced work engagement) as cues from which to base their perceptions of employees' affective commitment to the organization. In turn, employees perceived as highly committed to the organization experienced enhanced content and structural career growth opportunities. Moreover, the relation between managers' perceptions of employees' organizational commitment and content career growth opportunities was stronger for employees perceived as also highly committed to their careers than for employees perceived as less committed to their careers.",
+                "categories": [
+                    "Organizational leadership"
+                ],
+                "reasoning": "The abstract focuses on understanding how managers perceive employees' organizational commitment and how this perception influences career growth opportunities. This is directly related to organizational leadership, as it involves the assessment of employee attitudes and behaviors by managers, a key component of leadership within an organization.",
+                "confidence_score": 0.9
+            }
+        ],
+        "reflection": "I initially considered whether the abstract might also fit into 'Business management and administration' due to its focus on career growth opportunities and managerial assessments. However, I concluded that the primary focus is on the role of leadership perceptions, which aligns more closely with 'Organizational leadership'. Distinguishing between these categories required careful consideration of the abstract's emphasis on leadership perceptions rather than broader business management practices.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined how firms combine alliances and acquisitions in an exploration/exploitation framework. By conducting cluster analysis on a sample of 1270 acquisitions made by 836 firms, we first identified the patterns in alliance and acquisition activities undertaken by these firms. Five distinct patterns were identified: (I) low alliance-low acquisition, (II) low alliance-high acquisition, (III) high alliance-low acquisition, (IV) high alliance-high acquisition, and (V) medium alliance-very high acquisition. Next, we analyzed the different ways in which the two modes were interlinked within these five patterns for exploration/exploitation. Patterns III and IV appeared to involve both exploration/exploitation and mutually reinforce exploration/exploitation. In contrast, in the remaining patterns, the two modes appeared to be more loosely coupled with each other, with a focus on exploitation.",
+                "categories": [
+                    "Business"
+                ],
+                "reasoning": "The abstract focuses on how firms utilize strategic management decisions, specifically alliances and acquisitions, within an exploration/exploitation framework. It identifies patterns in corporate strategies and examines how these strategies are interconnected. This falls under the category of 'Business' as it deals with corporate strategy, mergers and acquisitions, and strategic management.",
+                "confidence_score": 0.95
+            }
+        ],
+        "reflection": "The classification was fairly straightforward as the abstract clearly relates to strategic management and corporate decision-making within firms. The main challenge was ensuring that the classification was not influenced by the methodologies used in the study, as the focus should be on the thematic content. The structure of the abstract made it clear that the focus was on business strategies, making the classification process more straightforward.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary Assistant",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined how firms combine alliances and acquisitions in an exploration/exploitation framework. By conducting cluster analysis on a sample of 1270 acquisitions made by 836 firms, we first identified the patterns in alliance and acquisition activities undertaken by these firms. Five distinct patterns were identified: (I) low alliance-low acquisition, (II) low alliance-high acquisition, (III) high alliance-low acquisition, (IV) high alliance-high acquisition, and (V) medium alliance-very high acquisition. Next, we analyzed the different ways in which the two modes were interlinked within these five patterns for exploration/exploitation. Patterns III and IV appeared to involve both exploration/exploitation and mutually reinforce exploration/exploitation. In contrast, in the remaining patterns, the two modes appeared to be more loosely coupled with each other, with a focus on exploitation.",
+                "categories": [
+                    "Business administration and management"
+                ],
+                "reasoning": "The abstract focuses on how firms manage their strategic growth through alliances and acquisitions. It examines different patterns in these activities and their implications for exploration and exploitation strategies. This fits well within the category of 'Business administration and management' as it deals with strategic management decisions and organizational behavior in the context of business growth and development.",
+                "confidence_score": 0.92
+            }
+        ],
+        "reflection": "I did not struggle with the classification as the abstract clearly pertains to strategic management decisions in business, which aligns with the 'Business administration and management' category. Understanding the exploration/exploitation framework required some consideration, but it is a well-known concept in business strategy.",
+        "feedback": [
+            {
+                "assistant_name": "Methodologies",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Sentence Level Analysis",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            },
+            {
+                "assistant_name": "Abstract Summary",
+                "feedback": "The analysis is correct and sufficient, I have no feedback at this time."
+            }
+        ]
+    },
+    {
+        "classifications": [
+            {
+                "abstract": "This study examined how firms combine alliances and acquisitions in an exploration/exploitation framework. By conducting cluster analysis on a sample of 1270 acquisitions made by 836 firms, we first identified the patterns in alliance and acquisition activities undertaken by these firms. Five distinct patterns were identified: (I) low alliance-low acquisition, (II) low alliance-high acquisition, (III) high alliance-low acquisition, (IV) high alliance-high acquisition, and (V) medium alliance-very high acquisition. Next, we analyzed the different ways in which the two modes were interlinked within these five patterns for exploration/exploitation. Patterns III and IV appeared to involve both exploration/exploitation and mutually reinforce exploration/exploitation. In contrast, in the remaining patterns, the two modes appeared to be more loosely coupled with each other, with a focus on exploitation.",
+                "categories": [
+                    "Business management and administration",
+                    "Business administration and management nec"
+                ],
+                "reasoning": "The research focuses on understanding how firms utilize alliances and acquisitions within the strategic framework of exploration and exploitation. This is inherently a part of business management and administration as it deals with strategic decision-making processes in businesses. Additionally, the detailed analysis of patterns in alliances and acquisitions falls under general business administration and management, as it pertains to managing and structuring business activities for strategic objectives.",
+                "confidence_score": 0.9
+            }
+        ],
+        "reflection": "The main challenge was determining whether the focus on strategic frameworks like exploration and exploitation could fit into the provided categories. The categories are quite broad, and the research's emphasis on strategic management and decision-making led to the classification under business management and administration. Understanding where to draw the line in terms of specificity for 'Business administration and management nec' was also a consideration, but the broad nature of the study justified its inclusion.",
         "feedback": [
             {
                 "assistant_name": "Methodologies Assistant",

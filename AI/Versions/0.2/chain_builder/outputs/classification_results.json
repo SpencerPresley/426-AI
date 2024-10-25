@@ -3,14 +3,18 @@
         "Social sciences": {
             "Sociology, demography, and population studies": {
                 "Sociology, general": {}
-            },
-            "Social sciences, other": {
-                "Social sciences nec": {}
             }
         },
         "Business": {
             "Business administration and management": {
+                "Business management and administration": {},
                 "Organizational leadership": {}
+            }
+        },
+        "Education": {
+            "Education research": {
+                "Educational assessment, evaluation, and research methods": {},
+                "Higher education evaluation and research": {}
             }
         }
     },
@@ -23,11 +27,11 @@
         },
         "Social sciences": {
             "Economics": {
-                "Applied economics": {},
-                "Development economics and international development": {}
+                "Econometrics and quantitative economics": {},
+                "Economics, general": {}
             },
-            "Public policy analysis": {
-                "Public policy analysis, general": {}
+            "Sociology, demography, and population studies": {
+                "Sociology, general": {}
             }
         }
     },
@@ -35,13 +39,11 @@
         "Social sciences": {
             "Sociology, demography, and population studies": {
                 "Sociology, general": {}
-            },
-            "Social sciences, other": {
-                "Social sciences nec": {}
             }
         },
         "Business": {
             "Business administration and management": {
+                "Business management and administration": {},
                 "Organizational leadership": {}
             }
         }
@@ -52,6 +54,12 @@
                 "Business management and administration": {},
                 "Business administration and management nec": {}
             }
+        },
+        "Social sciences": {
+            "Economics": {
+                "Economics, general": {}
+            },
+            "Sociology, demography, and population studies": {}
         }
     }
 }

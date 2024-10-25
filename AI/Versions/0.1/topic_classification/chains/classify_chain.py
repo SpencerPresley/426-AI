@@ -42,6 +42,7 @@ class AbstractClassifier:
         self.raw_classification_outputs = []
         self.chat_prompt = chat_prompt
         self.top_classification_parser = top_classification_parser
+        self.current_abstract_index = 0
 
     def _initialize_llm(self):
         self.logger.info("Loading environment variables")
@@ -90,12 +91,7 @@ class AbstractClassifier:
             }
         )
 
-        if abstract_index == 0:
-            self.raw_classification_outputs.append(classification_output.model_dump())
-        if abstract_index == 1:
-            with open("outputs/raw_classification_outputs.json", "w") as f:
-                json.dump(self.raw_classification_outputs, f, indent=4)
-                self.logger.info("Raw classification outputs saved")
+        self.raw_classification_outputs.append(classification_output.model_dump())
 
         classified_categories = self.extract_classified_categories(
             classification_output
@@ -242,6 +238,10 @@ class AbstractClassifier:
         with open(output_path, "w") as f:
             json.dump(self.classification_results, f, indent=4)
 
+    def get_raw_classification_outputs(self):
+        self.logger.info("Getting raw classification outputs")
+        return self.raw_classification_outputs
+
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
@@ -257,5 +257,11 @@ if __name__ == "__main__":
         logger.info("Classification completed")
         classifier.save_classification_results("outputs/classification_results.json")
         logger.info("Classification results saved")
+        raw_classification_outputs = classifier.get_raw_classification_outputs()
+        with open(
+            "outputs/raw_classification_outputs.json", "w"
+        ) as f:
+            json.dump(raw_classification_outputs, f, indent=4)
+        logger.info("Raw classification outputs saved")
     except Exception as e:
         logger.error(f"Error during classification: {e}")
