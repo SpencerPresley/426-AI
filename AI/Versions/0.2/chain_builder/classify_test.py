@@ -5,10 +5,56 @@ from typing import List, Dict
 from dotenv import load_dotenv
 from utils.taxonomy_util import Taxonomy
 from ChainBuilder import ChainManager
-from prompts.top import TopClassificationOutput, method_json_format, sentence_analysis_json_example, json_structure, taxonomy_example, top_classification_system_message, human_message_prompt
+from prompts.top import (
+    TopClassificationOutput, 
+    method_json_format, 
+    sentence_analysis_json_example, 
+    json_structure, 
+    taxonomy_example, 
+    top_classification_system_message, 
+    human_message_prompt, 
+    ThemeAnalysis, 
+    theme_recognition_json_format, 
+    theme_recognition_system_message,
+)
 
 class AbstractClassifier:
-    def __init__(self, taxonomy, abstracts: List[str]):
+    """
+    AbstractClassifier is a class designed to classify research paper abstracts into a hierarchical taxonomy and process their themes.
+        __init__(self, taxonomy, abstracts: List[str]):
+            Initializes the AbstractClassifier with the given taxonomy and abstracts.
+        _load_env(self):
+            Loads the environment variables.
+        _initialize_chain_manager(self):
+            Initializes and returns a ChainManager instance.
+        create_classification_chain(self):
+            Creates the classification chain for the classifier.
+        create_theme_chain(self):
+            Creates the theme recognition chain for the classifier.
+        classify_abstract(self, abstract: str, abstract_index: int, categories: List[str], level: str, method_json_output, abstract_chain_output, abstract_summary_output, parent_category=None):
+            Classifies a single abstract into the taxonomy at the specified level.
+        process_all_themes(self):
+            Processes the themes of all abstracts.
+        extract_classified_categories(self, classification_output: TopClassificationOutput) -> List[str]:
+            Extracts the classified categories from the classification output.
+        get_json_classification_form(self) -> str:
+            Returns the JSON classification form.
+        classify(self):
+            Classifies all abstracts and processes their themes.
+        _get_json_outputs(self, index):
+            Retrieves the JSON outputs for a given abstract index.
+        save_classification_results(self, output_path: str):
+            Saves the classification results to a file.
+        get_raw_classification_outputs(self):
+            Returns the raw classification outputs.
+        get_raw_theme_results(self):
+            Returns the raw theme results.
+        save_raw_classification_results(self, output_path: str):
+            Saves the raw classification results to a file.
+        save_raw_theme_results(self, output_path: str):
+            Saves the raw theme results to a file.
+    """
+    def __init__(self, taxonomy, abstracts: List[str]):  
         self.logger = logging.getLogger(__name__)
         self.logger.setLevel(logging.DEBUG)
         self.logger.addHandler(logging.StreamHandler())
@@ -16,19 +62,26 @@ class AbstractClassifier:
         self.taxonomy = taxonomy
         self.abstracts = abstracts
         self.logger.info("Initialized taxonomy and abstracts")
-        self.chain_manager = self._initialize_chain_manager()
-        self.logger.info("Initialized ChainManager")
         self.classification_results = {f"abstract_{i}": {} for i in range(len(abstracts))}
         self.logger.info("Initialized classification results")
         self.raw_classification_outputs = []
+        self.raw_theme_outputs = {f"abstract_{i}": {} for i in range(len(abstracts))}
+        self.category_themes = {}
+        self._load_env()
+        self.classification_chain_manager = self._initialize_chain_manager()
+        self.logger.info("Initialized classification chain manager")
+        self.theme_chain_manager = self._initialize_chain_manager()
+        self.logger.info("Initialized theme chain manager")
+        
+    def _load_env(self):
+        return load_dotenv()
 
     def _initialize_chain_manager(self):
-        load_dotenv()
         api_key = os.getenv("OPENAI_API_KEY")
-        return ChainManager(llm_model="gpt-4", api_key=api_key, llm_temperature=0.7)
+        return ChainManager(llm_model="gpt-4o-mini", api_key=api_key, llm_temperature=0.7)
 
     def create_classification_chain(self):
-        self.chain_manager.add_chain_layer(
+        self.classification_chain_manager.add_chain_layer(
             system_prompt=top_classification_system_message,
             human_prompt=human_message_prompt,
             parser_type="pydantic",
@@ -36,7 +89,43 @@ class AbstractClassifier:
             pydantic_output_model=TopClassificationOutput,
             ignore_output_passthrough_key_name_error=True
         )
+        
+    def create_theme_chain(self):
+        self.theme_chain_manager.add_chain_layer(
+            system_prompt=theme_recognition_system_message,
+            human_prompt=human_message_prompt,
+            parser_type="pydantic",
+            return_type="json",
+            pydantic_output_model=ThemeAnalysis,
+            ignore_output_passthrough_key_name_error=True
+        )
+        
+    def get_themes_for_categories(self, categories: List[str]) -> List[str]:
+        themes = set()
+        for category in categories:
+            themes.update(self.category_themes.get(category, []))
+        return list(themes)
+      
+    def update_category_themes(self, categories: List[str], new_themes: List[str]):
+        for category in categories:
+            if category not in self.category_themes:
+                self.category_themes[category] = set()
+            self.category_themes[category].update(new_themes)
+    
+    def get_categories_for_abstract(self, abstract_index: int) -> List[str]:
+        categories = []
+        abstract_result = self.classification_results.get(f"abstract_{abstract_index}", {})
+        
+        def extract_categories(result, prefix=''):
+            for key, value in result.items():
+                full_category = f"{prefix}{key}" if prefix else key
+                categories.append(full_category)
+                if isinstance(value, dict):
+                    extract_categories(value, f"{full_category}/")
 
+        extract_categories(abstract_result)
+        return categories
+    
     def classify_abstract(self, abstract: str, abstract_index: int, categories: List[str], level: str, method_json_output, abstract_chain_output, abstract_summary_output, parent_category=None):
         self.logger.info(f"Classifying abstract at {level} level")
         
@@ -55,7 +144,7 @@ class AbstractClassifier:
         }
         
         try:
-            classification_output = self.chain_manager.run(prompt_variables)
+            classification_output = self.classification_chain_manager.run(prompt_variables)
             self.logger.info(f"Raw classification output: {classification_output}")
             
             if isinstance(classification_output, str):
@@ -97,6 +186,51 @@ class AbstractClassifier:
 
         return result
 
+    def process_all_themes(self):
+        self.logger.info("Processing themes for all abstracts")
+        self.create_theme_chain()
+        for i, abstract in enumerate(self.abstracts):
+            self.logger.info(f"Processing themes for abstract {i+1}")
+            method_json_output, abstract_chain_output, abstract_summary_output = self._get_json_outputs(i)
+            
+            # categories = self.get_categories_for_abstract(i)
+            # existing_themes = self.get_themes_for_categories(categories)
+            
+            prompt_variables = {
+                "abstract": abstract,
+                "methodologies": json.dumps(method_json_output),
+                "abstract_sentence_analysis": json.dumps(abstract_chain_output),
+                "abstract_summary": json.dumps(abstract_summary_output),
+                "categories": json.dumps(self.classification_results[f"abstract_{i}"]),
+                "method_json_format": method_json_format,
+                "sentence_analysis_json_example": sentence_analysis_json_example,
+                "json_structure": json_structure,
+                "theme_recognition_json_format": theme_recognition_json_format
+            }
+            
+            try:
+                theme_output = self.theme_chain_manager.run(prompt_variables)
+                self.logger.info(f"Raw theme output: {theme_output}")
+                
+                theme_output = json.loads(theme_output)
+                
+                self.raw_theme_outputs[f"abstract_{i}"] = theme_output
+                
+                # Extract themes
+                themes = theme_output.get("themes", [])
+                self.classification_results[f"abstract_{i}"]["themes"] = themes
+                
+                # Update category themes
+                # self.update_category_themes(categories, all_themes)
+                
+                self.logger.info(f"Processed themes for abstract {i+1}")
+                
+            except Exception as e:
+                self.logger.error(f"Error during theme processing for abstract {i+1}: {e}")
+                self.logger.error(f"Raw output: {theme_output}")
+
+        self.logger.info("Completed theme processing for all abstracts")
+            
     def extract_classified_categories(self, classification_output: TopClassificationOutput) -> List[str]:
         self.logger.info("Extracting classified categories")
         categories = [cat for classification in classification_output.classifications for cat in classification.categories]
@@ -139,6 +273,8 @@ class AbstractClassifier:
             )
             self.logger.info(f"Completed classification for abstract {i+1}")
             self.logger.info(f"Current classification results: {self.classification_results}")
+        
+        self.process_all_themes()
 
     def _get_json_outputs(self, index):
         self.logger.info(f"Getting JSON outputs for abstract {index}")
@@ -165,6 +301,20 @@ class AbstractClassifier:
         self.logger.info("Getting raw classification outputs")
         return self.raw_classification_outputs
 
+    def get_raw_theme_results(self):
+        self.logger.info("Getting raw theme results")
+        return self.raw_theme_outputs
+    
+    def save_raw_classification_results(self, output_path: str):
+        self.logger.info("Saving classification results")
+        with open(output_path, "w") as f:
+            json.dump(self.raw_classification_outputs, f, indent=4)
+            
+    def save_raw_theme_results(self, output_path: str):
+        self.logger.info("Saving theme results")
+        with open(output_path, "w") as f:
+            json.dump(self.raw_theme_outputs, f, indent=4)
+
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
@@ -178,10 +328,8 @@ if __name__ == "__main__":
         classifier.classify()
         logger.info("Classification completed")
         classifier.save_classification_results("outputs/classification_results.json")
+        classifier.save_raw_theme_results("outputs/theme_results.json")
+        classifier.save_raw_classification_results("outputs/raw_classification_outputs.json")
         logger.info("Classification results saved")
-        raw_classification_outputs = classifier.get_raw_classification_outputs()
-        with open("outputs/raw_classification_outputs.json", "w") as f:
-            json.dump(raw_classification_outputs, f, indent=4)
-        logger.info("Raw classification outputs saved")
     except Exception as e:
         logger.error(f"Error during classification: {e}")
